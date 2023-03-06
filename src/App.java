@@ -10,8 +10,15 @@ import org.openqa.selenium.support.ui.Select;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        System.out.println("Hello, World!");
-        System.setProperty("webdriver.chrome.driver", "E:\\4ai3\\scrapebot\\bin\\chromedriver.exe");
+        String CHROM_DRIVER_WINDOWS = "./chromedriver/chromedriver.exe";
+        String CHROM_DRIVER_MAC_OS = "./chromedriver/chromedriver";
+        String WINDOWS = "WINDOWS";
+
+        System.out.println("App Started.");
+
+        System.setProperty("webdriver.chrome.driver",
+                System.getProperty("os.name").toUpperCase().contains(WINDOWS) ? CHROM_DRIVER_WINDOWS
+                        : CHROM_DRIVER_MAC_OS);
         WebDriver driver = new ChromeDriver();
         driver.get("https://autotrader.ca");
 
