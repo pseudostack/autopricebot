@@ -45,8 +45,21 @@ public class App {
                 Select pageSizSelect = new Select(pageSizElement);
                 // update to 100 items per page
                 pageSizSelect.selectByVisibleText("100");
-                // todo: next page logic
-                // todo: download the data
+                WebElement lastPageLink = driver.findElement(By.className("last-page-link"));
+                // exit the loop when last page is disabled
+                int offset = 0;
+                do {
+                    if (offset != 0) {
+                        String url = driver.getCurrentUrl();
+                        url.replace("rcs=" + offset * 100, "rcs=" + (offset + 1) * 100);
+                        driver.navigate().to(url);
+                        offset++;
+                    }
+
+                    // todo: download the data
+
+                } while (!lastPageLink.getAttribute("class").contains("disabled"));
+
             }
         });
 
