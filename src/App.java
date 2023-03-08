@@ -31,12 +31,6 @@ public class App {
 
         List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
 
-        // iterate through options till list size
-        // for (int j = 0; j < m.size(); j++) {
-        // String make = m.get(j).getText();
-        // System.out.println(make);
-        // }
-
         makeList.forEach(make -> {
             if (!make.equals("Any Make")) {
                 System.out.println(make);
@@ -49,13 +43,21 @@ public class App {
                 // exit the loop when last page is disabled
                 int offset = 0;
                 do {
-                    lastPageLink = driver.findElement(By.className("last-page-link"));
+                    System.out.println("page: " + (offset + 1));
                     if (offset != 0) {
                         String url = driver.getCurrentUrl();
-                        url.replace("rcs=" + offset * 100, "rcs=" + (offset + 1) * 100);
+                        System.out.println(url);
+                        url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
+                        System.out.println(url);
                         driver.navigate().to(url);
-                        offset++;
                     }
+                    offset++;
+                    try {
+                        Thread.sleep(5000);
+                    } catch (InterruptedException e1) {
+                        e1.printStackTrace();
+                    }
+                    lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
                     // todo: download the data
 
@@ -63,12 +65,5 @@ public class App {
             }
         });
 
-        // l.selectByVisibleText("Acura");
-
-        // WebElement postalCode = driver.findElement(By.id("locationAddress"));
-        // postalCode.sendKeys("N2V2Y4");
-
-        // WebElement searchButton = driver.findElement(By.id("SearchButton"));
-        // searchButton.click();
     }
 }
