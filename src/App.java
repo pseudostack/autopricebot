@@ -83,14 +83,17 @@ public class App {
                     List<WebElement> vehicleList = driver.findElements(By.className("result-item-inner"));
                     vehicleList.forEach(vehicle -> {
                         String[] detailWards = vehicle.findElement(By.className("listing-details")).getText()
-                                .split(" ");
+                                .replace("\n", " ").split(" ");
                         String year = detailWards[0];
                         String model = detailWards[2];
-                        String mileage = vehicle.findElement(By.className("kms")).getText().split(" ")[1].replace(",",
+                        WebElement mileageElement = vehicle.findElement(By.className("kms"));
+                        if (mileageElement == null) {
+                            return;
+                        }
+                        String mileage = mileageElement.getText().split(" ")[1].replace(",",
                                 "");
                         String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "")
-                                .replace(",",
-                                        "");
+                                .replace(",", "");
 
                         String csvEntry = String.join(",", year, make, model, mileage, price) + "\n";
 
