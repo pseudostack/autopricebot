@@ -39,20 +39,6 @@ public class App {
                 System.out.println(make);
                 driver.navigate().to("https://autotrader.ca/cars/" + make + "/on");
 
-                driver.findElement(By.id("faceted-parent-Model")).click();
-                // may ask location
-                WebElement locationElement = driver.findElement(By.id("rfLocation"));
-                // check location filter closed or expended
-                if (locationElement.getAttribute("style").contains("top: unset")) {
-                    WebElement locationTextbox = driver.findElement(By.id("locationAddress"));
-                    locationTextbox.sendKeys("N2V2Y4");
-                    driver.findElement(By.id("applyLocation")).click();
-                    driver.findElement(By.id("faceted-parent-Model")).click();
-                }
-                System.out.println("-" + model);
-
-                driver.navigate().to("https://autotrader.ca/cars/" + make + "/" + model + "/on");
-
                 WebElement pageSizElement = driver.findElement(By.id("pageSize"));
                 Select pageSizSelect = new Select(pageSizElement);
                 // update to 100 items per page
@@ -61,7 +47,7 @@ public class App {
                 // exit the loop when last page is disabled
                 int offset = 0;
                 do {
-                    System.out.println("--page: " + (offset + 1));
+                    System.out.println("-page: " + (offset + 1));
                     if (offset != 0) {
                         String url = driver.getCurrentUrl();
                         url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
@@ -76,7 +62,18 @@ public class App {
                     }
                     lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
-                    // todo: download the data
+                    // download the data
+                    List<WebElement> vehicleList = driver.findElements(By.className("result-item-inner"));
+                    vehicleList.forEach(vehicle -> {
+                        String[] detailWards = vehicle.findElement(By.className("listing-details")).getText()
+                                .split(" ");
+                        String year = detailWards[0];
+                        String model = detailWards[2];
+                        String mileage = vehicle.findElement(By.className("kms")).getText().split(" ")[1];
+                        String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "");
+
+                        System.out.println("---" + String.join(" ", year, make, model, mileage, price));
+                    });
 
                 } while (!lastPageLink.getAttribute("class").contains("disabled"));
 
