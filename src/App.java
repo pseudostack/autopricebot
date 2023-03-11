@@ -113,5 +113,6 @@ public class App {
 
         fileWriter.close();
         driver.quit();
+        System.out.println("Done.");
     }
 }
