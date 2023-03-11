@@ -49,47 +49,36 @@ public class App {
                     driver.findElement(By.id("applyLocation")).click();
                     driver.findElement(By.id("faceted-parent-Model")).click();
                 }
-                try {
-                    Thread.sleep(5000);
-                } catch (InterruptedException e1) {
-                    e1.printStackTrace();
-                }
-                List<WebElement> modelElementList = driver.findElement(By.id("rfModel")).findElements(By.tagName("li"));
-                List<String> modelList = modelElementList.stream()
-                        .map(modelElement -> modelElement.getAttribute("data-dropdownvalue"))
-                        .collect(Collectors.toList());
+                System.out.println("-" + model);
 
-                modelList.forEach(model -> {
-                    System.out.println("-" + model);
+                driver.navigate().to("https://autotrader.ca/cars/" + make + "/" + model + "/on");
 
-                    driver.navigate().to("https://autotrader.ca/cars/" + make + "/" + model + "/on");
+                WebElement pageSizElement = driver.findElement(By.id("pageSize"));
+                Select pageSizSelect = new Select(pageSizElement);
+                // update to 100 items per page
+                pageSizSelect.selectByVisibleText("100");
+                WebElement lastPageLink;
+                // exit the loop when last page is disabled
+                int offset = 0;
+                do {
+                    System.out.println("--page: " + (offset + 1));
+                    if (offset != 0) {
+                        String url = driver.getCurrentUrl();
+                        url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
+                        driver.navigate().to(url);
+                    }
+                    offset++;
+                    // breath
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException e1) {
+                        e1.printStackTrace();
+                    }
+                    lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
-                    WebElement pageSizElement = driver.findElement(By.id("pageSize"));
-                    Select pageSizSelect = new Select(pageSizElement);
-                    // update to 100 items per page
-                    pageSizSelect.selectByVisibleText("100");
-                    WebElement lastPageLink;
-                    // exit the loop when last page is disabled
-                    int offset = 0;
-                    do {
-                        System.out.println("--page: " + (offset + 1));
-                        if (offset != 0) {
-                            String url = driver.getCurrentUrl();
-                            url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
-                            driver.navigate().to(url);
-                        }
-                        offset++;
-                        try {
-                            Thread.sleep(5000);
-                        } catch (InterruptedException e1) {
-                            e1.printStackTrace();
-                        }
-                        lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
+                    // todo: download the data
 
-                        // todo: download the data
-
-                    } while (!lastPageLink.getAttribute("class").contains("disabled"));
-                });
+                } while (!lastPageLink.getAttribute("class").contains("disabled"));
 
             }
         });
