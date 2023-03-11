@@ -86,11 +86,11 @@ public class App {
                                 .replace("\n", " ").split(" ");
                         String year = detailWards[0];
                         String model = detailWards[2];
-                        WebElement mileageElement = vehicle.findElement(By.className("kms"));
-                        if (mileageElement == null) {
+                        List<WebElement> mileageElements = vehicle.findElements(By.className("kms"));
+                        if (mileageElements.isEmpty()) {
                             return;
                         }
-                        String mileage = mileageElement.getText().split(" ")[1].replace(",",
+                        String mileage = mileageElements.get(0).getText().split(" ")[1].replace(",",
                                 "");
                         String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "")
                                 .replace(",", "");
