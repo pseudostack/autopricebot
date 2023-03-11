@@ -1,4 +1,7 @@
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -34,6 +37,11 @@ public class App {
 
         List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
 
+        File csvFile = new File("vehicle_listing_" + java.time.LocalDateTime.now() + ".csv");
+        FileWriter fileWriter = new FileWriter(csvFile);
+        // header
+        fileWriter.write("Year,Make,Model,Mileage,Price\n");
+
         makeList.forEach(make -> {
             if (!make.equals("Any Make")) {
                 System.out.println(make);
@@ -54,12 +62,21 @@ public class App {
                         driver.navigate().to(url);
                     }
                     offset++;
-                    // breath
+
+                    // wait to load full page
                     try {
                         Thread.sleep(3000);
                     } catch (InterruptedException e1) {
                         e1.printStackTrace();
                     }
+
+                    // save to csv file
+                    try {
+                        fileWriter.flush();
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    }
+
                     lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
                     // download the data
@@ -69,10 +86,21 @@ public class App {
                                 .split(" ");
                         String year = detailWards[0];
                         String model = detailWards[2];
-                        String mileage = vehicle.findElement(By.className("kms")).getText().split(" ")[1];
-                        String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "");
+                        String mileage = vehicle.findElement(By.className("kms")).getText().split(" ")[1].replace(",",
+                                "");
+                        String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "")
+                                .replace(",",
+                                        "");
 
-                        System.out.println("---" + String.join(" ", year, make, model, mileage, price));
+                        String csvEntry = String.join(",", year, make, model, mileage, price) + "\n";
+
+                        try {
+                            fileWriter.write(csvEntry);
+                        } catch (IOException e1) {
+                            e1.printStackTrace();
+                        }
+
+                        System.out.println("---" + csvEntry);
                     });
 
                 } while (!lastPageLink.getAttribute("class").contains("disabled"));
@@ -80,6 +108,7 @@ public class App {
             }
         });
 
+        fileWriter.close();
         driver.quit();
     }
 }
