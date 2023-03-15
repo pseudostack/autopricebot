@@ -152,6 +152,7 @@ public class App {
 
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--remote-allow-origins=*");
+        chromeOptions.addArguments("--window-position=-32000,-32000");
         WebDriver driver = new ChromeDriver(chromeOptions);
 
         driver.get("https://autotrader.ca");
@@ -161,6 +162,8 @@ public class App {
         List<WebElement> m = l.getOptions();
 
         List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
+
+        makeList.remove(makeList.indexOf("Acura"));
 
         makeList.forEach(make -> extracted(chromeOptions, driver, make));
 
@@ -219,12 +222,6 @@ public class App {
                         e1.printStackTrace();
                     }
 
-                    // save to csv file
-                    try {
-                        fileWriter.flush();
-                    } catch (IOException e1) {
-                        e1.printStackTrace();
-                    }
                     lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
                     // download the data
@@ -248,19 +245,6 @@ public class App {
 
                         String[] vehicleSpecs = pullVehicleSpecs(vehicleDriver);
 
-                        // System.out.println(vehicleSpecs[0]);
-                        // System.out.println(vehicleSpecs[1]);
-                        // System.out.println(vehicleSpecs[2]);
-                        // System.out.println(vehicleSpecs[3]);
-                        // System.out.println(vehicleSpecs[4]);
-                        // System.out.println(vehicleSpecs[5]);
-                        // System.out.println(vehicleSpecs[6]);
-                        // System.out.println(vehicleSpecs[7]);
-                        // System.out.println(vehicleSpecs[8]);
-                        // System.out.println(vehicleSpecs[9]);
-                        // System.out.println(vehicleSpecs[10]);
-                        // System.out.println(vehicleSpecs[11]);
-
                         String csvEntry = String.join(",", year, make, model, vehicleSpecs[0], vehicleSpecs[1],
                                 vehicleSpecs[2], vehicleSpecs[3],
                                 vehicleSpecs[4], vehicleSpecs[5], vehicleSpecs[6], vehicleSpecs[7], vehicleSpecs[8],
@@ -273,18 +257,19 @@ public class App {
                             e1.printStackTrace();
                         }
 
-                        System.out.println("---" + csvEntry);
+                        System.out.println("--->" + csvEntry);
                         vehicleDriver.close();
+                        vehicleDriver.quit();
 
                     });
 
-                    fileWriter.close();
-
                 } while (!lastPageLink.getAttribute("class").contains("disabled"));
+                fileWriter.close();
             } catch (IOException e1) {
                 e1.printStackTrace();
             }
 
         }
+
     }
 }

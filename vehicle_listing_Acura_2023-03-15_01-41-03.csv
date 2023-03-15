@@ -1,0 +1,5 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2019,Acura,MDX,53052 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,12.2L/100km,9.0L - 9.5L/100km,43880
+2019,Acura,MDX,76885 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,12.2L/100km,9.0L - 9.5L/100km,37495
+2020,Acura,RDX,96233 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,40888
+2020,Acura,MDX,53960 km,SUV,V6 Cylinder Engine,Automatic,AWD,Modern Steel Metallic,Red,7,4,Gas,12.2L/100km,9.5L/100km,40990

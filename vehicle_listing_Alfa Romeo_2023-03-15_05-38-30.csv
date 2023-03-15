@@ -1,0 +1,96 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2016,Alfa Romeo,Romeo,45000 km,Wagon,null,6 Speed Automatic,null,Black,Beige,null,null,null,null,null,26002
+2018,Alfa Romeo,Romeo,82707 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White,Red,5,4,Gas,10.8L/100km,8.3L/100km,32857
+2018,Alfa Romeo,Romeo,48000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Monza Red Metallic,Red,5,4,Gas,10.5L/100km,7.7L/100km,36999
+2018,Alfa Romeo,Romeo,15698 km,Roadster,1.7L 4cyl,6 Speed Automatic with auto-shift,RWD,Giallo Prototipo,Black,2,2,Premium Unleaded,null,null,69888
+2016,Alfa Romeo,Romeo,45000 km,Wagon,null,6 Speed Automatic,null,Black,Beige,null,null,null,null,null,26002
+2017,Alfa Romeo,Romeo,113000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,10.5L/100km,7.7L/100km,25500
+2018,Alfa Romeo,Romeo,123112 km,SUV,4 Cylinder Engine,Automatic,AWD,Montecarlo Blue Metallic,Black,5,4,Gas,10.8L/100km,8.3L/100km,26485
+2018,Alfa Romeo,Romeo,113051 km,SUV,4 Cylinder Engine,Automatic,AWD,Vulcano Black Metallic,Black,5,null,Gas,10.8L/100km,8.3L/100km,29998
+2018,Alfa Romeo,Romeo,82707 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White,Red,5,4,Gas,10.8L/100km,8.3L/100km,32857
+2018,Alfa Romeo,Romeo,97000 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Red,5,4,Gas,10.8L/100km,8.3L/100km,34777
+2018,Alfa Romeo,Romeo,66788 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Brown,null,4,Gas,10.8L/100km,8.3L/100km,35995
+2018,Alfa Romeo,Romeo,44845 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Black,5,4,Gas,10.8L/100km,8.3L/100km,36495
+2018,Alfa Romeo,Romeo,48000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Monza Red Metallic,Red,5,4,Gas,10.5L/100km,7.7L/100km,36999
+2022,Alfa Romeo,Romeo,4496 km,Sedan,I4,8 Speed Automatic,AWD,Vulcano Black Metallic,Red,null,null,Gas,10.5L/100km,7.7L/100km,57999
+2018,Alfa Romeo,Romeo,39521 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,39888
+2019,Alfa Romeo,Romeo,44362 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,41888
+2020,Alfa Romeo,Romeo,35628 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Alfa Rosso,null,null,4,Gas,10.8L/100km,8.3L/100km,50058
+2022,Alfa Romeo,Romeo,8796 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,53888
+2022,Alfa Romeo,Romeo,5496 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,null,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,57888
+2023,Alfa Romeo,Romeo,3682 km,Sedan,4 Cylinder Engine,Automatic,AWD,Alfa White,null,null,null,Gas,10.5L/100km,7.7L/100km,62900
+2018,Alfa Romeo,Romeo,15698 km,Roadster,1.7L 4cyl,6 Speed Automatic with auto-shift,RWD,Giallo Prototipo,Black,2,2,Premium Unleaded,null,null,69888
+2020,Alfa Romeo,Romeo,24965 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,13.8L/100km,10.2L/100km,87888
+2022,Alfa Romeo,Romeo,9015 km,Sedan,2.9L 6cyl,8 Speed Automatic,RWD,Verde Montreal,Black,5,2,Premium Unleaded,13.5L/100km,9.3L/100km,93888
+2022,Alfa Romeo,Romeo,14137 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Anodized Blue Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,52888
+2022,Alfa Romeo,Romeo,9856 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Misano Blue Metallic,Black,5,2,Premium Unleaded,13.9L/100km,10.3L/100km,93888
+2021,Alfa Romeo,Romeo,18254 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Dark Grey,Black,5,2,Premium Unleaded,13.9L/100km,10.3L/100km,93888
+2021,Alfa Romeo,Romeo,10963 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Red,Black,5,4,Gas,10.5L/100km,7.7L/100km,57995
+2022,Alfa Romeo,Romeo,5632 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,null,2,Premium Unleaded,10.8L/100km,8.3L/100km,54888
+2022,Alfa Romeo,Romeo,6290 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Grey,Black,null,2,Premium Unleaded,10.8L/100km,8.3L/100km,58888
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,61911
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,61911
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,65821
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,65921
+2020,Alfa Romeo,Romeo,31000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Alfa Rosso,null,null,null,Gas,10.5L/100km,7.7L/100km,51888
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,65921
+2022,Alfa Romeo,Romeo,90 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,null,null,null,2,Premium Unleaded,10.5L/100km,7.7L/100km,68316
+2022,Alfa Romeo,Romeo,90 km,Sedan,2.0L 4cyl,7 Speed Automatic with auto-shift,AWD,Ocra GT Junior,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68621
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Ocra GT Junior,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68621
+2022,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Green,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,74621
+2022,Alfa Romeo,Romeo,90 km,Sedan,2.9L 6cyl,8 Speed Automatic,RWD,Ocra GT Junior,Black,5,2,Premium Unleaded,13.5L/100km,9.3L/100km,99888
+2023,Alfa Romeo,Romeo,95 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,null,Black,null,2,Premium Unleaded,13.9L/100km,10.3L/100km,113801
+2023,Alfa Romeo,Romeo,90 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,null,null,null,2,Premium Unleaded,13.9L/100km,10.3L/100km,118007
+2023,Alfa Romeo,Romeo,90 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,null,null,null,2,Premium Unleaded,13.9L/100km,10.3L/100km,118007
+2018,Alfa Romeo,Romeo,49645 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Montecarlo Blue Metallic,Black,null,2,Premium Unleaded,10.8L/100km,8.3L/100km,31999
+2023,Alfa Romeo,Romeo,90 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,63291
+2023,Alfa Romeo,Romeo,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,63896
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,67208
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,67901
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,67903
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,67903
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68106
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68108
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68108
+2022,Alfa Romeo,Romeo,7701 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa White,Red,5,4,Gas,10.8L/100km,8.3L/100km,60888
+2022,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Misano Blue Metallic,null,5,4,Gas,10.5L/100km,7.7L/100km,68204
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,68803
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.5L/100km,7.7L/100km,69099
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Rosso GTA,null,5,4,Gas,10.5L/100km,7.7L/100km,69204
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Rosso GTA,null,5,4,Gas,10.5L/100km,7.7L/100km,69204
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Rosso GTA,null,5,4,Gas,10.5L/100km,7.7L/100km,69204
+2023,Alfa Romeo,Romeo,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Grey,Tan,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,69875
+2023,Alfa Romeo,Romeo,90 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,70706
+2023,Alfa Romeo,Romeo,95 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Alfa Rosso,Black,5,2,Premium Unleaded,10.5L/100km,7.7L/100km,70706
+2021,Alfa Romeo,Romeo,16308 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa White,null,5,4,Gas,10.8L/100km,8.3L/100km,49888
+2023,Alfa Romeo,Romeo,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Red,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,70805
+2023,Alfa Romeo,Romeo,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Alfa White,Red,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,70808
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa Rosso,null,5,4,Gas,10.5L/100km,7.7L/100km,71004
+2023,Alfa Romeo,Romeo,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,71010
+2023,Alfa Romeo,Romeo,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,5,2,Premium Unleaded,10.8L/100km,8.3L/100km,71010
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa White,null,5,4,Gas,10.8L/100km,8.3L/100km,71099
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa White,null,5,4,Gas,10.8L/100km,8.3L/100km,71099
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Alfa White,null,5,4,Gas,10.8L/100km,8.3L/100km,71099
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Misano Blue Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71304
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,PHS ROSSO ENTA,null,5,4,Gas,10.8L/100km,8.3L/100km,71864
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71999
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71999
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71999
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71999
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Vulcano Black Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,71999
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,PHS ROSSO ENTA,null,5,4,Gas,10.8L/100km,8.3L/100km,72104
+2023,Alfa Romeo,Romeo,65 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,PHS ROSSO ENTA,null,5,4,Gas,10.8L/100km,8.3L/100km,72104
+2023,Alfa Romeo,Romeo,65 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,VERDE MONTREAL,null,5,4,Gas,10.5L/100km,7.7L/100km,73504
+2023,Alfa Romeo,Romeo,90 km,Sedan,2.9L 6cyl,8 Speed Automatic,RWD,null,Black,null,2,Premium Unleaded,13.5L/100km,9.3L/100km,105821
+2023,Alfa Romeo,Romeo,90 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,13.9L/100km,10.3L/100km,107001
+2023,Alfa Romeo,Romeo,90 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Red,Black,5,2,Premium Unleaded,13.9L/100km,10.3L/100km,110501
+2023,Alfa Romeo,Romeo,90 km,SUV,2.9L 6cyl,8 Speed Automatic,AWD,Vulcano Black Metallic,Black,null,2,Premium Unleaded,13.9L/100km,10.3L/100km,111641
+2023,Alfa Romeo,Romeo,65 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Misano Blue Metallic,null,5,4,Gas,13.9L/100km,10.3L/100km,111999
+1982,Alfa Romeo,Romeo,154567 km,Convertible,4 cylinder engine,Manual,RWD,Cream,Tan,2,2,Gas,null,null,19900
+1986,Alfa Romeo,Romeo,77225 km,Convertible,4 Cylinder Engine,5 Speed Manual,null,Black,Beige,2,2,Gas,null,null,19995
+1992,Alfa Romeo,Romeo,85261 km,Convertible,Four-cylinder DOHC engine,5 Speed Manual,RWD,Black,Tan,2,2,Gas,null,null,22900
+2017,Alfa Romeo,Romeo,97000 km,Sedan,2,Automatic,AWD,Black,Red,5,null,Gas,10.5L/100km,7.7L/100km,27995
+2018,Alfa Romeo,Romeo,69000 km,SUV,2,Automatic,AWD,Alfa Rosso,Black,5,null,Gas,10.8L/100km,8.3L/100km,28995
+2018,Alfa Romeo,Romeo,91400 km,SUV,2.0,Automatic,AWD,Alfa Rosso,Red,null,4,Gas,10.8L/100km,8.3L/100km,28995
+2007,Alfa Romeo,Romeo,139269 km,Convertible,2.2L L4 DOHC 16V,6 Speed Manual,FWD,Gold,Red,2,2,Gas,null,null,35000
+2019,Alfa Romeo,Romeo,50000 km,SUV,4 Cylinder,Automatic,AWD,Red,Black,5,4,Gas,10.8L/100km,8.3L/100km,42880

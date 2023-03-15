@@ -1,0 +1,441 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2019,Acura,MDX,53052 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,12.2L/100km,9.0L - 9.5L/100km,43880
+2018,Acura,MDX,77127 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Modern Steel Metallic,Black,null,null,Gas,12.6L/100km,9.0L/100km,36486
+2019,Acura,RDX,33032 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,White Diamond Pearl,Black,5,4,Premium Unleaded,11.0L/100km,8.6L/100km,40888
+2020,Acura,RDX,50702 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,Black,null,null,Gas,11.0L/100km,8.6L/100km,44599
+2021,Acura,RDX,67950 km,SUV,4 Cylinder Engine,null,AWD,Apex Blue Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,46989
+2022,Acura,MDX,31000 km,SUV,3.5L,Automatic,AWD,Majestic Black Pearl,Red,7,4,Gas,12.6L/100km,9.4L/100km,60899
+2020,Acura,RDX,27800 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,49099
+2019,Acura,TLX,34396 km,Sedan,3.5L 6cyl,9 Speed Automatic,AWD,Crystal Black Pearl,Tan,5,4,Premium Unleaded,11.4L/100km,7.7L/100km,36499
+2020,Acura,RDX,60892 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,38495
+2009,Acura,TSX,123535 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Silver,Black,5,4,Gas,10.5L/100km,7.0L/100km,11500
+2015,Acura,TLX,192552 km,Sedan,4 Cylinder Engine,Automatic,FWD,Bellanova White Pearl,Black,5,null,Gas,9.6L/100km,6.6L/100km,14888
+2015,Acura,TLX,163537 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Dark Blue,Black,5,4,Gas,11.2L/100km,7.5L/100km,14971
+2016,Acura,RDX,179301 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,12.4L/100km,8.6L/100km,16399
+2020,Acura,MDX,65684 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,12.3L/100km,9.2L/100km,40995
+2017,Acura,RDX,211000 km,SUV,6 Cylinder,Automatic,AWD,Lunar Silver Metallic,Black,5,4,Gas,12.4L/100km,8.7L/100km,18999
+2016,Acura,ILX,104368 km,Sedan,2.4L 4 Cylinder Engine,Automatic,FWD,Black,Black,5,4,Gas,9.3L/100km,6.6L/100km,20295
+2015,Acura,MDX,205000 km,SUV,6 Cylinder,Automatic,AWD,Alabaster Silver Metallic,Black,7,4,Gas,null,null,20885
+2017,Acura,RDX,166813 km,SUV,V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Black,5,null,Gas,12.4L/100km,8.7L/100km,20950
+2016,Acura,MDX,207000 km,SUV,6 Cylinder,Automatic,AWD,Lunar Silver Metallic,Black,7,4,Gas,12.7L/100km,9.1L/100km,20995
+2017,Acura,ILX,95000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,San Marino Red,Black,5,4,Gas,9.4L/100km,6.8L/100km,21950
+2019,Acura,ILX,66208 km,Sedan,4 Cylinder Engine,Automatic,FWD,Lunar Silver Metallic,Black,5,4,Gas,9.9L/100km,7.0L/100km,22890
+2016,Acura,MDX,174000 km,SUV,3.5,Automatic,AWD,White Diamond Pearl,Black,7,4,Gas,12.7L/100km,9.1L/100km,22990
+2017,Acura,MDX,158248 km,SUV,V6 Cylinder Engine,Automatic,AWD,Modern Steel Metallic,Black,7,null,Gas,12.6L/100km,9.0L/100km,25888
+2019,Acura,TLX,43150 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Platinum White Pearl,null,null,4,Gas,10.2L/100km,7.4L/100km,33495
+2016,Acura,MDX,89542 km,SUV,3.5L 6cyl,9 Speed Automatic,AWD,Black,Black,5,4,Premium Unleaded,12.7L/100km,9.1L/100km,28000
+2019,Acura,TLX,92276 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Obsidian Blue Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,28295
+2018,Acura,RDX,104000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,12.4L/100km,8.7L/100km,28450
+2019,Acura,TLX,58610 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Crystal Black Pearl,null,null,4,Gas,10.0L/100km,7.1L/100km,28495
+2017,Acura,RDX,71960 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Lunar Silver Metallic,null,5,4,Gas,12.4L/100km,8.7L/100km,28990
+2018,Acura,RDX,98175 km,SUV,V6 Cylinder Engine,Automatic,AWD,Obsidian Blue Pearl,null,null,null,Gas,12.4L/100km,8.7L/100km,29800
+2019,Acura,TLX,89000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Platinum White Pearl,null,5,4,Gas,10.0L/100km,7.1L/100km,29850
+2020,Acura,ILX,36253 km,Sedan,Premium Unleaded I-4 2.4 L/144,Automatic,FWD,Majestic Black Pearl,Black,5,4,Gas,9.9L/100km,7.0L/100km,29998
+2019,Acura,TLX,62000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Platinum White Pearl,Black,5,4,Gas,10.0L/100km,7.1L/100km,30950
+2020,Acura,TLX,52337 km,Sedan,V-6 cyl,9 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,12.0L/100km,8.2L/100km,39799
+2018,Acura,RDX,69806 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,White Diamond Pearl,Black,null,2,Premium Unleaded,12.4L/100km,8.7L/100km,31249
+2019,Acura,TLX,119000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Black,5,4,Gas,11.4L - 12.0L/100km,7.7L - 8.2L/100km,31450
+2019,Acura,ILX,48752 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Platinum White Pearl,null,null,4,Gas,9.9L/100km,7.0L/100km,31495
+2019,Acura,TLX,53420 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,11.4L/100km,7.7L/100km,31495
+2020,Acura,TLX,134000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,11.4L - 12.0L/100km,7.7L - 8.2L/100km,32450
+2019,Acura,TLX,27630 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,32495
+2019,Acura,TLX,82000 km,Sedan,3.5L V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Red,5,4,Gas,12.0L/100km,8.2L/100km,32950
+2019,Acura,TLX,29012 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,11.4L/100km,7.7L/100km,33295
+2019,Acura,TLX,23216 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,33295
+2020,Acura,RDX,39100 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Platinum White Pearl,null,5,4,Gas,11.3L/100km,9.1L/100km,44988
+2017,Acura,MDX,65522 km,SUV,V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Black,7,4,Gas,12.6L/100km,9.0L/100km,33390
+2019,Acura,TLX,43150 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Platinum White Pearl,null,null,4,Gas,10.2L/100km,7.4L/100km,33495
+2017,Acura,MDX,97000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Grey,7,4,Gas,12.6L/100km,9.0L/100km,33777
+2019,Acura,MDX,116802 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Majestic Black Pearl,Black,null,4,Gas,12.2L/100km,9.0L/100km,33795
+2019,Acura,TLX,38069 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Crystal Black Pearl,Black,5,4,Gas,11.4L/100km,7.7L/100km,33888
+2017,Acura,MDX,91412 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,null,null,Gas,12.6L/100km,9.0L/100km,33994
+2019,Acura,RDX,114612 km,SUV,4 Cylinder Engine,Automatic,AWD,Performance Red Pearl,Black,5,4,Gas,11.3L/100km,9.1L/100km,34390
+2018,Acura,MDX,118800 km,SUV,3.5,Automatic,AWD,Crystal Black Pearl,Brown,null,4,Gas,12.6L/100km,9.0L/100km,34488
+2018,Acura,MDX,82000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Brown,7,4,Gas,12.6L/100km,9.0L/100km,34777
+2017,Acura,MDX,91412 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,null,null,Gas,12.6L/100km,9.0L/100km,33994
+2019,Acura,MDX,141120 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic Black Pearl,Black,7,null,Gas,12.2L/100km,9.0L - 9.5L/100km,34880
+2018,Acura,MDX,98000 km,SUV,V6 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Black,7,4,Gas,12.6L/100km,9.0L/100km,34950
+2018,Acura,RLX,115527 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Grey,5,null,Gas,8.4L/100km,8.2L/100km,34998
+2019,Acura,MDX,102000 km,SUV,3.5,Automatic,AWD,Majestic Black Pearl,Black,7,4,Gas,12.2L/100km,9.0L/100km,35480
+2019,Acura,RDX,102000 km,SUV,4 Cylinder Engine,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,35850
+2019,Acura,RDX,79032 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White Diamond Pearl,Cream,5,4,Gas,11.0L/100km,8.6L/100km,35990
+2021,Acura,ILX,9209 km,Sedan,I-4 cyl,8 Speed Automatic with auto-shift,FWD,Platinum White Pearl,Red,null,null,Gas,9.8L/100km,6.9L/100km,35995
+2019,Acura,MDX,78702 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Performance Red Pearl,Black,null,4,Gas,12.2L/100km,9.0L - 9.5L/100km,35995
+2018,Acura,MDX,77127 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Modern Steel Metallic,Black,null,null,Gas,12.6L/100km,9.0L/100km,36486
+2018,Acura,MDX,94862 km,SUV,6,Automatic,AWD,Crystal Black Pearl,null,7,4,Gas,12.6L/100km,9.0L/100km,34743
+2019,Acura,RDX,75420 km,SUV,2.0L 4 Cylinder Engine,Automatic,AWD,Lunar Silver Metallic,Black,5,4,Gas,11.0L/100km,8.6L/100km,36995
+2020,Acura,RDX,65795 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Majestic Black Pearl,Black,null,4,Gas,11.0L/100km,8.6L/100km,37495
+2019,Acura,MDX,76885 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,12.2L/100km,9.0L - 9.5L/100km,37495
+2019,Acura,RDX,68263 km,SUV,4 Cylinder Engine,null,AWD,White Diamond Pearl,Black,null,null,Gas,11.0L/100km,8.6L/100km,37498
+2019,Acura,MDX,79344 km,SUV,3.5L 6cyl,9 Speed Automatic,AWD,Majestic Black Pearl,Black,7,null,Gas,12.2L/100km,9.0L - 9.5L/100km,37888
+2019,Acura,RDX,75786 km,SUV,I-4 cyl,10 Speed Automatic,AWD,White Diamond Pearl,null,null,null,Gas,11.3L/100km,9.1L/100km,38388
+2019,Acura,RDX,61006 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Apex Blue Pearl,Black,null,null,Gas,11.3L/100km,9.1L/100km,39088
+2020,Acura,RDX,48759 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,Black,null,4,Gas,11.0L/100km,8.6L/100km,39295
+2020,Acura,RDX,88483 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,9.1L/100km,39588
+2018,Acura,ILX,33810 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Lunar Silver Metallic,null,5,4,Gas,9.4L/100km,6.8L/100km,26988
+2020,Acura,TLX,52337 km,Sedan,V-6 cyl,9 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,12.0L/100km,8.2L/100km,39799
+2020,Acura,RDX,99000 km,SUV,4 Cylinder Engine,Automatic,AWD,Platinum White Pearl,Black,5,4,Gas,11.3L/100km,9.1L/100km,39850
+2020,Acura,RDX,83981 km,SUV,4 Cylinder Engine,null,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,9.1L/100km,39890
+2019,Acura,MDX,78000 km,SUV,6 Cylinder,Automatic,AWD,Majestic Black Pearl,Black,7,4,Gas,12.2L/100km,9.0L/100km,39995
+2019,Acura,MDX,67208 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,White Diamond Pearl,Black,null,4,Gas,12.2L/100km,9.0L/100km,40495
+2020,Acura,RDX,96233 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,40888
+2019,Acura,RDX,33032 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,White Diamond Pearl,Black,5,4,Premium Unleaded,11.0L/100km,8.6L/100km,40888
+2020,Acura,MDX,53960 km,SUV,V6 Cylinder Engine,Automatic,AWD,Modern Steel Metallic,Red,7,4,Gas,12.2L/100km,9.5L/100km,40990
+2020,Acura,MDX,65684 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,12.3L/100km,9.2L/100km,40995
+2020,Acura,RDX,59380 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,null,null,null,Gas,11.0L/100km,8.6L/100km,42994
+2021,Acura,TLX,38897 km,Sedan,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Fathomless Black Pearl,Cream,5,4,Gas,11.2L/100km,8.0L/100km,41394
+2020,Acura,RDX,35473 km,SUV,4 Cylinder Engine,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,11.3L/100km,9.1L/100km,41990
+2020,Acura,RDX,56139 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Platinum White Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,42588
+2020,Acura,RDX,48368 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Platinum White Pearl,Brown,null,null,Gas,11.0L/100km,8.6L/100km,42588
+2020,Acura,RDX,44502 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Majestic Black Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,42599
+2019,Acura,MDX,65060 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,White Diamond Pearl,Red,7,4,Gas,12.2L/100km,9.0L - 9.5L/100km,42888
+2020,Acura,TLX,12980 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Platinum White Pearl,Red,5,4,Gas,11.4L - 12.0L/100km,7.7L - 8.2L/100km,42888
+2020,Acura,RDX,42017 km,SUV,4 Cylinder Engine,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,42990
+2020,Acura,RDX,59380 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,null,null,null,Gas,11.0L/100km,8.6L/100km,42994
+2021,Acura,RDX,58742 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,43495
+2021,Acura,RDX,58742 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,43495
+2020,Acura,MDX,80754 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Modern Steel Metallic,null,null,4,Gas,12.2L/100km,9.5L/100km,43770
+2019,Acura,MDX,53052 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,12.2L/100km,9.0L - 9.5L/100km,43880
+2020,Acura,MDX,57590 km,SUV,V-6 cyl,9 Speed Automatic,AWD,Lunar Silver Metallic,null,null,null,Premium Unleaded,12.2L/100km,9.5L/100km,43997
+2021,Acura,RDX,44337 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,11.3L/100km,9.1L/100km,44295
+2020,Acura,RDX,50702 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,Black,null,null,Gas,11.0L/100km,8.6L/100km,44599
+2021,Acura,TLX,21448 km,Sedan,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,Brown,null,4,Gas,11.2L/100km,8.0L/100km,44995
+2021,Acura,RDX,32479 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,null,null,4,Gas,11.3L/100km,9.1L/100km,45295
+2020,Acura,RDX,25873 km,SUV,I-4 cyl,Automatic,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,9.1L/100km,45995
+2021,Acura,RDX,32479 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,null,null,4,Gas,11.3L/100km,9.1L/100km,45295
+2021,Acura,RDX,67950 km,SUV,4 Cylinder Engine,null,AWD,Apex Blue Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,46989
+2021,Acura,TLX,29704 km,Sedan,2.0L 4cyl,10 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,11.2L/100km,8.0L/100km,47099
+2021,Acura,RDX,33413 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,47588
+2022,Acura,TLX,12209 km,Sedan,I-4 cyl,10 Speed Automatic,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,8.1L/100km,50188
+2022,Acura,RDX,29776 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,52795
+2021,Acura,TLX,29841 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Platinum White Pearl,Red,null,4,Gas,12.3L/100km,9.8L/100km,55995
+2022,Acura,MDX,31000 km,SUV,3.5L,Automatic,AWD,Majestic Black Pearl,Red,7,4,Gas,12.6L/100km,9.4L/100km,60899
+2022,Acura,MDX,32865 km,SUV,V6 Cylinder Engine,null,AWD,Lunar Silver Metallic,Black,null,null,Gas,12.6L/100km,9.4L/100km,62599
+2013,Acura,RDX,267187 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,White,Black,null,4,Gas,9.8L/100km,6.2L/100km,10795
+2019,Acura,MDX,53052 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,12.2L/100km,9.0L - 9.5L/100km,43880
+2014,Acura,RDX,209511 km,SUV,V-6 cyl,6 Speed Automatic,AWD,Crystal Black Pearl,Black,null,null,Gas,10.7L/100km,7.3L/100km,13588
+2011,Acura,MDX,161202 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aspen White Pearl,Cream,7,4,Gas,13.2L/100km,9.6L/100km,13985
+2013,Acura,MDX,223000 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,7,4,Gas,13.2L/100km,9.6L/100km,13999
+2014,Acura,TL,136541 km,Sedan,6 Cylinder,Automatic,FWD,Silver Moon Metallic,Black,5,4,Gas,10.4L/100km,6.8L/100km,16900
+2014,Acura,RDX,158868 km,SUV,3.5,6 Speed Automatic,AWD,Silver,Black,5,5,Gas,10.7L/100km,7.3L/100km,17998
+2015,Acura,RDX,172000 km,SUV,6 Cylinder,Automatic,AWD,Silver,Black,5,4,Gas,12.1L/100km,8.7L/100km,17999
+2019,Acura,TLX,58610 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Crystal Black Pearl,null,null,4,Gas,10.0L/100km,7.1L/100km,28495
+2019,Acura,RDX,75786 km,SUV,I-4 cyl,10 Speed Automatic,AWD,White Diamond Pearl,null,null,null,Gas,11.3L/100km,9.1L/100km,38388
+2019,Acura,RDX,33032 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,White Diamond Pearl,Black,5,4,Premium Unleaded,11.0L/100km,8.6L/100km,40888
+2021,Acura,RDX,44337 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,11.3L/100km,9.1L/100km,44295
+2019,Acura,TLX,34396 km,Sedan,3.5L 6cyl,9 Speed Automatic,AWD,Crystal Black Pearl,Tan,5,4,Premium Unleaded,11.4L/100km,7.7L/100km,36499
+2019,Acura,ILX,41116 km,Sedan,Premium Unleaded I-4 2.4 L/144,Automatic,FWD,Platinum White Pearl,Black,5,4,Gas,9.9L/100km,7.0L/100km,29995
+2020,Acura,TLX,31756 km,Sedan,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Platinum White Pearl,Black,5,4,Gas,12.0L/100km,8.2L/100km,39836
+2014,Acura,RDX,290000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,11600
+2019,Acura,RDX,110024 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,11.0L/100km,8.6L/100km,34995
+2015,Acura,TLX,137835 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Crystal Black Pearl,Black,5,null,Gas,11.2L/100km,7.5L/100km,19450
+2016,Acura,ILX,76836 km,Sedan,4 Cylinder Engine,Automatic,FWD,Bellanova White Pearl,Black,5,4,Gas,9.4L/100km,6.5L/100km,19890
+2016,Acura,TLX,117699 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Grey,null,null,4,Gas,9.6L/100km,6.6L/100km,21995
+2018,Acura,ILX,104000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Crystal Black Pearl,Black,5,4,Gas,9.4L/100km,6.8L/100km,22950
+2020,Acura,TLX,52337 km,Sedan,V-6 cyl,9 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,12.0L/100km,8.2L/100km,39799
+2016,Acura,MDX,193000 km,SUV,6 Cylinder,Automatic,AWD,White,Black,7,4,Gas,12.7L/100km,9.1L/100km,23995
+2016,Acura,MDX,145000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Beige,7,4,Gas,12.7L/100km,9.1L/100km,23999
+2019,Acura,TLX,73340 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Still Night Blue Pearl,Black,5,4,Gas,12.0L/100km,8.2L/100km,26471
+2018,Acura,ILX,37089 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Black,Black,null,4,Gas,9.4L/100km,6.8L/100km,26595
+2018,Acura,TLX,106548 km,Sedan,2.4L L4 DOHC 16V,Automatic,FWD,Bellanova White Pearl,Red,null,4,Gas,null,null,28998
+2017,Acura,MDX,163527 km,SUV,3.5,9 Speed Automatic,AWD,Black,Black,null,4,Gas,12.6L/100km,9.0L/100km,29780
+2018,Acura,RDX,76620 km,SUV,3.5L V6 F SOHC 24V,Automatic,AWD,Lunar Silver Metallic,Black,null,2,Gas,12.4L/100km,8.7L/100km,29999
+2019,Acura,ILX,40734 km,Sedan,I-4 cyl,8 Speed Automatic with auto-shift,FWD,Platinum White Pearl,Black,null,null,Gas,9.9L/100km,7.0L/100km,30989
+2017,Acura,MDX,123240 km,SUV,3.5,9 Speed Automatic,AWD,White Diamond Pearl,Black,null,4,Gas,12.6L/100km,9.0L/100km,32480
+2019,Acura,TLX,43150 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Platinum White Pearl,null,null,4,Gas,10.2L/100km,7.4L/100km,33495
+2019,Acura,TLX,65339 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,null,null,4,Gas,11.4L - 12.0L/100km,7.7L - 8.2L/100km,34995
+2017,Acura,MDX,99000 km,SUV,3.5L V6 Cylinder Engine,Automatic,AWD,Black,Black,7,4,Gas,12.2L/100km,9.0L/100km,35950
+2020,Acura,ILX,30500 km,Sedan,2.4,Automatic,FWD,Platinum White Pearl,Red,null,4,Gas,9.9L/100km,7.0L/100km,35999
+2020,Acura,TLX,81676 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Platinum White Pearl,null,null,null,Gas,12.0L/100km,8.2L/100km,38549
+2019,Acura,RDX,30192 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Majestic Black Pearl,Black,null,4,Gas,11.0L/100km,8.6L/100km,38995
+2020,Acura,TLX,49921 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Black,null,null,Gas,12.0L/100km,8.2L/100km,40850
+2019,Acura,RDX,13289 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,White Diamond Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,43995
+2020,Acura,RDX,27800 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,49099
+2022,Acura,TLX,7700 km,Sedan,I-4 cyl,10 Speed Automatic,AWD,Apex Blue Pearl,Black,null,null,Gas,11.3L/100km,8.1L/100km,49988
+2020,Acura,MDX,65684 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Modern Steel Metallic,Black,null,4,Gas,12.3L/100km,9.2L/100km,40995
+2008,Acura,MDX,184000 km,SUV,V6 Cylinder Engine,5 Speed Automatic,AWD,Black,Beige,7,4,Gas,13.8L/100km,10.0L/100km,9995
+2013,Acura,MDX,244685 km,SUV,3.7,6 Speed Automatic,AWD,Black,Brown,7,4,Gas,13.2L/100km,9.6L/100km,11888
+2016,Acura,ILX,203360 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Black,null,null,4,Gas,null,null,15299
+2014,Acura,TL,168000 km,Sedan,6 Cylinder,Automatic,FWD,Bellanova White Pearl,Black,5,4,Gas,10.4L/100km,6.8L/100km,15895
+2011,Acura,MDX,154800 km,SUV,3.7L 6cyl,6 Speed Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,13.2L/100km,9.6L/100km,15995
+2015,Acura,ILX,171697 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Bellanova White Pearl,null,null,4,Gas,9.8L/100km,6.7L/100km,15995
+2014,Acura,MDX,220000 km,SUV,6 Cylinder,Automatic,AWD,White,Beige,7,4,Gas,null,null,18995
+2017,Acura,TLX,191000 km,Sedan,6 Cylinder,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,11.2L/100km,7.5L/100km,19995
+2017,Acura,ILX,122000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Bellanova White Pearl,null,5,4,Gas,9.4L/100km,6.8L/100km,21950
+2017,Acura,MDX,91412 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,null,null,Gas,12.6L/100km,9.0L/100km,33994
+2020,Acura,ILX,10717 km,Sedan,4 Cylinder Engine,Automatic,FWD,Modern Steel Metallic,Black,null,null,Gas,9.9L/100km,7.0L/100km,28995
+2019,Acura,TLX,60529 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Platinum White Pearl,Red,null,null,Gas,12.0L/100km,8.2L/100km,34779
+2019,Acura,TLX,34396 km,Sedan,3.5L 6cyl,9 Speed Automatic,AWD,Crystal Black Pearl,Tan,5,4,Premium Unleaded,11.4L/100km,7.7L/100km,36499
+2019,Acura,RDX,65882 km,SUV,2.0,Automatic,AWD,White Diamond Pearl,Red,5,4,Gas,11.3L/100km,9.1L/100km,41990
+2020,Acura,RDX,50329 km,SUV,4 Cylinder Engine,null,AWD,Majestic Black Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,44995
+2002,Acura,EL,229000 km,Sedan,1.7L L4 SOHC 16V,Automatic,FWD,Beige,Beige,null,4,Gas,8.2L/100km,6.1L/100km,2998
+2003,Acura,RSX,230098 km,Coupe,4 Cylinder Engine,5 Speed Manual,FWD,Nighthawk Black Pearl,Black,4,2,Gas,8.7L/100km,6.5L/100km,6999
+2002,Acura,EL,123338 km,Sedan,4 Cylinder Engine,4 Speed Automatic,FWD,Radiant Ruby Pearl,Black,5,4,Gas,8.2L/100km,6.1L/100km,6999
+2005,Acura,RSX,191492 km,Coupe,4 Cylinder Engine,5 Speed Automatic,FWD,Satin Silver Metallic,Black,4,2,Gas,9.3L/100km,6.4L/100km,7999
+2018,Acura,MDX,94862 km,SUV,6,Automatic,AWD,Crystal Black Pearl,null,7,4,Gas,12.6L/100km,9.0L/100km,34743
+2008,Acura,RDX,226356 km,SUV,4 Cylinder Engine 2.3L,Automatic,AWD,Grey,null,null,4,Gas,12.5L/100km,9.3L/100km,8995
+2016,Acura,ILX,99000 km,Sedan,2.4L 4cyl,8 Speed Automatic with auto-shift,FWD,Blue,Black,5,4,Premium Unleaded,9.4L/100km,6.5L/100km,22900
+2016,Acura,RDX,81000 km,SUV,3.5L,Automatic,AWD,White,Beige,5,4,Gas,null,null,24880
+2019,Acura,ILX,41116 km,Sedan,Premium Unleaded I-4 2.4 L/144,Automatic,FWD,Platinum White Pearl,Black,5,4,Gas,9.9L/100km,7.0L/100km,29995
+2019,Acura,TLX,103658 km,Sedan,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Crystal Black Pearl,Black,5,4,Gas,12.0L/100km,8.2L/100km,34995
+2019,Acura,TLX,10735 km,Sedan,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Lunar Silver Metallic,Black,5,4,Gas,11.4L/100km,7.7L/100km,35495
+2019,Acura,TLX,50412 km,Sedan,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,11.4L - 12.0L/100km,7.7L - 8.2L/100km,35995
+2022,Acura,ILX,10122 km,Sedan,Premium Unleaded I-4 2.4 L/144,Automatic,FWD,Modern Steel Metallic,Black,5,4,Gas,9.9L/100km,7.0L/100km,35995
+2019,Acura,RDX,80862 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,35995
+2018,Acura,ILX,33810 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Lunar Silver Metallic,null,5,4,Gas,9.4L/100km,6.8L/100km,26988
+2019,Acura,RDX,67934 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,36995
+2019,Acura,MDX,85772 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Modern Steel Metallic,Black,7,4,Gas,12.2L/100km,9.0L/100km,37995
+2019,Acura,RDX,65969 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White Diamond Pearl,null,5,4,Gas,11.3L/100km,9.1L/100km,38989
+2019,Acura,RDX,57124 km,SUV,I-4 cyl,10 Speed Automatic,AWD,White Diamond Pearl,Black,null,4,Premium Unleaded,null,null,38999
+2020,Acura,TLX,31756 km,Sedan,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Platinum White Pearl,Black,5,4,Gas,12.0L/100km,8.2L/100km,39836
+2020,Acura,RDX,102340 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Modern Steel Metallic,Red,5,4,Gas,11.3L/100km,9.1L/100km,39995
+2020,Acura,RDX,25777 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,null,4,Premium Unleaded,11.0L/100km,8.6L/100km,40788
+2020,Acura,RDX,55635 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,42995
+2021,Acura,RDX,92078 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Platinum White Pearl,Black,5,4,Gas,11.0L - 11.3L/100km,8.6L - 9.1L/100km,44995
+2020,Acura,RDX,39100 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Platinum White Pearl,null,5,4,Gas,11.3L/100km,9.1L/100km,44988
+2020,Acura,MDX,48622 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Majestic Black Pearl,Red,7,4,Gas,12.2L/100km,9.5L/100km,45995
+2021,Acura,RDX,49050 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Platinum White Pearl,Red,5,4,Gas,11.3L/100km,9.1L/100km,46495
+2022,Acura,RDX,14700 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Liquid Carbon Metallic,Red,5,4,Gas,11.3L/100km,9.1L/100km,53995
+2022,Acura,MDX,50845 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Liquid Carbon Metallic,Red,7,4,Gas,12.6L/100km,9.4L/100km,60866
+2022,Acura,MDX,45339 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Apex Blue Pearl,Red,7,4,Gas,12.6L/100km,9.4L/100km,61417
+2005,Acura,TSX,316168 km,Sedan,I-4 cyl,5 Speed Automatic,FWD,Grey,null,null,null,Gas,10.6L/100km,7.1L/100km,3000
+2011,Acura,TSX,234000 km,Sedan,2.4,Manual,FWD,Silver,Black,5,4,Gas,9.9L/100km,6.8L/100km,9500
+2011,Acura,RDX,240000 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,11.7L/100km,8.7L/100km,9999
+2014,Acura,RDX,290000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,11600
+2021,Acura,RDX,58742 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,43495
+2007,Acura,TL,178878 km,Sedan,V6 Cylinder Engine,5 Speed Automatic,FWD,Blue,Dark Grey,5,4,Gas,12.3L/100km,7.8L/100km,12999
+2010,Acura,MDX,181045 km,SUV,3.7,6 Speed Automatic,AWD,Aspen White Pearl,Beige,null,4,Gas,13.2L/100km,9.6L/100km,13980
+2018,Acura,ILX,83020 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Bellanova White Pearl,null,null,4,Gas,9.4L/100km,6.8L/100km,25989
+2019,Acura,RDX,68000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,31000
+2019,Acura,RDX,110024 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Modern Steel Metallic,Black,5,4,Gas,11.0L/100km,8.6L/100km,34995
+2020,Acura,RDX,60892 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,38495
+2019,Acura,RDX,34586 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,40995
+2012,Acura,TSX,142791 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Crystal Black Pearl,Black,5,4,Gas,9.3L/100km,6.2L/100km,10985
+2019,Acura,RDX,93111 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Lunar Silver Metallic,Black,5,4,Gas,11.3L/100km,9.1L/100km,38426
+2020,Acura,RDX,59380 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,null,null,null,Gas,11.0L/100km,8.6L/100km,42994
+2019,Acura,MDX,88199 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,White Diamond Pearl,Red,7,4,Gas,12.2L/100km,9.0L - 9.5L/100km,39495
+2020,Acura,RDX,32575 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Platinum White Pearl,Red,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,43888
+2021,Acura,RDX,19457 km,SUV,I-4 cyl,10 Speed Automatic,null,White,Black,null,null,null,null,null,49635
+2009,Acura,TSX,253873 km,Sedan,4 CYL,5 Speed Automatic,FWD,Crystal Black Pearl,Black,null,4,Gas,9.6L/100km,6.5L/100km,6990
+2015,Acura,RDX,230000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Dark Grey,Black,5,4,Gas,12.1L/100km,8.7L/100km,13888
+2012,Acura,MDX,141000 km,SUV,3.7,Automatic,AWD,Aspen White Pearl,Tan,7,null,Gas,13.2L/100km,9.6L/100km,14995
+2014,Acura,RDX,177000 km,SUV,3.5,Automatic,AWD,White Diamond Pearl,Beige,5,null,Gas,10.7L/100km,7.3L/100km,14995
+2015,Acura,RDX,161000 km,SUV,3.5,Automatic,AWD,Graphite Luster Metallic,Black,5,null,Gas,12.1L/100km,8.7L/100km,17995
+2015,Acura,RDX,160000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Crystal Black Pearl,Black,5,4,Gas,12.1L/100km,8.7L/100km,18450
+2019,Acura,TLX,27630 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,32495
+2015,Acura,RDX,154925 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Crystal Black Pearl,null,5,4,Gas,12.1L/100km,8.7L/100km,18490
+2015,Acura,MDX,206795 km,SUV,3.5L 6cyl,Automatic,AWD,Graphite Luster Metallic,Black,7,4,Gas,12.7L/100km,9.1L/100km,18990
+2017,Acura,TLX,185361 km,Sedan,3.5,Automatic,AWD,Black,Black,null,4,Gas,11.2L/100km,7.5L/100km,19798
+2017,Acura,RDX,182129 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,White Diamond Pearl,Tan,null,4,Premium Unleaded,12.4L/100km,8.7L/100km,19990
+2016,Acura,MDX,187403 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,7,null,Gas,12.2L/100km,9.1L/100km,20880
+2016,Acura,RDX,63846 km,SUV,3.5,6 Speed Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,12.4L/100km,8.6L/100km,21995
+2016,Acura,TLX,106520 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Bellanova White Pearl,Black,5,4,Gas,11.2L/100km,7.5L/100km,22895
+2016,Acura,MDX,149000 km,SUV,V-6 cyl,9 Speed Automatic,AWD,Crystal White Pearl,Beige,null,null,Gas,12.2L/100km,9.1L/100km,25950
+2017,Acura,RDX,73000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,12.4L/100km,8.7L/100km,25950
+2021,Acura,RDX,32479 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,null,null,4,Gas,11.3L/100km,9.1L/100km,45295
+2018,Acura,RDX,55656 km,SUV,3.5,6 Speed Automatic,AWD,White Diamond Pearl,null,null,4,Gas,12.4L/100km,8.7L/100km,26995
+2016,Acura,MDX,124021 km,SUV,3.5,Automatic,AWD,Black,Black,7,4,Gas,12.7L/100km,9.1L/100km,27500
+2018,Acura,TLX,72702 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,5,4,Gas,11.4L/100km,7.7L/100km,27880
+2017,Acura,MDX,159598 km,SUV,3.5L,Automatic,AWD,Modern Steel Metallic,Black,7,4,Gas,12.6L/100km,9.0L/100km,27888
+2019,Acura,TLX,56700 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Modern Steel Metallic,Black,5,4,Gas,10.0L/100km,7.1L/100km,28880
+2019,Acura,TLX,80000 km,Sedan,I-4 cyl,8 Speed Automatic with auto-shift,FWD,Crystal Black Pearl,Black,null,null,Gas,10.0L/100km,7.1L/100km,28950
+2013,Acura,RDX,267187 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,White,Black,null,4,Gas,9.8L/100km,6.2L/100km,10795
+2020,Acura,ILX,36253 km,Sedan,Premium Unleaded I-4 2.4 L/144,Automatic,FWD,Majestic Black Pearl,Black,5,4,Gas,9.9L/100km,7.0L/100km,29998
+2018,Acura,MDX,118800 km,SUV,3.5,Automatic,AWD,Crystal Black Pearl,Brown,null,4,Gas,12.6L/100km,9.0L/100km,34488
+2019,Acura,RDX,75786 km,SUV,I-4 cyl,10 Speed Automatic,AWD,White Diamond Pearl,null,null,null,Gas,11.3L/100km,9.1L/100km,38388
+2021,Acura,RDX,67950 km,SUV,4 Cylinder Engine,null,AWD,Apex Blue Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,46989
+2022,Acura,TLX,12209 km,Sedan,I-4 cyl,10 Speed Automatic,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,8.1L/100km,50188
+2020,Acura,MDX,48622 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Majestic Black Pearl,Red,7,4,Gas,12.2L/100km,9.5L/100km,45995
+2014,Acura,RDX,290000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,11600
+2017,Acura,NSX,38000 km,Coupe,V6 Cylinder Engine,null,AWD,Berlina Black,Black,2,2,Gasoline Hybrid,null,null,159950
+2018,Acura,TLX,72000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Bellanova White Pearl,Red,5,4,Gas,null,null,29880
+2019,Acura,ILX,74148 km,Sedan,201HP 2.4L 4 Cylinder Engine,Automatic,FWD,Apex Blue Pearl,null,null,4,Gas,9.9L/100km,7.0L/100km,29990
+2019,Acura,TLX,62099 km,Sedan,2.4L 4cyl,8 Speed Automatic with auto-shift,FWD,Platinum White Pearl,Beige,5,4,Premium Unleaded,10.0L/100km,7.1L/100km,30388
+2016,Acura,MDX,53000 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Graphite Luster Metallic,Black,7,4,Gas,12.7L/100km,9.1L/100km,30900
+2018,Acura,ILX,33810 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Lunar Silver Metallic,null,5,4,Gas,9.4L/100km,6.8L/100km,26988
+2019,Acura,RDX,77300 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Obsidian Blue Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,32880
+2018,Acura,MDX,63000 km,SUV,6 Cylinder,9 Speed Automatic,AWD,Crystal Black Pearl,Black,7,4,Gas,12.6L/100km,9.0L/100km,34880
+2020,Acura,TLX,15288 km,Sedan,2.4,Automatic,FWD,Platinum White Pearl,Red,4,4,Gas,10.2L/100km,7.4L/100km,34888
+2019,Acura,RDX,48001 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,11.0L/100km,8.6L/100km,34999
+2019,Acura,RDX,80538 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,null,2,Premium Unleaded,11.0L/100km,8.6L/100km,36600
+2019,Acura,MDX,37200 km,SUV,V6 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Black,7,4,Gas,12.2L/100km,9.0L/100km,37900
+2019,Acura,MDX,111000 km,SUV,V-6 cyl,Automatic,AWD,Majestic Black Pearl,Black,null,null,Gas,12.2L/100km,9.0L/100km,37900
+2020,Acura,TLX,47997 km,Sedan,3.5L 6cyl,9 Speed Automatic,AWD,Modern Steel Metallic,Red,null,2,Premium Unleaded,12.0L/100km,8.2L/100km,38500
+2019,Acura,RDX,51915 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,White Diamond Pearl,Black,null,2,Premium Unleaded,11.0L/100km,8.6L/100km,38588
+2021,Acura,RDX,58742 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,43495
+2019,Acura,MDX,58824 km,SUV,3.5L SOHC,9 Speed Automatic,AWD,Majestic Black Pearl,null,7,4,Gas,12.2L/100km,9.0L/100km,38699
+2020,Acura,TLX,39732 km,Sedan,3.5L 6cyl,9 Speed Automatic,AWD,Majestic Black Pearl,Black,null,2,Premium Unleaded,12.0L/100km,8.2L/100km,38900
+2019,Acura,RDX,68267 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,null,2,Premium Unleaded,11.3L/100km,9.1L/100km,38989
+2019,Acura,MDX,102550 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Modern Steel Metallic,Black,7,4,Gas,12.2L/100km,9.0L/100km,39597
+2020,Acura,RDX,70852 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Lunar Silver Metallic,null,null,2,Premium Unleaded,11.0L/100km,8.6L/100km,40800
+2019,Acura,MDX,55000 km,null,null,Automatic,FWD,Grey,Black,null,null,Gas,null,null,40999
+2020,Acura,RDX,79374 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Red,null,2,Premium Unleaded,11.3L/100km,9.1L/100km,41500
+2019,Acura,RDX,43950 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Gunmetal Metallic,Grey,null,2,Premium Unleaded,11.0L/100km,8.6L/100km,41883
+2020,Acura,MDX,95764 km,SUV,3.5L 6cyl,9 Speed Automatic,AWD,Modern Steel Metallic,Red,null,2,Premium Unleaded,12.2L/100km,9.5L/100km,42337
+2017,Acura,MDX,91412 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,null,null,Gas,12.6L/100km,9.0L/100km,33994
+2020,Acura,RDX,29552 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Gunmetal Metallic,Black,5,2,Premium Unleaded,11.0L/100km,8.6L/100km,42800
+2019,Acura,MDX,54789 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,7,4,Gas,12.2L/100km,9.0L - 9.5L/100km,42898
+2019,Acura,MDX,49100 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic Black Pearl,Black,7,null,Gas,12.2L/100km,9.0L/100km,43688
+2020,Acura,MDX,32000 km,SUV,V-6 cyl,9 Speed Automatic,AWD,Modern Steel Metallic,Black,null,null,Gas,12.3L/100km,9.2L/100km,45900
+2020,Acura,MDX,65000 km,SUV,V-6 cyl,9 Speed Automatic,AWD,Lunar Silver Metallic,Black,null,null,Gas,12.3L/100km,9.2L/100km,46900
+2021,Acura,TLX,7259 km,Sedan,2.0L 4cyl,10 Speed Automatic,AWD,Platinum White Pearl,Beige,null,2,Premium Unleaded,11.2L/100km,8.0L/100km,47555
+2021,Acura,RDX,37033 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.3L/100km,9.1L/100km,47892
+2022,Acura,TLX,15100 km,Sedan,2.0L 4cyl,10 Speed Automatic,AWD,Platinum White Pearl,Black,null,2,Premium Unleaded,11.3L/100km,8.1L/100km,49980
+2022,Acura,MDX,17582 km,SUV,3.5L 6cyl,10 Speed Automatic,AWD,Lunar Silver Metallic,Black,null,2,Premium Unleaded,12.6L/100km,9.4L/100km,62800
+2020,Acura,RDX,59380 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,null,null,null,Gas,11.0L/100km,8.6L/100km,42994
+2011,Acura,MDX,259061 km,SUV,3.7,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,13.2L/100km,9.6L/100km,9995
+2011,Acura,MDX,168000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Not Specified,null,null,4,Gas,13.2L/100km,9.6L/100km,11200
+2013,Acura,MDX,218600 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grey,null,7,4,Gas,13.2L/100km,9.6L/100km,13495
+2013,Acura,MDX,230659 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grey,Black,7,4,Gas,13.2L/100km,9.6L/100km,13995
+2014,Acura,TL,167760 km,Sedan,3.5,Automatic,FWD,Bellanova White,Beige,5,4,Gas,10.4L/100km,6.8L/100km,14900
+2013,Acura,MDX,191687 km,SUV,3.7,Automatic,AWD,White,Black,7,4,Gas,13.2L/100km,9.6L/100km,14999
+2011,Acura,MDX,154800 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Crystal Black Pearl,Black,7,4,Gas,13.2L/100km,9.6L/100km,15495
+2013,Acura,RDX,146000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,9.8L/100km,6.2L/100km,15950
+2015,Acura,RDX,192000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,White Diamond Pearl,Black,5,4,Gas,12.4L/100km,8.7L/100km,15988
+2019,Acura,TLX,27630 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,32495
+2012,Acura,MDX,175860 km,SUV,3.7L 6cyl,6 Speed Automatic,AWD,Crystal Black Pearl,Black,null,4,Premium Unleaded,13.2L/100km,9.6L/100km,15990
+2013,Acura,MDX,151000 km,SUV,6,Automatic,AWD,White,Beige,5,4,Gas,13.2L/100km,9.6L/100km,16995
+2016,Acura,ILX,106000 km,Sedan,4 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,null,null,17900
+2015,Acura,TLX,138000 km,Sedan,2.5,Automatic,FWD,Bellanova White Pearl,Brown,5,null,Gas,null,null,17995
+2016,Acura,MDX,226214 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,7,5,Gas,12.7L/100km,9.1L/100km,17999
+2014,Acura,TL,105840 km,Sedan,3.5,Automatic,FWD,Bellanova White Pearl,Black,5,4,Gas,10.4L/100km,6.8L/100km,18888
+2015,Acura,RLX,188900 km,Sedan,3.5,Automatic,FWD,Crystal Black Pearl,Black,5,4,Gas,11.9L/100km,7.7L/100km,18995
+2015,Acura,TLX,135000 km,Sedan,V6 Cylinder Engine,9 Speed Automatic,AWD,Slate Silver Metallic,Black,5,4,Gas,11.2L/100km,7.5L/100km,19900
+2016,Acura,RDX,171422 km,SUV,3.5,Automatic,AWD,Grey,Black,null,4,Gas,12.4L/100km,8.6L/100km,19995
+2019,Acura,MDX,53052 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic Black Pearl,Red,null,null,Gas,12.2L/100km,9.0L - 9.5L/100km,43880
+2015,Acura,TLX,98374 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Bellanova White Pearl,Black,5,4,Gas,11.2L/100km,6.9L/100km,22880
+2016,Acura,RDX,128850 km,SUV,3.5,Automatic,AWD,Crystal Black Pearl,Black,5,4,Gas,10.7L/100km,7.3L/100km,23888
+2016,Acura,MDX,163900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,7,4,Gas,12.2L/100km,9.1L/100km,24888
+2016,Acura,MDX,99000 km,SUV,3.5L,Automatic,AWD,Not Specified,null,null,null,Gas,12.7L/100km,9.1L/100km,24900
+2017,Acura,MDX,163234 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Brown,null,4,Gas,12.2L/100km,9.0L/100km,25995
+2017,Acura,RDX,95750 km,SUV,3.5,Automatic,AWD,Dark Grey,Light Grey,null,4,Gas,12.4L/100km,8.7L/100km,26988
+2014,Acura,RLX,68000 km,Sedan,3.5 V6 Hybrid,Automatic,AWD,Dark Grey,White,5,4,Gasoline Hybrid,null,null,27490
+2019,Acura,ILX,19786 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black,Black,null,4,Gas,9.9L/100km,7.0L/100km,28995
+2019,Acura,TLX,77699 km,Sedan,3.5L SOHC 24-Valve VTEC V6 -inc: Aluminum-alloy,null,AWD,Crystal Black Pearl,null,null,4,Gas,11.4L/100km,7.7L/100km,29988
+2020,Acura,RDX,39100 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Platinum White Pearl,null,5,4,Gas,11.3L/100km,9.1L/100km,44988
+2019,Acura,ILX,42727 km,Sedan,2.4L 4cyl,8 Speed Automatic with auto-shift,FWD,Platinum White Pearl,Black,null,2,Premium Unleaded,9.9L/100km,7.0L/100km,30841
+2020,Acura,RDX,30786 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,11.0L/100km,8.6L/100km,39995
+2019,Acura,MDX,42081 km,SUV,3.5L 6cyl,9 Speed Automatic,AWD,White Diamond Pearl,Black,5,5,Premium Unleaded,12.2L/100km,9.0L/100km,40588
+2021,Acura,RDX,66960 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,5,Premium Unleaded,11.0L/100km,8.6L/100km,41599
+2019,Acura,RDX,40305 km,SUV,4 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Red,null,null,Gas,11.3L/100km,9.1L/100km,41999
+2020,Acura,RDX,39727 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,5,Gas,11.3L/100km,9.1L/100km,43399
+2009,Acura,MDX,215000 km,SUV,V6 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,15.7L/100km,11.8L/100km,8995
+2009,Acura,MDX,195152 km,SUV,V6 Cylinder Engine,5 Speed Automatic,AWD,Formal Black,null,7,4,Gas,13.8L/100km,10.0L/100km,10990
+2010,Acura,MDX,179777 km,SUV,3.7,Automatic,AWD,Crystal Black Pearl,Beige,null,4,Gas,13.2L/100km,9.6L/100km,13888
+2020,Acura,TLX,52337 km,Sedan,V-6 cyl,9 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,12.0L/100km,8.2L/100km,39799
+2011,Acura,MDX,215416 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Aspen White Pearl,Beige,7,4,Gas,13.2L/100km,9.6L/100km,13999
+2012,Acura,MDX,205152 km,SUV,3.7,Automatic,AWD,Grey,Black,7,4,Gas,13.2L/100km,9.6L/100km,13999
+2011,Acura,MDX,201185 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Burgundy,Black,7,4,Gas,13.2L/100km,9.6L/100km,14999
+2012,Acura,MDX,169750 km,SUV,3.7,Automatic,AWD,White,Beige,7,4,Gas,13.2L/100km,9.6L/100km,15990
+2012,Acura,TL,155770 km,Sedan,3.7,6 Speed Automatic,AWD,Black,Brown,5,4,Gas,11.4L/100km,7.6L/100km,16995
+2015,Acura,ILX,88000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,9.8L/100km,6.7L/100km,17950
+2014,Acura,RDX,152000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Graphite Luster Metallic,Black,5,4,Gas,10.7L/100km,7.3L/100km,18900
+2014,Acura,RDX,144879 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Kona Coffee Metallic,Black,5,4,Gas,10.7L/100km,7.3L/100km,19500
+2017,Acura,ILX,129899 km,Sedan,2.4,Automatic,FWD,Black,Black,null,4,Gas,9.3L/100km,6.6L/100km,20999
+2021,Acura,RDX,32479 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Modern Steel Metallic,null,null,4,Gas,11.3L/100km,9.1L/100km,45295
+2016,Acura,TLX,75000 km,Sedan,2.5L,Automatic,FWD,Black,Black,5,4,Gas,9.6L/100km,6.6L/100km,25999
+2017,Acura,RDX,113234 km,SUV,V6 Cylinder Engine,Automatic,AWD,Silver,Black,5,4,Gas,12.4L/100km,8.7L/100km,28500
+2018,Acura,TLX,91506 km,Sedan,2.4,Automatic,FWD,Bellanova White Pearl,Black,null,4,Gas,10.0L/100km,7.1L/100km,28900
+2006,Acura,TSX,262581 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,White,Black,5,4,Gas,null,null,7600
+2009,Acura,RDX,243689 km,SUV,4 Cylinder Engine,5 Speed Automatic,AWD,White Diamond Pearl,Grey,5,4,Gas,12.5L/100km,9.3L/100km,7999
+2011,Acura,CSX,218000 km,Sedan,4 Cylinder Engine,5 Speed Manual,FWD,Taffeta White,Black,5,4,Gas,8.7L/100km,6.4L/100km,8888
+2009,Acura,TL,228000 km,Sedan,V6 Cylinder Engine,5 Speed Automatic,AWD,Mayan Bronze Metallic,Grey,5,4,Gas,12.3L/100km,8.1L/100km,8995
+2011,Acura,TSX,276900 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Cream,5,4,Gas,9.3L/100km,6.2L/100km,8995
+2007,Acura,MDX,264791 km,SUV,V6 Cylinder Engine,5 Speed Automatic,AWD,Black,Black,7,4,Gas,13.8L/100km,10.0L/100km,9800
+2018,Acura,MDX,94862 km,SUV,6,Automatic,AWD,Crystal Black Pearl,null,7,4,Gas,12.6L/100km,9.0L/100km,34743
+2009,Acura,MDX,223945 km,SUV,V6 Cylinder Engine,5 Speed Automatic,AWD,Formal Black,Black,7,4,Gas,13.8L/100km,10.0L/100km,11999
+2011,Acura,CSX,129000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Crystal Black Pearl,Black,5,4,Gas,9.5L/100km,6.5L/100km,12900
+2014,Acura,RDX,212000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,10.7L/100km,7.3L/100km,14995
+2011,Acura,MDX,185642 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Palladium Silver Metallic,Black,7,4,Gas,13.2L/100km,9.6L/100km,14999
+2010,Acura,MDX,124711 km,SUV,3.7L 6cyl,6 Speed Automatic,AWD,Palladlum Metallic,Black,5,5,Premium Unleaded,13.2L/100km,9.6L/100km,15998
+2015,Acura,TLX,183000 km,Sedan,2.4L,Automatic,FWD,Black,Black,5,4,Gas,null,null,16995
+2016,Acura,TLX,180170 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Slate Silver Metallic,Black,5,4,Gas,11.2L/100km,7.5L/100km,18995
+2014,Acura,MDX,199174 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,7,4,Gas,null,null,18995
+2018,Acura,TLX,154666 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Crystal Black Pearl,Black,5,4,Gas,null,null,22888
+2019,Acura,TLX,43150 km,Sedan,4 Cylinder Engine 2.4L,Automatic,FWD,Platinum White Pearl,null,null,4,Gas,10.2L/100km,7.4L/100km,33495
+2015,Acura,MDX,175300 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,null,4,Gas,12.7L/100km,9.1L/100km,23995
+2017,Acura,ILX,127758 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue,Black,5,4,Gas,9.4L/100km,6.8L/100km,25495
+2019,Acura,RDX,97128 km,SUV,4 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Black,null,4,Gas,11.0L/100km,8.6L/100km,34980
+2023,Acura,RDX,135 km,SUV,null,10 Speed Automatic,AWD,null,null,5,4,Gas,null,null,65995
+2017,Acura,NSX,38000 km,Coupe,V6 Cylinder Engine,null,AWD,Berlina Black,Black,2,2,Gasoline Hybrid,null,null,159950
+2003,Acura,EL,240500 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,2800
+2013,Acura,RDX,267187 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,White,Black,null,4,Gas,9.8L/100km,6.2L/100km,10795
+2019,Acura,MDX,78702 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Performance Red Pearl,Black,null,4,Gas,12.2L/100km,9.0L - 9.5L/100km,35995
+2019,Acura,RDX,75420 km,SUV,2.0L 4 Cylinder Engine,Automatic,AWD,Lunar Silver Metallic,Black,5,4,Gas,11.0L/100km,8.6L/100km,36995
+2020,Acura,RDX,88483 km,SUV,I-4 cyl,10 Speed Automatic,AWD,Modern Steel Metallic,Red,null,null,Gas,11.3L/100km,9.1L/100km,39588
+2020,Acura,RDX,96233 km,SUV,2.0L 4cyl,10 Speed Automatic,AWD,Majestic Black Pearl,Black,5,4,Premium Unleaded,11.3L/100km,9.1L/100km,40888
+2020,Acura,RDX,55635 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Majestic Black Pearl,Black,5,4,Gas,11.0L/100km,8.6L/100km,42995
+2022,Acura,MDX,50845 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,Liquid Carbon Metallic,Red,7,4,Gas,12.6L/100km,9.4L/100km,60866
+2019,Acura,MDX,88199 km,SUV,Premium Unleaded V-6 3.5 L/212,Automatic,AWD,White Diamond Pearl,Red,7,4,Gas,12.2L/100km,9.0L - 9.5L/100km,39495
+2019,Acura,RDX,97128 km,SUV,4 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Black,null,4,Gas,11.0L/100km,8.6L/100km,34980
+2003,Acura,EL,240000 km,null,null,Automatic,null,Silver,null,null,4 doors,Gasoline,null,null,3200
+2008,Acura,RDX,384450 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Cream,5,4,Gas,12.5L/100km,9.3L/100km,3995
+2005,Acura,MDX,270000 km,null,null,null,null,null,null,null,null,null,null,null,4500
+2005,Acura,MDX,294000 km,null,null,Automatic,4X4,Silver,null,null,5 doors,Gasoline,null,null,4700
+2017,Acura,MDX,91412 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Black,Black,null,null,Gas,12.6L/100km,9.0L/100km,33994
+2004,Acura,TSX,325000 km,Sedan,null,Manual,FWD,Blue,null,null,4 doors,Gasoline,null,null,5500
+2007,Acura,CSX,192845 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,5599
+2005,Acura,TL,220000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,5600
+2005,Acura,TSX,246000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue,Black,null,null,Gas,10.6L/100km,7.1L/100km,5995
+2008,Acura,RDX,195 km,SUV,4 Cylinder Engine,Automatic,AWD,Not Specified,null,null,4,Gas,12.5L/100km,9.3L/100km,6700
+2008,Acura,TSX,250000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,6950
+2007,Acura,TL,196636 km,Sedan,3.2L V6 258HP 233FT. LBS.,Automatic,FWD,Royal Blue Pearl,Black,null,4,Gas,11.6L/100km,7.5L/100km,6990
+2008,Acura,TL,245470 km,Sedan,V6 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,11.6L/100km,7.5L/100km,6995
+2007,Acura,TSX,270000 km,Sedan,null,Automatic,FWD,Green,null,null,4 doors,Gasoline,null,null,7200
+2018,Acura,ILX,33810 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Lunar Silver Metallic,null,5,4,Gas,9.4L/100km,6.8L/100km,26988
+2007,Acura,RDX,245000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,7200
+2006,Acura,TL,196000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,7500
+2009,Acura,CSX,196000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,7899
+2009,Acura,RDX,252610 km,SUV,4 Cylinder Engine,Automatic,AWD,White Diamond Pearl,Black,5,4,Gas,12.5L/100km,9.3L/100km,7995
+2005,Acura,TL,185000 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,8000
+2001,Acura,TL,195000 km,Sedan,null,Automatic,FWD,Gold,null,null,4 doors,Gasoline,null,null,8700
+2010,Acura,MDX,259000 km,SUV,3.5,Automatic,AWD,Grey,Black,7,5,Gas,null,null,8995
+2001,Acura,TL,225000 km,Sedan,null,Automatic,FWD,Gold,null,null,4 doors,Gasoline,null,null,8998
+2012,Acura,TSX,270000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Premium White Pearl,Black,5,4,Gas,9.9L/100km,6.8L/100km,8999
+2020,Acura,RDX,59380 km,SUV,4 Cylinder Engine,null,AWD,Platinum White Pearl,null,null,null,Gas,11.0L/100km,8.6L/100km,42994
+2009,Acura,MDX,181418 km,SUV,3.5,Automatic,AWD,White,Beige,7,4,Gas,15.7L/100km,11.8L/100km,9199
+2011,Acura,RDX,250000 km,SUV,2.3,Automatic,AWD,Maroon,Black,null,4,Gas,11.7L/100km,8.7L/100km,9500
+2008,Acura,TL,193000 km,Sedan,3.2L,Automatic,FWD,Silver,Black,5,4,Gas,null,null,9500
+2010,Acura,TSX,184000 km,Sedan,null,Manual,FWD,Grey,null,null,4 doors,null,null,null,10000
+2010,Acura,TSX,184000 km,Sedan,null,Manual,FWD,Grey,null,null,4 doors,null,null,null,10000
+2012,Acura,RDX,180000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,10490
+2013,Acura,TSX,228000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,10500
+2010,Acura,MDX,null,SUV,3.7,Automatic,AWD,Grey,Black,null,4,Gas,13.2L/100km,9.6L/100km,10800
+2013,Acura,ILX,130000 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,11000
+2021,Acura,RDX,58742 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Platinum White Pearl,null,null,4,Gas,11.3L/100km,9.1L/100km,43495
+2014,Acura,ILX,194000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,11199
+2008,Acura,RDX,138566 km,SUV,null,Automatic,AWD,Red,Black,5,4,Gas,null,null,11500
+2011,Acura,RDX,218000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,11777
+2010,Acura,TSX,170000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,12000
+2012,Acura,TL,209465 km,Sedan,3.5L 6cyl,6 Speed Automatic,FWD,Silver,Black,null,4,Premium Unleaded,10.4L/100km,6.8L/100km,12990
+2015,Acura,TLX,190000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,13000
+2013,Acura,RDX,241111 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,9.8L/100km,6.2L/100km,13995
+2013,Acura,RDX,203289 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,13999
+2010,Acura,TL,153000 km,Sedan,3.7,Automatic,AWD,White,Black,5,4,Gas,12.3L/100km,8.1L/100km,14999
+2020,Acura,RDX,39100 km,SUV,4 Cylinder Engine,10 Speed Automatic,AWD,Platinum White Pearl,null,5,4,Gas,11.3L/100km,9.1L/100km,44988
+2007,Acura,TL,215000 km,Sedan,null,Manual,FWD,Silver,null,null,4 doors,Gasoline,null,null,15000
+2015,Acura,TLX,155850 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,17500
+2012,Acura,TL,114334 km,Sedan,3.5,Automatic,AWD,Bellanova White,Brown,5,4,Gas,11.4L/100km,7.6L/100km,17900
+2017,Acura,ILX,172000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,17995
+2016,Acura,TLX,92100 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,18000
+2015,Acura,RDX,140000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,18999
+2015,Acura,TLX,139500 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,19500
+2017,Acura,RDX,194800 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,19999
+2016,Acura,TLX,89500 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,20650
+2020,Acura,TLX,52337 km,Sedan,V-6 cyl,9 Speed Automatic,AWD,Platinum White Pearl,Black,5,4,Premium Unleaded,12.0L/100km,8.2L/100km,39799
+2014,Acura,MDX,118000 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,25499
+2016,Acura,MDX,142000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,29999
+2017,Acura,MDX,89000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,31000
+2016,Acura,TLX,84055 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,31200
+2020,Acura,TLX,75933 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,32500
+2019,Acura,ILX,61000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,35000
+2020,Acura,TLX,44000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,36000
+2019,Acura,MDX,82796 km,null,null,Automatic,AWD,Black,null,null,null,Gasoline,null,null,37500
+2019,Acura,RDX,42293 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,41000
+2019,Acura,TLX,27630 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Crystal Black Pearl,Black,null,4,Gas,11.4L/100km,7.7L/100km,32495
+2020,Acura,MDX,62500 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,43750
+2023,Acura,Integra,4800 km,Hatchback,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,57000
+2022,Acura,MDX,17500 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,60990
+2022,Acura,MDX,17000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,64500
+1991,Acura,NSX,103710 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,127000
+1996,Acura,NSX,60000 km,Coupe,null,Manual,FWD,Red,null,null,2 doors,null,null,null,155000
