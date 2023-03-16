@@ -6,7 +6,7 @@ import java.text.Format;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -144,6 +144,7 @@ public class App {
 
         String CHROM_DRIVER_WINDOWS = "./chromedriver/chromedriver.exe";
         String CHROM_DRIVER_MAC_OS = "/Users/angelena/Desktop/Programs/scrapebot/chromedriver/chromedriver";
+        // String CHROM_DRIVER_MAC_OS = "./chromedriver/chromedriver";
         String WINDOWS = "WINDOWS";
 
         System.out.println("App Started.");
@@ -159,40 +160,52 @@ public class App {
 
         driver.get("https://autotrader.ca");
 
-        WebElement d = driver.findElement(By.id("rfMakes"));
-        Select l = new Select(d);
-        List<WebElement> m = l.getOptions();
+        // WebElement d = driver.findElement(By.id("rfMakes"));
+        // Select l = new Select(d);
+        // List<WebElement> m = l.getOptions();
 
-        List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
+        // List<String> makeList = m.stream().map(e ->
+        // e.getText()).collect(Collectors.toList());
 
         // Collections.reverse(makeList);
 
-        System.out.println(makeList.size());
+        // System.out.println(makeList.size());
 
         // System.out.println(makeList);
+        // 104 makes
+        List<String> makeList = Arrays.asList("AC", "Acura", "Alfa Romeo", "AM General", "American Bantam",
+                "American Motors (AMC)", "Aston Martin", "Audi", "Austin", "Austin-Healey", "Autozam", "Bentley", "BMW",
+                "Bugatti", "Buick", "Cadillac", "Checker", "Chevrolet", "Chrysler", "Citroen", "Clenet", "Daihatsu",
+                "Daimler", "Datsun", "De Soto", "De Tomaso", "Dodge", "Factory Five Racing",
+                "Ferrari", "Fiat", "Fisker", "Ford", "Freightliner", "Genesis", "Geo", "GMC", "Hino",
+                "Honda", "Hummer", "Hyundai", "Infiniti", "Innocenti", "International", "Isuzu", "Jaguar", "Jeep",
+                "Karma", "Kia", "Lamborghini", "Lancia", "Land Rover", "Lexus", "Lincoln", "Lotus", "Lucid", "Maserati",
+                "Maybach", "Mazda", "McLaren", "Mercedes-AMG", "Mercedes-Benz", "Mercedes-Maybach", "Mercury", "MG",
+                "MINI", "Mitsubishi", "Morgan", "MV-1", "Nash", "Nissan", "Oldsmobile", "Packard", "Pagani", "Panther",
+                "Passport", "Plymouth", "Polestar", "Pontiac", "Porsche", "Puma", "Qvale", "Ram", "Renault", "Rivian",
+                "Rolls-Royce", "Rover", "Saab", "Saleen", "Saturn", "Scion", "Shelby", "smart", "Sterling", "Subaru",
+                "Sunbeam", "Superformance", "Suzuki", "Tesla", "Toyota", "Triumph", "TVR", "Volkswagen", "Volvo",
+                "Willys");
 
         List<String> myList = new ArrayList<String>();
 
-        for (int i = 37; i < 64; i++) {
-            System.out.println(makeList.get(i));
+        // for (int i = 0; i < 25; i++) {
+        // System.out.println(makeList.get(i));
+        // myList.add(makeList.get(i));
+        // }
+
+        for (int i = 25; i < 50; i++) {
             myList.add(makeList.get(i));
         }
 
         /*
-         * for (int i = 64; i< 91; i++)
-         * {
-         * myList.add(makeList.get(i));
-         * }
-         * 
-         */
-        /*
-         * for (int i = 91; i< 119; i++)
+         * for (int i = 50; i< 75; i++)
          * {
          * myList.add(makeList.get(i));
          * }
          * 
          * 
-         * for (int i = 119; i< 144; i++)
+         * for (int i = 75; i< 104; i++)
          * {
          * myList.add(makeList.get(i));
          * }
