@@ -165,45 +165,44 @@ public class App {
 
         List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
 
-
-        //Collections.reverse(makeList);
+        // Collections.reverse(makeList);
 
         System.out.println(makeList.size());
 
-        List<String> myList =new ArrayList<String>();
-        /*    
-        for (int i = 0; i< 35; i++)
-        {
-                myList.add(makeList.get(i));
-        }
-*/
+        // System.out.println(makeList);
 
- /*  
-        for (int i = 35; i< 70; i++)
-        {
-                myList.add(makeList.get(i));
+        List<String> myList = new ArrayList<String>();
+
+        for (int i = 37; i < 64; i++) {
+            System.out.println(makeList.get(i));
+            myList.add(makeList.get(i));
         }
 
-        */
- /*  
-        for (int i = 70; i< 105; i++)
-        {
-                myList.add(makeList.get(i));
-        }
-
-        */
-        for (int i = 105; i< 140; i++)
-        {
-                myList.add(makeList.get(i));
-        }
-
+        /*
+         * for (int i = 64; i< 91; i++)
+         * {
+         * myList.add(makeList.get(i));
+         * }
+         * 
+         */
+        /*
+         * for (int i = 91; i< 119; i++)
+         * {
+         * myList.add(makeList.get(i));
+         * }
+         * 
+         * 
+         * for (int i = 119; i< 144; i++)
+         * {
+         * myList.add(makeList.get(i));
+         * }
+         */
         try {
             myList.remove(myList.indexOf("Acura"));
-         myList.remove(myList.indexOf("Alfa Romeo"));
-        myList.remove(myList.indexOf("Audi"));
+            myList.remove(myList.indexOf("Alfa Romeo"));
+            myList.remove(myList.indexOf("Audi"));
+        } catch (Exception er) {
         }
-     catch (Exception er) {
-     }
         myList.forEach(make -> extracted(chromeOptions, driver, make));
 
         driver.quit();
@@ -228,21 +227,16 @@ public class App {
 
             try (FileWriter fileWriter = new FileWriter(csvFile)) {
 
-
                 String within25KmToronto = "/on/toronto/?rcp=15&rcs=0&srt=35&prx=25&prv=Ontario&loc=M3C%200E3&hprc=True&wcp=True&iosp=True&sts=New-Used&inMarket=advancedSearch";
 
                 driver.navigate().to("https://autotrader.ca/cars/" + make + within25KmToronto);
 
-
                 WebElement numResults = driver.findElement(By.id("titleCount"));
                 String numResValue = numResults.getText();
 
-                if (numResValue.equals("0"))
-                {
+                if (numResValue.equals("0")) {
 
-                }
-                else
-                {
+                } else {
 
                     try {
                         fileWriter.write(
@@ -251,72 +245,73 @@ public class App {
                         e1.printStackTrace();
                     }
 
-                WebElement pageSizElement = driver.findElement(By.id("pageSize"));
-                Select pageSizSelect = new Select(pageSizElement);
-                // update to 100 items per page
-                pageSizSelect.selectByVisibleText("100");
-                WebElement lastPageLink;
-                // exit the loop when last page is disabled
-                int offset = 0;
-                do {
-                    System.out.println("-page: " + (offset + 1));
-                    if (offset != 0) {
-                        String url = driver.getCurrentUrl();
-                        url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
-                        driver.navigate().to(url);
-                    }
-                    offset++;
+                    WebElement pageSizElement = driver.findElement(By.id("pageSize"));
+                    Select pageSizSelect = new Select(pageSizElement);
+                    // update to 100 items per page
+                    pageSizSelect.selectByVisibleText("100");
+                    WebElement lastPageLink;
+                    // exit the loop when last page is disabled
+                    int offset = 0;
+                    do {
+                        System.out.println("-page: " + (offset + 1));
+                        if (offset != 0) {
+                            String url = driver.getCurrentUrl();
+                            url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
+                            driver.navigate().to(url);
+                        }
+                        offset++;
 
-                    // wait to load full page
-                    try {
-                        Thread.sleep(3000);
-                    } catch (InterruptedException e1) {
-                        e1.printStackTrace();
-                    }
-
-                    lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
-
-                    // download the data
-                    List<WebElement> vehicleList = driver.findElements(By.className("result-title"));
-                    vehicleList.forEach(vehicle -> {
-                        System.out.println(vehicle.getAttribute("href"));
-
-                        WebDriver vehicleDriver = new ChromeDriver(chromeOptions);
-                        vehicleDriver.navigate().to(vehicle.getAttribute("href"));
-
-                        WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(3));
-                        w.until(ExpectedConditions.presenceOfElementLocated(By.className("hero-title")));
-
-                        String[] detailWards = vehicleDriver.findElement(By.className("hero-title")).getText()
-                                .replace("\n", " ").split(" ");
-                        String year = detailWards[0];
-                        String model = detailWards[2];
-
-                        String price = vehicleDriver.findElement(By.className("hero-price")).getText().replace("$", "")
-                                .replace(",", "");
-
-                        String[] vehicleSpecs = pullVehicleSpecs(vehicleDriver);
-
-                        String csvEntry = String.join(",", year, make, model, vehicleSpecs[0], vehicleSpecs[1],
-                                vehicleSpecs[2], vehicleSpecs[3],
-                                vehicleSpecs[4], vehicleSpecs[5], vehicleSpecs[6], vehicleSpecs[7], vehicleSpecs[8],
-                                vehicleSpecs[9], vehicleSpecs[10], vehicleSpecs[11], price) + "\n";
-
+                        // wait to load full page
                         try {
-                            fileWriter.write(csvEntry);
-                            fileWriter.flush();
-                        } catch (IOException e1) {
+                            Thread.sleep(3000);
+                        } catch (InterruptedException e1) {
                             e1.printStackTrace();
                         }
 
-                        System.out.println("--->" + csvEntry);
-                        vehicleDriver.close();
-                        vehicleDriver.quit();
+                        lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
 
-                    });
+                        // download the data
+                        List<WebElement> vehicleList = driver.findElements(By.className("result-title"));
+                        vehicleList.forEach(vehicle -> {
+                            System.out.println(vehicle.getAttribute("href"));
 
-                } while (!lastPageLink.getAttribute("class").contains("disabled"));
-                fileWriter.close();
+                            WebDriver vehicleDriver = new ChromeDriver(chromeOptions);
+                            vehicleDriver.navigate().to(vehicle.getAttribute("href"));
+
+                            WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(3));
+                            w.until(ExpectedConditions.presenceOfElementLocated(By.className("hero-title")));
+
+                            String[] detailWards = vehicleDriver.findElement(By.className("hero-title")).getText()
+                                    .replace("\n", " ").split(" ");
+                            String year = detailWards[0];
+                            String model = detailWards[2];
+
+                            String price = vehicleDriver.findElement(By.className("hero-price")).getText()
+                                    .replace("$", "")
+                                    .replace(",", "");
+
+                            String[] vehicleSpecs = pullVehicleSpecs(vehicleDriver);
+
+                            String csvEntry = String.join(",", year, make, model, vehicleSpecs[0], vehicleSpecs[1],
+                                    vehicleSpecs[2], vehicleSpecs[3],
+                                    vehicleSpecs[4], vehicleSpecs[5], vehicleSpecs[6], vehicleSpecs[7], vehicleSpecs[8],
+                                    vehicleSpecs[9], vehicleSpecs[10], vehicleSpecs[11], price) + "\n";
+
+                            try {
+                                fileWriter.write(csvEntry);
+                                fileWriter.flush();
+                            } catch (IOException e1) {
+                                e1.printStackTrace();
+                            }
+
+                            System.out.println("--->" + csvEntry);
+                            vehicleDriver.close();
+                            vehicleDriver.quit();
+
+                        });
+
+                    } while (!lastPageLink.getAttribute("class").contains("disabled"));
+                    fileWriter.close();
                 }
             } catch (IOException e1) {
                 e1.printStackTrace();
