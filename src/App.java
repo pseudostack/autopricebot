@@ -8,6 +8,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
+
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
@@ -155,6 +156,7 @@ public class App {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--remote-allow-origins=*");
         chromeOptions.addArguments("--window-position=-32000,-32000");
+
         WebDriver driver = new ChromeDriver(chromeOptions);
 
         driver.get("https://autotrader.ca");
@@ -251,6 +253,17 @@ public class App {
                         e1.printStackTrace();
                     }
 
+        File csvFile = new File("vehicle_listing_" + java.time.LocalDateTime.now() + ".csv");
+        FileWriter fileWriter = new FileWriter(csvFile);
+        // header
+        fileWriter.write("Year,Make,Model,Mileage,Price\n");
+
+        makeList.forEach(make -> {
+            if (!make.equals("Any Make")) {
+                System.out.println(make);
+                driver.navigate().to("https://autotrader.ca/cars/" + make + "/on");
+
+
                 WebElement pageSizElement = driver.findElement(By.id("pageSize"));
                 Select pageSizSelect = new Select(pageSizElement);
                 // update to 100 items per page
@@ -264,6 +277,23 @@ public class App {
                         String url = driver.getCurrentUrl();
                         url = url.replace("rcs=" + (offset - 1) * 100, "rcs=" + offset * 100);
                         driver.navigate().to(url);
+
+                    }
+                    offset++;
+
+                    // wait to load full page
+                    try {
+                        Thread.sleep(3000);
+                    } catch (InterruptedException e1) {
+                        e1.printStackTrace();
+                    }
+
+                    // save to csv file
+                    try {
+                        fileWriter.flush();
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+
                     }
                     offset++;
 
@@ -283,6 +313,7 @@ public class App {
 
                         WebDriver vehicleDriver = new ChromeDriver(chromeOptions);
                         vehicleDriver.navigate().to(vehicle.getAttribute("href"));
+
 
                         WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(3));
                         w.until(ExpectedConditions.presenceOfElementLocated(By.className("hero-title")));
@@ -305,9 +336,34 @@ public class App {
                         try {
                             fileWriter.write(csvEntry);
                             fileWriter.flush();
+
+                    lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
+
+                    // download the data
+                    List<WebElement> vehicleList = driver.findElements(By.className("result-item-inner"));
+                    vehicleList.forEach(vehicle -> {
+                        String[] detailWards = vehicle.findElement(By.className("listing-details")).getText()
+                                .replace("\n", " ").split(" ");
+                        String year = detailWards[0];
+                        String model = detailWards[2];
+                        List<WebElement> mileageElements = vehicle.findElements(By.className("kms"));
+                        if (mileageElements.isEmpty()) {
+                            return;
+                        }
+                        String mileage = mileageElements.get(0).getText().split(" ")[1].replace(",",
+                                "");
+                        String price = vehicle.findElement(By.id("price-amount-value")).getText().replace("$", "")
+                                .replace(",", "");
+
+                        String csvEntry = String.join(",", year, make, model, mileage, price) + "\n";
+
+                        try {
+                            fileWriter.write(csvEntry);
+
                         } catch (IOException e1) {
                             e1.printStackTrace();
                         }
+
 
                         System.out.println("--->" + csvEntry);
                         vehicleDriver.close();
@@ -323,6 +379,19 @@ public class App {
             }
 
         }
+
+
+                        System.out.println("---" + csvEntry);
+                    });
+
+                } while (!lastPageLink.getAttribute("class").contains("disabled"));
+
+            }
+        });
+
+        fileWriter.close();
+        driver.quit();
+        System.out.println("Done.");
 
     }
 }
