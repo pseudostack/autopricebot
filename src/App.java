@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.text.Format;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -141,7 +143,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         String CHROM_DRIVER_WINDOWS = "./chromedriver/chromedriver.exe";
-        String CHROM_DRIVER_MAC_OS = "./chromedriver/chromedriver";
+        String CHROM_DRIVER_MAC_OS = "/Users/angelena/Desktop/Programs/scrapebot/chromedriver/chromedriver";
         String WINDOWS = "WINDOWS";
 
         System.out.println("App Started.");
@@ -163,9 +165,46 @@ public class App {
 
         List<String> makeList = m.stream().map(e -> e.getText()).collect(Collectors.toList());
 
-        makeList.remove(makeList.indexOf("Acura"));
 
-        makeList.forEach(make -> extracted(chromeOptions, driver, make));
+        //Collections.reverse(makeList);
+
+        System.out.println(makeList.size());
+
+        List<String> myList =new ArrayList<String>();
+        /*    
+        for (int i = 0; i< 35; i++)
+        {
+                myList.add(makeList.get(i));
+        }
+*/
+
+ /*  
+        for (int i = 35; i< 70; i++)
+        {
+                myList.add(makeList.get(i));
+        }
+
+        */
+ /*  
+        for (int i = 70; i< 105; i++)
+        {
+                myList.add(makeList.get(i));
+        }
+
+        */
+        for (int i = 105; i< 140; i++)
+        {
+                myList.add(makeList.get(i));
+        }
+
+        try {
+            myList.remove(myList.indexOf("Acura"));
+         myList.remove(myList.indexOf("Alfa Romeo"));
+        myList.remove(myList.indexOf("Audi"));
+        }
+     catch (Exception er) {
+     }
+        myList.forEach(make -> extracted(chromeOptions, driver, make));
 
         driver.quit();
         System.out.println("Done.");
@@ -188,16 +227,29 @@ public class App {
             }
 
             try (FileWriter fileWriter = new FileWriter(csvFile)) {
-                try {
-                    fileWriter.write(
-                            "Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price\n");
-                } catch (IOException e1) {
-                    e1.printStackTrace();
-                }
+
 
                 String within25KmToronto = "/on/toronto/?rcp=15&rcs=0&srt=35&prx=25&prv=Ontario&loc=M3C%200E3&hprc=True&wcp=True&iosp=True&sts=New-Used&inMarket=advancedSearch";
 
                 driver.navigate().to("https://autotrader.ca/cars/" + make + within25KmToronto);
+
+
+                WebElement numResults = driver.findElement(By.id("titleCount"));
+                String numResValue = numResults.getText();
+
+                if (numResValue.equals("0"))
+                {
+
+                }
+                else
+                {
+
+                    try {
+                        fileWriter.write(
+                                "Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price\n");
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    }
 
                 WebElement pageSizElement = driver.findElement(By.id("pageSize"));
                 Select pageSizSelect = new Select(pageSizElement);
@@ -265,6 +317,7 @@ public class App {
 
                 } while (!lastPageLink.getAttribute("class").contains("disabled"));
                 fileWriter.close();
+                }
             } catch (IOException e1) {
                 e1.printStackTrace();
             }
