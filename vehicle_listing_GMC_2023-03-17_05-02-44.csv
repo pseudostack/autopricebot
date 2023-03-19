@@ -1,0 +1,623 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2023,GMC,Terrain,10 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,44433
+2022,GMC,Yukon,7875 km,SUV,6.2,Automatic,4x4,Midnight Blue Metallic,Beige,7,4,Gas,16.3L/100km,12.7L/100km,105888
+2020,GMC,Canyon,77400 km,Crew Cab,3.6L,Automatic,4x4,Summit White,Dark Grey,5,4,Diesel,14.0L/100km,9.9L/100km,37495
+2016,GMC,Yukon,127750 km,SUV,8 Cylinder Engine,Automatic,AWD,Onyx Black,Black,null,4,Gas,null,null,42980
+2020,GMC,Sierra,66481 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Black,Black,5,4,Gas,14.3L/100km,10.6L/100km,57395
+2017,GMC,Sierra,140928 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Grey,Black,5,4,Gas,15.0L - 15.9L/100km,10.7L - 11.5L/100km,32888
+2022,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,57448
+2023,GMC,Acadia,6 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,58778
+2022,GMC,Sierra,7 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Summit White,Black,null,2,Gas,15.4L/100km,12.3L/100km,67993
+2016,GMC,Acadia,110013 km,SUV,3.6L V6 SIDI,Automatic,AWD,Ebony Twilight Metallic,Black,null,4,Gas,null,null,19925
+2018,GMC,Terrain,103850 km,SUV,Turbo Diesel I4 1.6L/,Automatic,AWD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,24900
+2019,GMC,Terrain,50223 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Red Quartz Tintcoat,Black,5,4,Gas,11.2L/100km,9.0L/100km,28997
+2018,GMC,Terrain,73143 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,11.2L/100km,9.0L/100km,29087
+2020,GMC,Savana,62985 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,43995
+2017,GMC,Acadia,93277 km,SUV,V6 Cylinder Engine,Automatic,AWD,Crimson Red Tintcoat,Grey,6,4,Gas,11.2L - 13.3L/100km,9.4L - 9.5L/100km,29394
+2019,GMC,Terrain,65327 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,11.2L/100km,9.0L/100km,31387
+2019,GMC,Terrain,75152 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,White,5,4,Gas,11.2L/100km,9.0L/100km,32387
+2018,GMC,Acadia,72094 km,SUV,V6 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,Black,6,4,Gas,13.3L/100km,9.5L/100km,32387
+2017,GMC,Sierra,127672 km,Truck,5.3L 8cyl,6 Speed Automatic,4x4,Red,Black,5,4,Gas,null,null,33888
+2017,GMC,Acadia,80928 km,SUV,V6 Cylinder Engine 3.6L,Automatic,AWD,Ebony Twilight Metallic,Black,null,4,Gas,null,null,35338
+2020,GMC,Terrain,38820 km,SUV,4 Cylinder Engine,Automatic,AWD,White,null,null,null,Gas,11.2L/100km,9.0L/100km,36695
+2016,GMC,Canyon,28151 km,Truck,6 Cylinder,Automatic,4x4,Onyx Black,Black,5,4,Gas,13.6L/100km,9.9L/100km,36800
+2019,GMC,Canyon,98488 km,Crew Cab,3.6L DOHC DI V6 W/VVT,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,14.0L/100km,9.9L/100km,36900
+2020,GMC,Terrain,31995 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.2L/100km,9.0L/100km,34342
+2019,GMC,Sierra,104082 km,Truck,8 Cylinder Engine,Automatic,4x4,Onyx Black,null,null,4,Flexible,null,null,37995
+2019,GMC,Sierra,74622 km,Truck,8 Cylinder Engine,Automatic,4x4,Stone Blue Metallic,Black,null,4,Flexible,null,null,37995
+2019,GMC,Canyon,113516 km,Crew Cab,DURAMAX 2.8L TURBO DIESEL,6 Speed Automatic,4x4,Dark Sky Metallic,Black,5,4,Diesel,12.2L/100km,8.4L/100km,38500
+2021,GMC,Canyon,53345 km,Truck,3.6L 6cyl,Automatic,4x4,Onyx Black,Black,5,4,Gas,14.9L/100km,10.9L/100km,40000
+2020,GMC,Savana,118000 km,Van Extended,V6 Cylinder Engine,8 Speed Automatic,RWD,Summit White,null,2,3,Gas,null,null,41988
+2020,GMC,Savana,71583 km,Minivan,Gas/Ethanol V8 6.0L/364,Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,41998
+2020,GMC,Savana,57628 km,Minivan,6.0L V8,Automatic,RWD,Summit White,null,null,null,Flexible,null,null,43995
+2020,GMC,Savana,56555 km,Minivan,Gas/Ethanol V8 6.0L/364,Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,44494
+2022,GMC,Terrain,10956 km,SUV,4 Cylinder Engine 1.5L,Automatic,AWD,Ebony Twilight Metallic,White,null,4,Gas,9.6L/100km,8.3L/100km,44591
+2022,GMC,Sierra,35 km,Truck,2.7L TURBO HIGH-OUTPUT,Automatic,4x4,Onyx Black,Black,6,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,52985
+2020,GMC,Savana,73701 km,Minivan,4.3 L,Automatic,RWD,Summit White,Grey,null,3,Gas,null,null,46998
+2018,GMC,SIERRA,158370 km,Crew Cab,DURAMAX(R) DIESEL 6.6L V8,6 Speed Automatic,RWD,Onyx Black,Black,6,4,Diesel,null,null,49900
+2021,GMC,Sierra,42806 km,Truck,5.3 L,Automatic,4x4,Summit White,Black,null,4,Gas,15.2L/100km,11.1L/100km,52497
+2021,GMC,Sierra,74033 km,Truck,3.0 L,Automatic,4x4,null,Black,null,4,Diesel,10.6L/100km,9.2L/100km,53473
+2021,GMC,Sierra,44443 km,Truck,3.0 L,Automatic,4x4,Grey,Black,null,4,Diesel,10.6L/100km,9.2L/100km,54692
+2021,GMC,Sierra,26777 km,Truck,8 Cylinder Engine,Automatic,4WD,Black,null,5,null,Gas,14.3L - 15.3L/100km,10.7L - 11.0L/100km,61445
+2017,GMC,Sierra,154842 km,Crew Cab,Duramax 6.6L V8 Turbodiesel,Automatic,4x4,Onyx Black,Black,5,4,Diesel,null,null,61900
+2020,GMC,Sierra,72000 km,Crew Cab,DURAMAX 3.0 TURBO-DIESEL,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Diesel,10.5L/100km,9.1L/100km,61901
+2021,GMC,Sierra,44515 km,Truck,Straight 6 Cylinder Engine,Automatic,4x4,Black,Black,null,4,Diesel,10.6L/100km,9.2L/100km,64887
+2014,GMC,SIERRA,240519 km,Crew Cab,322HP 6.0L 8 Cylinder Engine,Automatic,4WD,Summit White,null,null,4,Gas,null,null,17600
+2021,GMC,Sierra,35134 km,Truck,8 Cylinder Engine,Automatic,4x4,null,null,5,4,Gas,10.6L/100km,9.2L/100km,66995
+2022,GMC,Sierra,21577 km,Truck,3.0 L,Automatic,4x4,Quicksilver Metallic,Black,null,4,Diesel,10.5L/100km,9.1L/100km,67999
+2021,GMC,Sierra,17995 km,Truck,8 Cylinder Engine,Automatic,4x4,Onyx Black,null,5,4,Gas,10.6L/100km,9.2L/100km,76995
+2022,GMC,Sierra,25230 km,Truck,5.3 L,Automatic,4x4,Onyx Black,Black,null,4,Gas,15.7L/100km,11.9L/100km,80999
+2022,GMC,Yukon,17823 km,SUV,6.2 L,Automatic,4x4,Onyx Black,Black,null,4,Gas,16.3L/100km,12.7L/100km,102999
+2017,GMC,Terrain,130652 km,SUV,2.4L I4,Automatic,FWD,Black,null,null,null,Gas,null,null,15995
+2018,GMC,Acadia,78860 km,SUV,3.6,6 Speed Automatic,FWD,Ebony Twilight Metallic,Grey,7,4,Gas,13.0L/100km,9.3L/100km,30888
+2017,GMC,Savana,147271 km,Minivan,V-8 cyl,6 Speed Automatic,RWD,Summit White,Dark Grey,null,null,Gas,null,null,33997
+2020,GMC,Terrain,31995 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.2L/100km,9.0L/100km,34342
+2021,GMC,Savana,97935 km,Minivan,V6 Cylinder Engine,null,RWD,Not Specified,null,null,3,Gas,null,null,41995
+2018,GMC,Sierra,122000 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,42995
+2020,GMC,Sierra,41698 km,Extended Cab,8 Cylinder Engine,null,4x4,Black,null,null,null,Gas,14.3L/100km,10.6L/100km,45900
+2022,GMC,Sierra,21586 km,Truck,Straight 6 Cylinder Engine,10 Speed Automatic,4x4,Summit White,Black,5,4,Diesel,10.5L - 11.8L/100km,9.1L - 10.3L/100km,69988
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,25 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,97188
+2016,GMC,Sierra,143150 km,Truck,V8,Automatic,4x4,Burgundy,Black,null,null,Gas,15.0L/100km,10.7L/100km,37500
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,97188
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,97188
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,102918
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,102918
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,102918
+2022,GMC,Yukon,7875 km,SUV,6.2,Automatic,4x4,Midnight Blue Metallic,Beige,7,4,Gas,16.3L/100km,12.7L/100km,105888
+2010,GMC,Acadia,210008 km,SUV,V6 Cylinder Engine 3.6L,Automatic,FWD,Carbon Black Metallic,null,null,4,Gas,12.7L/100km,8.4L/100km,7888
+2019,GMC,Terrain,130065 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,4,Gas,9.6L/100km,8.3L/100km,22995
+2017,GMC,Sierra,169341 km,Truck Double Cab,V-8 cyl,Automatic,4x4,Stone Blue Metallic,Black,5,4,Regular Unleaded,null,null,25395
+2023,GMC,Terrain,35 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Volcanic Red Tintcoat,null,5,4,Gas,9.9L/100km,8.3L/100km,47478
+2023,GMC,Acadia,35 km,SUV,228HP 2.0L 4 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,null,7,4,Gas,10.8L/100km,8.7L/100km,54943
+2023,GMC,Sierra,35 km,Truck,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,6,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,57613
+2022,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,58378
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,60563
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,60563
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,13.1L/100km,11.6L/100km,68293
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.1L/100km,11.6L/100km,68548
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Sterling Metallic,null,5,4,Gas,14.8L/100km,11.8L/100km,74678
+2019,GMC,Terrain,61409 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue Steel Metallic,null,null,null,Gas,11.2L/100km,9.0L/100km,33450
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Cardinal Red,null,5,4,Gas,14.8L/100km,11.8L/100km,74933
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Volcanic Red Tintcoat,null,5,4,Gas,14.8L/100km,11.8L/100km,75273
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Dynamic Blue Metallic,null,5,4,Gas,14.8L/100km,11.8L/100km,75428
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Titanium Rush Metallic,null,5,4,Gas,14.8L/100km,11.8L/100km,76548
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Sterling Metallic,null,5,4,Gas,14.8L/100km,11.8L/100km,79683
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,null,null,5,4,Diesel,null,null,84088
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,100788
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,100788
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,100788
+2020,GMC,Savana,50854 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,44395
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Diesel,null,null,100788
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,100788
+2023,GMC,Sierra,35 km,Crew Cab,420HP 6.2L 8 Cylinder Engine,Automatic,4WD,Dynamic Blue Metallic,null,5,4,Gas,16.7L/100km,14.0L/100km,101538
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Diesel,null,null,107808
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,109248
+2023,GMC,Sierra,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,Ebony Twilight Metallic,null,5,4,Diesel,null,null,109808
+2001,GMC,Sierra,237908 km,Truck Extended Cab,4.8,Automatic,RWD,Red,Charcoal,null,2,Gas,15.3L - 16.8L/100km,10.0L - 10.9L/100km,7980
+2014,GMC,Terrain,231458 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,Black,null,null,4,Gas,9.2L/100km,6.1L/100km,8995
+2017,GMC,Acadia,94551 km,SUV,2.5L DOHC 4-CYLINDER SIDI,Automatic,AWD,TAN.,Black,null,2,Gas,11.0L/100km,9.2L/100km,25498
+2018,GMC,SIERRA,100845 km,Truck,6.6L 8cyl,6 Speed Automatic,4x4,Grey,Black,5,4,Diesel,null,null,59995
+2023,GMC,Terrain,35 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Summit White,null,5,4,Gas,9.9L/100km,8.3L/100km,37898
+2019,GMC,Sierra,70705 km,Crew Cab,5.3L 8cyl,6 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,42999
+2023,GMC,Terrain,35 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Sterling Metallic,null,5,4,Gas,9.9L/100km,8.3L/100km,46883
+2023,GMC,Terrain,35 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,null,5,4,Gas,9.9L/100km,8.3L/100km,47688
+2023,GMC,Terrain,35 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,White Frost Tricoat,null,5,4,Gas,9.9L/100km,8.3L/100km,48078
+2023,GMC,Acadia,35 km,SUV,228HP 2.0L 4 Cylinder Engine,Automatic,AWD,null,null,7,4,Gas,10.8L/100km,8.7L/100km,62843
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Sterling Metallic,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,63443
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,63443
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,63443
+2020,GMC,Savana,47678 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,45495
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,63443
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,64168
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,64168
+2020,GMC,GMCSavana_3500,133074 km,null,null,null,null,White,null,null,null,Gas,null,null,64800
+2018,GMC,GMCSavana_4500,68320 km,null,null,null,null,White,null,null,null,Gas,null,null,69800
+2023,GMC,SIERRA,35 km,Truck,401HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,6,4,Gas,null,null,70333
+2021,GMC,Sierra,26777 km,Truck,8 Cylinder Engine,Automatic,4WD,Black,null,5,null,Gas,14.3L - 15.3L/100km,10.7L - 11.0L/100km,61445
+2019,GMC,Canyon,98488 km,Crew Cab,3.6L DOHC DI V6 W/VVT,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,14.0L/100km,9.9L/100km,36900
+2019,GMC,Canyon,113516 km,Crew Cab,DURAMAX 2.8L TURBO DIESEL,6 Speed Automatic,4x4,Dark Sky Metallic,Black,5,4,Diesel,12.2L/100km,8.4L/100km,38500
+2017,GMC,Sierra,154842 km,Crew Cab,Duramax 6.6L V8 Turbodiesel,Automatic,4x4,Onyx Black,Black,5,4,Diesel,null,null,61900
+2020,GMC,Terrain,31995 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.2L/100km,9.0L/100km,34342
+2020,GMC,Savana,48589 km,Minivan,6.0L 8cyl,6 Speed Automatic,RWD,Summit White,Beige,2,2,Gas,null,null,46988
+2021,GMC,Yukon,88552 km,SUV,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,6,5,Gas,14.8L - 15.5L/100km,11.8L - 12.0L/100km,58888
+2022,GMC,Sierra,5 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,56883
+2022,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,57448
+2023,GMC,SIERRA,35 km,Truck,401HP 6.6L 8 Cylinder Engine,Automatic,4WD,Summit White,null,6,4,Gas,null,null,70333
+2023,GMC,Sierra,35 km,Crew Cab,310HP 2.7L 4 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,13.1L/100km,11.6L/100km,70528
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,14.8L/100km,11.8L/100km,74668
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,14.8L/100km,11.8L/100km,74678
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,94528
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Onyx Black,null,5,4,Gas,14.8L/100km,11.8L/100km,76053
+2023,GMC,Sierra,35 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,14.8L/100km,11.8L/100km,79683
+2020,GMC,Savana,63047 km,null,null,null,null,White,null,null,null,Gas,null,null,79800
+2023,GMC,Sierra,35 km,Crew Cab,420HP 6.2L 8 Cylinder Engine,Automatic,4WD,Summit White,null,5,4,Gas,16.7L/100km,14.0L/100km,101043
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,null,null,5,4,Diesel,null,null,106013
+2023,GMC,SIERRA,35 km,Crew Cab,445HP 6.6L 8 Cylinder Engine,Automatic,4WD,null,null,5,4,Diesel,null,null,106013
+2023,GMC,Yukon,90 km,SUV,8 Cylinder Engine,Automatic,4x4,Onyx Black,null,7,4,Gas,15.8L/100km,11.8L/100km,107995
+2010,GMC,Acadia,274000 km,SUV,3.6L,Automatic,null,null,null,null,null,null,null,null,5900
+2011,GMC,Terrain,95541 km,SUV,2.4,Automatic,FWD,Summit White,Black,null,4,Gas,9.2L/100km,6.1L/100km,13980
+2019,GMC,Savana,59322 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,41495
+2015,GMC,Sierra,150652 km,Regular Cab,8 Cylinder Engine,Automatic,4WD,null,null,5,null,Gas,14.9L/100km,10.7L/100km,19998
+2015,GMC,Yukon,199880 km,SUV,8 Cylinder Engine,6 Speed Automatic,4WD,Onyx Black,null,null,null,Gas,null,null,24590
+2020,GMC,Sierra,86242 km,Regular Cab,8 Cylinder Engine,Automatic,4WD,Summit White,Grey,5,null,Gas,14.3L/100km,10.6L/100km,35880
+2021,GMC,Sierra,29500 km,Crew Cab,5.3L ECOTEC3 V8,null,4x4,Onyx Black,null,null,null,Gas,14.3L - 15.3L/100km,10.7L - 11.0L/100km,64900
+2020,GMC,Yukon,34295 km,SUV,8 Cylinder Engine,Automatic,4WD,null,null,null,null,Gas,17.2L/100km,11.4L/100km,71999
+2017,GMC,Sierra,22000 km,Regular Cab,8 Cylinder Engine,Automatic,4WD,Quicksilver Metallic,null,null,null,Gas,null,null,31995
+2012,GMC,Acadia,192218 km,SUV,3.6L V6 288HP 270FT. LBS.,Automatic,FWD,Quicksilver Metallic,Black,null,4,Gas,12.7L/100km,8.4L/100km,8990
+2012,GMC,Canyon,150000 km,Truck,4 Cylinder Engine,5 Speed Manual,RWD,Summit White,Dark Grey,3,2,Gas,11.3L/100km,7.8L - 8.1L/100km,10888
+2017,GMC,Terrain,165490 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Black,Black,5,4,Gas,null,null,14888
+2020,GMC,Savana,57735 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,43495
+2016,GMC,Sierra,200000 km,Truck,V6 Cylinder Engine,6 Speed Automatic,RWD,Summit White,Grey,3,2,Flexible,13.5L/100km,10.0L/100km,14888
+2013,GMC,Sierra,225189 km,Truck,4.8,Automatic,4x4,Onyx Black,null,6,null,Other,15.9L/100km,11.2L/100km,16995
+2010,GMC,Sierra,100000 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Summit White,Black,3,2,Gas,null,null,18888
+2017,GMC,Terrain,114269 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Gas,11.5L/100km,8.3L/100km,20888
+2018,GMC,Terrain,90486 km,SUV,1.5L 4cyl,9 Speed Automatic,FWD,Brown,Black,5,5,Gas,9.2L/100km,7.9L/100km,22288
+2018,GMC,Sierra,170000 km,Truck,6 Cylinder Engine,6 Speed Automatic,RWD,Summit White,Dark Grey,6,4,Gas,13.4L/100km,10.0L/100km,24900
+2019,GMC,Terrain,37424 km,SUV,1.5,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.6L/100km,8.3L/100km,24995
+2018,GMC,Terrain,62711 km,SUV,1.5L 4cyl,6 Speed Automatic,AWD,Red Quartz Tintcoat,Black,null,4,Gas,9.6L/100km,8.3L/100km,25990
+2016,GMC,Canyon,113946 km,Truck,3.6L 6cyl,6 Speed Automatic,4x4,Grey,Black,5,4,Gas,13.6L/100km,9.9L/100km,28888
+2021,GMC,Sierra,35029 km,Regular Cab,3.0L I6,Automatic,4x4,Summit White,Black,null,4,Diesel,10.6L/100km,9.2L/100km,55195
+2019,GMC,Terrain,56053 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,11.2L/100km,9.0L/100km,28990
+2019,GMC,Terrain,52145 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,5,Gas,9.6L/100km,8.3L/100km,29888
+2019,GMC,Acadia,150234 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,5,Gas,13.5L/100km,9.5L/100km,29977
+2017,GMC,Acadia,70648 km,SUV,3.6,6 Speed Automatic,AWD,White Frost Tricoat,Black,7,4,Gas,11.2L - 13.3L/100km,9.4L - 9.5L/100km,29995
+2016,GMC,Sierra,121142 km,Truck Extended Cab,5.3,Automatic,4x4,Summit White,Black,null,4,Gas,15.0L/100km,10.7L/100km,29998
+2020,GMC,Terrain,61371 km,SUV,2.0L,Automatic,AWD,Blue Emerald Metallic,Black,5,4,Gas,9.5L/100km,8.3L/100km,30199
+2017,GMC,Savana,119850 km,Minivan,8 Cylinder,Automatic,RWD,Summit White,Grey,2,3,Gas,null,null,31888
+2017,GMC,Savana,126000 km,Minivan,8 Cylinder,Automatic,RWD,Summit White,Grey,2,3,Gas,null,null,31888
+2018,GMC,Sierra,159000 km,Truck,5.3,Automatic,4x4,White,Grey,null,4,Gas,15.0L/100km,10.7L/100km,31888
+2019,GMC,SIERRA,112002 km,Extended Cab,Vortec 6.0L V8 SFI Flex Fuel VVT,6 Speed Automatic,4x4,Summit White,Grey,null,4,Gas,null,null,39999
+2019,GMC,Terrain,98200 km,SUV,4 Cylinder Engine,Automatic,AWD,Red Quartz Tintcoat,Black,5,4,Gas,11.2L/100km,9.0L/100km,33500
+2018,GMC,Savana,150000 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Grey,2,3,Gas,null,null,33900
+2017,GMC,Sierra,83771 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Grey,Grey,5,4,Gas,15.0L/100km,10.7L/100km,33995
+2018,GMC,Terrain,55657 km,SUV,2.0L 4cyl,9 Speed Automatic,AWD,Red Quartz Tintcoat,Black,5,4,Premium Unleaded,11.2L/100km,9.0L/100km,33999
+2018,GMC,Canyon,107046 km,Truck,3.6L 6cyl,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,14.1L/100km,10.0L/100km,34995
+2022,GMC,Terrain,16000 km,SUV,1.5L DOHC,9 Speed Automatic,AWD,Ebony Twilight Metallic,null,5,4,Gas,9.6L/100km,8.3L/100km,35043
+2017,GMC,SIERRA,188071 km,Crew Cab,6.0L V8 OHV 16V FFV,Automatic,4x4,Stone Blue Metallic,Black,null,4,Gas,null,null,36999
+2020,GMC,Canyon,77400 km,Crew Cab,3.6L,Automatic,4x4,Summit White,Dark Grey,5,4,Diesel,14.0L/100km,9.9L/100km,37495
+2020,GMC,Terrain,37559 km,SUV,2.0L 4cyl,9 Speed Automatic,AWD,White,White,5,5,Premium Unleaded,11.2L/100km,9.0L/100km,37888
+2023,GMC,Terrain,1 km,SUV,Turbocharged Gas/E15 I4 1.5L/-TBD-,Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,47338
+2020,GMC,Terrain,55091 km,SUV,2.0L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,5,Premium Unleaded,11.2L/100km,9.0L/100km,37888
+2020,GMC,Terrain,27350 km,SUV,2.0L Turbo 4 Cyl.,9 Speed Automatic,AWD,White Frost Tricoat,Black,5,4,Gas,11.2L/100km,9.0L/100km,38985
+2019,GMC,SIERRA,164534 km,Crew Cab,6.0L V8 OHV 16V FFV,Automatic,4x4,Quicksilver Metallic,Black,null,4,Gas,null,null,39999
+2016,GMC,Sierra,147700 km,Truck Crew Cab,5.3,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,39999
+2019,GMC,Savana,79000 km,Minivan,6 Cylinder,Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,40888
+2020,GMC,Sierra,70165 km,Truck,4.3L 6cyl,6 Speed Automatic,4x4,Black,Black,5,4,Gas,15.7L/100km,12.0L/100km,41500
+2017,GMC,Yukon,146700 km,SUV,8 Cylinder Engine,Automatic,4x4,White,Black,8,4,Gas,null,null,41999
+2019,GMC,Savana,68291 km,Minivan,6.0L 8cyl,8 Speed Automatic,RWD,Summit White,Black,2,2,Gas,null,null,42750
+2016,GMC,Yukon,127750 km,SUV,8 Cylinder Engine,Automatic,AWD,Onyx Black,Black,null,4,Gas,null,null,42980
+2017,GMC,Sierra,129209 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,White,Black,6,4,Gas,15.0L/100km,10.7L/100km,37995
+2020,GMC,Savana,72000 km,Minivan,6 Cylinder,Automatic,RWD,Summit White,Black,2,3,Gas,null,null,43778
+2019,GMC,SIERRA,88218 km,Crew Cab,6.0L V8 OHV 16V FFV,Automatic,4x4,Quicksilver Metallic,Grey,null,4,Gas,null,null,44999
+2019,GMC,SIERRA,114950 km,Crew Cab,6.0L V8 OHV 16V FFV,Automatic,4x4,Stone Blue Metallic,Black,null,4,Gas,null,null,44999
+2020,GMC,Sierra,134054 km,Crew Cab,5.3L V8 OHV 16V,Automatic,4x4,Grey,Grey,null,4,Gas,14.3L/100km,10.6L/100km,44999
+2020,GMC,Savana,62202 km,Minivan,6.0L 8cyl,6 Speed Automatic,RWD,Summit White,Beige,2,2,Gas,null,null,45991
+2020,GMC,Savana,48589 km,Minivan,6.0L 8cyl,6 Speed Automatic,RWD,Summit White,Beige,2,2,Gas,null,null,46988
+2020,GMC,SIERRA,107257 km,Crew Cab,6.6L V8 OHV 16V,Automatic,4x4,Red,Black,null,4,Gas,null,null,47999
+2017,GMC,Yukon,89274 km,SUV,6.2L 8cyl,8 Speed Automatic,4x4,null,null,null,2,Premium Unleaded,15.9L/100km,11.1L/100km,48995
+2020,GMC,SIERRA,91304 km,Crew Cab,6.6L V8 OHV 16V,Automatic,4x4,Pacific Blue Metallic,Blue,null,4,Gas,null,null,49999
+2021,GMC,SIERRA,61140 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Summit White,Black,5,4,Diesel,null,null,80899
+2018,GMC,Yukon,73998 km,SUV,5.3L,Automatic,4WD,Onyx Black,null,null,null,Gas,null,null,53995
+2020,GMC,Sierra,66481 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Black,Black,5,4,Gas,14.3L/100km,10.6L/100km,57395
+2021,GMC,Yukon,88552 km,SUV,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,6,5,Gas,14.8L - 15.5L/100km,11.8L - 12.0L/100km,58888
+2021,GMC,Sierra,74306 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Black,Black,5,4,Diesel,10.6L/100km,9.2L/100km,60995
+2018,GMC,Sierra,169000 km,Regular Cab,8 Cylinder,Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,69888
+2022,GMC,Sierra,25419 km,Truck,EcoTec3 6.2L V8,10 Speed Automatic,4x4,Black,Black,null,null,Gas,16.6L/100km,12.3L/100km,73900
+2022,GMC,Sierra,19887 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Cayenne Red Tintcoat,Black,5,4,Diesel,10.5L - 11.8L/100km,9.1L - 10.3L/100km,79990
+2010,GMC,Acadia,236000 km,SUV,V6 Cylinder Engine,Automatic,FWD,Black,Black,null,null,Gas,12.7L/100km,8.4L/100km,6995
+2012,GMC,Acadia,178095 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Dark Blue,Black,7,4,Gas,13.1L/100km,8.8L/100km,10999
+2022,GMC,Sierra,15785 km,Truck,6.2,Automatic,4x4,Red,Grey,null,4,Gas,11.8L/100km,10.3L/100km,71995
+2015,GMC,Terrain,159393 km,SUV,4 Cylinder Engine,Automatic,AWD,Silver,Black,null,4,Gas,null,null,11995
+2014,GMC,Acadia,116950 km,SUV,V6,Automatic,FWD,Beige,Black,7,4,Gas,12.7L/100km,8.4L/100km,13499
+2014,GMC,Terrain,107000 km,SUV,2.4,Automatic,AWD,Black,null,5,4,Gas,null,null,13500
+2015,GMC,Acadia,212000 km,SUV,3.6,Automatic,FWD,White,Grey,7,4,Gas,null,null,13950
+2014,GMC,Savana,287000 km,Minivan,4.8 lt.,Automatic,RWD,White,null,null,null,Gas,19.1L/100km,12.1L/100km,14995
+2014,GMC,Acadia,184659 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Silver,Black,null,4,Gas,13.3L/100km,8.8L/100km,15990
+2016,GMC,Sierra,228000 km,Quad Cab,V6 Cylinder Engine,Automatic,4x4,Black,Light Grey,6,4,Gas,13.8L/100km,10.7L/100km,17500
+2014,GMC,Sierra,160000 km,Crew Cab,5.3,Automatic,4x4,Black,Grey,null,4,Other,13.3L/100km,9.0L/100km,18950
+2015,GMC,Sierra,195000 km,Truck Crew Cab,5.3,Automatic,4x4,Red,Light Grey,6,4,Gas,13.3L/100km,9.0L/100km,18995
+2023,GMC,SIERRA,10 km,Crew Cab,Gas V8 6.6L/,Automatic,4x4,Summit White,Black,6,4,Gas,null,null,71598
+2017,GMC,Sierra,195000 km,Crew Cab,8 Cylinder Engine,Automatic,4x4,Silver,Grey,null,4,Gas,15.0L/100km,10.7L/100km,20995
+2018,GMC,Sierra,210000 km,Truck Double Cab,8 Cylinder Engine,Automatic,4x4,Not Specified,null,null,4,Gas,15.0L/100km,10.7L/100km,22995
+2018,GMC,Terrain,124547 km,SUV,137HP 1.6L 4 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,null,null,4,Diesel,8.5L/100km,6.1L/100km,24990
+2017,GMC,Sierra,237000 km,Truck Double Cab,5.3,Automatic,4x4,Black,Charcoal,5,4,Gas,15.0L/100km,10.7L/100km,24999
+2018,GMC,Sierra,231000 km,Crew Cab,5.3L,Automatic,4x4,Blue,Black,5,4,Gas,15.0L/100km,10.7L/100km,27000
+2018,GMC,Sierra,171000 km,Truck,EcoTec3 5.3L V8,6 Speed Automatic,4x4,Onyx Black,Black,null,4,Gas,null,null,27861
+2018,GMC,Sierra,216621 km,Truck Crew Cab,5.3,6 Speed Automatic,4x4,Summit White,Grey,6,4,Gas,15.0L/100km,10.7L/100km,27995
+2017,GMC,Sierra,140928 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Grey,Black,5,4,Gas,15.0L - 15.9L/100km,10.7L - 11.5L/100km,32888
+2014,GMC,Sierra,114000 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Dark Green,Black,3,2,Flexible,null,null,34888
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Titanium Rush Metallic,null,5,4,Gas,15.4L/100km,12.3L/100km,108993
+2020,GMC,Terrain,64126 km,SUV,2.0L Turbo 4 Cyl.,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,11.2L/100km,9.0L/100km,35985
+2019,GMC,Canyon,100501 km,Crew Cab,3.6L,Automatic,4x4,Smokey Quartz Metallic,Black,5,4,Gas,12.2L/100km,8.4L/100km,36789
+2018,GMC,Sierra,102122 km,Truck,5.3L 8cyl,Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,38990
+2017,GMC,SIERRA,163200 km,Crew Cab,6.0L V8 OHV 16V FFV,Automatic,4x4,Summit White,Black,null,4,Gas,null,null,41999
+2015,GMC,SIERRA,116209 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Summit White,Grey,6,4,Gas,null,null,42995
+2020,GMC,Sierra,21644 km,Truck,8 Cylinder Engine,Automatic,4x4,Black,null,null,4,Gas,14.3L/100km,10.6L/100km,49985
+2021,GMC,Sierra,26777 km,Truck,8 Cylinder Engine,Automatic,4WD,Black,null,5,null,Gas,14.3L - 15.3L/100km,10.7L - 11.0L/100km,61445
+2019,GMC,Canyon,98488 km,Crew Cab,3.6L DOHC DI V6 W/VVT,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,14.0L/100km,9.9L/100km,36900
+2019,GMC,Canyon,113516 km,Crew Cab,DURAMAX 2.8L TURBO DIESEL,6 Speed Automatic,4x4,Dark Sky Metallic,Black,5,4,Diesel,12.2L/100km,8.4L/100km,38500
+2017,GMC,Sierra,154842 km,Crew Cab,Duramax 6.6L V8 Turbodiesel,Automatic,4x4,Onyx Black,Black,5,4,Diesel,null,null,61900
+2020,GMC,Sierra,72000 km,Crew Cab,DURAMAX 3.0 TURBO-DIESEL,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Diesel,10.5L/100km,9.1L/100km,61901
+2017,GMC,Terrain,130652 km,SUV,2.4L I4,Automatic,FWD,Black,null,null,null,Gas,null,null,15995
+2020,GMC,Terrain,31995 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.2L/100km,9.0L/100km,34342
+2020,GMC,Savana,48589 km,Minivan,6.0L 8cyl,6 Speed Automatic,RWD,Summit White,Beige,2,2,Gas,null,null,46988
+2021,GMC,Yukon,88552 km,SUV,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,6,5,Gas,14.8L - 15.5L/100km,11.8L - 12.0L/100km,58888
+2019,GMC,Sierra,4000 km,Crew Cab,5.3L V8,Automatic,4x4,White,Dark Grey,5,4,Gas,15.3L/100km,11.2L/100km,50990
+2021,GMC,Sierra,48924 km,Truck,8 Cylinder Engine,Automatic,4x4,Black,null,null,4,Gas,15.2L/100km,11.1L/100km,52025
+2020,GMC,Sierra,133165 km,Extended Cab,6.2L,Automatic,4x4,Black,Black,5,4,Gas,15.5L/100km,11.9L/100km,53998
+2021,GMC,Sierra,37927 km,Truck,8 Cylinder Engine,Automatic,4x4,Summit White,null,null,4,Gas,15.2L/100km,11.1L/100km,54985
+2018,GMC,SIERRA,100845 km,Truck,6.6L 8cyl,6 Speed Automatic,4x4,Grey,Black,5,4,Diesel,null,null,59995
+2021,GMC,Sierra,21678 km,Truck,8 Cylinder Engine,Automatic,4x4,Black,null,null,4,Gas,15.2L/100km,11.1L/100km,54985
+2021,GMC,Sierra,25000 km,Truck,8 Cylinder Engine,Automatic,4x4,Black,null,null,4,Gas,15.2L/100km,11.1L/100km,54985
+2023,GMC,Acadia,10 km,SUV,310HP 3.6L V6 Cylinder Engine,Automatic,AWD,Ebony Twilight Metallic,Black,null,4,Gas,12.6L/100km,9.2L/100km,57178
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8 ENGINE,Automatic,4x4,Summit White,Black,null,null,Gas,16.0L/100km,13.2L/100km,58499
+2023,GMC,Sierra,10 km,Extended Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Sterling Metallic,Black,6,4,Gas,16.0L/100km,13.2L/100km,61398
+2023,GMC,Sierra,1 km,Crew Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Sterling Metallic,Black,6,4,Gas,16.0L/100km,13.2L/100km,62603
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Sterling Metallic,Black,5,4,Gas,16.0L/100km,13.2L/100km,62603
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.0L/100km,13.2L/100km,62603
+2023,GMC,Sierra,10 km,Crew Cab,5.3L, EcoTec3 V-8,8 Speed Automatic,4x4,Summit White,Black,5,4,Gas,16.0L/100km,13.2L/100km,62873
+2017,GMC,Sierra,169341 km,Truck Double Cab,V-8 cyl,Automatic,4x4,Stone Blue Metallic,Black,5,4,Regular Unleaded,null,null,25395
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Summit White,Black,6,4,Gas,16.0L/100km,13.2L/100km,63433
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Sterling Metallic,Black,5,4,Gas,16.0L/100km,13.2L/100km,64153
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Sterling Metallic,null,null,null,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,64243
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,65493
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Titanium Rush Metallic,Black,5,4,Gas,13.1L/100km,11.6L/100km,65993
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,65999
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Titanium Rush Metallic,Black,5,4,Gas,13.1L/100km,11.6L/100km,66483
+2022,GMC,SIERRA,11872 km,Truck,6.6L 8cyl,null,4x4,Summit White,null,6,2,Gas,null,null,69995
+2023,GMC,Sierra,11 km,Truck,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Dynamic Blue Metallic,Black,null,4,Diesel,14.8L/100km,11.8L/100km,70113
+2021,GMC,SIERRA,61140 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Summit White,Black,5,4,Diesel,null,null,80899
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Titanium Rush Metallic,Black,5,4,Gas,13.1L/100km,11.6L/100km,70533
+2023,GMC,Sierra,11 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Onyx Black,Black,null,4,Gas,14.8L/100km,11.8L/100km,73068
+2023,GMC,Sierra,12 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Cardinal Red,Black,null,4,Gas,14.8L/100km,11.8L/100km,73068
+2023,GMC,Sierra,15 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Sterling Metallic,Black,null,4,Gas,14.8L/100km,11.8L/100km,73068
+2023,GMC,Sierra,15 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Titanium Rush Metallic,Black,null,4,Gas,14.8L/100km,11.8L/100km,73563
+2023,GMC,Sierra,11 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Dynamic Blue Metallic,Black,null,4,Gas,14.8L/100km,11.8L/100km,73863
+2023,GMC,Sierra,10 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Dynamic Blue Metallic,Black,null,4,Gas,14.8L/100km,11.8L/100km,74558
+2023,GMC,SIERRA,10 km,Crew Cab,DURAMAX 6.6L V8 TURBO DIESEL,null,4x4,Summit White,Black,null,null,Diesel,null,null,74900
+2023,GMC,Sierra,10 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Summit White,Black,null,4,Gas,14.8L/100km,11.8L/100km,76138
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,94528
+2023,GMC,Sierra,15 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Onyx Black,Black,null,4,Gas,14.8L/100km,11.8L/100km,76828
+2023,GMC,Sierra,11 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Summit White,Black,null,4,Gas,14.8L/100km,11.8L/100km,76828
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8 ENGINE,Automatic,4x4,Pacific Blue Metallic,Black,5,4,Gas,14.8L/100km,11.8L/100km,82983
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,86943
+2023,GMC,Sierra,10 km,Crew Cab,420HP 6.2L 8 Cylinder Engine,Automatic,4x4,Summit White,null,null,4,Diesel,15.4L/100km,12.3L/100km,87103
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,Automatic,4x4,White Frost Tricoat,Black,5,4,Gas,16.7L/100km,14.0L/100km,87858
+2023,GMC,Sierra,10 km,Crew Cab,DURAMAX 3.0L TURBO-DIESEL,10 Speed Automatic,4x4,Summit White,Black,5,4,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,88123
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,89533
+2023,GMC,Sierra,10 km,Crew Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Pacific Blue Metallic,Black,5,4,Gas,14.8L/100km,11.8L/100km,91303
+2017,GMC,Sierra,129209 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,White,Black,6,4,Gas,15.0L/100km,10.7L/100km,37995
+2023,GMC,Sierra,17 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Titanium Rush Metallic,null,null,4,Gas,14.8L/100km,11.8L/100km,93973
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,White Frost Tricoat,Black,5,4,Gas,16.7L/100km,14.0L/100km,95113
+2023,GMC,Sierra,10 km,Truck,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,95948
+2023,GMC,Sierra,10 km,Crew Cab,420HP 6.2L 8 Cylinder Engine,Automatic,4x4,White Frost Tricoat,null,null,4,Diesel,15.4L/100km,12.3L/100km,99243
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,100543
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Sterling Metallic,Grey,5,4,Gas,16.7L/100km,14.0L/100km,100543
+2017,GMC,Terrain,261954 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,5,4,Gas,11.5L/100km,8.3L/100km,12999
+2013,GMC,Terrain,101318 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,null,null,16995
+2016,GMC,Terrain,115023 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,blue,Black,5,4,Gas,10.5L/100km,7.3L/100km,19995
+2019,GMC,Savana,59322 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,41495
+2017,GMC,Terrain,126310 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,Black,Black,null,4,Gas,11.5L/100km,8.3L/100km,23990
+2023,GMC,Terrain,25 km,SUV,1.5L TURBO 4cyl.,Automatic,FWD,Sterling Metallic,Black,null,5,Gas,9.7L/100km,8.1L/100km,35037
+2023,GMC,Terrain,8 km,SUV,4 Cylinder Engine,null,AWD,Summit White,Black,null,null,Gas,9.9L/100km,8.3L/100km,37663
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Summit White,Black,5,4,Gas,9.9L/100km,8.3L/100km,38640
+2023,GMC,Terrain,7 km,SUV,4 Cylinder Engine,null,AWD,Summit White,Black,null,null,Gas,9.9L/100km,8.3L/100km,38673
+2023,GMC,Terrain,8 km,SUV,4 Cylinder Engine,null,AWD,Marine Metallic,Black,null,null,Gas,9.9L/100km,8.3L/100km,38888
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,39135
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Summit White,Black,5,4,Gas,9.9L/100km,8.3L/100km,39525
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Summit White,Black,5,4,Gas,9.9L/100km,8.3L/100km,39525
+2021,GMC,Sierra,35029 km,Regular Cab,3.0L I6,Automatic,4x4,Summit White,Black,null,4,Diesel,10.6L/100km,9.2L/100km,55195
+2023,GMC,Terrain,25 km,SUV,1.5L TURBO 4cyl.,Automatic,AWD,Ebony Twilight Metallic,Black,null,5,Gas,9.9L/100km,8.3L/100km,39642
+2023,GMC,Terrain,10 km,SUV,1.5L Turbo,9 Speed Automatic,AWD,Marine Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,39693
+2023,GMC,Terrain,49 km,SUV,4 Cylinder Engine,null,AWD,Ebony Twilight Metallic,Black,null,null,Gas,9.9L/100km,8.3L/100km,39768
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,40540
+2023,GMC,Terrain,120 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Marine Metallic,Black,null,4,Gas,9.9L/100km,8.3L/100km,40768
+2022,GMC,Canyon,10 km,Crew Cab,3.6L DOHC DI V6 W/VVT,8 Speed Automatic,2WD,Summit White,Black,5,4,Gas,12.9L/100km,9.3L/100km,40978
+2022,GMC,Canyon,10 km,Crew Cab,3.6L DOHC DI V6 W/VVT,8 Speed Automatic,2WD,Summit White,Black,5,4,Gas,12.9L/100km,9.3L/100km,40978
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,43340
+2023,GMC,Terrain,100 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Summit White,Black,null,null,Gas,9.9L/100km,8.3L/100km,43343
+2016,GMC,Sierra,143150 km,Truck,V8,Automatic,4x4,Burgundy,Black,null,null,Gas,15.0L/100km,10.7L/100km,37500
+2023,GMC,Terrain,100 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,43343
+2023,GMC,Terrain,250 km,SUV,175HP 1.5L 4 Cylinder Engine,Automatic,AWD,Summit White,Black,null,4,Gas,9.9L/100km,8.3L/100km,43343
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,43690
+2023,GMC,Terrain,10 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,44433
+2023,GMC,Terrain,1 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Summit White,Black,5,4,Gas,9.9L/100km,8.3L/100km,44433
+2023,GMC,Terrain,10 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Marine Metallic,Black,null,null,Gas,9.9L/100km,8.3L/100km,44458
+2023,GMC,Terrain,10 km,SUV,1.5L Turbo,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,44458
+2023,GMC,Terrain,7 km,SUV,4 Cylinder Engine,null,AWD,Ebony Twilight Metallic,Black,null,null,Gas,9.9L/100km,8.3L/100km,44483
+2017,GMC,Savana,49000 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Dark Grey,15,3,Flexible,22.3L/100km,14.9L/100km,44900
+2020,GMC,Savana,57735 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,43495
+2021,GMC,Sierra,47424 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Onyx Black,null,null,2,Gas,16.0L/100km,11.8L/100km,44985
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,45980
+2023,GMC,Terrain,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,45980
+2023,GMC,Acadia,8 km,SUV,V6 Cylinder Engine,null,AWD,Ebony Twilight Metallic,Black,null,null,Gas,12.6L/100km,9.2L/100km,46933
+2023,GMC,Terrain,7 km,SUV,4 Cylinder Engine,null,AWD,Ebony Twilight Metallic,null,null,null,Gas,9.9L/100km,8.3L/100km,47138
+2023,GMC,Acadia,0 km,SUV,2.0L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Premium Unleaded,10.8L/100km,8.7L/100km,49883
+2023,GMC,Acadia,8 km,SUV,V6 Cylinder Engine,null,AWD,Ebony Twilight Metallic,Black,null,null,Gas,12.6L/100km,9.2L/100km,50228
+2023,GMC,Acadia,3 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,51273
+2023,GMC,Sierra,9 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,56108
+2018,GMC,Canyon,104162 km,Truck,3.6L 6cyl,Automatic,4x4,Grey,null,null,4,Gas,14.1L/100km,10.0L/100km,35509
+2023,GMC,Acadia,10 km,SUV,4 Cylinder Engine,9 Speed Automatic,AWD,Volcanic Red Tintcoat,Black,7,4,Gas,10.8L/100km,8.7L/100km,56280
+2022,GMC,Sierra,5 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,56883
+2022,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,57448
+2023,GMC,Acadia,9 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,White,Black,null,2,Gas,12.6L/100km,9.2L/100km,58178
+2023,GMC,Acadia,7 km,SUV,V6 Cylinder Engine,null,AWD,White Frost Tricoat,Black,null,null,Gas,12.6L/100km,9.2L/100km,58433
+2023,GMC,Acadia,6 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,58778
+2023,GMC,Sierra,7 km,Truck,4 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,59658
+2019,GMC,Sierra,106600 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,Summit White,Grey,6,4,Diesel,null,null,59950
+2023,GMC,Sierra,0 km,Truck,4 Cylinder Engine,null,4WD,Summit White,Black,null,null,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,60578
+2022,GMC,Sierra,15785 km,Truck,6.2,Automatic,4x4,Red,Grey,null,4,Gas,11.8L/100km,10.3L/100km,71995
+2023,GMC,Sierra,7 km,Truck,4 Cylinder Engine,null,4WD,Summit White,Black,null,null,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,60578
+2023,GMC,Acadia,10 km,SUV,3.6L DOHC SIDI V6 W/VVT,9 Speed Automatic,AWD,Summit White,Black,null,4,Gas,12.6L/100km,9.2L/100km,61078
+2023,GMC,Acadia,3 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,62988
+2023,GMC,Acadia,10 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,7,4,Gas,12.6L/100km,9.2L/100km,64485
+2023,GMC,Sierra,100 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Pacific Blue Metallic,Black,5,4,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,64738
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Summit White,Black,null,4,Gas,16.0L/100km,13.2L/100km,64947
+2023,GMC,Terrain,10 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,44433
+2016,GMC,Canyon,28151 km,Truck,6 Cylinder,Automatic,4x4,Onyx Black,Black,5,4,Gas,13.6L/100km,9.9L/100km,36800
+2022,GMC,Yukon,7875 km,SUV,6.2,Automatic,4x4,Midnight Blue Metallic,Beige,7,4,Gas,16.3L/100km,12.7L/100km,105888
+2020,GMC,Canyon,77400 km,Crew Cab,3.6L,Automatic,4x4,Summit White,Dark Grey,5,4,Diesel,14.0L/100km,9.9L/100km,37495
+2016,GMC,Yukon,127750 km,SUV,8 Cylinder Engine,Automatic,AWD,Onyx Black,Black,null,4,Gas,null,null,42980
+2020,GMC,Sierra,66481 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Black,Black,5,4,Gas,14.3L/100km,10.6L/100km,57395
+2017,GMC,Sierra,140928 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Grey,Black,5,4,Gas,15.0L - 15.9L/100km,10.7L - 11.5L/100km,32888
+2023,GMC,Acadia,6 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,58778
+2022,GMC,Sierra,7 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Summit White,Black,null,2,Gas,15.4L/100km,12.3L/100km,67993
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Summit White,Black,null,4,Gas,16.0L/100km,13.2L/100km,64947
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Summit White,null,null,null,Gas,13.1L - 15.2L/100km,11.6L - 13.2L/100km,65113
+2023,GMC,Sierra,10 km,Crew Cab,2.7L TURBO I4,8 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,65493
+2023,GMC,Sierra,0 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L/100km,11.6L/100km,67613
+2020,GMC,Savana,57735 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,43495
+2023,GMC,Sierra,14 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L - 13.8L/100km,11.6L - 13.2L/100km,67618
+2023,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L - 13.8L/100km,11.6L - 13.2L/100km,67618
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Onyx Black,Black,null,4,Gas,16.0L/100km,13.2L/100km,68387
+2023,GMC,Sierra,7 km,Truck,2.7L 4cyl,null,4x4,Red,Black,null,2,Gas,13.1L/100km,11.6L/100km,68683
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Pacific Blue Metallic,Black,null,4,Gas,16.0L/100km,13.2L/100km,68882
+2023,GMC,Sierra,10 km,Truck,4 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,69385
+2023,GMC,Sierra,10 km,Truck,4 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,69385
+2023,GMC,Sierra,10 km,Truck,4 Cylinder Engine,null,4x4,Sterling Metallic,Black,5,4,Gas,13.1L/100km,11.6L/100km,69385
+2023,GMC,Sierra,10 km,Truck,4 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,13.1L/100km,11.6L/100km,69385
+2023,GMC,Terrain,1 km,SUV,Turbocharged Gas/E15 I4 1.5L/-TBD-,Automatic,AWD,Ebony Twilight Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,47338
+2023,GMC,Sierra,7 km,Truck,4 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Gas,13.1L/100km,11.6L/100km,69418
+2023,GMC,Sierra,7 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L/100km,11.6L/100km,69498
+2023,GMC,Sierra,3 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L/100km,11.6L/100km,69848
+2023,GMC,Sierra,7 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L/100km,11.6L/100km,69848
+2023,GMC,Sierra,7 km,Truck,2.7L 4cyl,null,4x4,Onyx Black,Black,null,2,Gas,13.1L/100km,11.6L/100km,69993
+2023,GMC,Sierra,10 km,Truck,4 Cylinder Engine,null,4x4,Sterling Metallic,Black,5,4,Gas,13.1L/100km,11.6L/100km,70045
+2023,GMC,Sierra,9 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.1L/100km,11.6L/100km,70258
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,70350
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,70460
+2023,GMC,SIERRA,10 km,Crew Cab,Gas V8 6.6L/,Automatic,4x4,Summit White,Black,6,4,Gas,null,null,71598
+2023,GMC,Sierra,7 km,Truck,4 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Gas,13.1L/100km,11.6L/100km,70578
+2023,GMC,Sierra,2 km,Truck,4 Cylinder Engine,null,4WD,Dynamic Blue Metallic,Black,null,null,Gas,13.1L/100km,11.6L/100km,70743
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,70775
+2023,GMC,Sierra,0 km,Extended Cab,DURAMAX 3.0L TURBO-DIESEL,10 Speed Automatic,4x4,Summit White,Black,null,null,Diesel,11.1L/100km,10.2L/100km,71223
+2023,GMC,Sierra,25 km,Truck,2.7L TURBO 4cyl.,Automatic,4WD,Sterling Metallic,Black,null,4,Gas,13.1L/100km,11.6L/100km,71262
+2023,GMC,Sierra,25 km,Truck,2.7L TURBO 4cyl.,Automatic,4WD,Sterling Metallic,Black,null,4,Gas,13.1L/100km,11.6L/100km,71262
+2023,GMC,Sierra,6 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,71483
+2023,GMC,Sierra,6 km,Truck,5.3L 8cyl,null,4x4,Summit White,Black,null,2,Gas,14.8L/100km,11.8L/100km,71483
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,71593
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,94528
+2023,GMC,Sierra,10 km,Truck,Straight 6 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Diesel,11.1L/100km,10.2L/100km,71645
+2023,GMC,Sierra,25 km,Truck,2.7L TURBO 4cyl.,Automatic,4WD,Titanium Rush Metallic,Black,null,4,Gas,13.1L/100km,11.6L/100km,71757
+2023,GMC,Sierra,0 km,Truck,8 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Gas,14.8L/100km,11.8L/100km,71998
+2023,GMC,Sierra,6 km,Truck,3.0L 6cyl,null,4x4,Summit White,Black,null,2,Diesel,11.1L/100km,10.2L/100km,72003
+2023,GMC,Sierra,10 km,Truck,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Onyx Black,Black,null,4,Diesel,14.8L/100km,11.8L/100km,72078
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72160
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72160
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Sterling Metallic,Black,5,4,Gas,14.8L/100km,11.8L/100km,72160
+2023,GMC,Sierra,1 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,72273
+2019,GMC,Savana,59322 km,Minivan,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,41495
+2023,GMC,Sierra,8 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,72273
+2023,GMC,Sierra,9 km,Truck,5.3L 8cyl,null,4x4,Summit White,Black,null,2,Gas,14.8L/100km,11.8L/100km,72273
+2023,GMC,Sierra,10 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,72273
+2023,GMC,Sierra,100 km,Extended Cab,5.3L ECOTEC3 V8,10 Speed Automatic,4x4,Summit White,null,null,null,Gas,14.8L/100km,11.8L/100km,72483
+2023,GMC,Sierra,6 km,Truck,3.0L 6cyl,null,4x4,Onyx Black,Black,null,2,Diesel,11.1L/100km,10.2L/100km,72598
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2019,GMC,SIERRA,112002 km,Extended Cab,Vortec 6.0L V8 SFI Flex Fuel VVT,6 Speed Automatic,4x4,Summit White,Grey,null,4,Gas,null,null,39999
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,72875
+2023,GMC,Sierra,7 km,Truck,3.0L 6cyl,null,4x4,Onyx Black,Black,null,2,Diesel,11.1L/100km,10.2L/100km,72948
+2023,GMC,Sierra,1 km,Truck,3.0L 6cyl,null,4x4,Onyx Black,Black,null,2,Diesel,11.1L/100km,10.2L/100km,72948
+2023,GMC,SIERRA,198 km,Truck,6.6L 8cyl,null,4x4,Summit White,Black,null,2,Gas,null,null,72978
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Onyx Black,Black,null,4,Gas,14.8L/100km,11.8L/100km,73052
+2023,GMC,Sierra,89 km,Truck,5.3L 8cyl,null,4x4,Summit White,Black,null,2,Gas,14.8L/100km,11.8L/100km,73248
+2023,GMC,Sierra,5 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,73343
+2023,GMC,Sierra,4 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,73343
+2022,GMC,Sierra,15785 km,Truck,6.2,Automatic,4x4,Red,Grey,null,4,Gas,11.8L/100km,10.3L/100km,71995
+2023,GMC,Sierra,8 km,Truck,8 Cylinder Engine,null,4WD,Sterling Metallic,Black,null,null,Gas,14.8L/100km,11.8L/100km,73493
+2023,GMC,Sierra,5 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,73623
+2023,GMC,Sierra,7 km,Truck,8 Cylinder Engine,null,4WD,Titanium Rush Metallic,Black,null,null,Gas,14.8L/100km,11.8L/100km,73703
+2023,GMC,Sierra,8 km,Truck,8 Cylinder Engine,null,4WD,Titanium Rush Metallic,Black,null,null,Gas,14.8L/100km,11.8L/100km,73703
+2023,GMC,Sierra,150 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Summit White,Black,null,4,Gas,14.8L/100km,11.8L/100km,73948
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4WD,Volcanic Red Tintcoat,Black,null,null,Gas,14.8L/100km,11.8L/100km,73963
+2023,GMC,Sierra,15 km,Truck,3.0L 6cyl,null,4x4,Onyx Black,Black,null,2,Diesel,11.1L/100km,10.2L/100km,74023
+2023,GMC,Sierra,6 km,Truck,3.0L 6cyl,null,4x4,Onyx Black,Black,null,2,Diesel,11.1L/100km,10.2L/100km,74023
+2023,GMC,Sierra,11 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,74168
+2021,GMC,Sierra,35029 km,Regular Cab,3.0L I6,Automatic,4x4,Summit White,Black,null,4,Diesel,10.6L/100km,9.2L/100km,55195
+2023,GMC,Sierra,10 km,Truck,5.3L 8cyl,null,4x4,Summit White,Black,null,2,Gas,14.8L/100km,11.8L/100km,74168
+2023,GMC,Sierra,8 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,74168
+2023,GMC,Sierra,10 km,Crew Cab,355HP 5.3L 8 Cylinder Engine,Automatic,4x4,Titanium Rush Metallic,Black,null,4,Gas,14.8L/100km,11.8L/100km,74373
+2023,GMC,Sierra,181 km,Truck,5.3L 8cyl,null,4x4,Dynamic Blue Metallic,Black,null,2,Gas,14.8L/100km,11.8L/100km,74743
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Sterling Metallic,Black,5,4,Gas,14.8L/100km,11.8L/100km,74925
+2023,GMC,Sierra,8 km,Truck,8 Cylinder Engine,null,4WD,Summit White,Black,null,null,Gas,14.8L/100km,11.8L/100km,75008
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,75395
+2023,GMC,Sierra,7 km,Truck,Straight 6 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Diesel,11.1L/100km,10.2L/100km,75488
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,75640
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Titanium Rush Metallic,null,5,4,Gas,15.4L/100km,12.3L/100km,108993
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,75745
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,Black,5,4,Gas,14.8L/100km,11.8L/100km,75745
+2023,GMC,Sierra,29 km,Truck,3L 6cyl.,Automatic,4WD,Onyx Black,Black,null,4,Diesel,11.1L/100km,10.2L/100km,76402
+2023,GMC,Sierra,7 km,Truck,Straight 6 Cylinder Engine,null,4WD,Summit White,Black,null,null,Diesel,11.1L/100km,10.2L/100km,76703
+2023,GMC,Sierra,0 km,Crew Cab,DURAMAX 3.0L TURBO-DIESEL,10 Speed Automatic,4x4,Onyx Black,Black,null,null,Diesel,11.1L/100km,10.2L/100km,77268
+2023,GMC,Sierra,7 km,Truck,Straight 6 Cylinder Engine,null,4WD,Dynamic Blue Metallic,Black,null,null,Diesel,11.1L/100km,10.2L/100km,78023
+2023,GMC,Sierra,25 km,Truck,3L 6cyl.,Automatic,4x4,Sterling Metallic,Black,null,4,Diesel,11.1L/100km,10.2L/100km,79692
+2023,GMC,SIERRA,15 km,Truck,6.6L 8cyl,null,4x4,Onyx Black,Black,null,2,Diesel,null,null,80573
+2023,GMC,Sierra,10 km,Crew Cab,305HP 3.0L Straight 6 Cylinder Engine,Automatic,4x4,Onyx Black,null,null,4,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,86618
+2018,GMC,Canyon,104162 km,Truck,3.6L 6cyl,Automatic,4x4,Grey,null,null,4,Gas,14.1L/100km,10.0L/100km,35509
+2023,GMC,Sierra,276 km,Truck,6.2L 8cyl,10 Speed Automatic,4x4,Dynamic Blue Metallic,Black,null,2,Premium Unleaded,15.4L/100km,12.3L/100km,86943
+2023,GMC,Yukon,0 km,SUV,8 Cylinder Engine,null,4WD,Onyx Black,Black,null,null,Gas,15.8L/100km,11.8L/100km,87013
+2023,GMC,Sierra,0 km,Crew Cab,DURAMAX 3.0L TURBO-DIESEL,10 Speed Automatic,4x4,Titanium Rush Metallic,null,null,null,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,88113
+2023,GMC,Sierra,6 km,Truck,6.2L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,null,2,Premium Unleaded,15.4L/100km,12.3L/100km,88713
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Onyx Black,null,5,4,Gas,15.4L/100km,12.3L/100km,88850
+2023,GMC,Sierra,0 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Onyx Black,Black,null,2,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,89143
+2023,GMC,Sierra,3100 km,Truck,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,null,2,Gas,14.8L/100km,11.8L/100km,90913
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,93918
+2023,GMC,Sierra,10 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,95240
+2019,GMC,Savana,63258 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,40995
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,White Frost Tricoat,Black,null,4,Gas,14.8L/100km,11.8L/100km,95297
+2023,GMC,Sierra,25 km,Truck,3L 6cyl.,Automatic,4WD,Pacific Blue Metallic,Black,null,4,Diesel,11.1L/100km,10.2L/100km,95742
+2022,GMC,SIERRA,10 km,Crew Cab,DURAMAX 6.6L V8 TURBO DIESEL,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Diesel,null,null,95868
+2023,GMC,Sierra,100 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Summit White,Black,5,4,Gas,16.7L/100km,14.0L/100km,98248
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,10 Speed Automatic,4x4,Summit White,Black,5,4,Gas,16.7L/100km,14.0L/100km,98248
+2023,GMC,Sierra,25 km,Truck,5.3L 8cyl.,Automatic,4WD,Onyx Black,Black,null,4,Gas,14.8L/100km,11.8L/100km,98307
+2021,GMC,Sierra,26777 km,Truck,8 Cylinder Engine,Automatic,4WD,Black,null,5,null,Gas,14.3L - 15.3L/100km,10.7L - 11.0L/100km,61445
+2016,GMC,Canyon,28151 km,Truck,6 Cylinder,Automatic,4x4,Onyx Black,Black,5,4,Gas,13.6L/100km,9.9L/100km,36800
+2022,GMC,Yukon,7875 km,SUV,6.2,Automatic,4x4,Midnight Blue Metallic,Beige,7,4,Gas,16.3L/100km,12.7L/100km,105888
+2020,GMC,Canyon,77400 km,Crew Cab,3.6L,Automatic,4x4,Summit White,Dark Grey,5,4,Diesel,14.0L/100km,9.9L/100km,37495
+2016,GMC,Yukon,127750 km,SUV,8 Cylinder Engine,Automatic,AWD,Onyx Black,Black,null,4,Gas,null,null,42980
+2020,GMC,Sierra,66481 km,Truck,8 Cylinder Engine,10 Speed Automatic,4x4,Black,Black,5,4,Gas,14.3L/100km,10.6L/100km,57395
+2022,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,57448
+2023,GMC,Acadia,6 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,58778
+2022,GMC,Sierra,7 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Summit White,Black,null,2,Gas,15.4L/100km,12.3L/100km,67993
+2023,GMC,Sierra,25 km,Truck,6.2L 8cyl.,Automatic,4WD,White Frost Tricoat,Black,null,4,Gas,16.7L/100km,14.0L/100km,98862
+2023,GMC,Yukon,10 km,SUV,8 Cylinder Engine,10 Speed Automatic,4x4,Onyx Black,Black,8,4,Gas,16.6L/100km,13.1L/100km,100170
+2023,GMC,Sierra,10 km,Crew Cab,6.2L ECOTEC3 V8,null,4x4,Summit White,Black,5,4,Gas,16.7L/100km,14.0L/100km,100543
+2023,GMC,SIERRA,10 km,Crew Cab,6.6L V8,Automatic,4x4,Onyx Black,Black,5,4,Gas,null,null,101053
+2022,GMC,Sierra,35 km,Truck,2.7L TURBO HIGH-OUTPUT,Automatic,4x4,Onyx Black,Black,6,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,52985
+2023,GMC,SIERRA,10 km,Truck,8 Cylinder Engine,null,4x4,Onyx Black,null,5,4,Diesel,null,null,105636
+2023,GMC,Sierra,8 km,Truck,8 Cylinder Engine,null,4WD,Summit White,Black,null,null,Diesel,null,null,106038
+2023,GMC,SIERRA,10 km,Truck,8 Cylinder Engine,null,4x4,Ebony Twilight Metallic,Black,5,4,Diesel,null,null,108384
+2023,GMC,SIERRA,10 km,Truck,8 Cylinder Engine,null,4x4,Ebony Twilight Metallic,Black,5,4,Diesel,null,null,110485
+2023,GMC,SIERRA,10 km,Truck,8 Cylinder Engine,null,4x4,Ebony Twilight Metallic,Black,5,4,Diesel,null,null,110485
+2023,GMC,Yukon,10 km,SUV,8 Cylinder Engine,10 Speed Automatic,4x4,White Frost Tricoat,Black,8,4,Gas,16.6L/100km,13.1L/100km,110550
+2023,GMC,Sierra,10 km,Crew Cab,DURAMAX 6.6L V8 TURBO DIESEL,10 Speed Automatic,4x4,Onyx Black,Black,5,4,Diesel,null,null,110823
+2023,GMC,Sierra,10 km,Crew Cab,DURAMAX 6.6L V8 TURBO DIESEL,null,4x4,Onyx Black,Black,null,null,Diesel,null,null,111038
+2023,GMC,Sierra,160 km,Truck,6.6L 8cyl,null,4x4,Black,Black,null,2,Diesel,null,null,113453
+2020,GMC,Savana,50854 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,44395
+2007,GMC,Acadia,246076 km,SUV,3.6L V6 275HP 251FT. LBS.,Automatic,FWD,Liquid Silver Metallic,Black,null,4,Gas,13.0L/100km,8.3L/100km,5990
+1998,GMC,Sierra,250000 km,Truck Extended Cab,V8,Automatic,4x4,Black,Burgundy,5,2,Gas,null,null,6900
+2005,GMC,Jimmy,120000 km,SUV,V6 Cylinder Engine,4 Speed Automatic,4x4,Onyx Black,Charcoal,4,2,Gas,15.6L - 17.3L/100km,10.9L - 12.6L/100km,7450
+2001,GMC,Safari,212000 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,RWD,Grey,Grey,8,3,Gas,15.9L/100km,11.9L/100km,8900
+2012,GMC,Acadia,192000 km,SUV,V6 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,12.7L/100km,8.4L/100km,10495
+2014,GMC,Terrain,175200 km,SUV,4 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Gas,null,null,10500
+2010,GMC,Savana,280000 km,Minivan,8 Cylinder Engine,Automatic,RWD,Summit White,Black,null,3,Flexible,null,null,10900
+2013,GMC,Terrain,170082 km,SUV,2.4,Automatic,FWD,Blue,Black,5,4,Gas,9.2L/100km,6.1L/100km,10995
+2011,GMC,Acadia,178799 km,SUV,3.6,Automatic,AWD,Silver,Grey,8,4,Gas,13.1L/100km,8.8L/100km,10995
+2014,GMC,SIERRA,240519 km,Crew Cab,322HP 6.0L 8 Cylinder Engine,Automatic,4WD,Summit White,null,null,4,Gas,null,null,17600
+2012,GMC,Terrain,167686 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,null,4,Gas,null,null,11995
+2012,GMC,Acadia,160041 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Carbon Black Metallic,Black,8,4,Gas,13.1L/100km,8.8L/100km,11995
+2003,GMC,Safari,140000 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,AWD,Grey,Grey,7,3,Gas,17.3L/100km,12.6L/100km,14888
+2013,GMC,Terrain,126381 km,SUV,2.4,Automatic,AWD,Black,Black,5,4,Gas,null,null,14990
+2016,GMC,Terrain,158141 km,SUV,4 Cylinder Engine,Automatic,AWD,Burgundy,Black,5,4,Gas,null,null,14995
+2016,GMC,Terrain,132000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,white,Black,5,4,Gas,14.9L/100km,10.1L/100km,18995
+2011,GMC,SIERRA,226500 km,Truck Extended Cab,6.0,6 Speed Automatic,RWD,Fire Red,Black,5,2,Other,null,null,22999
+2016,GMC,Sierra,169000 km,Truck Short Super Cab,5.3L,Automatic,4x4,White,Black,5,4,Gas,null,null,29999
+2012,GMC,Sierra,273110 km,Truck,6.6L 8cyl,6 Speed Automatic,4x4,Fire Red,Black,null,4,Diesel,null,null,33900
+2020,GMC,Terrain,31995 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.2L/100km,9.0L/100km,34342
+2023,GMC,Terrain,0 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,null,null,2,Gas,9.9L/100km,8.3L/100km,40181
+2023,GMC,Terrain,0 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Desert Sand Metallic,null,null,2,Gas,9.9L/100km,8.3L/100km,41051
+2023,GMC,Terrain,0 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Sterling Metallic,null,null,2,Gas,9.9L/100km,8.3L/100km,41396
+2023,GMC,Terrain,0 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Sterling Metallic,null,null,2,Gas,9.9L/100km,8.3L/100km,43486
+2019,GMC,SIERRA,150970 km,Crew Cab,6.0L V8 OHV 16V,Automatic,4x4,White,Black,null,4,Gas,null,null,44999
+2023,GMC,Terrain,0 km,SUV,1.5L Turbo,9 Speed Automatic,AWD,Summit White,Black,null,null,Gas,9.9L/100km,8.3L/100km,46883
+2023,GMC,Terrain,0 km,SUV,1.5L Turbo,9 Speed Automatic,AWD,Sterling Metallic,null,null,null,Gas,9.9L/100km,8.3L/100km,46883
+2023,GMC,Terrain,0 km,SUV,1.5L 4cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,null,null,2,Gas,9.9L/100km,8.3L/100km,47896
+2021,GMC,SIERRA,99949 km,Crew Cab,6.6L V8 OHV 16V,Automatic,4x4,Pacific Blue Metallic,Black,null,4,Gas,null,null,49999
+2020,GMC,Savana,62985 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,43995
+2023,GMC,Acadia,6842 km,SUV,3.6L 6cyl,Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,53264
+2017,GMC,Yukon,71212 km,SUV,6.2L 8cyl,8 Speed Automatic,4x4,Onyx Black,Black,7,4,Premium Unleaded,null,null,53997
+2022,GMC,Sierra,7 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Summit White,Black,null,2,Gas,15.4L/100km,12.3L/100km,67993
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,null,null,2,Gas,16.0L/100km,13.2L/100km,68121
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,null,4x4,Onyx Black,null,null,2,Gas,16.0L/100km,13.2L/100km,68121
+2023,GMC,Sierra,0 km,Truck,2.7L 4cyl,null,4x4,Silver,null,null,2,Gas,13.1L/100km,11.6L/100km,69846
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,null,4x4,Summit White,null,null,2,Gas,14.8L/100km,11.8L/100km,75076
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,null,4x4,Red,null,null,2,Gas,14.8L/100km,11.8L/100km,75671
+2023,GMC,Sierra,3122 km,Truck,5.3L 8cyl,Automatic,4x4,Red,Black,null,2,Gas,14.8L/100km,11.8L/100km,78548
+2016,GMC,Sierra,143150 km,Truck,V8,Automatic,4x4,Burgundy,Black,null,null,Gas,15.0L/100km,10.7L/100km,37500
+2023,GMC,Sierra,0 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Summit White,null,null,2,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,84841
+2023,GMC,Sierra,0 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Desert Sand Metallic,null,null,2,Diesel,10.7L - 11.1L/100km,8.7L - 10.2L/100km,87376
+2023,GMC,Sierra,10 km,Crew Cab,DURAMAX 6.6L V8 TURBO DIESEL,null,4x4,Summit White,Black,null,null,Diesel,null,null,88793
+2023,GMC,Sierra,2158 km,Truck,Straight 6 Cylinder Engine,Automatic,4x4,Onyx Black,Black,null,null,Diesel,11.1L/100km,10.2L/100km,91464
+2022,GMC,Sierra,0 km,Truck,3.0L 6cyl,10 Speed Automatic,4x4,Onyx Black,null,null,2,Diesel,10.5L - 11.8L/100km,9.1L - 10.3L/100km,96091
+2023,GMC,Sierra,0 km,Truck,6.2L 8cyl,10 Speed Automatic,4x4,Onyx Black,null,null,2,Premium Unleaded,16.7L/100km,14.0L/100km,96616
+2023,GMC,Sierra,0 km,Truck,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,null,null,2,Gas,14.8L/100km,11.8L/100km,97136
+2023,GMC,Sierra,0 km,Truck,6.2L 8cyl,10 Speed Automatic,4x4,White,null,null,2,Premium Unleaded,16.7L/100km,14.0L/100km,98816
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,null,4x4,Titanium Rush Metallic,null,null,null,Gas,15.4L/100km,12.3L/100km,99968
+2019,GMC,Savana,63258 km,Van Regular,8 Cylinder Engine,8 Speed Automatic,RWD,Summit White,Black,2,3,Flexible,null,null,40995
+2023,GMC,Sierra,0 km,Truck,6.6L 8cyl,null,4x4,Black,null,null,2,Diesel,null,null,107831
+2023,GMC,SIERRA,243 km,Truck,8 Cylinder Engine,Automatic,4x4,Black,Black,5,4,Diesel,null,null,108888
+2023,GMC,SIERRA,10 km,Truck,6.6L 8cyl,Automatic,4x4,White,Grey,null,2,Diesel,null,null,110653
+2023,GMC,Yukon,0 km,SUV,6.2L 8cyl,10 Speed Automatic,4x4,Silver,null,null,2,Premium Unleaded,16.6L/100km,13.1L/100km,118551
+2000,GMC,Envoy,291000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,1900
+2011,GMC,1500,274680 km,Truck,null,Automatic,FWD,White,null,null,null,Gasoline,null,null,3500
+2010,GMC,Acadia,228000 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,4000
+2011,GMC,Acadia,226619 km,null,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,5000
+2011,GMC,Terrain,230000 km,null,null,Automatic,FWD,Beige,null,null,4 doors,Gasoline,null,null,5888
+2017,GMC,Sierra,169341 km,Truck Double Cab,V-8 cyl,Automatic,4x4,Stone Blue Metallic,Black,5,4,Regular Unleaded,null,null,25395
+2011,GMC,Sierra,261577 km,Truck,null,Automatic,RWD,Grey,null,null,2 doors,Gasoline,null,null,6950
+2009,GMC,Acadia,213000 km,null,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,7500
+2009,GMC,Sierra,287000 km,Crew Cab,5.3,Automatic,4x4,Silver,Black,5,4,Gas,null,null,7799
+2013,GMC,Terrain,123000 km,null,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,8000
+2013,GMC,Terrain,225000 km,SUV,4 Cylinder Engine,Automatic,FWD,Black,Black,5,4,Gas,null,null,8700
+2006,GMC,3500,545000 km,null,null,null,null,null,null,null,null,null,null,null,9000
+2013,GMC,Sierra,193000 km,Truck Extended Cab,4.8L,Automatic,4x4,White,Black,5,4,Gas,null,null,9500
+2014,GMC,Terrain,170000 km,SUV,null,Automatic,FWD,White,Grey,5,5,Gas,null,null,9795
+2012,GMC,Yukon,192500 km,null,null,Automatic,4X4,Beige,null,null,4 doors,Gasoline,null,null,9900
+2023,GMC,Sierra,200 km,Crew Cab,Turbocharged Diesel V8 6.6L/,Automatic,4x4,Summit White,Black,6,4,Diesel,null,null,101798
+2010,GMC,SIERRA,160888 km,Truck,null,null,null,Not Specified,null,null,null,null,null,null,10988
+2014,GMC,1500,240000 km,Truck,null,Automatic,RWD,Green,null,null,4 doors,Gasoline,null,null,13000
+2014,GMC,Sierra,211350 km,Regular Cab,4.3,Automatic,null,White,Black,null,null,Gas,null,null,14898
+2017,GMC,Terrain,166000 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,15995
+2016,GMC,Terrain,161250 km,null,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,16000
+1981,GMC,1500,175000 km,Truck,null,Automatic,4X4,Yellow,null,null,2 doors,null,null,null,16000
+2011,GMC,Yukon,220000 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Black,Dark Grey,6,4,Flexible,14.4L/100km,9.5L/100km,16999
+2013,GMC,Yukon,178000 km,SUV,8 Cylinder Engine,Automatic,4x4,Red,null,null,4,Gasoline Hybrid,null,null,17850
+2009,GMC,Yukon,190000 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Dark Crimson Metallic,Black,8,4,Flexible,null,null,17900
+2023,GMC,Sierra,10 km,Crew Cab,Gas V8 6.2L/376,Automatic,4x4,Onyx Black,Black,5,4,Gas,16.7L/100km,14.0L/100km,94528
+2012,GMC,2500,220000 km,Truck,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,18000
+2012,GMC,Sierra,125309 km,Truck,null,Automatic,4X4,Green,null,null,4 doors,Gasoline,null,null,19900
+2016,GMC,Savana,221659 km,Truck,null,Automatic,RWD,White,null,null,3 doors,E85- Gasoline(Flex Fuel),null,null,23000
+2018,GMC,Terrain,67500 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,24000
+2015,GMC,Savana,131000 km,Truck,null,Automatic,null,White,null,null,3 doors,Gasoline,null,null,24990
+2014,GMC,Sierra,75000 km,Truck,null,Automatic,4X4,White,null,null,2 doors,Gasoline,null,null,26500
+2015,GMC,Sierra,207773 km,Crew Cab,5.3L V8 OHV 16V,Automatic,4x4,Black,Grey,5,4,Gas,null,null,26950
+2018,GMC,Sierra,186348 km,Crew Cab,5.3,6 Speed Automatic,4x4,Black,Black,5,4,Gas,null,null,26998
+2015,GMC,2500,169000 km,Truck,null,Automatic,4X4,White,null,null,2 doors,E85- Gasoline(Flex Fuel),null,null,28800
+2021,GMC,Savana,97935 km,Minivan,V6 Cylinder Engine,null,RWD,Not Specified,null,null,3,Gas,null,null,41995
+2012,GMC,Sierra,110000 km,Crew Cab,6.6,Automatic,null,null,null,null,null,null,null,null,29995
+2018,GMC,Sierra,135000 km,Quad Cab,8 Cylinder Engine,Automatic,4x4,Black,Charcoal,5,4,Gas,15.0L/100km,10.7L/100km,31995
+2018,GMC,Sierra,141230 km,Truck Crew Cab,5.3,Automatic,4x4,White,Black,null,4,Gas,15.0L/100km,10.7L/100km,31998
+2018,GMC,Acadia,62000 km,null,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,32000
+2016,GMC,Savana,98900 km,null,null,null,null,null,null,null,null,null,null,null,38000
+2018,GMC,1500,98000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,38999
+2023,GMC,Terrain,10 km,SUV,1.5L TURBO DOHC,9 Speed Automatic,AWD,Sterling Metallic,Black,5,4,Gas,9.9L/100km,8.3L/100km,44433
+2017,GMC,Terrain,130652 km,SUV,2.4L I4,Automatic,FWD,Black,null,null,null,Gas,null,null,15995
+2022,GMC,Yukon,7875 km,SUV,6.2,Automatic,4x4,Midnight Blue Metallic,Beige,7,4,Gas,16.3L/100km,12.7L/100km,105888
+2020,GMC,Canyon,77400 km,Crew Cab,3.6L,Automatic,4x4,Summit White,Dark Grey,5,4,Diesel,14.0L/100km,9.9L/100km,37495
+2021,GMC,Yukon,88552 km,SUV,5.3L 8cyl,10 Speed Automatic,4x4,Onyx Black,Black,6,5,Gas,14.8L - 15.5L/100km,11.8L - 12.0L/100km,58888
+2017,GMC,Sierra,140928 km,Truck,5.3L 8cyl,8 Speed Automatic,4x4,Grey,Black,5,4,Gas,15.0L - 15.9L/100km,10.7L - 11.5L/100km,32888
+2022,GMC,Sierra,5 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,56883
+2022,GMC,Sierra,8 km,Truck,2.7L 4cyl,null,4x4,Summit White,Black,null,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,57448
+2023,GMC,Acadia,6 km,SUV,3.6L 6cyl,9 Speed Automatic,AWD,Ebony Twilight Metallic,Black,null,2,Gas,12.6L/100km,9.2L/100km,58778
+2017,GMC,Sierra,105653 km,Crew Cab,5.3L V8 OHV 16V,Automatic,4x4,Grey,Beige,5,4,Gas,null,null,42500
+2020,GMC,Sierra,66800 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,42995
+2015,GMC,Sierra,249500 km,null,null,null,null,null,null,null,null,null,null,null,45000
+2020,GMC,Canyon,100000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Diesel,null,null,49875
+2022,GMC,Sierra,35 km,Truck,2.7L TURBO HIGH-OUTPUT,Automatic,4x4,Onyx Black,Black,6,2,Gas,13.9L - 18.1L/100km,12.0L - 14.0L/100km,52985
+2016,GMC,Sierra,168000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Diesel,null,null,50000
+2019,GMC,Sierra,90000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,50000
+2020,GMC,1500,50000 km,Truck,null,Automatic,4X4,Grey,null,null,4 doors,Diesel,null,null,50000
+2016,GMC,Sierra,167500 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Diesel,null,null,54000
+2020,GMC,CUBE,110000 km,Minivan,6 Cylinder Engine,null,RWD,Summit White,Grey,2,2,Gas,null,null,54995
+2021,GMC,1500,29000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Diesel,null,null,76999
+2022,GMC,Sierra,4000 km,Truck,null,Automatic,4X4,White,null,null,Other/Don’t Know,Diesel,null,null,165000
+2022,GMC,Sierra,3000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Diesel,null,null,167874

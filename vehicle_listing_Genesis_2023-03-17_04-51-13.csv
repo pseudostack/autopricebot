@@ -1,0 +1,40 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2021,Genesis,GV80,22876 km,SUV,3.5L DOHC,8 Speed Automatic,4WD,Cardiff Green,Black,null,null,Gas,12.9L/100km,10.4L/100km,73986
+2021,Genesis,G70,31000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,41000
+2022,Genesis,GV70,31588 km,SUV,V6 Cylinder Engine,Automatic,4WD,Adriatic Blue,null,null,null,Gas,12.9L/100km,10.0L/100km,66990
+2019,Genesis,G70,104835 km,Sedan,4 Cylinder Engine,6 Speed Manual,RWD,Casablanca White Mica,Black,5,4,Gas,12.8L/100km,8.5L/100km,32097
+2019,Genesis,G70,61302 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Victoria Black Metallic,null,null,4,Gas,11.5L/100km,8.7L/100km,37988
+2017,Genesis,G80,92770 km,Sedan,3.8L V6 Cylinder Engine,Automatic,AWD,Casablanca White Mica,Black,5,4,Gas,14.3L/100km,9.5L/100km,28895
+2017,Genesis,G80,54692 km,Sedan,3.8L 6cyl,8 Speed Automatic,AWD,Casablanca White Mica,Black,5,4,Gas,14.3L/100km,9.5L/100km,28995
+2018,Genesis,G80,37600 km,Sedan,3.8L 6cyl,8 Speed Automatic,AWD,Casablanca White Mica,Beige,5,4,Gas,13.4L/100km,9.6L/100km,39999
+2020,Genesis,G80,38131 km,Sedan,Twin Turbo Premium Unleaded V-6 3.3 L/204,Automatic,AWD,Uyuni White,Black,5,4,Gas,13.8L/100km,9.7L/100km,42500
+2019,Genesis,G70,55946 km,Sedan,3.3L 6cyl,8 Speed Automatic,AWD,Blue,Grey,5,4,Premium Unleaded,13.3L/100km,9.5L/100km,44500
+2022,Genesis,G70,14657 km,Sedan,2.0L 4cyl,8 Speed Automatic,AWD,Makalu Gray,Black,null,2,Premium Unleaded,11.4L/100km,8.2L/100km,45000
+2021,Genesis,G70,12984 km,Sedan,3.3L 6cyl,8 Speed Automatic,AWD,null,Red,5,4,Premium Unleaded,14.1L/100km,9.5L/100km,47880
+2023,Genesis,G70,3500 km,Sedan,4 Cylinder Engine,Automatic,null,Uyuni White,null,null,null,Gas,11.4L/100km,8.2L/100km,47990
+2021,Genesis,G70,21855 km,Sedan,4 Cylinder Engine,Manual,null,Blue,null,null,null,Gas,11.4L/100km,8.5L/100km,39851
+2023,Genesis,G70,5302 km,Sedan,Twin Turbo Premium Unleaded V-6 3.3 L/204,Automatic,AWD,Gray,Black,5,4,Gas,13.5L/100km,9.1L/100km,57998
+2023,Genesis,G70,750 km,Sedan,V6 Cylinder Engine,Automatic,null,Savile Silver,null,null,null,Gas,13.5L/100km,9.1L/100km,59900
+2023,Genesis,G80,10900 km,Sedan,4 Cylinder Engine,Automatic,null,Uyuni White,null,null,null,Gas,10.8L/100km,7.9L/100km,63990
+2020,Genesis,G90,27748 km,Sedan,5.0L 8cyl,8 Speed Automatic,AWD,Vik Black,Brown,5,4,Premium Unleaded,15.4L/100km,10.2L/100km,64399
+2023,Genesis,G80,9900 km,Sedan,4 Cylinder Engine,Automatic,null,Makalu Gray,null,null,null,Gas,10.8L/100km,7.9L/100km,64500
+2021,Genesis,GV80,22876 km,SUV,3.5L DOHC,8 Speed Automatic,4WD,Cardiff Green,Black,null,null,Gas,12.9L/100km,10.4L/100km,73986
+2023,Genesis,G80,10288 km,Sedan,V6 Cylinder Engine,Automatic,null,Makalu Gray,null,null,null,Gas,14.8L/100km,9.9L/100km,73995
+2023,Genesis,GV60,7188 km,SUV,Electric Motor,Automatic,AWD,Vik Black,null,null,null,Electric,null,null,76895
+2023,Genesis,GV60,459 km,SUV,Electric Motor,Automatic,AWD,Matterhorn White,null,5,4,Electric,null,null,86995
+2023,Genesis,GV60,8054 km,SUV,0.0L,1 Speed Automatic,AWD,Orange,Blue,null,null,Electric,null,null,84995
+2023,Genesis,GV80,11500 km,SUV,V6 Cylinder Engine,Automatic,AWD,Vik Black,Black,5,4,Gas,12.9L/100km,10.4L/100km,87990
+2019,Genesis,G70,95272 km,Sedan,3.3L 6cyl,8 Speed Automatic,AWD,Serengeti Brown Mica,Grey,5,4,Premium Unleaded,13.3L/100km,9.5L/100km,34000
+2017,Genesis,G80,23020 km,Sedan,5.0L 8cyl,8 Speed Automatic,AWD,Santiago Silver Metallic,Black,5,4,Premium Unleaded,17.2L/100km,10.5L/100km,37500
+2021,Genesis,G70,31000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,41000
+2022,Genesis,GV70,31588 km,SUV,V6 Cylinder Engine,Automatic,4WD,Adriatic Blue,null,null,null,Gas,12.9L/100km,10.0L/100km,66990
+2023,Genesis,GV80,2320 km,SUV,3.5T,Automatic,AWD,Dark Blue,Beige,null,4,Gas,12.9L/100km,10.4L/100km,89998
+2019,Genesis,G80,45163 km,Sedan,3.8L 6cyl,8 Speed Automatic,AWD,Casablanca White Mica,Black,5,4,Gas,13.4L/100km,9.6L/100km,38880
+2019,Genesis,G70,104835 km,Sedan,4 Cylinder Engine,6 Speed Manual,RWD,Casablanca White Mica,Black,5,4,Gas,12.8L/100km,8.5L/100km,32097
+2019,Genesis,G70,62707 km,Sedan,3.3L 6cyl,8 Speed Automatic,AWD,Victoria Black Metallic,Black,5,4,Premium Unleaded,13.3L/100km,9.5L/100km,37499
+2022,Genesis,GV70,31400 km,SUV,2.5L I4 16V PDI DOHC Turbo,Automatic,AWD,Uyuni White,null,5,4,Gas,10.7L/100km,8.4L/100km,61010
+2019,Genesis,G70,21957 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,34900
+2019,Genesis,G70,61302 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Victoria Black Metallic,null,null,4,Gas,11.5L/100km,8.7L/100km,37988
+2023,Genesis,G70,3500 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,49000
+2020,Genesis,G90,63982 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,63855
+2022,Genesis,GV70,19707 km,SUV,V6 Cylinder Engine,Automatic,AWD,Silver,Black,5,4,Gas,12.9L/100km,10.0L/100km,68495

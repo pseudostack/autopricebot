@@ -211,9 +211,14 @@ public class App {
          * }
          */
         try {
-            myList.remove(myList.indexOf("Acura"));
-            myList.remove(myList.indexOf("Alfa Romeo"));
-            myList.remove(myList.indexOf("Audi"));
+            myList.remove("Acura");
+            myList.remove("Alfa Romeo");
+            myList.remove("Audi");
+            // second batch
+            myList.removeAll(Arrays.asList("De Tomaso", "Dodge", "Factory Five Racing",
+                    "Ferrari", "Fiat", "Fisker", "Ford", "Freightliner", "Genesis", "Geo", "GMC", "Hino", "Honda",
+                    "Hummer", "Hyundai", "Infiniti", "Innocenti", "International", "Isuzu", "Jaguar", "Jeep", "Karma",
+                    "Kia", "Lamborghini", "Lancia"));
         } catch (Exception er) {
         }
         myList.forEach(make -> extracted(chromeOptions, driver, make));

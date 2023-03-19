@@ -1,0 +1,783 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2022,Kia,Sorento,17301 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Glacial White Pearl,Black,null,4,Gas,10.9L/100km,8.7L/100km,49963
+2020,Kia,Stinger,58151 km,Sedan,3.3L Twin-Turbo GDI V6,Automatic,AWD,Grey,Black,null,4,Gas,13.6L/100km,9.6L/100km,42644
+2017,Kia,Forte,147545 km,Sedan,2.0,6 Speed Automatic,FWD,Urban Grey Metallic,Black,5,4,Gas,9.4L/100km,7.0L/100km,16888
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Onyx,Black,5,4,Gas,8.8L/100km,7.6L/100km,30295
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Vesta Blue,Black,5,4,Gas,10.4L/100km,8.5L/100km,37832
+2012,Kia,Sorento,222000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,9000
+2015,Kia,Sportage,97000 km,null,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,17000
+2016,Kia,Forte,138561 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Aurora Black,Black,5,4,Gas,9.5L - 9.7L/100km,6.9L - 7.2L/100km,13888
+2015,Kia,Forte,118216 km,Sedan,1.8L 4cyl,6 Speed Automatic,FWD,Silver,Black,5,4,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,13888
+2014,Kia,Rondo,150790 km,Wagon,4 Cylinder Engine,Automatic,FWD,Fathom Blue Pearl,null,null,4,Gas,9.2L/100km,6.3L/100km,9000
+2015,Kia,Sorento,174016 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,null,Black,null,4,Gas,10.4L/100km,7.1L/100km,11399
+2017,Kia,Sorento,138000 km,SUV,2.4,6 Speed Automatic,AWD,Gray,Black,5,4,Gas,11.5L/100km,9.3L/100km,15990
+2016,Kia,Optima,143122 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Ebony Black,Black,null,4,Gas,10.9L/100km,7.4L/100km,16999
+2022,Kia,Soul,10748 km,Hatchback,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Gravity Grey,Black,null,null,Gas,8.5L/100km,7.0L/100km,28500
+2017,Kia,Sorento,117290 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,12.3L/100km,9.4L/100km,17500
+2016,Kia,Sorento,183000 km,SUV,3.3,Automatic,AWD,Snow White Pearl,Black,7,4,Gas,13.4L/100km,9.4L/100km,17990
+2016,Kia,Sorento,104917 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,5,4,Gas,12.3L/100km,9.3L/100km,18890
+2017,Kia,Optima,42655 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Aurora Black,Black,5,4,Gasoline Hybrid,6.0L/100km,5.1L/100km,19999
+2018,Kia,Sportage,53334 km,SUV,4 Cylinder Engine,Automatic,FWD,Black Cherry,null,5,4,Gas,10.3L/100km,7.8L/100km,20565
+2017,Kia,Sportage,89620 km,SUV,4 Cylinder Engine,Automatic,AWD,Silver,null,null,null,Gas,11.3L/100km,9.5L/100km,20877
+2019,Kia,Optima,126000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Lightning Blue Metallic,Black,5,4,Gas,9.5L/100km,7.1L/100km,20950
+2016,Kia,Soul,62658 km,Hatchback,Electric,1 Speed Automatic,FWD,Onyx/Inferno Red Two-Tone,Grey,null,4,Electric,null,null,20995
+2020,Kia,Forte,74000 km,Sedan,2.0,Automatic,FWD,Hyper Blue,Black,5,4,Gas,7.9L/100km,5.9L/100km,21990
+2020,Kia,Stinger,58151 km,Sedan,3.3L Twin-Turbo GDI V6,Automatic,AWD,Grey,Black,null,4,Gas,13.6L/100km,9.6L/100km,42644
+2019,Kia,Soul,45470 km,Hatchback,4 Cylinder Engine 1.6L,Automatic,FWD,Polar White,Black,null,4,Gas,9.1L/100km,7.7L/100km,22489
+2019,Kia,Sorento,112818 km,SUV,V6 Cylinder Engine,Automatic,AWD,Blaze Blue Metallic,Grey,7,4,Gas,12.5L/100km,9.7L/100km,22890
+2020,Kia,Forte5,79776 km,Hatchback,1.6L Turbo GDI 4 Cyl DOHC D-CVVT,Automatic,FWD,Orange Delight,Black,null,4,Gas,8.9L/100km,6.9L/100km,22994
+2021,Kia,Forte,93301 km,Sedan,2.0L 4cyl,CVT,FWD,Aurora Black,Black,null,2,Gas,7.8L/100km,5.9L/100km,22999
+2018,Kia,Sportage,27168 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,null,null,23788
+2020,Kia,Sportage,129000 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,23950
+2021,Kia,Soul,16650 km,Hatchback,2.0L MPI 4-Cylinder,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.5L/100km,7.0L/100km,23977
+2021,Kia,Forte,47000 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,7.8L/100km,5.9L/100km,23990
+2019,Kia,Sorento,92323 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,7,4,Gas,11.2L/100km,9.0L/100km,23990
+2022,Kia,Telluride,8215 km,SUV,. L,8 Speed Automatic,AWD,Black,null,8,2,Gas,12.7L/100km,9.7L/100km,55888
+2017,Kia,Sorento,107000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,12.3L/100km,9.4L/100km,24450
+2020,Kia,Soul,27711 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,8.6L/100km,7.1L/100km,24588
+2019,Kia,Sorento,63677 km,SUV,Regular Unleaded I-4 2.4 L/144,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,11.2L/100km,9.0L/100km,24887
+2021,Kia,Forte,61346 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,7.8L/100km,5.9L/100km,24990
+2021,Kia,Forte,27968 km,Sedan,4 Cylinder Engine,CVT,FWD,Aurora Black,Black,null,null,Gas,7.8L/100km,5.9L/100km,24995
+2022,Kia,Soul,19938 km,Hatchback,4 Cylinder Engine,CVT,FWD,Inferno Red,Dark Grey,5,4,Gas,8.5L/100km,7.0L/100km,24999
+2021,Kia,Forte5,58462 km,Hatchback,4 Cylinder Engine 1.6L,Automatic,FWD,Orange Delight,Black,null,5,Gas,8.9L - 9.9L/100km,6.9L - 7.6L/100km,25295
+2019,Kia,Sorento,109000 km,SUV,4 Cylinder Engine,Automatic,AWD,Dragon Brown Metallic,Black,5,4,Gas,11.2L/100km,9.0L/100km,25450
+2018,Kia,Sportage,52935 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Scarlet Red,null,null,null,Gas,11.3L/100km,9.5L/100km,25888
+2021,Kia,Sportage,26654 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,12.1L/100km,9.6L/100km,38950
+2020,Kia,Sportage,43974 km,SUV,4 Cylinder Engine,Automatic,AWD,Black Cherry,null,5,null,Gas,10.8L/100km,9.1L/100km,25995
+2022,Kia,Forte5,7946 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Runway Red,Black,5,4,Gas,8.0L/100km,6.0L/100km,26590
+2020,Kia,Sportage,50242 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,26590
+2021,Kia,Seltos,68825 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,AWD,Silver,Black,null,4,Gas,8.8L/100km,7.6L/100km,27499
+2021,Kia,Seltos,75243 km,SUV,2.0L MPI I4 -inc: idle stop and go,CVT,AWD,Grey,Black,null,4,Gas,8.8L/100km,7.6L/100km,27500
+2020,Kia,Sportage,68673 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,10.8L/100km,9.1L/100km,27989
+2019,Kia,Sorento,49680 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,null,null,Gas,11.2L/100km,9.0L/100km,27995
+2018,Kia,Stinger,184631 km,Sedan,V6 Cylinder Engine,Automatic,null,Grey,Black,5,null,Gas,12.7L/100km,9.6L/100km,27998
+2019,Kia,Sorento,34818 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,Black,null,null,Gas,11.2L/100km,9.0L/100km,28995
+2019,Kia,Stinger,50923 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,5,4,Gas,11.1L/100km,8.1L/100km,35997
+2021,Kia,Forte,16300 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aurora Black,null,5,4,Gas,8.7L/100km,6.6L/100km,28995
+2023,Kia,Seltos,16098 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,FWD,Blue,Black,null,4,Gas,8.2L/100km,7.1L/100km,28999
+2021,Kia,Seltos,30728 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,null,Gas,8.8L/100km,7.6L/100km,29995
+2021,Kia,Seltos,5837 km,SUV,4 Cylinder Engine,CVT,AWD,Red,null,5,4,Gas,8.8L/100km,7.6L/100km,29995
+2022,Kia,Sportage,20363 km,SUV,Regular Unleaded I-4 2.4 L/144,Automatic,AWD,Black Cherry,Black,5,4,Gas,10.8L/100km,9.1L/100km,30998
+2020,Kia,Sedona,40500 km,Minivan,V6 Cylinder Engine,8 Speed Automatic,FWD,Snow White Pearl,Dark Grey,8,4,Gas,12.7L/100km,10.0L/100km,31999
+2020,Kia,Sorento,89000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,12.3L/100km,9.5L/100km,32950
+2020,Kia,Sportage,60309 km,SUV,SP757L,Automatic,AWD,Steel Grey,null,null,null,Gas,12.1L/100km,9.6L/100km,32990
+2022,Kia,Seltos,6672 km,SUV,4 Cylinder Engine,CVT,AWD,Blue,null,5,null,Gas,8.8L/100km,7.6L/100km,33195
+2011,Kia,Soul,117389 km,Hatchback,Gas I4 2.0L/121,Manual,FWD,Gray,Grey,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6988
+2020,Kia,Soul,83507 km,Hatchback,100kW Perm Magnet AC Synchronous Motor,Automatic,FWD,Onyx,Black,null,4,Electric,null,null,33999
+2021,Kia,Seltos,28829 km,SUV,1.6L 4cyl,7 Speed Automatic with auto-shift,AWD,null,null,null,2,Gas,9.4L/100km,7.9L/100km,34399
+2020,Kia,Sportage,33335 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.0 L/122,Automatic,AWD,Black Cherry,null,null,4,Gas,12.1L/100km,9.6L/100km,34537
+2022,Kia,Sorento,46131 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ebony Black,Black,5,4,Gas,10.1L/100km,9.2L/100km,34995
+2020,Kia,Sorento,39352 km,SUV,3.3L 6cyl,8 Speed Automatic,AWD,Imperial Blue,Black,null,2,Gas,12.3L/100km,9.5L/100km,35999
+2018,Kia,Stinger,66228 km,Hatchback,3.3L 6cyl,8 Speed Automatic,AWD,null,null,null,2,Premium Unleaded,12.7L/100km,9.6L/100km,36990
+2021,Kia,Sorento,42246 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,6,4,Gas,11.1L/100km,8.4L/100km,37990
+2020,Kia,Telluride,85612 km,SUV,Regular Unleaded V-6 3.8 L/231,Automatic,AWD,Snow White Pearl,Black,8,4,Gas,12.5L/100km,9.6L/100km,39500
+2019,Kia,Stinger,49901 km,Hatchback,V6 Cylinder Engine,Automatic,null,Aurora Black,null,null,null,Gas,13.6L/100km,9.6L/100km,39895
+2019,Kia,Sorento,93764 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gray,Black,null,4,Gas,11.2L/100km,9.0L/100km,25884
+2019,Kia,Stinger,50570 km,Hatchback,V6 Cylinder Engine,Automatic,null,Snow White Pearl,null,5,null,Gas,12.7L/100km,9.6L/100km,39995
+2022,Kia,K5,20069 km,Sedan,4 Cylinder Engine,Automatic,FWD,Ebony Black,null,5,4,Gas,9.9L/100km,7.3L/100km,40885
+2020,Kia,Telluride,40650 km,SUV,V6 Cylinder Engine 3.8L,Automatic,AWD,Ebony Black,Black,null,4,Gas,12.5L/100km,9.6L/100km,41504
+2021,Kia,Stinger,47121 km,Hatchback,V6 Cylinder Engine,Automatic,null,Ghost Grey,null,null,null,Gas,13.6L/100km,9.6L/100km,42634
+2020,Kia,Stinger,58151 km,Sedan,3.3L Twin-Turbo GDI V6,Automatic,AWD,Grey,Black,null,4,Gas,13.6L/100km,9.6L/100km,42644
+2022,Kia,Sorento,8981 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Ebony Black,Black,null,4,Gas,10.9L/100km,8.7L/100km,44999
+2021,Kia,Sorento,32510 km,SUV,2.5,Automatic,AWD,Glacial White Pearl,Burgundy,6,4,Gas,11.1L/100km,8.4L/100km,46888
+2020,Kia,Telluride,78081 km,SUV,3.8L 6cyl,8 Speed Automatic,AWD,Ebony Black,Black,null,2,Gas,12.5L/100km,9.6L/100km,47888
+2020,Kia,Telluride,83535 km,SUV,3.8L 6cyl,8 Speed Automatic,AWD,Ebony Black,Black,7,4,Gas,12.5L/100km,9.6L/100km,48500
+2021,Kia,Seltos,81048 km,SUV,4 Cylinder Engine 2.0L,CVT,FWD,Snow White Pearl,Black,null,4,Gas,8.2L/100km,7.1L/100km,22690
+2022,Kia,Sorento,17301 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Glacial White Pearl,Black,null,4,Gas,10.9L/100km,8.7L/100km,49963
+2022,Kia,Stinger,32110 km,Hatchback,3.3L 6cyl,8 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Premium Unleaded,13.7L/100km,9.6L/100km,50888
+2021,Kia,Telluride,46742 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,8,4,Gas,12.6L/100km,9.7L/100km,50999
+2022,Kia,Sorento,20195 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Glacial White Pearl,null,null,null,Gas,10.9L/100km,8.7L/100km,51999
+2021,Kia,Telluride,49851 km,SUV,V6,Automatic,AWD,Gravity Grey,Black,7,5,Gas,12.6L/100km,9.7L/100km,53500
+2021,Kia,Telluride,15862 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,12.6L/100km,9.7L/100km,54595
+2022,Kia,Telluride,14350 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,null,Gas,12.7L/100km,9.7L/100km,54900
+2022,Kia,Telluride,23450 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,null,Gas,12.7L/100km,9.7L/100km,55788
+2023,Kia,Stinger,2700 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,null,null,null,null,null,Gas,13.7L/100km,9.6L/100km,57693
+2017,Kia,Sorento,117290 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,12.3L/100km,9.4L/100km,17500
+2022,Kia,Telluride,13205 km,SUV,3.8L 6cyl,8 Speed Automatic,AWD,Black,Black,null,2,Gas,12.7L/100km,9.7L/100km,60888
+2022,Kia,Telluride,7470 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gray,null,8,null,Gas,12.7L/100km,9.7L/100km,60995
+2013,Kia,Optima,96000 km,Sedan,2.4L 4cyl,6 Speed Manual,FWD,Silver,Black,null,2,Gas,8.6L - 8.7L/100km,5.6L - 5.7L/100km,9999
+2017,Kia,Rio,135490 km,Sedan,1.6,Automatic,FWD,Graphite Pearl,Black,null,4,Gas,8.8L/100km,6.5L - 6.6L/100km,11980
+2015,Kia,Sorento,157241 km,SUV,V6 Cylinder Engine,Automatic,AWD,Titanium Silver Metallic,Black,5,null,Regular Unleaded,11.9L/100km,8.4L/100km,13950
+2015,Kia,Soul,103346 km,Hatchback,2.0L 4 Cylinder Engine,Automatic,FWD,Polar,Black,5,4,Gas,10.1L/100km,7.7L/100km,15695
+2017,Kia,Soul,70367 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Titanium,Black,5,4,Gas,9.4L - 9.7L/100km,7.8L/100km,15971
+2018,Kia,Rio5,49159 km,Hatchback,1.6L 4cyl,6 Speed Automatic,FWD,Blue,null,null,2,Gas,8.8L/100km,6.5L - 6.6L/100km,17888
+2016,Kia,Soul,103885 km,Sedan,1,1 Speed Automatic,FWD,Onyx/Inferno Red Two-Tone,Grey,5,4,Electric,null,null,17888
+2021,Kia,Soul,16650 km,Hatchback,2.0L MPI 4-Cylinder,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.5L/100km,7.0L/100km,23977
+2018,Kia,Forte,94133 km,Sedan,2.0L L4 DOHC 16V,Automatic,FWD,Ultra Silver Metallic,Black,null,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,17985
+2019,Kia,Sorento,173000 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey,Grey,null,4,Gas,11.2L/100km,9.0L/100km,18999
+2017,Kia,Sportage,117000 km,SUV,2.4L 4-Cyl Engine,Automatic,AWD,Storm Blue,Black,5,4,Gas,11.3L/100km,9.5L/100km,19450
+2017,Kia,Sportage,119594 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,Grey,Grey,5,4,Gas,11.3L/100km,9.5L/100km,20399
+2017,Kia,Sportage,129000 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.3L/100km,9.5L/100km,20450
+2017,Kia,Sorento,74010 km,SUV,2.4L 4cyl,6 Speed Automatic,FWD,Snow White Pearl,Black,null,2,Gas,11.2L/100km,8.3L/100km,20888
+2019,Kia,Forte,27736 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,7.7L - 8.6L/100km,5.9L - 6.4L/100km,20890
+2017,Kia,Sportage,97000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,11.3L/100km,9.5L/100km,21450
+2020,Kia,Forte,62151 km,Sedan,4 Cylinder Engine,CVT,null,Radiant Red,null,null,null,Gas,7.9L/100km,5.9L/100km,21999
+2022,Kia,Sorento,2692 km,SUV,2.5L 4cyl,Automatic,AWD,Glacial White Pearl,Black,null,2,Gas,10.1L/100km,9.2L/100km,42589
+2021,Kia,Forte,43932 km,Sedan,4 Cylinder Engine,Automatic,null,Aurora Black,Black,null,2,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,22599
+2018,Kia,Sportage,83000 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,11.3L/100km,9.5L/100km,22850
+2017,Kia,Sorento,110920 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Grey,Black,null,4,Gas,12.3L/100km,9.4L/100km,22995
+2019,Kia,Soul,8004 km,Wagon,4 Cylinder Engine,Automatic,FWD,Inferno Red,null,5,null,Gas,9.5L/100km,7.8L/100km,23595
+2018,Kia,Sportage,112000 km,SUV,2.4,Automatic,AWD,Storm Blue,Black,null,4,Gas,11.3L/100km,9.5L/100km,23999
+2020,Kia,Soul,71598 km,Wagon,4 Cylinder Engine,CVT,FWD,Gray,null,5,null,Gas,8.6L/100km,7.1L/100km,24475
+2022,Kia,Sorento,17301 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Glacial White Pearl,Black,null,4,Gas,10.9L/100km,8.7L/100km,49963
+2014,Kia,Rondo,150790 km,Wagon,4 Cylinder Engine,Automatic,FWD,Fathom Blue Pearl,null,null,4,Gas,9.2L/100km,6.3L/100km,9000
+2019,Kia,Stinger,50570 km,Hatchback,V6 Cylinder Engine,Automatic,null,Snow White Pearl,null,5,null,Gas,12.7L/100km,9.6L/100km,39995
+2022,Kia,Carnival,27920 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Gray,null,7,null,Gas,12.0L/100km,8.9L/100km,56995
+2023,Kia,Forte,26 km,Sedan,2.0L MPI 4 CYL DOHC 16V D-CVVT,Automatic,null,Hyper Blue,Black,5,4,Gas,8.2L/100km,6.0L/100km,25332
+2020,Kia,Sportage,65678 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,29995
+2016,Kia,Sorento,95311 km,SUV,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,11.1L/100km,8.2L/100km,18750
+2016,Kia,Soul,118900 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Black,Black,5,4,Gas,null,null,17888
+2019,Kia,Niro,51590 km,SUV,1.6L 4cyl,6 Speed Automatic with auto-shift,FWD,Snow White Pearl,Black,5,5,Gas,4.9L/100km,5.3L/100km,37295
+2020,Kia,Soul,48700 km,Hatchback,4 Cylinder Engine,CVT,FWD,Onyx,Black,5,4,Gas,8.6L/100km,7.1L/100km,24699
+2017,Kia,Sportage,95565 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Black Cherry,Black,null,4,Gas,11.9L/100km,10.2L/100km,24995
+2022,Kia,Rio,17211 km,Hatchback,1.6L I4,Automatic,FWD,Aurora Black,Black,null,2,Gas,7.2L - 7.7L/100km,6.0L - 6.1L/100km,24999
+2017,Kia,Sedona,59098 km,Minivan,V6 Cylinder Engine 3.3L,Automatic,FWD,Graphite Metallic,Grey,null,4,Gas,13.2L/100km,9.7L/100km,25395
+2015,Kia,Rio,86958 km,Compact,4 Cylinder Engine,null,FWD,Graphite Pearl,Black,null,2,Gas,8.5L - 8.8L/100km,6.3L - 6.4L/100km,12999
+2021,Kia,Forte,23862 km,Sedan,4 Cylinder Engine,CVT,FWD,Grey,null,5,4,Gas,7.8L/100km,5.9L/100km,25990
+2020,Kia,Sportage,97150 km,SUV,2.4,Automatic,FWD,Steel Grey,Black,null,4,Gas,10.1L/100km,7.6L/100km,26888
+2022,Kia,Forte5,8908 km,Hatchback,4 Cylinder Engine,CVT,FWD,Gray,null,5,4,Gas,8.0L/100km,6.0L/100km,26995
+2021,Kia,Seltos,44994 km,SUV,4 Cylinder Engine,CVT,FWD,Snow White Pearl,null,null,null,Gas,8.2L/100km,7.1L/100km,26999
+2020,Kia,Sportage,37007 km,SUV,Regular Unleaded I-4 2.4 L/144,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,10.8L/100km,9.1L/100km,27490
+2021,Kia,Seltos,32545 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,null,null,Gas,8.8L/100km,7.6L/100km,27999
+2022,Kia,Forte,8918 km,Sedan,4 Cylinder Engine,CVT,null,Snow White Pearl,null,5,null,Gas,7.9L/100km,5.9L/100km,28195
+2022,Kia,Forte,7838 km,Sedan,4 Cylinder Engine,CVT,null,Gray,null,5,null,Gas,7.9L/100km,5.9L/100km,28295
+2021,Kia,Seltos,42920 km,SUV,4 Cylinder Engine,CVT,AWD,Snow White Pearl,null,null,null,Gas,8.8L/100km,7.6L/100km,28999
+2017,Kia,Sportage,90339 km,SUV,2.4L I4 DGI DOHC,6 Speed Automatic,AWD,null,null,null,4,Gas,11.3L/100km,9.5L/100km,21500
+2018,Kia,Niro,68318 km,SUV,4 Cylinder Engine,6 Speed Automatic,null,null,null,null,null,Gasoline Hybrid,4.6L - 5.1L/100km,5.1L - 5.8L/100km,28999
+2020,Kia,Sportage,53511 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,28999
+2021,Kia,Forte,6922 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue,null,5,4,Gas,8.7L/100km,6.6L/100km,29995
+2019,Kia,Sorento,48661 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,11.2L/100km,9.0L/100km,29995
+2021,Kia,Seltos,87482 km,SUV,4 Cylinder Engine 1.6L,Automatic,AWD,Blue,Black,null,4,Gas,9.4L/100km,7.9L/100km,32888
+2021,Kia,K5,14622 km,Sedan,1.6L turbo GDI,Automatic,AWD,Pacific Blue,Black,null,4,Gas,9.2L/100km,6.9L/100km,33644
+2018,Kia,Sedona,62150 km,Minivan,Regular Unleaded V-6 3.3 L/204,Automatic,FWD,Snow White Pearl,Grey,7,4,Gas,12.9L/100km,9.5L/100km,34650
+2020,Kia,Sorento,25659 km,SUV,3.3L 6cyl,8 Speed Automatic,AWD,Ebony Black,Grey,7,4,Gas,12.3L/100km,9.5L/100km,36399
+2022,Kia,Seltos,4701 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Starbright Yellow,null,null,null,Gas,9.4L/100km,7.9L/100km,36999
+2017,Kia,Sportage,150340 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Grey,Black,null,4,Gas,11.3L/100km,9.5L/100km,17999
+2022,Kia,Carnival,58483 km,Minivan,V6 Cylinder Engine,8 Speed Automatic,FWD,Snow White Pearl,null,null,null,Gas,12.0L/100km,8.9L/100km,38999
+2022,Kia,Sorento,7036 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Glacial White Pearl,Dark Grey,7,4,Gas,10.1L/100km,9.2L/100km,39999
+2022,Kia,Carnival,43607 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Aurora Black,null,8,null,Gas,12.0L/100km,8.9L/100km,40395
+2022,Kia,Carnival,32635 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Aurora Black,null,8,null,Gas,12.0L/100km,8.9L/100km,40695
+2021,Kia,Sorento,26924 km,SUV,4 Cylinder Engine,Automatic,AWD,Aruba Stone Green,Black,6,2,Gas,11.1L/100km,8.4L/100km,42995
+2020,Kia,Telluride,72543 km,SUV,V-6 cyl,8 Speed Automatic,AWD,null,null,null,null,Regular Unleaded,12.5L/100km,9.6L/100km,44997
+2023,Kia,Sportage,12051 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Snow White Pearl,null,null,null,Gas,10.4L/100km,8.5L/100km,47999
+2022,Kia,Sorento,12792 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Maroon,Black,6,4,Gas,10.9L/100km,8.7L/100km,52999
+2023,Kia,Stinger,16560 km,Hatchback,3.3L 6cyl,8 Speed Automatic,AWD,Grey,Black,null,2,Premium Unleaded,13.7L/100km,9.6L/100km,58888
+2017,Kia,Forte,103396 km,Sedan,2.0L GDI 4 Cyl DOHC 16V D-CVVT,Automatic,FWD,Hyper Blue Metallic,null,null,4,Gas,9.4L/100km,7.0L/100km,16999
+2022,Kia,Telluride,7980 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Black,8,4,Gas,12.7L/100km,9.7L/100km,61888
+2022,Kia,Telluride,8385 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,8,4,Gas,12.7L/100km,9.7L/100km,61888
+2022,Kia,Sorento,6688 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,null,null,Gasoline Hybrid,6.7L/100km,7.1L/100km,62999
+2022,Kia,Sorento,6497 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,null,null,Gasoline Hybrid,6.7L/100km,7.1L/100km,62999
+2012,Kia,Rondo,130636 km,Wagon,V6 Cylinder Engine,Automatic,FWD,null,null,7,4,Gas,11.5L/100km,7.7L/100km,9988
+2013,Kia,Optima,162278 km,Sedan,2.0,6 Speed Automatic,FWD,Silver,Black,null,4,Gas,8.6L - 9.2L/100km,5.6L - 5.8L/100km,10980
+2018,Kia,Optima,215811 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,null,Regular Unleaded,9.3L - 9.6L/100km,6.6L - 6.8L/100km,12950
+2016,Kia,Sorento,207005 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Silver,null,null,4,Gas,12.3L/100km,9.3L/100km,13888
+2014,Kia,Cadenza,151859 km,Sedan,3.3,6 Speed Automatic,FWD,Snow White Pearl,Black,null,4,Gas,null,null,13980
+2021,Kia,Seltos,68825 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,AWD,Silver,Black,null,4,Gas,8.8L/100km,7.6L/100km,27499
+2015,Kia,Forte,113000 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,9.7L - 9.8L/100km,6.7L - 6.9L/100km,14780
+2017,Kia,Forte,147545 km,Sedan,2.0,6 Speed Automatic,FWD,Urban Grey Metallic,Black,5,4,Gas,9.4L/100km,7.0L/100km,16888
+2017,Kia,Sportage,141000 km,SUV,2.4,Automatic,FWD,Black Cherry,Black,5,4,Gas,10.4L/100km,8.0L/100km,16990
+2017,Kia,Forte,103396 km,Sedan,2.0L GDI 4 Cyl DOHC 16V D-CVVT,Automatic,FWD,Hyper Blue Metallic,null,null,4,Gas,9.4L/100km,7.0L/100km,16999
+2017,Kia,Sportage,142046 km,SUV,4 Cylinder Engine,Automatic,AWD,Scarlet Red,Black,5,null,Regular Unleaded,11.3L/100km,9.5L/100km,17950
+2017,Kia,Sportage,133454 km,SUV,4 Cylinder Engine,Automatic,AWD,Silver,Black,5,null,Regular Unleaded,11.3L/100km,9.5L/100km,18450
+2017,Kia,Sorento,124394 km,SUV,2.4,6 Speed Automatic,AWD,Snow White Pearl,Black,null,4,Gas,11.5L/100km,9.3L/100km,19480
+2018,Kia,Forte,32485 km,Sedan,4 Cylinder Engine,Automatic,FWD,Ultra Silver Metallic,Black,5,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,19990
+2017,Kia,Sportage,103100 km,SUV,2.4,Automatic,FWD,Storm Blue,Black,null,4,Gas,10.4L/100km,8.0L/100km,19999
+2020,Kia,Forte5,79776 km,Hatchback,1.6L Turbo GDI 4 Cyl DOHC D-CVVT,Automatic,FWD,Orange Delight,Black,null,4,Gas,8.9L/100km,6.9L/100km,22994
+2018,Kia,Rio5,29509 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Snow White Pearl,null,null,null,Gas,8.3L - 8.5L/100km,6.4L/100km,20995
+2017,Kia,Sportage,93808 km,SUV,4 Cylinder Engine,Automatic,AWD,Scarlet Red,null,5,null,Gas,11.3L/100km,9.5L/100km,21495
+2020,Kia,Soul,90500 km,Hatchback,I-4 cyl,CVT,FWD,Gravity Grey,Black,null,null,Regular Unleaded,8.6L/100km,7.1L/100km,23997
+2020,Kia,Forte,10321 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,7.9L/100km,5.9L/100km,24590
+2019,Kia,Forte,27514 km,Sedan,2.0,Automatic,FWD,Snow White Pearl,Black,5,4,Gas,7.7L/100km,5.9L/100km,24888
+2020,Kia,Forte,57683 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aurora Black,Black,5,4,Gas,7.9L/100km,5.9L/100km,24990
+2018,Kia,Sportage,81250 km,SUV,2.4,Automatic,FWD,Storm Blue,Dark Grey,null,4,Gas,10.3L/100km,7.8L/100km,24999
+2020,Kia,Forte,77565 km,Sedan,2.0L 4cyl,CVT,FWD,Radiant Red,Black,5,4,Gas,7.9L/100km,5.9L/100km,25299
+2018,Kia,Sportage,62600 km,SUV,2.4,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,10.4L - 11.3L/100km,8.0L - 9.5L/100km,25488
+2019,Kia,Forte,79946 km,Sedan,I-4 cyl,null,FWD,Snow White Pearl,Black,null,null,Regular Unleaded,7.7L - 8.6L/100km,5.9L - 6.4L/100km,18883
+2018,Kia,Sorento,115194 km,SUV,Regular Unleaded I-4 2.4 L/144,Automatic,FWD,Titanium,null,null,4,Gas,11.2L/100km,8.3L/100km,25858
+2019,Kia,Sportage,43053 km,SUV,Regular Unleaded I-4 2.4 L/144,Automatic,FWD,Black Cherry,Black,null,4,Gas,10.3L/100km,7.8L/100km,26990
+2019,Kia,Sorento,76440 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,11.2L/100km,9.0L/100km,27888
+2021,Kia,Forte,76321 km,Sedan,4 Cylinder Engine 2.0L,CVT,FWD,Radiant Red,Black,null,4,Gas,7.8L/100km,5.9L/100km,27995
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Onyx,Black,5,4,Gas,8.8L/100km,7.6L/100km,30295
+2019,Kia,Sorento,50426 km,SUV,V6 Cylinder Engine,Automatic,AWD,Blaze Blue Metallic,Black,null,null,Gas,12.5L/100km,9.7L/100km,31995
+2023,Kia,Seltos,99 km,SUV,2.0L 4cyl,CVT,AWD,Snow White Pearl,Black,null,2,Gas,8.8L/100km,7.6L/100km,33845
+2022,Kia,K5,29606 km,Sedan,4 Cylinder Engine,8 Speed Automatic,null,Ebony Black,null,null,null,Gas,8.7L/100km,6.4L/100km,34999
+2021,Kia,K5,19512 km,Sedan,4 Cylinder Engine,8 Speed Automatic,null,Passion Red,null,null,null,Gas,9.2L/100km,6.9L/100km,36999
+2021,Kia,Sorento,26740 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Runway Red,Black,6,4,Gas,11.1L/100km,8.4L/100km,40888
+2019,Kia,Niro,22016 km,Wagon,Gas/Electric I-4 1.6 L/96,Automatic,FWD,Snow White Pearl,Black,5,4,Gasoline Hybrid,4.9L/100km,5.3L/100km,37998
+2022,Kia,Seltos,17785 km,SUV,175HP 1.6L 4 Cylinder Engine,Automatic,AWD,Blue,null,null,4,Gas,9.4L/100km,7.9L/100km,40995
+2022,Kia,Seltos,18245 km,SUV,175HP 1.6L 4 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,4,Gas,9.4L/100km,7.9L/100km,40995
+2022,Kia,Sorento,21561 km,SUV,191HP 2.5L 4 Cylinder Engine,Automatic,AWD,Wolf Gray,null,null,4,Gas,10.1L/100km,9.2L/100km,40995
+2021,Kia,Sorento,15132 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Gray,Black,6,4,Gas,11.1L/100km,8.4L/100km,43888
+2023,Kia,K5,3442 km,Sedan,1.6L Turbo GDI DOHC I4 CVVD,Automatic,AWD,Grey,Black,null,4,Gas,9.3L/100km,7.0L/100km,43999
+2022,Kia,Sorento,12421 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Platinum Graphite,null,null,null,Gasoline Hybrid,6.4L/100km,7.0L/100km,44887
+2022,Kia,Sorento,9497 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Aurora Black,null,null,null,Gasoline Hybrid,6.4L/100km,7.0L/100km,45387
+2022,Kia,Sorento,6560 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,null,null,Gasoline Hybrid,6.4L/100km,7.0L/100km,45387
+2022,Kia,Soul,10068 km,Hatchback,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Snow White Pearl,Black,null,null,Gas,8.5L/100km,7.0L/100km,27189
+2022,Kia,Sorento,4201 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,null,null,Gas,10.9L/100km,8.7L/100km,53174
+2022,Kia,Carnival,27920 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Gray,null,7,null,Gas,12.0L/100km,8.9L/100km,56995
+2022,Kia,Sorento,38125 km,SUV,261HP 1.6L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gasoline Hybrid,6.7L/100km,7.1L/100km,68995
+2011,Kia,Soul,117389 km,Hatchback,Gas I4 2.0L/121,Manual,FWD,Gray,Grey,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6988
+2014,Kia,Rio,206665 km,Hatchback,I-4 cyl,6 Speed Manual,FWD,Polar,Black,null,null,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,8999
+2013,Kia,Forte,147381 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Brown,Charcoal,5,4,Gas,8.0L - 8.1L/100km,5.5L - 5.7L/100km,11900
+2013,Kia,Sportage,156052 km,SUV,4 Cylinder Engine,Automatic,FWD,Vintage Blue Metallic,Black,5,null,Regular Unleaded,9.7L - 10.3L/100km,6.5L - 7.2L/100km,12450
+2013,Kia,Soul,121668 km,Wagon,4 Cylinder Engine,Automatic,FWD,Dark Green,Black,5,4,Gas,8.5L - 8.8L/100km,6.7L - 7.1L/100km,13988
+2019,Kia,Optima,127761 km,Sedan,4 Cylinder Engine,6 Speed Automatic,null,Titanium Metallic,null,null,null,Gas,9.5L/100km,7.1L/100km,17698
+2021,Kia,Sorento,18575 km,SUV,2.5L 4cyl,8 Speed Automatic with auto-shift,AWD,Pacific Blue,Black,null,2,Gas,11.1L/100km,8.4L/100km,44402
+2018,Kia,Forte,84511 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Ultra Silver Metallic,Black,5,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,18990
+2014,Kia,Sportage,100788 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polar,Black,5,4,Gas,10.6L/100km,7.7L/100km,19988
+2017,Kia,Soul,99010 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Blue,Black,null,4,Gas,9.5L/100km,7.8L/100km,19995
+2018,Kia,Forte,53155 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Hyper Blue Metallic,Black,null,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,20995
+2018,Kia,Sorento,86000 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,12.3L/100km,9.4L/100km,23000
+2020,Kia,Forte,75488 km,Sedan,4 Cylinder Engine,CVT,null,Ultra Silver,null,null,null,Gas,7.9L/100km,5.9L/100km,23937
+2023,Kia,Rio,50 km,Hatchback,120HP 1.6L 4 Cylinder Engine,Manual,FWD,Aurora Black,null,null,4,Gas,7.2L - 7.7L/100km,6.1L/100km,24002
+2023,Kia,Rio,20 km,Sedan,1.6L MPI DOHC 16-VALVE D-CVVT 4-CYLINDER,Automatic,FWD,Steel Grey,Black,5,4,Gas,7.2L/100km,6.1L/100km,24845
+2023,Kia,Forte,26 km,Sedan,2.0L MPI 4 CYL DOHC 16V D-CVVT,Automatic,null,Hyper Blue,Black,5,4,Gas,8.2L/100km,6.0L/100km,25332
+2021,Kia,Sorento,42246 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,6,4,Gas,11.1L/100km,8.4L/100km,37990
+2022,Kia,Sportage,62847 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Scarlet Red,Black,null,4,Gas,10.8L/100km,9.1L/100km,30495
+2023,Kia,Soul,50 km,Wagon,147HP 2.0L 4 Cylinder Engine,Automatic,FWD,Fusion Black,null,null,4,Gas,8.5L/100km,7.0L/100km,31902
+2023,Kia,Seltos,50 km,SUV,146HP 2.0L 4 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,4,Gas,8.8L/100km,7.6L/100km,32652
+2023,Kia,Seltos,50 km,SUV,146HP 2.0L 4 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,4,Gas,8.8L/100km,7.6L/100km,32652
+2023,Kia,Soul,150 km,Wagon,2,Automatic,FWD,Lunar Orange,Dark Grey,null,4,Gas,8.5L/100km,7.0L/100km,32888
+2023,Kia,Seltos,102 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Snow White Pearl,Black,5,4,Gas,8.8L/100km,7.6L/100km,33595
+2020,Kia,Soul,83507 km,Hatchback,100kW Perm Magnet AC Synchronous Motor,Automatic,FWD,Onyx,Black,null,4,Electric,null,null,33999
+2020,Kia,Forte5,79776 km,Hatchback,1.6L Turbo GDI 4 Cyl DOHC D-CVVT,Automatic,FWD,Orange Delight,Black,null,4,Gas,8.9L/100km,6.9L/100km,22994
+2021,Kia,Seltos,68825 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,AWD,Silver,Black,null,4,Gas,8.8L/100km,7.6L/100km,27499
+2022,Kia,Forte5,8908 km,Hatchback,4 Cylinder Engine,CVT,FWD,Gray,null,5,4,Gas,8.0L/100km,6.0L/100km,26995
+2017,Kia,Forte,103396 km,Sedan,2.0L GDI 4 Cyl DOHC 16V D-CVVT,Automatic,FWD,Hyper Blue Metallic,null,null,4,Gas,9.4L/100km,7.0L/100km,16999
+2023,Kia,Seltos,23 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Snow White Pearl,Black,5,4,Gas,8.8L/100km,7.6L/100km,34982
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Vesta Blue,Black,5,4,Gas,10.4L/100km,8.5L/100km,37832
+2016,Kia,Sorento,149338 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,5,4,Gas,12.3L/100km,9.3L/100km,16990
+2016,Kia,Forte,138561 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Aurora Black,Black,5,4,Gas,9.5L - 9.7L/100km,6.9L - 7.2L/100km,13888
+2023,Kia,Seltos,50 km,SUV,146HP 2.0L 4 Cylinder Engine,Automatic,AWD,Gravity Grey,null,null,4,Gas,8.8L/100km,7.6L/100km,35252
+2023,Kia,Seltos,50 km,SUV,146HP 2.0L 4 Cylinder Engine,Automatic,AWD,Dark Ocean Blue,null,null,4,Gas,8.8L/100km,7.6L/100km,35252
+2023,Kia,Seltos,50 km,SUV,146HP 2.0L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gas,8.8L/100km,7.6L/100km,35252
+2023,Kia,Sportage,11206 km,SUV,I4,8 Speed Automatic,AWD,Snow White Pearl,Black,null,null,Gas,10.4L/100km,8.5L/100km,35975
+2022,Kia,Soul,10748 km,Hatchback,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Gravity Grey,Black,null,null,Gas,8.5L/100km,7.0L/100km,28500
+2023,Kia,Sportage,105 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Jungle Green,Black,5,4,Gas,10.4L/100km,8.5L/100km,36445
+2023,Kia,Seltos,104 km,SUV,1.6L T-GDI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,Automatic,AWD,Gravity Grey,Black,5,4,Gas,9.4L/100km,7.9L/100km,37082
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Fusion Black,null,null,4,Gas,10.4L/100km,8.5L/100km,37552
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Vesta Blue,Black,5,4,Gas,10.4L/100km,8.5L/100km,37832
+2023,Kia,Seltos,50 km,SUV,175HP 1.6L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gas,9.4L/100km,7.9L/100km,40652
+2023,Kia,Seltos,50 km,SUV,175HP 1.6L 4 Cylinder Engine,Automatic,AWD,Steel Grey,null,null,4,Gas,9.4L/100km,7.9L/100km,40652
+2023,Kia,Seltos,50 km,SUV,175HP 1.6L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gas,9.4L/100km,7.9L/100km,40652
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Fusion Black,null,null,4,Gas,10.4L/100km,8.5L/100km,41152
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jungle Green,null,null,4,Gas,10.4L/100km,8.5L/100km,41402
+2020,Kia,Stinger,58151 km,Sedan,3.3L Twin-Turbo GDI V6,Automatic,AWD,Grey,Black,null,4,Gas,13.6L/100km,9.6L/100km,42644
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gas,10.4L/100km,8.5L/100km,41402
+2023,Kia,Carnival,50 km,Minivan,290HP 3.5L V6 Cylinder Engine,Automatic,FWD,Aurora Black,null,null,4,Gas,12.1L/100km,8.9L/100km,42552
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Snow White Pearl,null,null,4,Gas,10.4L/100km,8.5L/100km,43102
+2022,Kia,K5,2025 km,Sedan,290HP 2.5L 4 Cylinder Engine,Automatic,FWD,Gravity Gray,null,null,4,Gas,9.9L/100km,7.3L/100km,43995
+2023,Kia,Carnival,50 km,Minivan,290HP 3.5L V6 Cylinder Engine,Automatic,FWD,Thunder Grey,null,null,4,Gas,12.1L/100km,8.9L/100km,46302
+2023,Kia,Carnival,50 km,Minivan,290HP 3.5L V6 Cylinder Engine,Automatic,FWD,Snow White Pearl,null,null,4,Gas,12.1L/100km,8.9L/100km,46302
+2023,Kia,Carnival,50 km,Minivan,290HP 3.5L V6 Cylinder Engine,Automatic,FWD,Snow White Pearl,null,null,4,Gas,12.1L/100km,8.9L/100km,46302
+2023,Kia,K5,651 km,Sedan,4 Cylinder Engine,Automatic,null,Wolf Gray,null,null,null,Gas,9.9L/100km,7.3L/100km,47510
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Fusion Black,null,null,4,Gas,10.4L/100km,8.5L/100km,48352
+2019,Kia,Forte,79946 km,Sedan,I-4 cyl,null,FWD,Snow White Pearl,Black,null,null,Regular Unleaded,7.7L - 8.6L/100km,5.9L - 6.4L/100km,18883
+2023,Kia,Sportage,50 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Dawning Red,null,null,4,Gas,10.4L/100km,8.5L/100km,48602
+2023,Kia,Sorento,50 km,SUV,281HP 2.5L 4 Cylinder Engine,Automatic,AWD,Glacial White Pearl,null,null,4,Gas,10.9L/100km,8.7L/100km,49102
+2022,Kia,Stinger,9600 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,null,Silver,null,null,null,Gas,13.7L/100km,9.6L/100km,51747
+2023,Kia,Carnival,50 km,Minivan,290HP 3.5L V6 Cylinder Engine,Automatic,FWD,Aurora Black,null,null,4,Gas,12.1L/100km,8.9L/100km,56352
+2022,Kia,Sorento,26101 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Aurora Black,null,null,null,Gasoline Hybrid,null,null,57876
+2023,Kia,Stinger,50 km,Hatchback,368HP 3.3L V6 Cylinder Engine,Automatic,null,Ghost Grey,null,null,4,Gas,13.7L/100km,9.6L/100km,61502
+2022,Kia,Sorento,8891 km,SUV,261HP 1.6L 4 Cylinder Engine,Automatic,AWD,Platinum Graphite,null,null,4,Gasoline Hybrid,6.7L/100km,7.1L/100km,68995
+2023,Kia,EV6,50 km,Wagon,Electric Motor,Automatic,AWD,Runway Red,null,null,4,Electric,null,null,71602
+2022,Kia,Sorento,3230 km,SUV,261HP 1.6L 4 Cylinder Engine,Automatic,AWD,Mineral Blue,null,null,4,Gasoline Hybrid,6.7L/100km,7.1L/100km,72995
+2021,Kia,Sportage,26654 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,12.1L/100km,9.6L/100km,38950
+2010,Kia,Soul,222000 km,Wagon,2.0 L,Automatic,FWD,White,Grey,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,5495
+2012,Kia,Sorento,222000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,9000
+2012,Kia,Sportage,216661 km,SUV,2.4,Automatic,AWD,Brown,Black,null,4,Gas,9.9L/100km,7.0L/100km,9380
+2014,Kia,Soul,139852 km,Sedan,1.6,Automatic,FWD,Inferno Red Metallic,Black,null,4,Gas,8.1L/100km,6.5L/100km,11980
+2015,Kia,Sportage,97000 km,null,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,17000
+2017,Kia,Sportage,200000 km,Hatchback,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,17195
+2019,Kia,Rio,123758 km,Sedan,1.6L 4cyl,null,FWD,null,null,null,2,Gas,8.3L - 8.5L/100km,6.4L/100km,17388
+2017,Kia,Sportage,150340 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Grey,Black,null,4,Gas,11.3L/100km,9.5L/100km,17999
+2020,Kia,Soul,122615 km,Hatchback,2.0L 4cyl,CVT,FWD,Onyx,Black,5,4,Gas,8.6L/100km,7.1L/100km,21699
+2019,Kia,Stinger,50923 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,5,4,Gas,11.1L/100km,8.1L/100km,35997
+2020,Kia,Soul,38911 km,Hatchback,Regular Unleaded I-4 2.0 L/122,CVT,FWD,Neptune Blue,Black,5,4,Gas,8.6L/100km,7.1L/100km,23979
+2017,Kia,Sportage,128680 km,SUV,2.4,Automatic,AWD,White,Brown,5,4,Gas,11.3L/100km,9.5L/100km,23995
+2022,Kia,Telluride,4500 km,SUV,V6 Cylinder Engine,Automatic,AWD,Wolf Grey,null,null,null,Gas,12.7L/100km,9.7L/100km,60467
+2022,Kia,EV6,17006 km,Wagon,Electric,1 Speed Automatic,AWD,Runway Red,Black,null,2,Electric,null,null,75000
+2012,Kia,Rio,154006 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,null,Regular Unleaded,8.1L - 8.4L/100km,6.4L - 6.5L/100km,8448
+2015,Kia,Forte,null,Sedan,2.0,6 Speed Manual,FWD,Gray,Black,null,4,Gas,9.7L - 9.8L/100km,6.7L - 6.9L/100km,9588
+2016,Kia,Sorento,28760 km,SUV,V6 Cylinder Engine,Automatic,AWD,Ebony Black,Black,7,null,Regular Unleaded,13.4L/100km,9.4L/100km,27999
+2014,Kia,Sedona,199500 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Clear White,Grey,7,4,Gas,12.2L/100km,8.4L/100km,9999
+2015,Kia,Sorento,134164 km,SUV,3.3,Automatic,AWD,Ebony Black,Black,null,4,Gas,11.9L/100km,8.4L/100km,12995
+2011,Kia,Soul,117389 km,Hatchback,Gas I4 2.0L/121,Manual,FWD,Gray,Grey,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6988
+2015,Kia,Sorento,151808 km,SUV,V6 Cylinder Engine,Automatic,AWD,Snow White Pearl,Tan,5,4,Gas,13.1L/100km,9.4L/100km,14990
+2016,Kia,Sorento,134954 km,SUV,3.3,Automatic,AWD,Blaze Blue Metallic,Black,null,4,Gas,13.4L/100km,9.4L/100km,16500
+2016,Kia,Sorento,147600 km,SUV,2.0,6 Speed Automatic,AWD,Graphite Metallic,Black,5,4,Gas,12.3L/100km,9.3L/100km,16695
+2017,Kia,Sportage,111380 km,SUV,2.4,Automatic,AWD,Black Cherry,Black,null,4,Gas,11.3L/100km,9.5L/100km,17998
+2016,Kia,Sportage,44319 km,SUV,2.4L 4cyl,6 Speed Automatic,FWD,Twilight Blue Metallic,Black,5,5,Gas,11.2L/100km,8.4L/100km,19800
+2018,Kia,Sorento,92886 km,SUV,4 Cylinder Engine,Automatic,FWD,Ebony Black,Black,5,null,Gas,11.2L/100km,8.3L/100km,19990
+2019,Kia,Forte,76195 km,Sedan,2.0,Automatic,FWD,Aurora Black,Black,null,4,Gas,7.7L/100km,5.9L/100km,19998
+2021,Kia,Forte,46570 km,Sedan,4 Cylinder Engine,CVT,FWD,Blue,Grey,5,4,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,20980
+2019,Kia,Soul,50000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Onyx,Black,5,4,Gas,9.5L/100km,7.8L/100km,20980
+2021,Kia,Sorento,26740 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Runway Red,Black,6,4,Gas,11.1L/100km,8.4L/100km,40888
+2018,Kia,Soul,44050 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Charcoal,5,4,Gas,9.5L/100km,7.8L/100km,20995
+2021,Kia,Forte,44701 km,Sedan,4 Cylinder Engine,CVT,FWD,Blue,Grey,5,4,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,21780
+2021,Kia,Forte,63745 km,Sedan,4 Cylinder Engine,CVT,FWD,Aurora Black,Grey,5,4,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,21780
+2019,Kia,Sorento,75000 km,SUV,4 Cylinder,Automatic,AWD,Gray,Black,2,4,Gas,11.2L/100km,9.0L/100km,21888
+2020,Kia,Sportage,101839 km,SUV,2.4,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,10.8L/100km,9.1L/100km,22298
+2020,Kia,Forte,54838 km,Sedan,2.0,Automatic,FWD,Gray,Grey,null,4,Gas,7.9L/100km,5.9L/100km,22598
+2019,Kia,Sorento,104600 km,SUV,2.4,6 Speed Automatic,AWD,Blaze Blue Metallic,Black,null,4,Gas,11.2L/100km,9.0L/100km,22995
+2020,Kia,Forte,30143 km,Sedan,4 Cylinder Engine,CVT,FWD,Hyper Blue,null,5,4,Gas,7.9L/100km,5.9L/100km,22999
+2016,Kia,Sorento,109300 km,SUV,3.3L 6cyl,6 Speed Automatic,AWD,Snow White Pearl,Black,null,5,Gas,13.4L/100km,9.4L/100km,23424
+2020,Kia,Forte5,79776 km,Hatchback,1.6L Turbo GDI 4 Cyl DOHC D-CVVT,Automatic,FWD,Orange Delight,Black,null,4,Gas,8.9L/100km,6.9L/100km,22994
+2018,Kia,Sportage,63100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Red,Black,5,4,Gas,null,null,23880
+2019,Kia,Sorento,167231 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blaze Blue Metallic,Black,7,4,Gas,12.5L/100km,9.7L/100km,23995
+2021,Kia,Forte,14485 km,Sedan,2.0L I4 MPI DOHC 16V LEV3-ULEV70 147hp,CVT,FWD,Aurora Black,Black,null,null,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,24380
+2017,Kia,Sorento,100074 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Regency Red,Black,7,4,Gas,14.0L/100km,10.1L/100km,24880
+2021,Kia,Soul,69275 km,Wagon,4 Cylinder Engine,CVT,FWD,Gravity Grey,Black,5,null,Gas,8.5L/100km,7.0L/100km,24993
+2021,Kia,Forte,27968 km,Sedan,4 Cylinder Engine,CVT,FWD,Aurora Black,Black,null,null,Gas,7.8L/100km,5.9L/100km,24995
+2020,Kia,Forte,36000 km,Sedan,4 Cylinder Engine,CVT,FWD,Ultra Silver,Black,5,4,Gas,7.9L/100km,5.9L/100km,24995
+2021,Kia,Seltos,17813 km,SUV,2.0,Automatic,AWD,Onyx,Black,null,4,Gas,8.8L/100km,7.6L/100km,24998
+2022,Kia,Soul,7418 km,Wagon,2.0L 4cyl,CVT,FWD,Gravity Grey,Black,5,2,Gas,8.5L/100km,7.0L/100km,25825
+2022,Kia,Telluride,8215 km,SUV,. L,8 Speed Automatic,AWD,Black,null,8,2,Gas,12.7L/100km,9.7L/100km,55888
+2020,Kia,Sportage,81875 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,10.8L/100km,9.1L/100km,25980
+2018,Kia,Soul,70122 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Titanium Metallic,null,null,4,Electric,null,null,25990
+2020,Kia,Sorento,163609 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Ebony Black,Black,7,4,Gas,12.3L/100km,9.5L/100km,25995
+2019,Kia,Sorento,48031 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,Ebony Black,Black,null,2,Gas,11.2L/100km,9.0L/100km,26654
+2020,Kia,Sorento,74584 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gravity Grey,Black,5,4,Gas,null,null,26880
+2020,Kia,Sorento,50757 km,SUV,2.4L 4cyl,6 Speed Automatic,AWD,Ebony Black,Black,null,2,Gas,11.2L/100km,9.0L/100km,26972
+2020,Kia,Sorento,82252 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,11.2L/100km,9.0L/100km,26980
+2020,Kia,Sorento,80342 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gravity Grey,Black,5,4,Gas,11.2L/100km,9.0L/100km,27180
+2020,Kia,Sorento,73780 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,null,null,null,Gas,11.2L/100km,9.0L/100km,27892
+2021,Kia,Sorento,18575 km,SUV,2.5L 4cyl,8 Speed Automatic with auto-shift,AWD,Pacific Blue,Black,null,2,Gas,11.1L/100km,8.4L/100km,44402
+2019,Kia,Sorento,51581 km,SUV,3.3L 6cyl,8 Speed Automatic,AWD,Ebony Black,Black,null,5,Gas,12.5L/100km,9.7L/100km,27899
+2019,Kia,Sorento,49680 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,null,null,Gas,11.2L/100km,9.0L/100km,27995
+2018,Kia,Sportage,48253 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Scarlet Red,Black,5,4,Gas,11.9L/100km,10.2L/100km,28588
+2020,Kia,Sorento,70863 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gravity Grey,Black,5,4,Gas,null,null,28880
+2020,Kia,Sorento,42901 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gravity Grey,Black,5,4,Gas,11.2L/100km,9.0L/100km,28880
+2017,Kia,Sedona,47000 km,Minivan,6 Cylinder,Automatic,FWD,Graphite Metallic,Grey,7,4,Gas,14.1L/100km,10.5L/100km,28888
+2021,Kia,Seltos,68486 km,SUV,4 Cylinder Engine,CVT,AWD,Grey,Beige,5,4,Gas,8.8L/100km,7.6L/100km,28993
+2019,Kia,Sorento,34818 km,SUV,4 Cylinder Engine,Automatic,AWD,Snow White Pearl,Black,null,null,Gas,11.2L/100km,9.0L/100km,28995
+2020,Kia,Sportage,55000 km,SUV,2.4L I4 DGI DOHC,6 Speed Automatic,AWD,Modern Bronze,Black,null,4,Gas,10.8L/100km,9.1L/100km,28999
+2021,Kia,Seltos,81048 km,SUV,4 Cylinder Engine 2.0L,CVT,FWD,Snow White Pearl,Black,null,4,Gas,8.2L/100km,7.1L/100km,22690
+2021,Kia,Seltos,83733 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Ocean Blue,Black,5,4,Gas,8.8L/100km,7.6L/100km,29495
+2021,Kia,Seltos,75000 km,SUV,2.0,Automatic,AWD,Onyx,Black,5,4,Gas,8.8L/100km,7.6L/100km,29500
+2022,Kia,Sportage,32316 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.7L/100km,9.0L/100km,29780
+2020,Kia,Sportage,65678 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,29995
+2022,Kia,Sportage,11105 km,SUV,181HP 2.4L 4 Cylinder Engine,Automatic,AWD,Black Cherry,Blue,null,4,Gas,10.8L/100km,9.1L/100km,30888
+2020,Kia,Sedona,63228 km,Minivan,3.3L 6cyl,8 Speed Automatic,FWD,Ultra Silver,Beige,8,5,Gas,12.7L/100km,9.9L/100km,31199
+2022,Kia,Sorento,17301 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Glacial White Pearl,Black,null,4,Gas,10.9L/100km,8.7L/100km,49963
+2017,Kia,Sorento,117290 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,12.3L/100km,9.4L/100km,17500
+2023,Kia,Seltos,16098 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,FWD,Blue,Black,null,4,Gas,8.2L/100km,7.1L/100km,28999
+2018,Kia,Sportage,62600 km,SUV,2.4,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,10.4L - 11.3L/100km,8.0L - 9.5L/100km,25488
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.4L/100km,8.5L/100km,34232
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Vesta Blue,Black,5,4,Gas,10.4L/100km,8.5L/100km,37832
+2015,Kia,Sportage,97000 km,null,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,17000
+2017,Kia,Sportage,111380 km,SUV,2.4,Automatic,AWD,Black Cherry,Black,null,4,Gas,11.3L/100km,9.5L/100km,17998
+2016,Kia,Soul,118900 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Black,Black,5,4,Gas,null,null,17888
+2020,Kia,Sedona,71858 km,Minivan,3.3L 6cyl,8 Speed Automatic,FWD,Ultra Silver,null,8,4,Gas,12.7L/100km,10.0L/100km,32599
+2020,Kia,Sportage,37563 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,12.1L/100km,9.6L/100km,32995
+2021,Kia,Sportage,22150 km,SUV,2.4 L Inline4,Automatic,AWD,Snow White Pearl,Black,5,4,Regular Unleaded,10.8L/100km,9.1L/100km,32995
+2021,Kia,Seltos,29005 km,SUV,4 Cylinder Engine,7 Speed Automatic with auto-shift,AWD,Blue,Black,5,4,Gas,9.4L/100km,7.9L/100km,33493
+2020,Kia,Soul,81459 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Snow White Pearl,null,null,null,Gas,8.6L/100km,7.1L/100km,23842
+2018,Kia,Stinger,59000 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.7L/100km,9.6L/100km,34995
+2018,Kia,Stinger,107598 km,Sedan,V6 Cylinder Engine 3.3L,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,12.7L/100km,9.6L/100km,36995
+2019,Kia,Sorento,30636 km,SUV,3.3 L V6,Automatic,AWD,Ebony Black,null,7,4,Regular Unleaded,12.5L/100km,9.7L/100km,36995
+2019,Kia,Niro,84869 km,Wagon,150kW Permanent Magnet Synchronous Motor,1 Speed Automatic,FWD,Snow White Pearl,Charcoal,5,4,Electric,null,null,36998
+2022,Kia,Sportage,9145 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.7L/100km,9.0L/100km,37980
+2022,Kia,Sorento,15337 km,SUV,2.5L 4cyl,8 Speed Automatic,AWD,Glacial White Pearl,Black,6,4,Gas,10.1L/100km,9.2L/100km,38366
+2019,Kia,Sorento,33718 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,7,4,Gas,12.5L/100km,9.7L/100km,38987
+2021,Kia,Sorento,40543 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Pacific Blue,Black,6,4,Gas,11.1L/100km,8.4L/100km,39895
+2020,Kia,Stinger,72227 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Aurora Black,Red,5,4,Gas,13.6L/100km,9.6L/100km,40795
+2020,Kia,Soul,83507 km,Hatchback,100kW Perm Magnet AC Synchronous Motor,Automatic,FWD,Onyx,Black,null,4,Electric,null,null,33999
+2020,Kia,Stinger,69793 km,Hatchback,3.3L 6cyl,8 Speed Automatic,AWD,Grey,Black,5,4,Premium Unleaded,13.6L/100km,9.6L/100km,41124
+2020,Kia,Telluride,93775 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Snow White Pearl,Brown,8,4,Gas,12.5L/100km,9.6L/100km,42295
+2021,Kia,Niro,67458 km,Wagon,150kW Permanent Magnet Synchronous Motor,1 Speed Automatic,FWD,Interstellar Grey,Charcoal,5,4,Electric,null,null,42386
+2020,Kia,Telluride,67371 km,SUV,3.8L 6cyl,8 Speed Automatic,AWD,Ebony Black,Black,7,5,Gas,12.5L/100km,9.6L/100km,42599
+2021,Kia,Sorento,16200 km,SUV,2.5L I4 DGI Turbocharged DOHC 16V LEV3-ULEV70 281h,8 Speed Automatic,AWD,Aruba Stone Green,Black,6,4,Gas,11.1L/100km,8.4L/100km,44998
+2020,Kia,Telluride,68458 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Snow White Pearl,Black,8,4,Gas,12.5L/100km,9.6L/100km,47280
+2022,Kia,Stinger,20198 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Aurora Black,Black,5,4,Gas,13.7L/100km,9.6L/100km,50380
+2022,Kia,Sorento,26626 km,SUV,2.5L 4cyl,8 Speed Automatic with auto-shift,AWD,Pacific Blue,Black,5,5,Gas,10.9L/100km,8.7L/100km,50599
+2021,Kia,Telluride,56639 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,8,4,Gas,12.6L/100km,9.7L/100km,51980
+2021,Kia,Seltos,81048 km,SUV,4 Cylinder Engine 2.0L,CVT,FWD,Snow White Pearl,Black,null,4,Gas,8.2L/100km,7.1L/100km,22690
+2021,Kia,Telluride,18125 km,SUV,3.8L 6cyl,8 Speed Automatic,AWD,White,White,7,4,Gas,12.6L/100km,9.7L/100km,54598
+2022,Kia,Telluride,14167 km,SUV,3.8,Automatic,AWD,Black,Black,8,4,Gas,12.7L/100km,9.7L/100km,55985
+2015,Kia,Forte,231463 km,Hatchback,4 CYL,Automatic,FWD,Silver,Black,5,4,Gas,9.5L - 9.7L/100km,6.9L - 7.2L/100km,6990
+2012,Kia,Sorento,206303 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,White,Black,5,4,Gas,10.3L/100km,7.5L/100km,6996
+2015,Kia,Rio,145627 km,Hatchback,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Polar,Black,null,5,Gas,8.5L - 8.8L/100km,6.3L - 6.4L/100km,9990
+2015,Kia,Forte,182000 km,Hatchback,4 Cylinder Engine,null,null,Aurora Black,Black,null,null,Gas,11.1L/100km,8.0L - 8.2L/100km,10000
+2015,Kia,Sorento,186892 km,SUV,3.3L,Automatic,AWD,White,White,5,4,Gas,11.9L/100km,8.4L/100km,11950
+2017,Kia,Forte,151155 km,Sedan,2.0L I4 164HP 151FT. LBS.,Automatic,FWD,Ultra Silver Metallic,Black,null,4,Gas,9.4L/100km,7.0L/100km,11990
+2016,Kia,Forte,186800 km,Coupe,1.6,Automatic,FWD,White,Black,5,2,Gas,10.6L - 10.8L/100km,7.8L - 8.1L/100km,12800
+2021,Kia,Forte,61346 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,7.8L/100km,5.9L/100km,24990
+2015,Kia,Optima,133950 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Temptation Red Metallic,Black,5,4,Gas,null,null,13250
+2013,Kia,Sorento,122002 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,10.3L/100km,7.5L/100km,13950
+2017,Kia,Forte,170831 km,Hatchback,1.6L 4cyl,7 Speed Automatic,FWD,Urban Grey Metallic,Black,5,4,Gas,9.4L/100km,7.9L/100km,14888
+2014,Kia,Optima,111935 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,null,null,5,4,Gas,10.3L/100km,6.4L/100km,15388
+2016,Kia,Sorento,153549 km,SUV,4 Cylinder Engine,Automatic,FWD,Burgundy,Black,5,4,Gas,11.1L/100km,8.2L/100km,15990
+2018,Kia,Sorento,180917 km,SUV,2.4,Automatic,AWD,Grey,Black,5,4,Gas,11.5L/100km,9.3L/100km,15995
+2019,Kia,Forte,137810 km,Sedan,4 Cylinder Engine,Automatic,FWD,White,Black,5,4,Gas,7.7L/100km,5.9L/100km,16499
+2017,Kia,Rondo,100153 km,Wagon,4 Cylinder,Automatic,FWD,Brown,Grey,7,5,Gas,10.1L/100km,7.6L/100km,16500
+2018,Kia,Soul,100673 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,9.5L/100km,7.8L/100km,16980
+2021,Kia,Soul,16650 km,Hatchback,2.0L MPI 4-Cylinder,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.5L/100km,7.0L/100km,23977
+2016,Kia,Sorento,149338 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,5,4,Gas,12.3L/100km,9.3L/100km,16990
+2018,Kia,Optima,148300 km,Sedan,2.4,Automatic,FWD,Lightning Blue,Black,5,4,Gas,9.3L - 9.6L/100km,6.6L - 6.8L/100km,16995
+2019,Kia,Forte,62544 km,Sedan,4 Cylinder Engine 2.0L,CVT,FWD,Ultra Silver Metallic,Black,null,4,Gas,7.7L/100km,5.9L/100km,17989
+2016,Kia,Sorento,95311 km,SUV,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,11.1L/100km,8.2L/100km,18750
+2017,Kia,Sportage,45000 km,SUV,4 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Gas,10.4L/100km,8.0L/100km,18988
+2018,Kia,Niro,185767 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Aurora Black,null,5,4,Gasoline Hybrid,4.6L - 5.1L/100km,5.1L - 5.8L/100km,18990
+2018,Kia,Soul,51533 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Inferno Red,Black,5,4,Gas,9.5L/100km,7.8L/100km,19380
+2018,Kia,Optima,107574 km,Sedan,2.4L I4 16V GDI DOHC,Automatic,FWD,Sparkling Silver,null,5,4,Gas,9.3L - 9.6L/100km,6.6L - 6.8L/100km,19460
+2018,Kia,Forte,34864 km,Sedan,4 Cylinder Engine,Automatic,FWD,Radiant Red Metallic,Black,5,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,19495
+2022,Kia,Soul,45550 km,Hatchback,4 Cylinder Engine 2.0L,CVT,FWD,Onyx,Black,5,4,Gas,8.5L/100km,7.0L/100km,26490
+2015,Kia,Optima,69914 km,Sedan,2.4 L Inline4,Automatic,null,Snow White Pearl,Black,5,4,Regular Unleaded,6.7L/100km,6.1L/100km,19995
+2020,Kia,Soul,117400 km,Hatchback,SKW52G61VGG492,Automatic,FWD,Grey,Black,null,4,Gas,8.6L/100km,7.1L/100km,19999
+2021,Kia,Forte,53012 km,Sedan,4 Cylinder Engine,CVT,FWD,Grey,Grey,5,4,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,20980
+2019,Kia,Forte,63523 km,Sedan,2.0,Automatic,FWD,Snow White Pearl,Black,null,4,Gas,7.7L/100km,5.9L/100km,20998
+2017,Kia,Sportage,90700 km,SUV,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Regular Unleaded,10.4L/100km,8.0L/100km,21888
+2019,Kia,Soul,75506 km,Wagon,2.0L 4cyl,6 Speed Automatic,FWD,Inferno Red,Black,5,5,Gas,9.5L/100km,7.8L/100km,21893
+2020,Kia,Forte,23302 km,Sedan,4 Cylinder Engine,Automatic,FWD,Silver,Grey,5,4,Gas,7.9L - 8.6L/100km,5.9L - 6.4L/100km,22495
+2020,Kia,Soul,84358 km,Hatchback,4 Cylinder Engine,CVT,FWD,Inferno Red,Black,5,4,Gas,8.6L/100km,7.1L/100km,23880
+2020,Kia,Soul,71590 km,Wagon,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,8.6L/100km,7.1L/100km,23999
+2020,Kia,Forte,76558 km,Sedan,4 Cylinder Engine 2.0L,CVT,FWD,Ultra Silver,Black,null,4,Gas,7.9L/100km,5.9L/100km,20999
+2020,Kia,Forte,26019 km,Sedan,2.0 L Inline4,Automatic,null,Gravity Grey,Black,5,4,Regular Unleaded,7.9L/100km,5.9L/100km,24200
+2018,Kia,Sportage,68940 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Mineral Silver,Black,5,4,Gas,11.3L/100km,9.5L/100km,24888
+2020,Kia,Sportage,63661 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,Snow White Pearl,Black,null,4,Gas,10.1L/100km,7.6L/100km,24985
+2020,Kia,Soul,67424 km,Wagon,2.0L 4cyl,Automatic,FWD,White,Black,5,4,Gas,8.6L/100km,7.1L/100km,24990
+2019,Kia,Sportage,51385 km,SUV,2.4 L Inline4,Automatic,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,10.3L/100km,7.8L/100km,24995
+2020,Kia,Soul,36458 km,Wagon,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Inferno Red,Black,null,4,Gas,8.6L/100km,7.1L/100km,24999
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,FWD,Starbright Yellow (MET),Black,5,4,Regular Unleaded,null,null,25395
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,FWD,Neptune Blue (MET),Black,4,4,Regular Unleaded,null,null,25395
+2023,Kia,Seltos,125 km,SUV,null,CVT,FWD,Lunar Orange (MET),Black,5,4,Regular Unleaded,null,null,25395
+2020,Kia,Soul,52664 km,null,4 Cylinder Engine,null,null,Gravity Grey,null,null,null,Gas,null,null,26995
+2023,Kia,Seltos,125 km,SUV,null,CVT,FWD,Dark Ocean Blue (MET),Black,5,4,Regular Unleaded,null,null,25395
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,FWD,Steel Grey (MET),Black,4,4,Regular Unleaded,null,null,25395
+2020,Kia,Soul,48993 km,Hatchback,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,8.6L/100km,7.1L/100km,25880
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,AWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,27395
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,AWD,Gravity Grey,Black,5,4,Regular Unleaded,null,null,27395
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,AWD,Onyx,Black,5,4,Regular Unleaded,null,null,29745
+2023,Kia,Soul,4770 km,Hatchback,4 Cylinder Engine,CVT,FWD,Lunar Orange,Black,5,4,Gas,8.5L/100km,7.0L/100km,29888
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,CVT,AWD,Dark Ocean Blue (MET),Black,5,4,Regular Unleaded,null,null,29995
+2023,Kia,Seltos,125 km,SUV,null,CVT,AWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,29995
+2021,Kia,Sorento,42246 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,6,4,Gas,11.1L/100km,8.4L/100km,37990
+2021,Kia,Seltos,20137 km,SUV,4 Cylinder Engine,CVT,AWD,Snow White Pearl,Black,5,4,Gas,8.8L/100km,7.6L/100km,30980
+2021,Kia,Seltos,21172 km,SUV,2.0L 4cyl,CVT,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.6L/100km,31795
+2021,Kia,Forte,19984 km,Sedan,4 Cylinder Engine,7 Speed Automatic,FWD,Aurora Black,Black,5,4,Gas,8.7L/100km,6.6L/100km,31880
+2022,Kia,Seltos,21502 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Ocean Blue,Black,5,4,Gas,8.8L/100km,7.6L/100km,32580
+2022,Kia,Sportage,6701 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.8L/100km,9.1L/100km,32880
+2021,Kia,Sportage,46443 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Steel Grey,Black,5,4,Gas,10.7L/100km,9.0L/100km,33980
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,Automatic,AWD,Lunar Orange (MET),Black,5,4,Regular Unleaded,null,null,35395
+2023,Kia,Seltos,125 km,SUV,4 Cylinder,Automatic,AWD,Gravity Grey,Black,5,4,Regular Unleaded,null,null,35395
+2021,Kia,Seltos,5964 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Lunar Orange,Black,5,4,Gas,9.4L/100km,7.9L/100km,35980
+2022,Kia,Seltos,16998 km,SUV,2.0L I4 MPI,CVT,AWD,Gray,Black,null,null,Gas,8.8L/100km,7.6L/100km,31999
+2021,Kia,K5,22783 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Glacial White Pearl,Black,5,4,Gas,9.2L/100km,6.9L/100km,36395
+2022,Kia,Carnival,69996 km,Minivan,V6 Cylinder Engine,8 Speed Automatic,FWD,Thunder Grey,Grey,8,4,Gas,12.0L/100km,8.9L/100km,38980
+2022,Kia,Carnival,64554 km,Minivan,V6 Cylinder Engine,8 Speed Automatic,FWD,Thunder Grey,Grey,8,4,Gas,12.0L/100km,8.9L/100km,38980
+2022,Kia,Carnival,70001 km,Minivan,V6 Cylinder Engine,8 Speed Automatic,FWD,Aurora Black,Grey,8,4,Gas,12.0L/100km,8.9L/100km,39980
+2021,Kia,Sorento,51050 km,SUV,HYW6L9G1NGG015,Automatic,AWD,Aruba Stone Green,Black,6,4,Gas,11.1L/100km,8.4L/100km,39995
+2021,Kia,Sorento,21521 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ebony Black,Black,6,4,Gas,11.1L/100km,8.4L/100km,46980
+2021,Kia,Niro,13667 km,SUV,Electric Motor,Automatic,FWD,Snow White Pearl,Black,5,4,Electric,null,null,59995
+2021,Kia,Telluride,15291 km,SUV,3.8L V6,8 Speed Automatic,AWD,Dark Moss,Black,7,4,Gas,12.6L/100km,9.7L/100km,64986
+2014,Kia,Forte,198528 km,Sedan,2.0L I4 173HP 154FT. LBS.,Automatic,FWD,Aurora Black,Black,null,4,Gas,8.4L - 8.5L/100km,5.5L - 5.7L/100km,7990
+2019,Kia,Stinger,60120 km,Hatchback,. L,8 Speed Automatic,null,Atomic Blue Metallic,null,5,2,Gas,12.7L/100km,9.6L/100km,38888
+2015,Kia,Optima,240807 km,Sedan,2.4L I4 192HP 181FT. LBS.,Automatic,FWD,Aurora Black,Black,5,4,Gas,null,null,7990
+2014,Kia,Optima,185000 km,Sedan,4 Cylinder Engine,Automatic,null,Red,null,null,null,Gas,8.9L/100km,5.7L/100km,9500
+2017,Kia,Niro,296000 km,Wagon,4 Cylinder Engine,6 Speed Automatic,null,Snow White Pearl,Black,null,null,Gasoline Hybrid,4.6L/100km,5.1L/100km,9800
+2015,Kia,Rondo,147000 km,Wagon,4 Cylinder Engine,6 Speed Automatic,FWD,Black Cherry Pearl,Tan,5,4,Gas,10.6L/100km,7.6L/100km,10900
+2016,Kia,Forte,135670 km,Sedan,145HP 1.8L 4 Cylinder Engine,Automatic,FWD,Temptation Red Metallic,Black,null,4,Gas,8.9L - 9.3L/100km,6.1L - 6.3L/100km,11888
+2017,Kia,Forte,176317 km,Sedan,NU 2.0L I4 147HP 132FT. LBS.,Automatic,FWD,Urban Grey Metallic,Black,null,4,Gas,null,null,11990
+2022,Kia,Sorento,17301 km,SUV,2.5L Turbo GDI 4-Cylinder DOHC D-CVVT -inc: Igniti,Automatic,AWD,Glacial White Pearl,Black,null,4,Gas,10.9L/100km,8.7L/100km,49963
+2021,Kia,Seltos,68825 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,AWD,Silver,Black,null,4,Gas,8.8L/100km,7.6L/100km,27499
+2020,Kia,Sportage,97150 km,SUV,2.4,Automatic,FWD,Steel Grey,Black,null,4,Gas,10.1L/100km,7.6L/100km,26888
+2017,Kia,Forte,147545 km,Sedan,2.0,6 Speed Automatic,FWD,Urban Grey Metallic,Black,5,4,Gas,9.4L/100km,7.0L/100km,16888
+2017,Kia,Sportage,103100 km,SUV,2.4,Automatic,FWD,Storm Blue,Black,null,4,Gas,10.4L/100km,8.0L/100km,19999
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Onyx,Black,5,4,Gas,8.8L/100km,7.6L/100km,30295
+2023,Kia,Seltos,104 km,SUV,1.6L T-GDI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,Automatic,AWD,Gravity Grey,Black,5,4,Gas,9.4L/100km,7.9L/100km,37082
+2012,Kia,Sorento,222000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,9000
+2017,Kia,Sportage,111380 km,SUV,2.4,Automatic,AWD,Black Cherry,Black,null,4,Gas,11.3L/100km,9.5L/100km,17998
+2015,Kia,Forte5,158470 km,Wagon,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,11.1L/100km,8.0L - 8.2L/100km,11990
+2017,Kia,Forte,170915 km,Sedan,2.0L I4 164HP 151FT. LBS.,Automatic,FWD,Aurora Black,Black,5,4,Gas,9.4L/100km,7.0L/100km,11990
+2011,Kia,Sorento,111100 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue Jeans Pearl,null,5,4,Gas,9.9L/100km,7.4L/100km,11995
+2016,Kia,Forte,138561 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Aurora Black,Black,5,4,Gas,9.5L - 9.7L/100km,6.9L - 7.2L/100km,13888
+2020,Kia,Stinger,58151 km,Sedan,3.3L Twin-Turbo GDI V6,Automatic,AWD,Grey,Black,null,4,Gas,13.6L/100km,9.6L/100km,42644
+2015,Kia,Forte,94700 km,Sedan,1.8,null,null,null,null,null,null,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,14490
+2015,Kia,Rondo,119553 km,Wagon,4 Cylinder Engine,6 Speed Automatic,FWD,Black Cherry Pearl,Grey,7,4,Gas,10.6L/100km,7.6L/100km,14880
+2016,Kia,Forte,112654 km,Hatchback,1.6L 4cyl,6 Speed Automatic,FWD,Aurora Black,Black,5,4,Gas,11.1L/100km,8.0L - 8.2L/100km,14888
+2015,Kia,Optima,138000 km,Sedan,4 Cylinder Engine,Automatic,FWD,White,Black,5,4,Gas,10.2L/100km,6.9L/100km,14950
+2018,Kia,Forte,145909 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Snow White Pearl,Black,null,4,Gas,8.0L - 9.4L/100km,6.1L - 6.8L/100km,14990
+2015,Kia,Optima,144022 km,Sedan,2.4L I-4 DOHC 16 Valve CVVT,Automatic,FWD,Silver,Black,null,4,Gas,10.2L/100km,6.9L/100km,14995
+2016,Kia,Optima,179905 km,Sedan,2.4L 4cyl,6 Speed Automatic,FWD,Ebony Black,Black,5,4,Gas,9.4L/100km,6.5L/100km,15888
+2017,Kia,Sportage,166000 km,SUV,4 cylinder,Automatic,AWD,Silver,Black,5,4,Gas,11.3L/100km,9.5L/100km,15900
+2015,Kia,Soul,69251 km,Wagon,I4,Automatic,FWD,Alien Metallic,Black,null,4,Gas,10.1L/100km,7.7L/100km,16999
+2019,Kia,Sorento,93764 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Gray,Black,null,4,Gas,11.2L/100km,9.0L/100km,25884
+2016,Kia,Soul,118900 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Black,Black,5,4,Gas,null,null,17888
+2016,Kia,Optima,86055 km,Sedan,2.4L 4cyl,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,9.4L/100km,6.5L/100km,18888
+2015,Kia,Optima,108133 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Silver,Black,5,4,Gasoline Hybrid,6.7L/100km,6.1L/100km,18995
+2018,Kia,Optima,126515 km,Sedan,4 Cylinder Engine,Automatic,FWD,Snow Pearl White,Black,5,4,Gas,9.3L - 9.6L/100km,6.6L - 6.8L/100km,18999
+2019,Kia,Soul,136524 km,Wagon,I4,Automatic,FWD,Onyx,Black,null,4,Gas,9.5L/100km,7.8L/100km,19999
+2022,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,20684
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Radiant Red (MET),Black,5,4,Regular Unleaded,null,null,21453
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,21453
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Ultra Silver (MET),Black,5,4,Regular Unleaded,null,null,21453
+2022,Kia,Soul,10748 km,Hatchback,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Gravity Grey,Black,null,null,Gas,8.5L/100km,7.0L/100km,28500
+2017,Kia,Sorento,145000 km,SUV,6 Cylinder,Automatic,AWD,Ebony Black,Black,7,4,Gas,13.2L/100km,9.3L/100km,21888
+2023,Kia,Forte,155 km,Sedan,4 Cylinder,CVT,FWD,Aurora Black,Black,5,4,Regular Unleaded,null,null,22195
+2023,Kia,Forte,150 km,Sedan,null,CVT,FWD,Snow White Pearl,Black,4,4,Regular Unleaded,null,null,22445
+2023,Kia,Forte,150 km,Sedan,null,CVT,FWD,Sporty Blue (MET),Black,5,4,Regular Unleaded,null,null,22445
+2018,Kia,Sorento,94979 km,SUV,2.4L 4cyl,6 Speed Automatic,FWD,Snow White Pearl,Black,5,4,Gas,11.2L/100km,8.3L/100km,22699
+2023,Kia,Rio,150 km,Hatchback,null,Automatic,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,22853
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Ice Blue,Black,5,4,Regular Unleaded,null,null,22853
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Ultra Silver (MET),Black,5,4,Regular Unleaded,null,null,22853
+2022,Kia,Forte,100 km,Sedan,4 Cylinder,CVT,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,23684
+2021,Kia,Seltos,75243 km,SUV,2.0L MPI I4 -inc: idle stop and go,CVT,AWD,Grey,Black,null,4,Gas,8.8L/100km,7.6L/100km,27500
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,CVT,FWD,Steel Grey (MET),Black,5,4,Regular Unleaded,null,null,24195
+2023,Kia,Forte,100 km,Sedan,4 Cylinder,CVT,FWD,Sporty Blue (MET),Black,5,4,Regular Unleaded,null,null,24195
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Snow White (Pearl),Black,5,4,Regular Unleaded,null,null,24745
+2020,Kia,Forte,41049 km,Sedan,4 Cylinder Engine,Automatic,FWD,Snow White Pearl,Black,5,4,Gas,7.9L/100km,5.9L/100km,24880
+2020,Kia,Forte,75773 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,null,null,Gas,7.9L/100km,5.9L/100km,24999
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,CVT,FWD,Steel Grey (MET),Black,4,4,Regular Unleaded,null,null,25745
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,CVT,FWD,Steel Grey (MET),Black,5,4,Regular Unleaded,null,null,25803
+2023,Kia,Rio,150 km,Hatchback,4,CVT,FWD,Sporty Blue (MET),Black,5,4,Regular Unleaded,null,null,25803
+2019,Kia,Sorento,95100 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,11.2L/100km,9.0L/100km,25995
+2022,Kia,Soul,45550 km,Hatchback,4 Cylinder Engine 2.0L,CVT,FWD,Onyx,Black,5,4,Gas,8.5L/100km,7.0L/100km,26490
+2020,Kia,Soul,9693 km,Wagon,2.0L 4cyl,CVT,FWD,White,Black,5,4,Gas,8.6L/100km,7.1L/100km,25999
+2023,Kia,Soul,159 km,Hatchback,null,CVT,FWD,Fusion Black,Black,5,4,Regular Unleaded,null,null,26395
+2021,Kia,Forte,62350 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aurora Black,Black,null,null,Gas,7.8L/100km,5.9L/100km,26499
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Surf Blue,Black,5,4,Regular Unleaded,null,null,26645
+2023,Kia,Soul,150 km,null,null,null,null,Snow White (Pearl),null,null,null,null,null,null,26645
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Inferno Red (MET),Black,5,4,Regular Unleaded,null,null,26645
+2019,Kia,Sorento,93370 km,SUV,2.4L DOHC GDI I4,6 Speed Automatic,AWD,null,Black,5,4,Gas,11.2L/100km,9.0L/100km,26995
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Snow White (Pearl),Black,5,4,Regular Unleaded,null,null,27445
+2018,Kia,Sedona,125935 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bronze,Beige,8,4,Gas,13.2L/100km,9.7L/100km,27880
+2022,Kia,Sorento,2692 km,SUV,2.5L 4cyl,Automatic,AWD,Glacial White Pearl,Black,null,2,Gas,10.1L/100km,9.2L/100km,42589
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,FWD,Dark Ocean Blue,Black,5,4,Gas,8.2L/100km,7.1L/100km,27995
+2022,Kia,Forte,5728 km,Sedan,2.0L 4cyl,CVT,FWD,Grey,Black,null,2,Gas,7.9L/100km,5.9L/100km,28070
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,CVT,FWD,Aurora Black,Black,5,4,Regular Unleaded,null,null,28153
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,CVT,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,28403
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,CVT,FWD,Sporty Blue (MET),Black,5,4,Regular Unleaded,null,null,28403
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Surf Blue,Black,5,4,Regular Unleaded,null,null,29345
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,CVT,FWD,Inferno Red (MET),Black,5,4,Regular Unleaded,null,null,29345
+2022,Kia,Seltos,24975 km,SUV,4 Cylinder Engine,CVT,AWD,Blue,Black,5,4,Gas,8.8L/100km,7.6L/100km,29880
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,FWD,Steel Grey,Black,5,4,Regular Unleaded,null,null,30645
+2011,Kia,Soul,117389 km,Hatchback,Gas I4 2.0L/121,Manual,FWD,Gray,Grey,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6988
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,FWD,Vesta Blue,Black,5,4,Regular Unleaded,null,null,30645
+2023,Kia,Soul,150 km,Hatchback,4 Cylinder,Automatic,FWD,Fusion Black,Black,5,4,Regular Unleaded,null,null,31395
+2019,Kia,Sorento,50426 km,SUV,V6 Cylinder Engine,Automatic,AWD,Blaze Blue Metallic,Black,null,null,Gas,12.5L/100km,9.7L/100km,31995
+2023,Kia,Soul,12301 km,Hatchback,4 Cylinder Engine,CVT,FWD,Lunar Orange,Black,5,4,Gas,8.5L/100km,7.0L/100km,32375
+2023,Kia,Sportage,100 km,SUV,4 Cylinder,Automatic,AWD,Gravity Grey,Black,5,4,Regular Unleaded,null,null,32395
+2023,Kia,Forte,150 km,Sedan,null,Automatic,FWD,Sporty Blue (MET),Black,4,4,Regular Unleaded,null,null,32645
+2023,Kia,Forte,150 km,Sedan,4 Cylinder,Automatic,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,32645
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,AWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,32645
+2023,Kia,K5,150 km,null,null,null,null,Ebony Black,null,null,null,null,null,null,32853
+2021,Kia,Soul,16650 km,Hatchback,2.0L MPI 4-Cylinder,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.5L/100km,7.0L/100km,23977
+2021,Kia,K5,36852 km,Sedan,1.6 L Inline4,Automatic,null,Glacial White Pearl,Black,5,4,Regular Unleaded,8.7L/100km,6.4L/100km,33495
+2022,Kia,Niro,3684 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Snow White Pearl,Black,5,4,Gasoline Hybrid,4.4L/100km,4.9L/100km,33980
+2019,Kia,Niro,74688 km,SUV,1.6L 4cyl,6 Speed Automatic with auto-shift,FWD,null,null,null,null,Gasoline Hybrid,4.9L/100km,5.3L/100km,34388
+2023,Kia,K5,150 km,Sedan,null,Automatic,AWD,Gravity Grey (MET),Black,5,4,Regular Unleaded,null,null,35545
+2023,Kia,Seltos,12912 km,SUV,4 Cylinder Engine,CVT,AWD,Lunar Orange,Black,5,4,Gas,8.8L/100km,7.6L/100km,35980
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,AWD,Fusion Black,Black,5,4,Regular Unleaded,null,null,35995
+2022,Kia,Carnival,100 km,Minivan,6 CYLINDER,Automatic,FWD,Snow White (Pearl),Black,8,4,Regular Unleaded,null,null,37045
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Gravity Grey (MET),Black,7,4,Regular Unleaded,null,null,37753
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Ebony Black,Black,7,4,Regular Unleaded,null,null,37753
+2018,Kia,Sportage,163435 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,Snow White Pearl,Black,5,4,Gas,10.3L/100km,7.8L/100km,16957
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Glacial White (Pearl),Black,7,4,Regular Unleaded,null,null,37753
+2023,Kia,Carnival,150 km,Minivan,6 Cylinder,Automatic,FWD,Thunder Grey (MET),Black,7,4,Regular Unleaded,null,null,38045
+2023,Kia,Carnival,125 km,Minivan,6 Cylinder,Automatic,FWD,Snow White (Pearl),Black,7,4,Regular Unleaded,null,null,38045
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,AWD,Fusion Black,Black,5,4,Regular Unleaded,null,null,39595
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Ebony Black,Black,7,4,Regular Unleaded,null,null,40253
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Pacific Blue (MET),Black,7,4,Regular Unleaded,null,null,40503
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Aruba Stone Green (MET),Black,7,4,Regular Unleaded,null,null,40503
+2023,Kia,Carnival,125 km,Minivan,6 Cylinder,Automatic,FWD,Snow White (Pearl),Black,8,4,Regular Unleaded,null,null,41545
+2022,Kia,K5,150 km,Sedan,4 Cylinder,Automatic,AWD,Wolf Gray (MET),Black,5,4,Regular Unleaded,null,null,42595
+2015,Kia,Rio,86958 km,Compact,4 Cylinder Engine,null,FWD,Graphite Pearl,Black,null,2,Gas,8.5L - 8.8L/100km,6.3L - 6.4L/100km,12999
+2023,Kia,Sorento,159 km,SUV,2.5L TURBO GDI 4-CYLINDER DOHC D-CVVT -INC: IGNITI,8 Speed Automatic,AWD,Ebony Black,Black,6,4,Gas,10.9L/100km,8.7L/100km,42645
+2023,Kia,Sportage,100 km,SUV,4 Cylinder,Automatic,AWD,Gravity Grey,Black,5,4,Regular Unleaded,null,null,43245
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,AWD,Dawning Red,Black,5,4,Regular Unleaded,null,null,43245
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Wolf Gray (MET),Black,6,4,Regular Unleaded,null,null,43603
+2023,Kia,Sportage,150 km,SUV,4 Cylinder,Automatic,AWD,Shadow Matte Grey,Black,5,4,Regular Unleaded,null,null,43995
+2023,Kia,K5,150 km,Sedan,4 Cylinder,Automatic,AWD,Glacial White (Pearl),Black,5,4,Regular Unleaded,null,null,44103
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Glacial White (Pearl),Black,6,4,Regular Unleaded,null,null,45103
+2023,Kia,Carnival,125 km,Minivan,6 Cylinder,Automatic,FWD,Snow White (Pearl),Black,7,4,Regular Unleaded,null,null,45545
+2022,Kia,Sorento,3114 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snow White Pearl,Black,6,4,Gasoline Hybrid,6.5L/100km,7.1L/100km,45888
+2017,Kia,Sorento,117290 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Snow White Pearl,Black,null,4,Gas,12.3L/100km,9.4L/100km,17500
+2023,Kia,Sorento,20 km,SUV,4 Cylinder Engine,Automatic,AWD,Glacial White Pearl,Black,7,4,Gas,10.9L/100km,8.7L/100km,47345
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Ebony Black,Black,6,4,Regular Unleaded,null,null,47853
+2023,Kia,Carnival,125 km,Minivan,6 Cylinder,Automatic,FWD,Ultra Silver (MET),Black,6,4,Regular Unleaded,null,null,48845
+2023,Kia,Carnival,150 km,Minivan,6 Cylinder,Automatic,FWD,Aurora Black,Black,6,4,Regular Unleaded,null,null,51595
+2023,Kia,Sorento,150 km,SUV,4 Cylinder,Automatic,AWD,Aruba Stone Green (MET),Black,6,4,Regular Unleaded,null,null,51603
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Gravity Grey (b),Black,7,4,Regular Unleaded,null,null,52245
+2020,Kia,Soul,83507 km,Hatchback,100kW Perm Magnet AC Synchronous Motor,Automatic,FWD,Onyx,Black,null,4,Electric,null,null,33999
+2020,Kia,Forte5,79776 km,Hatchback,1.6L Turbo GDI 4 Cyl DOHC D-CVVT,Automatic,FWD,Orange Delight,Black,null,4,Gas,8.9L/100km,6.9L/100km,22994
+2020,Kia,Sportage,43974 km,SUV,4 Cylinder Engine,Automatic,AWD,Black Cherry,null,5,null,Gas,10.8L/100km,9.1L/100km,25995
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Onyx,Black,5,4,Gas,8.8L/100km,7.6L/100km,30295
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Snow White Pearl,Black,5,4,Gas,10.4L/100km,8.5L/100km,34232
+2023,Kia,Sportage,11206 km,SUV,I4,8 Speed Automatic,AWD,Snow White Pearl,Black,null,null,Gas,10.4L/100km,8.5L/100km,35975
+2023,Kia,Seltos,104 km,SUV,1.6L T-GDI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,Automatic,AWD,Gravity Grey,Black,5,4,Gas,9.4L/100km,7.9L/100km,37082
+2016,Kia,Sorento,95311 km,SUV,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,11.1L/100km,8.2L/100km,18750
+2019,Kia,Niro,51590 km,SUV,1.6L 4cyl,6 Speed Automatic with auto-shift,FWD,Snow White Pearl,Black,5,5,Gas,4.9L/100km,5.3L/100km,37295
+2023,Kia,Carnival,4524 km,Minivan,V6,8 Speed Automatic,FWD,Ultra Silver,Grey,8,4,Gas,12.1L/100km,8.9L/100km,55800
+2023,Kia,Telluride,150 km,SUV,null,Automatic,AWD,Ebony Black,Black,7,4,Regular Unleaded,null,null,56995
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Wolf Gray (MET),Black,7,4,Regular Unleaded,null,null,57245
+2023,Kia,Stinger,31 km,Hatchback,3.3L TURBO 6cyl.,Automatic,AWD,Snow White Pearl,Black,null,5,Gas,13.7L/100km,9.6L/100km,58781
+2017,Kia,Sportage,150340 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Grey,Black,null,4,Gas,11.3L/100km,9.5L/100km,17999
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Gravity Grey (MET),Black,6,4,Regular Unleaded,null,null,63245
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Jungle Green,Black,6,4,Regular Unleaded,null,null,63245
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Gravity Grey (MET),Black,6,4,Regular Unleaded,null,null,64845
+2015,Kia,Forte,118216 km,Sedan,1.8L 4cyl,6 Speed Automatic,FWD,Silver,Black,5,4,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,13888
+2009,Kia,Sedona,202996 km,Minivan,3.8L V6 244HP 253FT. LBS.,Automatic,FWD,Clear White,Grey,7,4,Gas,13.2L/100km,8.8L/100km,3990
+2014,Kia,Rio,302117 km,Hatchback,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Aurora Black Pearl,Black,null,5,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,4990
+2011,Kia,Optima,225000 km,Sedan,4 Cylinder Engine,Manual,null,Gray,Black,null,null,Gas,8.7L/100km,5.7L - 5.8L/100km,4995
+2011,Kia,Forte,239475 km,Coupe,2.4L I4 173HP 168FT. LBS.,Automatic,FWD,Black Orchid,Black,null,5,Gas,8.9L - 9.2L/100km,6.2L/100km,5990
+2011,Kia,Forte,228007 km,Hatchback,2.4L I4 173HP 168FT. LBS.,Automatic,FWD,Metal Bronze Metallic,Black,null,5,Gas,8.9L - 9.2L/100km,6.2L/100km,5990
+2021,Kia,Seltos,68825 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,AWD,Silver,Black,null,4,Gas,8.8L/100km,7.6L/100km,27499
+2012,Kia,Rio,161138 km,Hatchback,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Grey,Black,null,5,Gas,6.9L - 7.1L/100km,5.3L - 5.5L/100km,6990
+2012,Kia,Forte,149414 km,Sedan,2.0L I4 156HP 144FT. LBS.,Automatic,FWD,Silver,Black,5,4,Gas,8.0L - 8.1L/100km,5.5L - 5.7L/100km,6990
+2013,Kia,Rio,147000 km,Hatchback,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Chestnut Brown Pearl,Black,null,4,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,7990
+2015,Kia,Rio,165885 km,Wagon,4 CYL,Automatic,FWD,Graphite Pearl,Black,5,4,Gas,8.7L/100km,6.4L/100km,7990
+2015,Kia,Sorento,199900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Titanium Silver Metallic,Black,7,4,Gas,13.1L/100km,9.8L/100km,7999
+2012,Kia,Rio,182588 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Grey,5,4,Gas,6.9L - 7.1L/100km,5.3L - 5.5L/100km,8499
+2014,Kia,Forte,166656 km,Sedan,1.8L I4 148HP 131FT. LBS.,Automatic,FWD,Blue,Black,null,4,Gas,8.0L - 8.3L/100km,5.3L - 5.5L/100km,8990
+2010,Kia,Soul,140761 km,Hatchback,4 Cylinder,Automatic,FWD,Molten,Grey,4,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,9800
+2014,Kia,Forte,145000 km,Hatchback,4 Cylinder Engine,null,null,Aurora Black,Black,null,null,Gas,8.5L - 8.6L/100km,5.8L/100km,9800
+2021,Kia,Seltos,75243 km,SUV,2.0L MPI I4 -inc: idle stop and go,CVT,AWD,Grey,Black,null,4,Gas,8.8L/100km,7.6L/100km,27500
+2015,Kia,Forte,178467 km,Sedan,1.8,8 Speed Automatic,FWD,White,White,5,4,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,9995
+2014,Kia,Rio,147000 km,Hatchback,4 Cylinder Engine,null,FWD,Aurora Black Pearl,Black,null,null,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,10800
+2015,Kia,Forte,143095 km,Sedan,1.8L 4cyl,6 Speed Automatic,FWD,White,Grey,5,4,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,11888
+2014,Kia,Sorento,186573 km,SUV,2.4L,Automatic,FWD,null,null,null,null,Gas,10.4L/100km,7.1L/100km,11900
+2012,Kia,Optima,154834 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Silver,Black,5,4,Gas,8.6L - 8.7L/100km,5.6L - 5.7L/100km,11980
+2015,Kia,Forte,134997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Burgundy,Black,5,4,Gas,8.8L - 9.3L/100km,6.1L - 6.3L/100km,11990
+2016,Kia,Forte,152073 km,Hatchback,2.0,Automatic,FWD,Ultra Silver Metallic,Black,null,4,Gas,9.5L - 9.7L/100km,6.9L - 7.2L/100km,11998
+2014,Kia,Sportage,161489 km,SUV,2.4,Automatic,AWD,Black Cherry Pearl,Black,null,null,Regular Unleaded,11.2L/100km,8.2L/100km,12495
+2012,Kia,Sportage,138000 km,SUV,4 Cylinder Engine,Automatic,FWD,Techno Orange Metallic,Black,5,4,Gas,9.7L - 10.3L/100km,6.5L - 7.2L/100km,12700
+2022,Kia,Soul,10068 km,Hatchback,2.0L I4 MPI DOHC 16V LEV3-SULEV30 147hp,CVT,FWD,Snow White Pearl,Black,null,null,Gas,8.5L/100km,7.0L/100km,27189
+2017,Kia,Forte,148145 km,Sedan,4 Cylinder Engine,Automatic,FWD,Hyper Blue Metallic,Black,5,4,Gas,null,null,14995
+2018,Kia,Optima,165119 km,Sedan,4 Cylinder Engine,Automatic,FWD,Ebony Black,Black,5,4,Gas,9.3L - 9.6L/100km,6.6L - 6.8L/100km,14995
+2016,Kia,Rio,62704 km,Sedan,1.6L 4-Cylinder DGI DOHC 16V Dual CVVT,null,FWD,Polar,Black,5,4,Gas,null,null,16299
+2016,Kia,Sportage,141506 km,SUV,2.4,Automatic,AWD,Polar,Black,null,4,Gas,12.4L/100km,9.0L/100km,16900
+2017,Kia,Soul,100123 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Black,null,null,4,Gas,9.5L/100km,7.8L/100km,16995
+2017,Kia,Sorento,167000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Sparkling Silver,Black,5,4,Gas,11.5L/100km,9.3L/100km,16995
+2018,Kia,Soul,126067 km,Wagon,4 Cylinder Engine,Automatic,FWD,Polar White,Black,5,null,Gas,9.5L/100km,7.8L/100km,17700
+2023,Kia,Rio,150 km,Hatchback,4 Cylinder,Manual,FWD,Snow White Pearl,Black,5,4,Regular Unleaded,null,null,19545
+2017,Kia,Optima,118989 km,Sedan,2.4L 4cyl,6 Speed Automatic,FWD,Snow Pearl White,Black,5,4,Gas,9.3L - 9.6L/100km,6.6L - 6.8L/100km,21888
+2021,Kia,Sorento,18575 km,SUV,2.5L 4cyl,8 Speed Automatic with auto-shift,AWD,Pacific Blue,Black,null,2,Gas,11.1L/100km,8.4L/100km,44402
+1997,Kia,Elan,53278 km,Convertible,4 cylinder,5 Speed Manual,FWD,White,Black,2,2,Gas,null,null,22900
+2020,Kia,Rio,31179 km,Hatchback,1.6 L Inline4,Automatic,FWD,Hyper Blue,Black,5,4,Regular Unleaded,null,null,22995
+2017,Kia,Sorento,110927 km,SUV,3.3L 6cyl,6 Speed Automatic,AWD,Ebony Black,null,null,2,Gas,13.2L/100km,9.3L/100km,23388
+2023,Kia,Seltos,20 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,FWD,Steel Grey,Black,5,4,Gas,8.2L/100km,7.1L/100km,25695
+2021,Kia,Forte,23880 km,Sedan,2.0L 4cyl,CVT,FWD,Blue,Black,5,4,Gas,7.8L - 8.6L/100km,5.9L - 6.4L/100km,25899
+2023,Kia,Seltos,23 km,SUV,2.0L MPI DOHC I4 W/D-CVVT -INC: IDLE STOP AND GO,CVT,AWD,Snow White Pearl,Black,5,4,Gas,8.8L/100km,7.6L/100km,29082
+2022,Kia,Forte,17211 km,Sedan,2.0 L,Automatic,null,Steel Grey,Black,5,4,Regular Unleaded,null,null,29995
+2021,Kia,Sportage,26 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,10.7L/100km,9.0L/100km,33988
+2023,Kia,Sportage,23 km,SUV,2.5L GDI+MPI DOHC I4 CVVT -INC: IDLE, STOP AND GO,Automatic,AWD,Steel Grey,Black,5,4,Gas,10.4L/100km,8.5L/100km,34232
+2023,Kia,Seltos,16098 km,SUV,2.0L MPI I4 -inc: idle stop and go,Automatic,FWD,Blue,Black,null,4,Gas,8.2L/100km,7.1L/100km,28999
+2023,Kia,Forte,10 km,Sedan,1.6L TURBO 4cyl.,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.7L/100km,6.6L/100km,34881
+2023,Kia,Forte,0 km,Sedan,1.6L TURBO 4cyl.,Automatic,FWD,Gravity Grey,Black,null,4,Gas,8.7L/100km,6.6L/100km,34881
+2023,Kia,Sportage,22 km,SUV,2.5L 4cyl.,Automatic,AWD,Snow White Pearl,Black,null,5,Gas,10.4L/100km,8.5L/100km,35081
+2023,Kia,Sportage,25 km,SUV,2.5L 4cyl.,Automatic,AWD,Vesta Blue,Black,null,5,Gas,10.4L/100km,8.5L/100km,36633
+2019,Kia,Niro,51590 km,SUV,1.6L 4cyl,6 Speed Automatic with auto-shift,FWD,Snow White Pearl,Black,5,5,Gas,4.9L/100km,5.3L/100km,37295
+2022,Kia,SORENTO,19731 km,null,2.5L,Automatic,null,WOLF GRAY,Black,7,5,Regular Unleaded,null,null,43995
+2023,Kia,Sorento,30 km,SUV,2.5L 4cyl.,Automatic,AWD,Gravity Grey,Black,null,5,Gas,10.9L/100km,8.7L/100km,44881
+2023,Kia,Sorento,32 km,SUV,2.5L 4cyl.,Automatic,AWD,Ebony Black,Black,null,5,Gas,10.9L/100km,8.7L/100km,45881
+2022,Kia,Soul,27820 km,null,null,Automatic,null,Ebony Black [Black],Black,5,5,Electric,null,null,48995
+2017,Kia,Sportage,90339 km,SUV,2.4L I4 DGI DOHC,6 Speed Automatic,AWD,null,null,null,4,Gas,11.3L/100km,9.5L/100km,21500
+2023,Kia,Telluride,20 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Dawning Red,Black,8,4,Gas,12.8L/100km,9.8L/100km,52973
+2023,Kia,Stinger,220 km,Hatchback,3.3L V6 DGI,8 Speed Automatic,AWD,HiChroma Red,Black,null,4,Gas,13.7L/100km,9.6L/100km,53889
+2022,Kia,Telluride,20738 km,null,3.8L,Automatic,null,GLACIAL WHITE PEARL,Black,8,5,Regular Unleaded,null,null,53995
+2023,Kia,Stinger,20 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Ghost Grey,Black,5,4,Gas,13.7L/100km,9.6L/100km,58068
+2023,Kia,Stinger,102 km,Sedan,3.3L TWIN-TURBO GDI V6 DOHC D-CVVT -INC: IDLE STOP,Automatic,null,California Red,Black,5,4,Gas,13.7L/100km,9.6L/100km,58232
+2023,Kia,Telluride,150 km,SUV,6 Cylinder,Automatic,AWD,Wolf Gray (MET),Black,6,4,Regular Unleaded,null,null,61245
+2023,Kia,Telluride,30 km,SUV,3.8L 6cyl.,Automatic,AWD,Dark Moss,Black,null,5,Gas,12.8L/100km,9.8L/100km,63424
+2023,Kia,Telluride,32 km,SUV,3.8L 6cyl.,Automatic,AWD,Glacial White Pearl,Brown,null,5,Gas,12.8L/100km,9.8L/100km,67081
+2009,Kia,Rondo,209000 km,Wagon,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,3300
+2021,Kia,Sportage,26654 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,12.1L/100km,9.6L/100km,38950
+2012,Kia,Rio,241000 km,Sedan,null,Automatic,FWD,Grey,null,null,5 doors,null,null,null,4600
+2007,Kia,Sportage,179500 km,null,null,Automatic,FWD,Blue,null,null,5 doors,Gasoline,null,null,4800
+2010,Kia,Forte,180334 km,Sedan,2.4,Manual,FWD,Dark Grey,Black,5,4,Gas,9.0L - 9.3L/100km,6.2L - 6.3L/100km,4990
+2013,Kia,Rio,196570 km,Sedan,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Bright Silver Metallic,Black,5,4,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,5990
+2011,Kia,Soul,185195 km,Hatchback,2.0,Automatic,FWD,Red,Black,5,5,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6000
+2012,Kia,Optima,200000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,6000
+2009,Kia,Rondo,148103 km,Hatchback,2.4 L.,Automatic,FWD,Dark Grey,Black,5,4,Regular Unleaded,null,null,6499
+2013,Kia,Forte,147000 km,Coupe,null,Automatic,FWD,Blue,null,null,2 doors,Gasoline,null,null,6500
+2010,Kia,Soul,204365 km,SUV,4 Cylinder Engine,Automatic,FWD,Orange,Black,5,5,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6788
+2019,Kia,Forte,79946 km,Sedan,I-4 cyl,null,FWD,Snow White Pearl,Black,null,null,Regular Unleaded,7.7L - 8.6L/100km,5.9L - 6.4L/100km,18883
+2012,Kia,Rio,156000 km,Hatchback,4 Cylinder Engine,Manual,FWD,Bronze,Dark Grey,null,4,Gas,6.9L - 7.1L/100km,5.3L - 5.5L/100km,6985
+2013,Kia,Rio,179544 km,Hatchback,1.6L I4 138HP 123FT. LBS.,Automatic,FWD,Aurora Black Pearl,Black,null,5,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,6990
+2013,Kia,Rio,198968 km,Sedan,4 CYL,Automatic,FWD,Clear White,Grey,5,4,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,6990
+2009,Kia,Rio,133000 km,Hatchback,null,Automatic,FWD,Blue,null,null,5 doors,Gasoline,null,null,6995
+2010,Kia,Soul,139200 km,Wagon,4 Cylinder Engine,Manual,FWD,Denim Metallic,null,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,6995
+2010,Kia,Rondo,180000 km,Sedan,2.4,Automatic,FWD,Grey,Black,5,4,Gas,10.6L/100km,7.5L/100km,6999
+2010,Kia,Rondo,160000 km,Sedan,null,Automatic,null,Black,null,null,4 doors,Gasoline,null,null,7199
+2010,Kia,Forte,137468 km,Sedan,2.0L,null,FWD,Brown,Dark Grey,5,4,Gas,8.1L - 8.3L/100km,5.8L/100km,7250
+2010,Kia,Soul,109300 km,Wagon,4 Cylinder Engine,Manual,FWD,Grey,null,5,4,Gas,8.5L - 8.6L/100km,6.5L - 6.6L/100km,7495
+2022,Kia,Seltos,6289 km,SUV,2.0L 4cyl,CVT,AWD,Lunar Orange,Black,null,2,Gas,8.8L/100km,7.6L/100km,31728
+2013,Kia,Rio,158000 km,Coupe,null,Automatic,FWD,Grey,null,null,5 doors,E85- Gasoline(Flex Fuel),null,null,7499
+2015,Kia,Soul,149000 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,7500
+2013,Kia,Rio,161000 km,Hatchback,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,7988
+2013,Kia,Rio,193000 km,Hatchback,1.6,Automatic,FWD,Grey,Black,null,4,Gas,8.1L - 8.4L/100km,6.4L - 6.5L/100km,7995
+2014,Kia,Forte,154500 km,Sedan,4 Cylinder Engine,Manual,FWD,Blue,null,5,4,Gas,8.0L - 8.3L/100km,5.3L - 5.5L/100km,7995
+2014,Kia,Forte,170345 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,8000
+2010,Kia,Forte,165000 km,Coupe,null,Automatic,FWD,Red,Black,5,2,null,null,null,8495
+2011,Kia,Sportage,220000 km,null,null,Automatic,AWD,Red,null,null,null,null,null,null,8700
+2010,Kia,Forte,123000 km,Coupe,null,Automatic,FWD,Black,null,null,2 doors,Gasoline,null,null,8770
+2021,Kia,Stinger,47121 km,Hatchback,V6 Cylinder Engine,Automatic,null,Ghost Grey,null,null,null,Gas,13.6L/100km,9.6L/100km,42634
+2015,Kia,Optima,221000 km,Sedan,2.4,Automatic,FWD,Grey,Black,5,4,Gas,10.2L/100km,6.9L/100km,8799
+2013,Kia,Rio,189774 km,Hatchback,1.6L,Automatic,FWD,null,null,null,null,Gas,6.8L - 7.1L/100km,5.3L - 5.5L/100km,8990
+2012,Kia,Optima,196000 km,Sedan,2.4L,Automatic,FWD,Black,Black,5,4,Gas,null,null,8995
+2017,Kia,Forte,198000 km,Sedan,null,Automatic,FWD,Silver,Dark Grey,5,5,Gas,null,null,8995
+2011,Kia,Sportage,194178 km,SUV,4 Cylinder Engine,Automatic,AWD,Signal Red Metallic,Black,5,4,Gas,10.0L/100km,7.1L/100km,8995
+2013,Kia,Soul,215000 km,SUV,2.0L,Automatic,FWD,Black,Grey,5,5,Gas,null,null,8995
+2023,Kia,K5,3442 km,Sedan,1.6L Turbo GDI DOHC I4 CVVD,Automatic,AWD,Grey,Black,null,4,Gas,9.3L/100km,7.0L/100km,43999
+2020,Kia,Sportage,60309 km,SUV,SP757L,Automatic,AWD,Steel Grey,null,null,null,Gas,12.1L/100km,9.6L/100km,32990
+2017,Kia,Sportage,103100 km,SUV,2.4,Automatic,FWD,Storm Blue,Black,null,4,Gas,10.4L/100km,8.0L/100km,19999
+2019,Kia,Forte,27514 km,Sedan,2.0,Automatic,FWD,Snow White Pearl,Black,5,4,Gas,7.7L/100km,5.9L/100km,24888
+2019,Kia,Niro,22016 km,Wagon,Gas/Electric I-4 1.6 L/96,Automatic,FWD,Snow White Pearl,Black,5,4,Gasoline Hybrid,4.9L/100km,5.3L/100km,37998
+2023,Kia,Forte,26 km,Sedan,2.0L MPI 4 CYL DOHC 16V D-CVVT,Automatic,null,Hyper Blue,Black,5,4,Gas,8.2L/100km,6.0L/100km,25332
+2015,Kia,Sorento,151808 km,SUV,V6 Cylinder Engine,Automatic,AWD,Snow White Pearl,Tan,5,4,Gas,13.1L/100km,9.4L/100km,14990
+2017,Kia,Forte,170831 km,Hatchback,1.6L 4cyl,7 Speed Automatic,FWD,Urban Grey Metallic,Black,5,4,Gas,9.4L/100km,7.9L/100km,14888
+2016,Kia,Sorento,149338 km,SUV,4 Cylinder Engine,Automatic,AWD,Ebony Black,Black,5,4,Gas,12.3L/100km,9.3L/100km,16990
+2010,Kia,Rondo,149987 km,Wagon,4 Cylinder Engine,4 Speed Automatic,FWD,Black Cherry Metallic,Black,5,4,Gas,10.6L/100km,7.5L/100km,8999
+2013,Kia,Optima,170000 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,9100
+2011,Kia,Sorento,188000 km,null,null,Automatic,AWD,Red,null,null,4 doors,Gasoline,null,null,9900
+2013,Kia,Rio,116770 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,9995
+2023,Kia,Forte,4227 km,Sedan,4 Cylinder Engine,CVT,FWD,Blue,Black,5,4,Gas,8.2L/100km,6.0L/100km,28418
+2012,Kia,Forte,200000 km,Sedan,4 Cylinder Engine,null,FWD,White,Black,null,4,Gas,8.0L - 8.1L/100km,5.5L - 5.7L/100km,9995
+2013,Kia,Optima,138340 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,10500
+2014,Kia,Soul,198000 km,Wagon,4 Cylinder Engine,null,FWD,Solar Yellow,Black,null,null,Gas,8.1L/100km,6.5L/100km,10500
+2013,Kia,Sorento,164000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,10800
+2014,Kia,Optima,203706 km,Sedan,2.4L,Automatic,FWD,White,Black,5,4,Gas,8.9L/100km,5.7L/100km,10995
+2016,Kia,Optima,256000 km,Sedan,null,Automatic,null,Blue,null,null,4 doors,Gasoline,null,null,11500
+2011,Kia,Sorento,179000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,11700
+2014,Kia,Optima,150000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,12000
+2014,Kia,Sorento,164000 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,12499
+2021,Kia,Sportage,26654 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Black Cherry,Black,5,4,Gas,12.1L/100km,9.6L/100km,38950
+2013,Kia,Sorento,164000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,12700
+2015,Kia,Rondo,111000 km,Wagon,4,Automatic,FWD,Blue,Black,5,4,Gas,10.6L - 10.8L/100km,7.4L - 7.6L/100km,12995
+2017,Kia,Sportage,230000 km,SUV,4 Cylinder Engine,Automatic,AWD,Red,Black,5,4,Gas,11.3L/100km,9.5L/100km,13995
+2015,Kia,Soul,128000 km,SUV,4,Automatic,FWD,Silver,Black,5,4,Gas,null,null,13995
+2018,Kia,Forte,217888 km,Sedan,null,Automatic,FWD,White,Dark Grey,5,4,Gas,null,null,13995
+2023,Kia,Soul,8093 km,SUV,4 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,8.5L/100km,7.0L/100km,14535
+2013,Kia,Sorento,166000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,14700
+2015,Kia,Sorento,152717 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,14900
+2016,Kia,Forte,55400 km,Sedan,1.8,Automatic,null,White,Black,5,4,null,null,null,14990
+2019,Kia,Stinger,60120 km,Hatchback,. L,8 Speed Automatic,null,Atomic Blue Metallic,null,5,2,Gas,12.7L/100km,9.6L/100km,38888
+2014,Kia,Sorento,194718 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Beige,Black,5,4,Gas,10.9L/100km,7.8L/100km,14999
+2014,Kia,Sportage,102000 km,SUV,2.0L,Automatic,AWD,Red,Black,null,4,Gas,null,null,14999
+2015,Kia,Optima,150000 km,Sedan,null,Automatic,null,White,null,null,null,Gasoline,null,null,16500
+2016,Kia,Soul,118250 km,Hatchback,null,Automatic,FWD,Blue,null,null,5 doors,Gasoline,null,null,16899
+2020,Kia,Forte,71000 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,18500
+2017,Kia,Soul,5000 km,SUV,2.0,Automatic,FWD,Charcoal,Black,5,4,Gas,9.5L/100km,7.8L/100km,19888
+2016,Kia,Sorento,100000 km,null,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,19900
+2017,Kia,Sportage,97000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,null,null,null,19950
+2017,Kia,Sedona,125000 km,Minivan,null,Automatic,null,Black,null,null,5 doors,Gasoline,null,null,22000
+2021,Kia,Sorento,26740 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Runway Red,Black,6,4,Gas,11.1L/100km,8.4L/100km,40888
+2016,Kia,Sorento,58000 km,null,null,Automatic,AWD,Grey,null,null,3 doors,Gasoline,null,null,22500
+2019,Kia,Soul,33731 km,Hatchback,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,22500
+2017,Kia,Sorento,68000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,22900
+2019,Kia,Forte,41388 km,Sedan,4 Cylinder Engine,Automatic,null,Hyper Blue Metallic,null,null,null,Gas,7.7L/100km,5.9L/100km,23488
+2020,Kia,Sorento,76800 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,26000
+2016,Kia,Sorento,57000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,27700
+2022,Kia,Seltos,13033 km,SUV,4 Cylinder Engine,Automatic,AWD,Silver,Black,null,4,Gas,9.4L/100km,7.9L/100km,28535
+2020,Kia,Sedona,54605 km,Minivan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,35000
+2021,Kia,K5,14500 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,35900
+2017,Kia,Sportage,150340 km,SUV,4 Cylinder Engine 2.4L,Automatic,AWD,Grey,Black,null,4,Gas,11.3L/100km,9.5L/100km,17999
+2020,Kia,Sorento,46000 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,37000
+2019,Kia,Stinger,51000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,39000
+2023,Kia,Sportage,6000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,44000
+2019,Kia,Stinger,35000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,45000
+2013,Kia,Forte,218931 km,Hatchback,4 CYL,Automatic,FWD,Red,Black,5,4,Gas,8.0L - 8.1L/100km,5.5L - 5.7L/100km,5990
+2021,Kia,Soul,null,Sedan,Not Available Not AvailableNot Available,Automatic,FWD,Gravity Grey,Black,5,4,Electric,null,null,46995
+2019,Kia,Forte,130060 km,Sedan,4 Cylinder,Automatic,FWD,Aurora Black,Black,5,4,Gas,7.7L/100km,5.9L/100km,18900
+2018,Kia,Soul,100 km,Wagon,4 Cylinder Engine,Automatic,FWD,Onyx,Black,5,null,Regular Unleaded,9.5L/100km,7.8L/100km,19977

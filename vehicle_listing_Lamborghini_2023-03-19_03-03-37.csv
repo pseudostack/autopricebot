@@ -1,0 +1,80 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2019,Lamborghini,Urus,53556 km,SUV,8 Cylinder,Automatic,AWD,Blue,Brown,null,4,Gas,null,null,279800
+2019,Lamborghini,Urus,33000 km,SUV,8 Cylinder,Automatic,AWD,White,Red,null,4,Gas,null,null,299800
+2018,Lamborghini,Huracan,16097 km,Convertible,10 Cylinder,Automatic,AWD,Black,Black,null,2,Gas,null,null,449800
+2017,Lamborghini,Aventador,16113 km,Coupe,12 Cylinder,Automatic,AWD,White,Black,null,2,Gas,null,null,578800
+2016,Lamborghini,Huracan,35000 km,Convertible,null,Automatic,AWD,Grey,null,null,2 doors,Gasoline,null,null,299000
+2021,Lamborghini,Huracan,5586 km,Convertible,10 Cylinder Engine,7 Speed Automatic,RWD,Blu Aegeus Matt,null,null,null,Gas,18.1L/100km,13.1L/100km,449998
+2006,Lamborghini,Gallardo,44000 km,Coupe,5.0L,Manual,AWD,Nero Noctis,Black,2,2,Gas,23.5L - 26.1L/100km,13.8L - 15.7L/100km,168888
+2013,Lamborghini,Gallardo,23000 km,Coupe,5.2L,Automatic,AWD,Bianco Monocerus,Orange,2,2,Gas,null,null,198000
+2019,Lamborghini,Urus,53556 km,SUV,8 Cylinder,Automatic,AWD,Blue,Brown,null,4,Gas,null,null,279800
+2019,Lamborghini,Urus,28000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White,White,null,null,Gas,null,null,298800
+2019,Lamborghini,Urus,33000 km,SUV,8 Cylinder,Automatic,AWD,White,Red,null,4,Gas,null,null,299800
+2018,Lamborghini,Huracan,67000 km,Coupe,10 Cylinder Engine,7 Speed Automatic,AWD,White,Black,null,null,Gas,null,null,328800
+2021,Lamborghini,Urus,15000 km,SUV,4.0L,Automatic,AWD,Nero Noctis Matt,null,5,4,Gas,19.6L/100km,13.8L/100km,358888
+2021,Lamborghini,Huracan,8258 km,Convertible,10 Cylinder Engine,7 Speed Automatic,RWD,Ad Personam Blu Mehit Matt,null,null,null,Gas,18.1L/100km,13.1L/100km,419998
+2022,Lamborghini,Urus,4553 km,SUV,Twin Turbo Premium Unleaded V-8 4.0 L/244,Automatic,AWD,White,Red,5,4,Gas,null,null,378888
+2022,Lamborghini,Huracan,8000 km,Coupe,5.2L,Automatic,RWD,Nero Helene Metallic,null,2,2,Gas,18.1L/100km,13.1L/100km,408888
+2022,Lamborghini,Huracan,500 km,Coupe,5.2L,Automatic,RWD,Arancio Borealis Metallic,null,2,2,Gas,18.1L/100km,13.1L/100km,408888
+2021,Lamborghini,Huracan,6200 km,Coupe,10 Cylinder Engine,7 Speed Automatic,RWD,Black,White,2,2,Gas,18.1L/100km,13.1L/100km,409990
+2022,Lamborghini,Urus,3000 km,SUV,4.0L,Automatic,AWD,Grigio Hati,null,5,4,Gas,null,null,418888
+2018,Lamborghini,Huracan,16197 km,Coupe,Premium Unleaded V-10 5.2 L/318,Automatic,AWD,Red,Black,2,2,Gas,null,null,419998
+2022,Lamborghini,Urus,2000 km,SUV,4.0L,Automatic,AWD,Nero Nemesis,null,5,4,Gas,null,null,428888
+2018,Lamborghini,Huracan,16097 km,Convertible,10 Cylinder,Automatic,AWD,Black,Black,null,2,Gas,null,null,449800
+2023,Lamborghini,Huracan,1700 km,Convertible,10 Cylinder Engine,Automatic,RWD,Black,Red,2,null,Gas,null,null,478888
+2020,Lamborghini,Aventador,8574 km,Coupe,12 Cylinder Engine,7 Speed Automatic,AWD,Ad Personam Bianco Phanes Matt,null,2,2,Gas,26.1L/100km,15.7L/100km,1049999
+2022,Lamborghini,Huracan,994 km,Coupe,10 Cylinder Engine,Automatic,RWD,Green,null,null,null,Gas,18.1L/100km,13.1L/100km,479000
+2017,Lamborghini,Aventador,16113 km,Coupe,12 Cylinder,Automatic,AWD,White,Black,null,2,Gas,null,null,578800
+2021,Lamborghini,Huracan,1000 km,Coupe,5.2L,Automatic,RWD,Black,null,2,2,Gas,null,null,649899
+2020,Lamborghini,Aventador,2000 km,Coupe,6.5L,Automatic,AWD,Nero Nemesis Matt,null,2,2,Gas,26.1L/100km,15.7L/100km,787888
+2016,Lamborghini,Huracan,35000 km,Convertible,null,Automatic,AWD,Grey,null,null,2 doors,Gasoline,null,null,299000
+2006,Lamborghini,Gallardo,78850 km,Convertible,null,Automatic,AWD,Black,Black,2,2,Gas,null,null,118888
+2009,Lamborghini,Gallardo,79486 km,Coupe,10 Cylinder Engine,6 Speed Manual,AWD,Black,Black,2,2,Gas,null,null,145000
+2008,Lamborghini,Gallardo,19689 km,Convertible,null,Automatic,AWD,White,Black,2,2,Gas,null,null,159986
+2016,Lamborghini,Huracan,53846 km,Coupe,10 Cylinder Engine,7 Speed Automatic,RWD,White,Black,null,null,Gas,null,null,234995
+2022,Lamborghini,Huracan,500 km,Coupe,5.2L,Automatic,RWD,Arancio Borealis Metallic,null,2,2,Gas,18.1L/100km,13.1L/100km,408888
+2016,Lamborghini,Huracan,60806 km,Coupe,Hand-built 5.2L V10 40V GDI MPFI DOHC,Automatic,RWD,Neon Pink,Black,2,2,Gas,null,null,239888
+2013,Lamborghini,Unlisted,10 km,null,10 Cylinder Engine,null,null,Bianco Monocerus,null,null,null,null,null,null,269998
+2019,Lamborghini,Urus,62435 km,SUV,4.0,Automatic,AWD,Black,Brown,5,5,Gas,null,null,272950
+2020,Lamborghini,Urus,40827 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Grigio Lynx,null,null,null,Gas,null,null,319988
+2021,Lamborghini,Urus,17000 km,SUV,641HP 4.0L 8 Cylinder Engine,Automatic,AWD,Black,Black,4,4,Gas,19.6L/100km,13.8L/100km,369888
+2021,Lamborghini,Urus,12472 km,SUV,8 Cylinder Engine,Automatic,AWD,Nero Noctis,null,null,4,Gas,19.6L/100km,13.8L/100km,369998
+2021,Lamborghini,Urus,32922 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,4,4,Gas,19.6L/100km,13.8L/100km,379000
+2018,Lamborghini,Huracan,6374 km,Coupe,5.2L V10 DOHC,7 Speed Automatic,AWD,Blue,Black,2,2,Gas,null,null,399900
+2021,Lamborghini,Urus,8328 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Nero Noctis,null,null,null,Gas,19.6L/100km,13.8L/100km,399988
+2022,Lamborghini,Huracan,11200 km,Coupe,10 Cylinder Engine,7 Speed Automatic,RWD,Grigio Lynx Metallic,null,null,null,Gas,18.1L/100km,13.1L/100km,399998
+2020,Lamborghini,Huracan,884 km,Coupe,10 Cylinder Engine,7 Speed Automatic,RWD,Arancio Borealis Pearl,null,null,null,Gas,18.1L/100km,13.1L/100km,399998
+2021,Lamborghini,Urus,10241 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Ad Personam Blu Cepheus Pearl,null,null,null,Gas,19.6L/100km,13.8L/100km,399998
+2021,Lamborghini,Urus,14380 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Giallo Inti Nero Noctis Pearl,null,null,null,Gas,19.6L/100km,13.8L/100km,409998
+2022,Lamborghini,Urus,1576 km,null,8 Cylinder Engine,null,null,Grigio Keres Shiny,null,null,null,null,null,null,409998
+2022,Lamborghini,Urus,7593 km,null,8 Cylinder Engine,null,null,Ad Personam Nero Noctis Matt,null,null,null,null,null,null,419998
+2021,Lamborghini,Urus,2177 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Verde Mantis Nero Noctis Pearl,null,null,null,Gas,19.6L/100km,13.8L/100km,419998
+2022,Lamborghini,Urus,4242 km,null,8 Cylinder Engine,null,AWD,Nero Noctis Shiny,null,null,4,Gas,null,null,419998
+2021,Lamborghini,Huracan,8258 km,Convertible,10 Cylinder Engine,7 Speed Automatic,RWD,Ad Personam Blu Mehit Matt,null,null,null,Gas,18.1L/100km,13.1L/100km,419998
+2020,Lamborghini,Huracan,8582 km,null,null,null,null,White,Black,2,null,null,null,null,429500
+2022,Lamborghini,Urus,790 km,null,8 Cylinder Engine,null,AWD,Nero Noctis Shiny,null,null,4,Gas,null,null,429998
+2021,Lamborghini,Huracan,5586 km,Convertible,10 Cylinder Engine,7 Speed Automatic,RWD,Blu Aegeus Matt,null,null,null,Gas,18.1L/100km,13.1L/100km,449998
+2015,Lamborghini,Aventador,19464 km,Coupe,12 Cylinder Engine,7 Speed Automatic,null,Grigio Antares (Grey) Met,null,null,2,Gas,null,null,459998
+2015,Lamborghini,Aventador,7010 km,Coupe,null,Automatic,AWD,Yellow,Black,2,2,Gas,null,null,499900
+2016,Lamborghini,Aventador,10337 km,Convertible,6.5,Automatic,AWD,White,Black,2,2,Gas,null,null,539950
+2018,Lamborghini,Aventador,22261 km,Coupe,v12,7 Speed Automatic,AWD,Orange,Black,2,2,Gas,null,null,569999
+2022,Lamborghini,Huracan,7015 km,null,null,null,null,Verde Mantis,null,null,null,null,null,null,629998
+2020,Lamborghini,Aventador,8574 km,Coupe,12 Cylinder Engine,7 Speed Automatic,AWD,Ad Personam Bianco Phanes Matt,null,2,2,Gas,26.1L/100km,15.7L/100km,1049999
+2019,Lamborghini,Aventador,7313 km,Coupe,null,7 Speed Automatic,AWD,Grey,Black,2,2,Gas,null,null,1050000
+2022,Lamborghini,Aventador,961 km,Coupe,null,null,AWD,White,Black,2,2,Premium Unleaded,null,null,1175000
+2019,Lamborghini,Aventador,9635 km,Coupe,V12,7 Speed Automatic,AWD,Green,Black,2,2,Gas,null,null,1188000
+2020,Lamborghini,Aventador,153 km,Coupe,null,Automatic,AWD,White,Black,2,2,Gas,null,null,1199900
+2020,Lamborghini,Aventador,3950 km,Coupe,6.5,Automatic,AWD,Orange,Black,2,2,Gas,null,null,1288888
+2019,Lamborghini,Aventador,1004 km,Coupe,12 Cylinder Engine,7 Speed Automatic,AWD,Arancio Oicleo,null,2,2,Gas,null,null,1699998
+2020,Lamborghini,Unlisted,343 km,Coupe,12 Cylinder Engine,7 Speed Automatic,AWD,Rosso Scintilla,null,2,2,Gas,null,null,3699998
+2007,Lamborghini,Gallardo,43285 km,Convertible,10 Cylinder Engine,6 Speed Automatic,4x4,Yellow,Blue,2,2,Gas,19.6L/100km,13.1L/100km,149900
+2007,Lamborghini,Gallardo,45151 km,Convertible,10 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,19.6L/100km,13.1L/100km,182250
+2006,Lamborghini,Gallardo,36882 km,Coupe,10 cylinder,6 Speed Manual,4x4,Yellow,Black,2,2,Gas,null,null,199900
+2006,Lamborghini,Gallardo,20245 km,Coupe,V10,Manual,4x4,Green,Black,2,2,Gas,23.5L - 26.1L/100km,13.8L - 15.7L/100km,249900
+2015,Lamborghini,Huracan,37643 km,Coupe,10 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,null,null,295000
+2019,Lamborghini,Urus,56000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,299499
+2015,Lamborghini,Huracan,null,Coupe,5.2,Sequential,RWD,Green,Black,2,2,Gas,null,null,299900
+2020,Lamborghini,Urus,35258 km,SUV,null,Automatic,AWD,White,null,5,4,Gas,null,null,310000
+2019,Lamborghini,Urus,26500 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,329900
+2008,Lamborghini,Murcielago,19000 km,Convertible,null,Automatic,AWD,Yellow,null,null,2 doors,Gasoline,null,null,379000
+2003,Lamborghini,Murcielago,13527 km,Coupe,V12 6.2L,6 Speed Manual,RWD,BLUE HERRA,Cream,2,2,Gas,null,null,599900

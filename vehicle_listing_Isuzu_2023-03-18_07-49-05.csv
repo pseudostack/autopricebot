@@ -1,0 +1,7 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Isuzu,NRR,150080 km,null,null,null,null,White,null,null,null,Diesel,null,null,79800
+2019,Isuzu,NRR,38887 km,null,null,null,null,White,null,null,null,Diesel,null,null,83800
+2017,Isuzu,NRR,89881 km,null,null,null,null,White,null,null,null,Diesel,null,null,83800
+2018,Isuzu,NPRHD,157396 km,null,null,Automatic,null,White,Grey,3,null,null,null,null,72999
+2018,Isuzu,NRR,203525 km,Truck,4 Cylinder Engine,Automatic,RWD,White,Grey,2,null,Diesel,null,null,72999
+2016,Isuzu,NPU,156925 km,Truck,4 Cylinder Engine,6 Speed Automatic,RWD,White,null,null,null,Diesel,null,null,69000

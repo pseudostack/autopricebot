@@ -1,0 +1,552 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2020,Infiniti,Q50,55952 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Charcoal,null,null,Gas,12.5L/100km,8.7L/100km,33599
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,Glacier White,Grey,null,5,Gas,11.9L/100km,9.3L/100km,69718
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,2-Tone Warm Titanium/Black Obsidian,Grey,null,5,Gas,11.9L/100km,9.3L/100km,73918
+2017,Infiniti,QX70,81172 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,14.5L/100km,10.8L/100km,32790
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Champagne Quartz Metallic,Grey,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2019,Infiniti,QX80,84000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,48000
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,null,Gas,12.5L/100km,9.2L/100km,71090
+2013,Infiniti,JX35,164235 km,SUV,3.5,CVT,AWD,Aspen Pearl,Black,7,4,Gas,11.5L/100km,8.5L/100km,13888
+2016,Infiniti,Q70,228210 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Black,5,4,Gas,13.2L/100km,9.7L/100km,17888
+2016,Infiniti,Q50,162000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.3L/100km,8.5L/100km,17950
+2013,Infiniti,JX35,107000 km,SUV,6 Cylinder,Automatic,AWD,Platinum Ice,Black,7,4,Gas,11.5L/100km,8.5L/100km,17999
+2019,Infiniti,QX80,82800 km,SUV,8 Cylinder Engine 5.6L,Automatic,4x4,Black,Grey,null,4,Gas,17.4L/100km,12.2L/100km,46904
+2016,Infiniti,Q50,148000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gasoline Hybrid,8.4L/100km,6.9L/100km,22950
+2015,Infiniti,QX70,149000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aspen Pearl,Black,5,4,Gas,14.6L/100km,10.7L/100km,23777
+2017,Infiniti,Q50,57366 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.6L/100km,8.8L/100km,24971
+2015,Infiniti,QX70,136615 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aspen Pearl,Charcoal,null,null,Gas,14.6L/100km,10.7L/100km,24979
+2017,Infiniti,QX50,81988 km,SUV,3.7L V6 DOHC 24V,7 Speed Automatic,AWD,Black,null,null,2,Gas,13.7L/100km,9.8L/100km,24999
+2017,Infiniti,QX30,63718 km,SUV,4 Cylinder Engine,Automatic,AWD,Asgard Grey Metallic,Black,5,4,Gas,10.6L/100km,8.0L/100km,25190
+2018,Infiniti,Q50,115000 km,Sedan,6 Cylinder,Automatic,AWD,Mocha Almond Metallic,Black,5,4,Gas,12.4L/100km,8.7L/100km,25995
+2017,Infiniti,QX60,119000 km,SUV,3.5L V6 Cylinder Engine,Automatic,AWD,Platinum Ice Metallic,Black,7,4,Gas,12.5L/100km,9.1L/100km,26450
+2017,Infiniti,Q50,88546 km,Sedan,3.0,Automatic,AWD,Platinum Ice Metallic,Black,5,4,Gas,12.3L/100km,8.5L/100km,26888
+2022,Infiniti,QX55,28650 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,56999
+2015,Infiniti,QX70,136115 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,14.7L/100km,10.7L/100km,26888
+2017,Infiniti,QX50,52524 km,SUV,3.7L V6 DOHC 24V,7 Speed Automatic,AWD,Majestic White Pearl,Black,null,2,Gas,13.7L/100km,9.8L/100km,26999
+2018,Infiniti,Q50,98000 km,Sedan,6 Cylinder,Automatic,AWD,Asgard Grey Metallic,Black,5,4,Gas,12.4L/100km,8.7L/100km,27995
+2019,Infiniti,QX60,100552 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Graphite Shadow Metallic,Black,null,4,Gas,12.5L/100km,9.0L/100km,29504
+2018,Infiniti,Q50,100000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Asgard Grey Metallic,Tan,5,4,Gas,12.4L/100km,8.7L/100km,29950
+2019,Infiniti,QX60,75461 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,null,Grey,null,4,Gas,12.5L/100km,9.0L/100km,30204
+2019,Infiniti,QX50,109000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Brown,5,4,Gas,10.0L/100km,7.8L/100km,30850
+2019,Infiniti,QX50,103000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,10.0L/100km,7.8L/100km,30850
+2018,Infiniti,QX60,97843 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Black,7,4,Gas,12.4L/100km,9.0L/100km,30888
+2022,Infiniti,QX60,11012 km,SUV,V6 Cylinder Engine,Automatic,AWD,Glacier White,null,null,null,Gas,11.9L/100km,9.5L/100km,55988
+2015,Infiniti,QX80,133543 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,Hermosa Blue Pearl,Black,null,2,Premium Unleaded,16.9L/100km,11.9L/100km,32000
+2019,Infiniti,QX50,58517 km,SUV,4 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,Charcoal,null,null,Gas,10.0L/100km,7.8L/100km,32137
+2019,Infiniti,QX50,34473 km,SUV,4 Cylinder Engine,CVT,AWD,Graphite Shadow Metallic,null,5,4,Gas,10.0L/100km,7.8L/100km,32785
+2019,Infiniti,QX50,46102 km,SUV,4 Cylinder Engine,Automatic,AWD,Chestnut Bronze Metallic,Black,5,4,Gas,10.0L/100km,7.8L/100km,32990
+2019,Infiniti,QX60,73908 km,SUV,V6 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,32990
+2019,Infiniti,QX60,72372 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.0L/100km,32990
+2018,Infiniti,QX60,58573 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Asgard Grey Metallic,null,null,2,Gas,12.5L/100km,9.0L/100km,32999
+2018,Infiniti,QX60,46297 km,SUV,3.5L V6 DOHC 24V,Automatic,AWD,Blue,Black,null,4,Gas,12.5L/100km,9.0L/100km,32999
+2020,Infiniti,Q50,55952 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Charcoal,null,null,Gas,12.5L/100km,8.7L/100km,33599
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2018,Infiniti,Q60,90612 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Charcoal,4,null,Gas,12.3L/100km,8.6L/100km,33795
+2018,Infiniti,Q60,69722 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Charcoal,null,null,Gas,12.3L/100km,8.6L/100km,33998
+2019,Infiniti,QX50,58427 km,SUV,4 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,5,4,Gas,10.0L/100km,7.8L/100km,35751
+2020,Infiniti,Q50,58850 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Iridium Blue Pearl,Charcoal,null,null,Gas,12.5L/100km,8.7L/100km,35979
+2019,Infiniti,QX50,94409 km,SUV,4 Cylinder Engine,Automatic,AWD,Majestic White Pearl,White,5,4,Gas,10.0L/100km,7.8L/100km,35989
+2020,Infiniti,QX60,47270 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Hermosa Blue Metallic,Grey,null,4,Gas,12.5L/100km,9.0L/100km,36995
+2019,Infiniti,QX60,51114 km,SUV,V6 Cylinder Engine,CVT,AWD,Hermosa Blue Metallic,null,null,null,Gas,12.5L/100km,9.0L/100km,36998
+2020,Infiniti,QX60,39461 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.0L/100km,37359
+2020,Infiniti,Q50,37847 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Iridium Blue Pearl,null,null,4,Gas,12.5L/100km,8.7L/100km,37499
+2021,Infiniti,QX80,47097 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.6L/100km,12.2L/100km,59999
+2019,Infiniti,QX60,51473 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black Obsidian,null,7,4,Gas,12.5L/100km,9.0L/100km,37789
+2020,Infiniti,QX60,38376 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,37789
+2017,Infiniti,Q50,6551 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Asgard Grey Metallic,Grey,null,4,Gas,12.3L/100km,9.2L/100km,37904
+2020,Infiniti,QX60,40482 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,4,Gas,12.5L/100km,9.0L/100km,37979
+2020,Infiniti,QX50,31625 km,Wagon,4 Cylinder Engine 2.0L,Automatic,AWD,White,Black,null,4,Gas,10.8L/100km,8.3L/100km,37995
+2020,Infiniti,QX60,51195 km,SUV,V6 Cylinder Engine,CVT,AWD,Liquid Platinum Metallic,Black,null,null,Gas,12.5L/100km,9.0L/100km,37995
+2020,Infiniti,QX50,35073 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Metallic,Charcoal,5,4,Gas,10.8L/100km,8.3L/100km,38179
+2020,Infiniti,QX50,34445 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,38189
+2020,Infiniti,QX50,32297 km,Wagon,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Metallic,null,null,null,Gas,10.8L/100km,8.3L/100km,38990
+2017,Infiniti,QX80,125741 km,SUV,5.6L V8 with VVEL and DIG,Automatic,AWD,Gray,Black,null,4,Gas,17.4L/100km,12.2L/100km,38887
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2019,Infiniti,Q60,37162 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Graphite Shadow Pearl,null,null,null,Gas,12.3L/100km,8.7L/100km,39896
+2020,Infiniti,QX60,28312 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Graphite Shadow Metallic,null,null,2,Gas,12.5L/100km,9.0L/100km,39999
+2020,Infiniti,QX60,49598 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black Obsidian,null,null,null,Gas,12.5L/100km,9.0L/100km,40453
+2019,Infiniti,Q60,30215 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Iridium Blue Pearl,null,null,null,Gas,12.3L/100km,8.7L/100km,40990
+2021,Infiniti,QX50,18251 km,SUV,4 Cylinder Engine,Automatic,AWD,Black Obsidian,Charcoal,null,null,Gas,10.8L/100km,8.3L/100km,41115
+2020,Infiniti,QX60,42510 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,41999
+2020,Infiniti,QX60,24722 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Charcoal,null,4,Gas,12.5L/100km,9.0L/100km,42989
+2018,Infiniti,QX80,89814 km,SUV,5.6,7 Speed Automatic,AWD,Gray,Black,null,4,Gas,17.4L/100km,12.2L/100km,43950
+2014,Infiniti,Q50,115467 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Hagane Blue Metallic,null,null,null,Gasoline Hybrid,8.4L/100km,6.7L/100km,21649
+2021,Infiniti,QX50,24350 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.8L/100km,8.3L/100km,44345
+2021,Infiniti,QX50,12295 km,SUV,4 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Triple Clearcoat Metallic,null,null,null,Gas,10.8L/100km,8.3L/100km,44989
+2019,Infiniti,Q60,47101 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Iridium Blue Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,46406
+2019,Infiniti,QX80,82800 km,SUV,8 Cylinder Engine 5.6L,Automatic,4x4,Black,Grey,null,4,Gas,17.4L/100km,12.2L/100km,46904
+2021,Infiniti,QX50,32901 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.8L/100km,8.3L/100km,46990
+2021,Infiniti,QX50,17598 km,SUV,4 Cylinder Engine,Automatic,AWD,Liquid Platinum Metallic,null,null,null,Gas,10.8L/100km,8.3L/100km,49990
+2019,Infiniti,QX80,68614 km,SUV,8 Cylinder Engine,Automatic,AWD,Moonstone White Pearl,Beige,7,4,Gas,17.4L/100km,12.2L/100km,50910
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2022,Infiniti,Q50,11486 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Pure White,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,51498
+2019,Infiniti,Q50,99653 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black Obsidian,Grey,5,4,Gas,12.4L/100km,8.7L/100km,27900
+2021,Infiniti,Q50,19445 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,null,Gas,12.5L/100km,9.3L/100km,54695
+2022,Infiniti,Q60,12400 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Midnight Black Pearl,Red,4,2,Gas,12.5L/100km,9.2L/100km,57995
+2021,Infiniti,QX80,21888 km,SUV,: 5.6L V8 w/VVEL DIG,7 Speed Automatic,4WD,Moonstone White Pearl,Black,7,4,Gas,17.6L/100km,12.2L/100km,68479
+2014,Infiniti,QX60,150000 km,SUV,6 Cylinder,Automatic,AWD,Black Obsidian,Black,7,4,Gas,12.4L/100km,9.4L/100km,16995
+2015,Infiniti,Q50,135000 km,Sedan,3.7,Automatic,AWD,White,Black,null,4,Gas,12.5L/100km,8.7L/100km,17899
+2013,Infiniti,JX35,124386 km,SUV,V6 Cylinder Engine,CVT,AWD,Maroon,Black,7,4,Gas,11.5L/100km,8.5L/100km,18500
+2015,Infiniti,QX60,170000 km,SUV,6 Cylinder,Automatic,AWD,Platinum Ice Metallic,Black,7,4,Gas,12.2L/100km,8.9L/100km,18995
+2015,Infiniti,QX60,163639 km,SUV,V6 Cylinder Engine,Automatic,AWD,Asgard Grey Metallic,Black,7,null,Gas,12.2L/100km,8.9L/100km,19450
+2015,Infiniti,QX50,72370 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aspen Pearl,null,5,4,Gas,13.8L/100km,9.8L/100km,21785
+2017,Infiniti,QX60,58176 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.1L/100km,27888
+2017,Infiniti,QX60,137000 km,SUV,V6 Cylinder Engine,CVT,AWD,Platinum Ice Metallic,Black,7,4,Gas,12.5L/100km,9.1L/100km,26450
+2017,Infiniti,Q50,96000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.6L/100km,8.8L/100km,27950
+2019,Infiniti,Q50,47943 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Black,5,4,Gas,12.4L/100km,8.7L/100km,27971
+2018,Infiniti,QX60,121000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Asgard Grey Metallic,Black,null,4,Gas,12.5L/100km,9.0L/100km,29450
+2016,Infiniti,QX80,165000 km,SUV,8 Cylinder,Automatic,4x4,Gray,Black,7,4,Gas,17.4L/100km,12.2L/100km,30995
+2019,Infiniti,Q50,42252 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Charcoal,null,null,Gas,12.4L/100km,8.7L/100km,31999
+2018,Infiniti,Q50,36808 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Asgard Grey Metallic,Grey,null,4,Gas,12.4L/100km,8.7L/100km,32000
+2019,Infiniti,Q50,95913 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,12.4L/100km,8.7L/100km,32888
+2019,Infiniti,QX60,101928 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Hermosa Blue Metallic,null,null,4,Gas,12.5L/100km,9.0L/100km,32904
+2017,Infiniti,QX80,72448 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Hermosa Blue Pearl,Beige,null,null,Gas,17.4L/100km,12.2L/100km,39995
+2019,Infiniti,QX50,73591 km,SUV,4 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Metallic,Charcoal,null,null,Gas,10.0L/100km,7.8L/100km,32989
+2019,Infiniti,QX50,99717 km,Wagon,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.0L/100km,7.8L/100km,32999
+2018,Infiniti,Q50,63838 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Charcoal,null,null,Gas,12.5L/100km,9.3L/100km,33888
+2018,Infiniti,Q50,41009 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,null,null,Gas,12.4L/100km,8.7L/100km,35888
+2020,Infiniti,QX50,55119 km,SUV,4 Cylinder Engine,CVT,AWD,Graphite Shadow Metallic,Charcoal,null,null,Gas,10.8L/100km,8.3L/100km,37599
+2017,Infiniti,Q60,99799 km,Coupe,V-6 cyl,7 Speed Automatic,AWD,Midnight Black Pearl,Black,null,null,Premium Unleaded,12.5L/100km,9.2L/100km,37707
+2019,Infiniti,QX60,46829 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Majestic White Pearl,Black,null,2,Gas,12.5L/100km,9.0L/100km,38999
+2020,Infiniti,QX60,35936 km,SUV,V6 Cylinder Engine 3.5L,CVT,AWD,Hermosa Blue Metallic,null,null,4,Gas,12.5L/100km,9.0L/100km,39499
+2019,Infiniti,QX50,27980 km,SUV,4 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gas,10.0L/100km,7.8L/100km,39888
+2017,Infiniti,QX50,97328 km,SUV,3.7L V6 SMPI DOHC,Automatic,AWD,Majestic White Pearl,Grey,5,4,Gas,13.7L/100km,9.8L/100km,22500
+2020,Infiniti,QX60,39254 km,SUV,V-6 cyl,CVT,AWD,Majestic White Pearl,null,null,null,Premium Unleaded,12.5L/100km,9.0L/100km,39998
+2021,Infiniti,QX50,18704 km,SUV,I-4 cyl,Automatic,AWD,Black Obsidian,Charcoal,null,null,Premium Unleaded,10.8L/100km,8.3L/100km,44056
+2021,Infiniti,QX50,21737 km,SUV,4 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Charcoal,null,null,Gas,10.8L/100km,8.3L/100km,44110
+2019,Infiniti,QX80,98700 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,Charcoal,null,null,Gas,17.4L/100km,12.2L/100km,49077
+2019,Infiniti,QX80,34801 km,SUV,8 Cylinder Engine,Automatic,4WD,Graphite Shadow Metallic,null,null,null,Gas,17.4L/100km,12.2L/100km,52379
+2020,Infiniti,QX80,42402 km,SUV,8 Cylinder Engine,Automatic,4WD,Hermosa Blue Pearl,null,null,null,Gas,17.8L/100km,12.3L/100km,59989
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2019,Infiniti,QX50,99717 km,Wagon,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.0L/100km,7.8L/100km,32999
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,2-Tone Warm Titanium/Black Obsidian,Grey,null,5,Gas,11.9L/100km,9.3L/100km,73918
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Anthracite Gray Metallic,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Graphite Shadow Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,65118
+2023,Infiniti,Q50,25 km,Sedan,3L TURBO 6cyl.,Automatic,AWD,Black Opal Metallic,null,null,4,Gas,12.5L/100km,9.3L/100km,68518
+2019,Infiniti,QX80,84000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,48000
+2019,Infiniti,QX60,62189 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,null,7,4,Gas,null,null,29910
+2018,Infiniti,Q70,46329 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Chestnut Bronze Metallic,Black,5,4,Gas,13.2L/100km,9.8L/100km,32898
+2019,Infiniti,QX80,58309 km,SUV,8 Cylinder Engine,7 Speed Automatic,4WD,Liquid Platinum Metallic,Charcoal,null,null,Gas,17.4L/100km,12.2L/100km,59998
+2015,Infiniti,Q50,129000 km,Sedan,3.7,7 Speed Automatic,AWD,Hagane Blue Metallic,Tan,5,4,Gas,12.5L/100km,8.7L/100km,19990
+2015,Infiniti,QX60,125000 km,SUV,V6 Cylinder Engine,CVT,AWD,Black Obsidian,Beige,7,4,Gas,12.2L/100km,8.9L/100km,21900
+2014,Infiniti,QX60,110556 km,SUV,2.5L,Automatic,AWD,Aspen Pearl,Black,7,4,Gasoline Hybrid,7.6L/100km,6.9L/100km,27888
+2021,Infiniti,QX80,47097 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.6L/100km,12.2L/100km,59999
+2017,Infiniti,Q50,106524 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black,null,null,4,Gas,12.6L/100km,8.8L/100km,28995
+2018,Infiniti,Q50,80000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,White,Black,null,4,Gas,12.4L/100km,8.7L/100km,30950
+2017,Infiniti,QX60,67459 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Black Obsidian,Black,null,2,Gas,12.5L/100km,9.1L/100km,32999
+2017,Infiniti,QX60,65340 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Platinum Ice Metallic,Black,null,4,Gas,12.5L/100km,9.1L/100km,32999
+2017,Infiniti,Q50,90156 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.3L/100km,9.2L/100km,34888
+2023,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,53322
+2023,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Grand Blue Pearl,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,54072
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Charcoal,4,2,Gas,12.3L/100km,8.7L/100km,55022
+2023,Infiniti,QX55,90 km,null,4 Cylinder Engine,null,null,Black Obsidian,Charcoal,null,null,Gas,null,null,58222
+2017,Infiniti,QX80,72448 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Hermosa Blue Pearl,Beige,null,null,Gas,17.4L/100km,12.2L/100km,39995
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Charcoal,5,4,Gas,10.4L/100km,8.3L/100km,58972
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,5,4,Gas,10.4L/100km,8.3L/100km,58972
+2023,Infiniti,QX50,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Radiant White,Grey,null,5,Gas,10.8L/100km,8.3L/100km,59918
+2023,Infiniti,QX50,90 km,SUV,4 Cylinder Engine,CVT,AWD,Slate Gray Pearl Metallic,null,5,4,Gas,10.8L/100km,8.3L/100km,60072
+2022,Infiniti,Q50,3975 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Graphite Shadow Metallic,null,5,4,Gas,12.5L/100km,9.3L/100km,63622
+2023,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Majestic White Pearl,null,5,4,Gas,12.5L/100km,9.3L/100km,64672
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Glacier White,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,64722
+2023,Infiniti,QX60,650 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Majestic White Tri Coat Pearl,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,65472
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Liquid Platinum Metallic,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,65472
+2017,Infiniti,QX60,58176 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.1L/100km,27888
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,CVT,AWD,Slate Grey Pearl Metallic,null,5,4,Gas,10.4L/100km,8.3L/100km,66472
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,CVT,AWD,Radiant White Pearl Tintcoat,Charcoal,5,4,Gas,10.4L/100km,8.3L/100km,66472
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,CVT,AWD,Mineral Black Pearl,null,5,4,Gas,10.4L/100km,8.3L/100km,66822
+2023,Infiniti,Q50,7220 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Grand Blue Pearl,Charcoal,5,4,Gas,12.5L/100km,9.3L/100km,67672
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,Glacier White,Grey,null,5,Gas,11.9L/100km,9.3L/100km,69718
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Glacier White,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,70322
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Glacier White,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,70322
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,Majestic White Tri Coat Pearl,Brown,null,5,Gas,11.9L/100km,9.3L/100km,70468
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Midnight Black Pearl,null,null,3,Gas,12.5L/100km,9.2L/100km,70768
+2022,Infiniti,QX55,28650 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,56999
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Grand Blue Pearl Metallic,null,7,4,Gas,11.9L/100km,9.3L/100km,71072
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Moonbow Blue Pearl Metallic,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,71072
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Graphite Shadow Metallic,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,71072
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Moonbow Blue Pearl Metallic,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,71072
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,3,Gas,12.5L/100km,9.2L/100km,71218
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Slate Grey Pearl Metallic,null,4,2,Gas,12.5L/100km,9.2L/100km,71372
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Majestic White Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,71372
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Graphite Shadow Metallic,null,4,2,Gas,12.5L/100km,9.2L/100km,71372
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Grand Blue Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,71372
+2019,Infiniti,QX80,82800 km,SUV,8 Cylinder Engine 5.6L,Automatic,4x4,Black,Grey,null,4,Gas,17.4L/100km,12.2L/100km,46904
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,4,2,Gas,12.5L/100km,9.2L/100km,71822
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Moonbow Blue Pearl Metallic,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,72852
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,3,Gas,12.5L/100km,9.2L/100km,73718
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Midnight Black Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,73867
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Slate Grey Pearl Metallic,null,4,2,Gas,12.5L/100km,9.2L/100km,73867
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Midnight Black Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,73867
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Grand Blue Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,73872
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Midnight Black Pearl,null,4,2,Gas,12.5L/100km,9.2L/100km,73872
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,2-Tone Warm Titanium/Black Obsidian,Grey,null,5,Gas,11.9L/100km,9.3L/100km,73918
+2019,Infiniti,QX80,46230 km,SUV,5.6L V8 32V GDI DOHC,Automatic,4WD,Graphite Shadow Metallic,Charcoal,null,4,Gas,17.4L/100km,12.2L/100km,54995
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,2-Tone Moonbow Blue/Black Obsidian,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,74522
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,2-Tone Majestic White/Black Obsidian,Charcoal,7,4,Gas,11.9L/100km,9.3L/100km,74522
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Moonstone White Pearl,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Anthracite Gray Metallic,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,7 Speed Automatic,4WD,Mineral Black Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,97172
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Mineral Black Pearl,null,8,4,Gas,17.5L/100km,12.2L/100km,97172
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Moonstone White Pearl,null,8,4,Gas,18.1L/100km,12.4L/100km,97172
+2023,Infiniti,QX80,90 km,null,8 Cylinder Engine,null,null,Moonstone White Pearl,null,null,null,Gas,null,null,97172
+2023,Infiniti,QX80,90 km,null,8 Cylinder Engine,null,null,Moonstone White Pearl,null,null,null,Gas,null,null,97172
+2022,Infiniti,QX60,11012 km,SUV,V6 Cylinder Engine,Automatic,AWD,Glacier White,null,null,null,Gas,11.9L/100km,9.5L/100km,55988
+2023,Infiniti,QX80,90 km,null,8 Cylinder Engine,null,null,Anthracite Gray Metallic,Charcoal,null,null,Gas,null,null,97172
+2023,Infiniti,QX80,90 km,null,8 Cylinder Engine,null,null,Anthracite Gray Metallic,null,null,null,Gas,null,null,97172
+2009,Infiniti,G37,168411 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Gray,Stone,null,4,Gas,11.8L - 12.6L/100km,7.8L - 8.7L/100km,8800
+2012,Infiniti,G37X,190704 km,Sedan,V6 Cylinder Engine 3.7L,Automatic,AWD,Grey,Black,null,4,Gas,11.7L/100km,7.8L/100km,10999
+2015,Infiniti,Q50,175000 km,Sedan,6 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,12.5L/100km,8.7L/100km,18885
+2011,Infiniti,FX35,135932 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Moonlight White,Black,5,4,Gas,13.3L/100km,9.3L/100km,18988
+2015,Infiniti,Q50,122000 km,Sedan,6 Cylinder,Automatic,AWD,Aspen Pearl,Beige,5,4,Gas,12.5L/100km,8.7L/100km,19999
+2012,Infiniti,QX56,147000 km,SUV,8 Cylinder,Automatic,4x4,Moonlight White,Black,8,4,Gas,15.7L/100km,10.3L/100km,23995
+2017,Infiniti,QX70,81172 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,14.5L/100km,10.8L/100km,32790
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2020,Infiniti,QX60,68095 km,SUV,V6 Cylinder Engine,Automatic,AWD,Hermosa Blue Metallic,Charcoal,5,null,Gas,12.5L/100km,9.0L/100km,36573
+2020,Infiniti,QX60,78220 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.0L/100km,38779
+2019,Infiniti,Q50,35516 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black Obsidian,null,null,null,Gas,12.5L/100km,9.3L/100km,39990
+2021,Infiniti,Q50,15800 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Midnight Black Pearl,null,null,null,Gas,12.4L/100km,8.7L/100km,41990
+2020,Infiniti,Q60,48319 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,null,4,2,Gas,12.3L/100km,8.7L/100km,42878
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Black Obsidian,Grey,null,4,Gas,10.4L/100km,8.3L/100km,58368
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Grey,Grey,null,4,Gas,10.4L/100km,8.3L/100km,58368
+2023,Infiniti,Q50,25 km,Sedan,3L TURBO 6cyl.,Automatic,AWD,White,Grey,null,4,Gas,12.4L/100km,8.7L/100km,60368
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Grey,Grey,null,4,Gas,null,null,62368
+2019,Infiniti,Q50,99653 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black Obsidian,Grey,5,4,Gas,12.4L/100km,8.7L/100km,27900
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,White,Grey,null,5,Gas,11.9L/100km,9.3L/100km,64868
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Graphite Shadow Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,65118
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Slate Grey Pearl Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,65868
+2023,Infiniti,Q50,25 km,Sedan,3L TURBO 6cyl.,Automatic,AWD,Black Opal Metallic,null,null,4,Gas,12.5L/100km,9.3L/100km,68518
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,Mineral Black Pearl,Brown,null,5,Gas,11.9L/100km,9.3L/100km,72718
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Majestic White Pearl,Black,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Graphite Shadow Metallic,Black,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Midnight Black Pearl,null,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Champagne Quartz Metallic,Grey,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2017,Infiniti,QX50,97328 km,SUV,3.7L V6 SMPI DOHC,Automatic,AWD,Majestic White Pearl,Grey,5,4,Gas,13.7L/100km,9.8L/100km,22500
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Mineral Black Pearl,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Hermosa Blue Pearl,Grey,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Anthracite Gray Metallic,Grey,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2004,Infiniti,G35,159000 km,Coupe,3.5,Automatic,RWD,Silver,Black,4,2,Gas,11.9L - 12.8L/100km,8.1L - 8.4L/100km,7998
+2017,Infiniti,QX60,106500 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,24700
+2018,Infiniti,QX60,127300 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,25500
+2019,Infiniti,Q50,63544 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Iridium Blue Pearl,Black,5,4,Gas,12.4L/100km,8.7L/100km,26471
+2020,Infiniti,QX50,86750 km,SUV,4 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,Charcoal,5,4,Gas,10.8L/100km,8.3L/100km,33979
+2019,Infiniti,QX80,84000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,48000
+2017,Infiniti,QX80,125741 km,SUV,5.6L V8 with VVEL and DIG,Automatic,AWD,Gray,Black,null,4,Gas,17.4L/100km,12.2L/100km,38887
+2023,Infiniti,QX50,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Hermosa Blue Pearl,Grey,null,5,Gas,10.8L/100km,8.3L/100km,61468
+2023,Infiniti,QX60,1442 km,SUV,V6 Cylinder Engine,Automatic,AWD,Silver,null,null,null,Gas,11.9L/100km,9.3L/100km,65990
+2011,Infiniti,G37X,169942 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Grey,Black,5,null,Gas,11.7L/100km,7.8L/100km,10994
+2019,Infiniti,Q50,39000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black Obsidian,Black,null,4,Gas,12.4L/100km,8.7L/100km,33950
+2020,Infiniti,QX50,60000 km,SUV,I-4 cyl,CVT,AWD,Black Obsidian,Charcoal,null,null,Premium Unleaded,10.8L/100km,8.3L/100km,36997
+2016,Infiniti,Q50,155270 km,Sedan,3.0,Automatic,AWD,Blue,Black,5,4,Gas,10.6L/100km,8.4L/100km,18888
+2019,Infiniti,QX60,73908 km,SUV,V6 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,32990
+2019,Infiniti,QX60,72372 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.0L/100km,32990
+2020,Infiniti,Q50,55952 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Charcoal,null,null,Gas,12.5L/100km,8.7L/100km,33599
+2018,Infiniti,Q50,41009 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,null,null,Gas,12.4L/100km,8.7L/100km,35888
+2017,Infiniti,Q60,99799 km,Coupe,V-6 cyl,7 Speed Automatic,AWD,Midnight Black Pearl,Black,null,null,Premium Unleaded,12.5L/100km,9.2L/100km,37707
+2023,Infiniti,QX50,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Radiant White,Grey,null,5,Gas,10.8L/100km,8.3L/100km,59918
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,3,Gas,12.5L/100km,9.2L/100km,71218
+2017,Infiniti,QX70,81172 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,14.5L/100km,10.8L/100km,32790
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,null,Gas,12.5L/100km,9.2L/100km,71090
+2015,Infiniti,QX60,137000 km,SUV,3.5,Automatic,AWD,Black Obsidian,Black,7,null,Gas,12.2L/100km,8.9L/100km,18995
+2016,Infiniti,QX50,82298 km,SUV,3.7,7 Speed Automatic,AWD,Aspen Pearl,null,null,4,Gas,13.7L/100km,9.7L/100km,18995
+2015,Infiniti,QX60,119000 km,SUV,6 Cylinder,Automatic,AWD,Black Obsidian,Black,7,4,Gas,12.2L/100km,8.9L/100km,19878
+2017,Infiniti,QX30,120628 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,10.6L/100km,8.0L/100km,19885
+2021,Infiniti,QX80,47097 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.6L/100km,12.2L/100km,59999
+2017,Infiniti,QX50,99000 km,Wagon,3.7,Automatic,AWD,Majestic White Pearl,Beige,5,null,Gas,13.7L/100km,9.8L/100km,20995
+2017,Infiniti,QX50,80000 km,SUV,3.7,7 Speed Automatic,AWD,Burgundy,Black,null,4,Gas,13.7L/100km,9.8L/100km,20995
+2017,Infiniti,QX50,97628 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Platinum Ice Metallic,null,5,4,Gas,13.7L/100km,9.8L/100km,21490
+2017,Infiniti,QX30,101000 km,Wagon,2,Automatic,AWD,Black,Beige,5,null,Gas,10.6L/100km,8.0L/100km,21995
+2017,Infiniti,QX60,155889 km,SUV,6 Cylinder,Automatic,AWD,Majestic White Pearl,Black,7,4,Gas,12.5L/100km,9.1L/100km,22000
+2014,Infiniti,Q60,114000 km,Convertible,V6 Cylinder Engine,7 Speed Automatic,RWD,Aspen Pearl,Cream,4,2,Gas,null,null,24888
+2017,Infiniti,QX60,124238 km,SUV,3.5,Automatic,AWD,Asgard Grey Metallic,Black,null,4,Gas,12.5L/100km,9.1L/100km,24900
+2018,Infiniti,QX60,121449 km,SUV,3.5,Automatic,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,25998
+2017,Infiniti,Q50,70689 km,Sedan,3.0,Automatic,AWD,White,Black,null,4,Gas,12.6L/100km,8.8L/100km,26995
+2017,Infiniti,QX80,72448 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Hermosa Blue Pearl,Beige,null,null,Gas,17.4L/100km,12.2L/100km,39995
+2019,Infiniti,QX50,83372 km,SUV,2.0,CVT,AWD,White,Charcoal,null,4,Gas,10.0L/100km,7.8L/100km,26995
+2018,Infiniti,Q50,69417 km,Sedan,3.0L 6cyl,7 Speed Automatic,AWD,null,null,null,null,Gas,12.4L/100km,8.7L/100km,27888
+2017,Infiniti,QX60,82864 km,SUV,3.5L 6cyl,CVT,AWD,Blue,Black,7,5,Premium Unleaded,12.5L/100km,9.1L/100km,27991
+2017,Infiniti,QX60,82173 km,SUV,V6 Cylinder Engine,CVT,AWD,Asgard Grey Metallic,Black,7,4,Gas,12.5L/100km,9.1L/100km,27995
+2019,Infiniti,Q50,77641 km,Sedan,3.0,Automatic,AWD,Liquid Platinum Metallic,Charcoal,null,4,Gas,12.4L/100km,8.7L/100km,28995
+2019,Infiniti,QX50,86065 km,Wagon,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,10.0L/100km,7.8L/100km,29488
+2019,Infiniti,Q50,48709 km,Sedan,3.0L 6cyl,7 Speed Automatic,AWD,null,null,5,4,Gas,12.4L/100km,8.7L/100km,29888
+2018,Infiniti,QX60,70199 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,29888
+2019,Infiniti,Q50,58970 km,Sedan,3.0L 6cyl,7 Speed Automatic,AWD,null,null,null,null,Gas,12.4L/100km,8.7L/100km,29888
+2019,Infiniti,QX80,82800 km,SUV,8 Cylinder Engine 5.6L,Automatic,4x4,Black,Grey,null,4,Gas,17.4L/100km,12.2L/100km,46904
+2019,Infiniti,QX60,92570 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,29888
+2018,Infiniti,QX60,67000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Platinum Ice Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,29888
+2019,Infiniti,QX60,62189 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,null,7,4,Gas,null,null,29910
+2018,Infiniti,QX60,88600 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,29910
+2019,Infiniti,QX60,52790 km,SUV,3.5,CVT,AWD,Hermosa Blue Metallic,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,29995
+2019,Infiniti,QX50,76857 km,Wagon,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,10.0L/100km,7.8L/100km,30388
+2019,Infiniti,QX50,84689 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,10.0L/100km,7.8L/100km,30888
+2019,Infiniti,Q50,69494 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Iridium Blue Pearl,Black,5,4,Gas,12.4L/100km,8.7L/100km,30898
+2018,Infiniti,Q50,59000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Asgard Grey Metallic,Beige,5,4,Gas,12.4L/100km,8.7L/100km,30995
+2019,Infiniti,QX80,46230 km,SUV,5.6L V8 32V GDI DOHC,Automatic,4WD,Graphite Shadow Metallic,Charcoal,null,4,Gas,17.4L/100km,12.2L/100km,54995
+2019,Infiniti,QX50,65000 km,SUV,2.0,Automatic,AWD,Black,Charcoal,5,4,Gas,10.0L/100km,7.8L/100km,31220
+2019,Infiniti,QX50,60585 km,Wagon,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,10.0L/100km,7.8L/100km,31388
+2018,Infiniti,QX60,56771 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,31888
+2018,Infiniti,QX60,50997 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,31888
+2019,Infiniti,Q50,65458 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Graphite Shadow Metallic,Charcoal,5,4,Gas,12.4L/100km,8.7L/100km,31910
+2019,Infiniti,QX60,75020 km,SUV,3.5L 6cyl,CVT,AWD,Black,Black,null,4,Premium Unleaded,12.5L/100km,9.0L/100km,31990
+2019,Infiniti,QX60,69845 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,32588
+2019,Infiniti,QX60,63742 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,null,null,32588
+2019,Infiniti,QX50,90369 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey,Black,5,4,Gas,10.0L/100km,7.8L/100km,32888
+2022,Infiniti,QX60,11012 km,SUV,V6 Cylinder Engine,Automatic,AWD,Glacier White,null,null,null,Gas,11.9L/100km,9.5L/100km,55988
+2019,Infiniti,QX50,49591 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,10.0L/100km,7.8L/100km,32898
+2018,Infiniti,Q70,46329 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Chestnut Bronze Metallic,Black,5,4,Gas,13.2L/100km,9.8L/100km,32898
+2019,Infiniti,QX50,59133 km,Wagon,2.0L 4cyl,CVT,AWD,Chestnut Bronze Metallic,Black,5,5,Premium Unleaded,10.0L/100km,7.8L/100km,32990
+2018,Infiniti,QX60,49564 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Black,7,4,Gas,12.5L/100km,9.0L/100km,32990
+2019,Infiniti,QX60,54000 km,SUV,V6 Cylinder Engine,CVT,AWD,Black Obsidian,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,33460
+2019,Infiniti,QX50,46695 km,SUV,2.0L 4cyl,CVT,AWD,Black,null,null,null,Gas,10.0L/100km,7.8L/100km,33888
+2019,Infiniti,Q50,51130 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Charcoal,5,4,Gas,12.4L/100km,8.7L/100km,33888
+2018,Infiniti,QX60,43168 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black Obsidian,Black,7,4,Gas,12.5L/100km,9.0L/100km,34250
+2019,Infiniti,QX60,56978 km,SUV,3.5L V6 DOHC 24V,Automatic,AWD,Hermosa Blue Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,34871
+2022,Infiniti,QX55,28650 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,56999
+2019,Infiniti,QX60,37982 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,35488
+2018,Infiniti,Q60,62504 km,Coupe,3.0L 6cyl,7 Speed Automatic,AWD,null,null,null,null,Gas,12.3L/100km,8.6L/100km,36888
+2020,Infiniti,QX60,57123 km,SUV,V6 Cylinder Engine,CVT,AWD,Graphite Shadow Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,36888
+2020,Infiniti,QX60,37000 km,SUV,V6 Cylinder Engine,CVT,AWD,Graphite Shadow Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,36995
+2020,Infiniti,QX60,36882 km,SUV,V6 Cylinder Engine,CVT,AWD,Graphite Shadow Metallic,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,37500
+2019,Infiniti,Q50,1900 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Majestic White Pearl,Charcoal,5,4,Gas,12.4L/100km,8.7L/100km,37910
+2020,Infiniti,QX50,36524 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,10.8L/100km,8.3L/100km,37987
+2020,Infiniti,QX60,33303 km,SUV,V6 Cylinder Engine,CVT,AWD,Hermosa Blue Metallic,null,7,4,Gas,12.5L/100km,9.0L/100km,38470
+2020,Infiniti,QX60,26025 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Beige,7,4,Gas,12.5L/100km,9.0L/100km,38995
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2020,Infiniti,QX50,28543 km,Wagon,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,10.8L/100km,8.3L/100km,39888
+2020,Infiniti,QX60,30611 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,39888
+2020,Infiniti,QX60,63414 km,SUV,V6 Cylinder Engine,CVT,AWD,null,null,7,4,Gas,12.5L/100km,9.0L/100km,39888
+2020,Infiniti,QX60,55562 km,SUV,V6 Cylinder Engine,CVT,AWD,Liquid Platinum Metallic,Black,7,4,Gas,12.5L/100km,9.0L/100km,39888
+2021,Infiniti,Q50,4900 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Pure White,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,40709
+2020,Infiniti,Q50,5912 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,white,Black,5,4,Gas,12.5L/100km,8.7L/100km,40995
+2019,Infiniti,Q60,84938 km,Coupe,3.0L 6cyl,7 Speed Automatic,AWD,null,null,4,2,Gas,12.5L/100km,9.2L/100km,41788
+2019,Infiniti,QX80,108866 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,null,null,7,4,Gas,17.4L/100km,12.2L/100km,46188
+2021,Infiniti,QX50,12250 km,SUV,4 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,5,4,Gas,10.8L/100km,8.3L/100km,50988
+2014,Infiniti,Q50,115467 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Hagane Blue Metallic,null,null,null,Gasoline Hybrid,8.4L/100km,6.7L/100km,21649
+2019,Infiniti,QX80,41158 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,null,null,7,4,Gas,17.4L/100km,12.2L/100km,55888
+2019,Infiniti,QX80,55314 km,SUV,5.6L V8 DOHC 32V,Automatic,4x4,Gold,Brown,null,4,Gas,17.4L/100km,12.2L/100km,59499
+2014,Infiniti,QX60,174389 km,SUV,3.5L,Automatic,AWD,White,Black,7,4,Regular Unleaded,10.9L/100km,7.8L/100km,14995
+2015,Infiniti,QX50,114500 km,SUV,3.7,Automatic,AWD,Not Specified,null,null,4,Gas,13.7L/100km,9.7L/100km,18888
+2015,Infiniti,QX50,113095 km,Wagon,3.7L 6cyl,7 Speed Automatic,AWD,Aspen Pearl,Black,null,4,Premium Unleaded,13.8L/100km,9.8L/100km,18990
+2015,Infiniti,Q50,110219 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.5L/100km,8.7L/100km,20988
+2017,Infiniti,QX30,110049 km,SUV,2.0,Automatic,AWD,Majestic White Pearl,Black,null,4,Gas,10.6L/100km,8.0L/100km,21998
+2018,Infiniti,Q50,70885 km,Sedan,V6 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,12.4L/100km,8.7L/100km,28299
+2018,Infiniti,QX60,93487 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,28888
+2017,Infiniti,QX80,125741 km,SUV,5.6L V8 with VVEL and DIG,Automatic,AWD,Gray,Black,null,4,Gas,17.4L/100km,12.2L/100km,38887
+2019,Infiniti,QX50,87500 km,Wagon,4 Cylinder Engine,CVT,AWD,Hermosa Blue Metallic,Black,5,4,Gas,10.0L/100km,7.8L/100km,29900
+2017,Infiniti,QX60,81616 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Black,7,4,Gas,12.5L/100km,9.1L/100km,29987
+2018,Infiniti,Q50,74476 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Grey,5,4,Gas,12.4L/100km,8.7L/100km,30888
+2019,Infiniti,QX60,56419 km,SUV,V6 Cylinder Engine,CVT,AWD,Black Obsidian,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,35898
+2019,Infiniti,QX60,43802 km,SUV,V6 Cylinder Engine,CVT,AWD,Liquid Platinum Metallic,Charcoal,7,4,Gas,12.5L/100km,9.0L/100km,41398
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Slate Grey Pearl Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,59193
+2022,Infiniti,QX80,24854 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Mineral Black Pearl,Charcoal,8,4,Gas,17.5L/100km,12.2L/100km,74898
+2013,Infiniti,JX35,246820 km,SUV,3.5L 6cyl,CVT,AWD,Black Obsidian,Black,null,4,Premium Unleaded,11.5L/100km,8.5L/100km,11998
+2014,Infiniti,Q50,202000 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Chestnut Bronze Metallic,Beige,5,4,Gas,11.1L/100km,7.3L/100km,13900
+2019,Infiniti,Q50,99653 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black Obsidian,Grey,5,4,Gas,12.4L/100km,8.7L/100km,27900
+2014,Infiniti,QX50,167000 km,Wagon,3.7,Automatic,AWD,Asgard Grey Metallic,Black,5,null,Gas,12.1L/100km,8.1L/100km,13995
+2013,Infiniti,G37,150000 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,4,2,Gas,11.7L/100km,7.8L/100km,17950
+2014,Infiniti,Q50,132544 km,Sedan,6 Cylinder,Automatic,AWD,Asgard Grey Metallic,Black,4,4,Gas,12.4L/100km,8.7L/100km,19900
+2016,Infiniti,QX50,138000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aspen Pearl,Brown,5,4,Gas,13.7L/100km,9.7L/100km,22895
+2014,Infiniti,QX60,117896 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gasoline Hybrid,7.6L/100km,6.9L/100km,25888
+2017,Infiniti,Q50,67250 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Grey,5,4,Gas,12.6L/100km,8.8L/100km,32888
+2020,Infiniti,QX50,90 km,Wagon,4 Cylinder Engine,Automatic,AWD,Mocha Almond Metallic,null,null,null,Gas,10.8L/100km,8.3L/100km,54269
+2022,Infiniti,QX50,90 km,SUV,4 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,Charcoal,null,null,Gas,10.8L/100km,8.3L/100km,55795
+2022,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,Charcoal,null,null,Gas,null,null,56845
+2017,Infiniti,QX50,97328 km,SUV,3.7L V6 SMPI DOHC,Automatic,AWD,Majestic White Pearl,Grey,5,4,Gas,13.7L/100km,9.8L/100km,22500
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black Obsidian,null,null,null,Gas,10.4L/100km,8.3L/100km,57490
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,null,null,null,Gas,10.4L/100km,8.3L/100km,58240
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Gray,null,null,null,Gas,10.4L/100km,8.3L/100km,62240
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Gray,null,null,null,Gas,10.4L/100km,8.3L/100km,62240
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Hermosa Blue Pearl,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,62252
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Slate Grey Pearl Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,62368
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2019,Infiniti,QX50,99717 km,Wagon,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.0L/100km,7.8L/100km,32999
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,Majestic White Tri Coat Pearl,Brown,null,5,Gas,11.9L/100km,9.3L/100km,70468
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Moonstone White Pearl,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Graphite Shadow Metallic,Grey,null,4,Gas,10.4L/100km,8.3L/100km,65118
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Champagne Quartz Metallic,Grey,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2018,Infiniti,QX60,127300 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,25500
+2018,Infiniti,Q70,46329 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Chestnut Bronze Metallic,Black,5,4,Gas,13.2L/100km,9.8L/100km,32898
+2018,Infiniti,QX60,49564 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,Black,7,4,Gas,12.5L/100km,9.0L/100km,32990
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Dynamic Sunstone Red Metallic,null,null,null,Gas,10.4L/100km,8.3L/100km,62690
+2022,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Glacier White,Charcoal,null,null,Gas,11.9L/100km,9.5L/100km,62695
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black Obsidian,Stone,null,null,Gas,10.4L/100km,8.3L/100km,62982
+2023,Infiniti,QX50,90 km,SUV,4 Cylinder Engine,Automatic,AWD,Slate Gray Pearl Metallic,Charcoal,null,null,Gas,10.8L/100km,8.3L/100km,63352
+2022,Infiniti,QX60,11012 km,SUV,V6 Cylinder Engine,Automatic,AWD,Glacier White,null,null,null,Gas,11.9L/100km,9.5L/100km,55988
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,63732
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,Stone,null,null,Gas,10.4L/100km,8.3L/100km,63732
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,Stone,null,null,Gas,10.4L/100km,8.3L/100km,63732
+2022,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black Obsidian,Charcoal,null,null,Gas,null,null,63802
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Silver,null,null,null,Gas,11.9L/100km,9.3L/100km,64740
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black Obsidian,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,65502
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Gray,null,null,null,Gas,10.4L/100km,8.3L/100km,65740
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,10.4L/100km,8.3L/100km,66090
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Gray,null,null,null,Gas,10.4L/100km,8.3L/100km,66090
+2019,Infiniti,QX80,46230 km,SUV,5.6L V8 32V GDI DOHC,Automatic,4WD,Graphite Shadow Metallic,Charcoal,null,4,Gas,17.4L/100km,12.2L/100km,54995
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,10.4L/100km,8.3L/100km,66090
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,10.4L/100km,8.3L/100km,66090
+2021,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Slate Gray Pearl Metallic,null,null,null,Gas,12.5L/100km,9.3L/100km,66116
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Majestic White Pearl,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,66252
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Graphite Shadow Metallic,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,67732
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Slate Grey Pearl Metallic,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,67732
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grand Blue Pearl Metallic,Beige,null,null,Gas,11.9L/100km,9.3L/100km,69482
+2023,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Triple Clearcoat Metallic,null,null,null,Gas,12.5L/100km,9.3L/100km,69882
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grand Blue Pearl Metallic,Charcoal,null,null,Gas,11.9L/100km,9.3L/100km,70232
+2021,Infiniti,QX80,47097 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.6L/100km,12.2L/100km,59999
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Warm Titanium Metallic,Charcoal,null,null,Gas,11.9L/100km,9.3L/100km,70232
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,null,Gas,12.5L/100km,9.2L/100km,70640
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,null,Gas,12.5L/100km,9.2L/100km,70640
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Grand Blue Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,70795
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,null,Gas,12.5L/100km,9.2L/100km,71090
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Mineral Black Pearl,null,null,null,Gas,10.4L/100km,8.3L/100km,71232
+2023,Infiniti,QX55,90 km,SUV,4 Cylinder Engine,Automatic,4WD,Slate Grey Pearl Metallic,Charcoal,null,null,Gas,10.4L/100km,8.3L/100km,71232
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,73140
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Midnight Black Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,73140
+2019,Infiniti,QX80,82800 km,SUV,8 Cylinder Engine 5.6L,Automatic,4x4,Black,Grey,null,4,Gas,17.4L/100km,12.2L/100km,46904
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,null,Gas,12.5L/100km,9.2L/100km,73140
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Midnight Black Pearl,Charcoal,null,null,Gas,12.5L/100km,9.2L/100km,73295
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,null,Gas,12.5L/100km,9.2L/100km,73590
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,null,Gas,12.5L/100km,9.2L/100km,73590
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Grand Blue Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,73895
+2023,Infiniti,QX60,25 km,SUV,3.5L 6cyl.,Automatic,AWD,2-Tone Moonbow Blue/Black Obsidian,Grey,null,5,Gas,11.9L/100km,9.3L/100km,73918
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Slate Grey Pearl Metallic,null,null,null,Gas,12.5L/100km,9.2L/100km,74652
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,null,null,null,Gas,11.9L/100km,9.3L/100km,75832
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Majestic White Tri Coat Pearl,Charcoal,null,null,Gas,11.9L/100km,9.3L/100km,75832
+2017,Infiniti,QX80,72448 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Hermosa Blue Pearl,Beige,null,null,Gas,17.4L/100km,12.2L/100km,39995
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Slate Grey Pearl Metallic,null,null,null,Gas,12.5L/100km,9.2L/100km,76132
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Midnight Black Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,78632
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Slate Grey Pearl Metallic,null,null,null,Gas,12.5L/100km,9.2L/100km,78632
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Grand Blue Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,78632
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Graphite Shadow Metallic,null,null,null,Gas,12.5L/100km,9.2L/100km,78632
+2022,Infiniti,Q60,90 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Majestic White Pearl,null,null,null,Gas,12.5L/100km,9.2L/100km,78632
+2023,Infiniti,QX60,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,2-Tone Moonbow Blue/Black Obsidian,null,null,null,Gas,11.9L/100km,9.3L/100km,79282
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Liquid Platinum Metallic,Charcoal,null,null,Gas,18.1L/100km,12.4L/100km,91452
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2014,Infiniti,Q50,115467 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Hagane Blue Metallic,null,null,null,Gasoline Hybrid,8.4L/100km,6.7L/100km,21649
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Hermosa Blue Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,17.5L/100km,12.2L/100km,95440
+2017,Infiniti,QX80,125741 km,SUV,5.6L V8 with VVEL and DIG,Automatic,AWD,Gray,Black,null,4,Gas,17.4L/100km,12.2L/100km,38887
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Black Obsidian,Grey,null,5,Gas,17.5L/100km,12.2L/100km,95818
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Moonstone White Pearl,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Mineral Black Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,99452
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Hermosa Blue Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,null,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Champagne Quartz Metallic,Charcoal,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Mineral Black Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Anthracite Gray Metallic,Charcoal,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2017,Infiniti,QX60,58176 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.1L/100km,27888
+2023,Infiniti,QX80,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Moonstone White Pearl,null,null,null,Gas,17.5L/100km,12.2L/100km,100932
+2008,Infiniti,EX,209000 km,SUV,3.5,Automatic,AWD,Grey,Black,5,null,Gas,12.9L/100km,8.5L/100km,6995
+2009,Infiniti,G37,227524 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Black Obsidian,Tan,5,4,Gas,11.8L - 12.6L/100km,7.8L - 8.7L/100km,6995
+2011,Infiniti,M37,306171 km,Sedan,3.7,Automatic,AWD,Grey,Grey,null,4,Gas,12.0L/100km,8.3L/100km,6995
+2004,Infiniti,G35,116000 km,Coupe,V6 Cylinder Engine,5 Speed Automatic,RWD,Black Obsidian,Black,4,2,Gas,11.9L - 12.8L/100km,8.1L - 8.4L/100km,11900
+2009,Infiniti,M35X,110133 km,Sedan,3.5L 6cyl,5 Speed Automatic,AWD,Moonlight White,Tan,null,4,Premium Unleaded,13.3L/100km,9.1L/100km,11990
+2013,Infiniti,JX35,217102 km,SUV,V6 Cylinder Engine,CVT,AWD,Gray,Black,7,4,Gas,11.5L/100km,8.5L/100km,11995
+2011,Infiniti,M37x,174933 km,Sedan,3.7L 6cyl,7 Speed Automatic,AWD,Liquid Platinum,Black,null,4,Premium Unleaded,12.0L/100km,8.3L/100km,13990
+2014,Infiniti,QX60,214852 km,SUV,3.6,Automatic,AWD,Black,Black,7,4,Gas,10.9L/100km,7.8L/100km,13995
+2022,Infiniti,QX55,28650 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,56999
+2014,Infiniti,QX50,155418 km,SUV,3.7L,Automatic,AWD,White,Beige,5,4,Gas,12.1L/100km,8.1L/100km,16998
+2014,Infiniti,Q50,119000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,11.1L/100km,7.3L/100km,19950
+2015,Infiniti,QX80,242000 km,SUV,5.6,Automatic,4WD,Majestic White Pearl,Black,7,null,Gas,16.9L/100km,11.9L/100km,19995
+2011,Infiniti,QX56,187000 km,SUV,8 Cylinder Engine,Automatic,4x4,Brown,Black,7,4,Gas,15.7L/100km,10.3L/100km,20900
+2015,Infiniti,QX60,118319 km,SUV,3.5,Automatic,AWD,Black,Black,7,5,Gas,12.2L/100km,8.9L/100km,24800
+2015,Infiniti,QX70,127233 km,SUV,3.7L V6 DOHC,7 Speed Automatic,AWD,Aspen Pearl,null,null,null,Gas,14.6L/100km,10.7L/100km,24988
+2018,Infiniti,Q50,92371 km,Sedan,3.0,Automatic,AWD,Black,Charcoal,null,4,Gas,12.4L/100km,8.7L/100km,28598
+2019,Infiniti,QX50,103231 km,Wagon,2.0L 4cyl,CVT,AWD,White,Black,null,4,Premium Unleaded,10.0L/100km,7.8L/100km,30990
+2019,Infiniti,QX50,57473 km,SUV,2.0,Automatic,AWD,Liquid Platinum Metallic,Charcoal,null,4,Gas,10.0L/100km,7.8L/100km,30998
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2020,Infiniti,QX60,108851 km,SUV,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,12.5L/100km,9.0L/100km,31888
+2021,Infiniti,Q50,15500 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Majestic White Pearl,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,43888
+2021,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,Graphite Shadow Metallic,Charcoal,5,4,Gas,12.5L/100km,8.7L/100km,45898
+2020,Infiniti,QX50,6000 km,SUV,I-4 cyl,Automatic,AWD,Hermosa Blue Metallic,Brown,null,4,Premium Unleaded,10.8L/100km,8.3L/100km,47910
+2020,Infiniti,QX50,4426 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Metallic,Charcoal,null,4,Gas,10.8L/100km,8.3L/100km,48008
+2020,Infiniti,QX50,15000 km,SUV,4 Cylinder Engine,CVT,AWD,Majestic White Pearl,null,5,4,Gas,10.8L/100km,8.3L/100km,54108
+2023,Infiniti,QX50,90 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,59340
+2023,Infiniti,QX50,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Dynamic Sunstone Red Triple Clearcoat Metallic,null,null,5,Gas,10.8L/100km,8.3L/100km,59918
+2023,Infiniti,QX50,90 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.8L/100km,8.3L/100km,61340
+2019,Infiniti,Q50,99653 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black Obsidian,Grey,5,4,Gas,12.4L/100km,8.7L/100km,27900
+2023,Infiniti,QX55,25 km,SUV,2L TURBO 4cyl.,Automatic,AWD,Mineral Black Pearl,Grey,null,4,Gas,10.4L/100km,8.3L/100km,65868
+2022,Infiniti,QX60,14031 km,SUV,V6 Cylinder Engine,Automatic,AWD,Mineral Black Pearl,null,null,null,Gas,11.9L/100km,9.5L/100km,65995
+2023,Infiniti,Q50,90 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,12.5L/100km,9.3L/100km,68390
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Majestic White Pearl,Black,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Graphite Shadow Metallic,Black,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2023,Infiniti,QX80,25 km,SUV,5.6L 8cyl.,Automatic,AWD,Mineral Black Pearl,Brown,null,5,Gas,17.5L/100km,12.2L/100km,96568
+2021,Infiniti,QX50,24592 km,SUV,4 Cylinder Engine,Automatic,AWD,Hermosa Blue Pearl,null,null,null,Gas,10.8L/100km,8.3L/100km,50990
+2019,Infiniti,Q60,30215 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Iridium Blue Pearl,null,null,null,Gas,12.3L/100km,8.7L/100km,40990
+2021,Infiniti,QX50,24350 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,10.8L/100km,8.3L/100km,44345
+2021,Infiniti,QX50,17598 km,SUV,4 Cylinder Engine,Automatic,AWD,Liquid Platinum Metallic,null,null,null,Gas,10.8L/100km,8.3L/100km,49990
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Midnight Black Pearl,null,null,3,Gas,12.5L/100km,9.2L/100km,70768
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Dynamic Sunstone Red Tripple Clear Coat,null,null,3,Gas,12.5L/100km,9.2L/100km,73718
+2020,Infiniti,Q60,48319 km,Coupe,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,null,4,2,Gas,12.3L/100km,8.7L/100km,42878
+2023,Infiniti,Q50,25 km,Sedan,3L TURBO 6cyl.,Automatic,AWD,Black Opal Metallic,null,null,4,Gas,12.5L/100km,9.3L/100km,68518
+2022,Infiniti,Q60,25 km,Coupe,3L TURBO 6cyl.,Automatic,AWD,Majestic White Pearl,Black,null,3,Gas,12.5L/100km,9.2L/100km,73268
+2005,Infiniti,G35,341000 km,Coupe,null,Automatic,RWD,Grey,null,null,4 doors,Gasoline,null,null,3000
+2004,Infiniti,G35,241000 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,3500
+2007,Infiniti,G35X,216500 km,Sedan,3.5L 306.0hp,Automatic,AWD,Black,Black,5,4,Gas,12.6L/100km,8.6L/100km,3995
+2005,Infiniti,G35,246000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,4000
+2019,Infiniti,Q50,99653 km,Sedan,V6 Cylinder Engine 3.0L,Automatic,AWD,Black Obsidian,Grey,5,4,Gas,12.4L/100km,8.7L/100km,27900
+2008,Infiniti,M35X,320000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,5000
+2009,Infiniti,G37X,250000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,11.8L - 12.6L/100km,7.8L - 8.7L/100km,5995
+2004,Infiniti,G35,226000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Silver,Black,null,null,Gas,13.5L/100km,9.1L/100km,5995
+2009,Infiniti,G37X,193000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,7000
+2008,Infiniti,EX35,207000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grey,White,5,4,Gas,12.9L/100km,8.5L/100km,8995
+2010,Infiniti,EX35,236000 km,SUV,3.5L,Automatic,AWD,Black,Tan,5,4,Gas,null,null,8995
+2010,Infiniti,G37,220000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Blue,null,null,null,Gas,11.7L/100km,7.8L/100km,8995
+2007,Infiniti,G35,153020 km,Sedan,3.5,Automatic,AWD,Black,Black,null,4,Gas,12.6L/100km,8.6L/100km,8998
+2007,Infiniti,G35X,170510 km,Sedan,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,9000
+2017,Infiniti,QX60,58176 km,SUV,V6 Cylinder Engine,CVT,AWD,Majestic White Pearl,Charcoal,7,4,Gas,12.5L/100km,9.1L/100km,27888
+2010,Infiniti,G37X,190000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,9500
+2011,Infiniti,G37X,222000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,9999
+2011,Infiniti,G37X,150000 km,null,null,Automatic,null,null,null,null,4 doors,null,null,null,10000
+2011,Infiniti,G37X,134000 km,null,null,Automatic,null,Black,null,null,4 doors,Gasoline,null,null,10000
+2008,Infiniti,G37,246000 km,Coupe,null,Manual,RWD,Blue,null,null,2 doors,Gasoline,null,null,10430
+2012,Infiniti,G25,179 km,Sedan,2.5,Automatic,AWD,Grey,Black,5,4,Gas,12.4L/100km,8.7L/100km,10995
+2010,Infiniti,G37X,195000 km,null,null,null,null,null,null,null,null,null,null,null,11000
+2012,Infiniti,G37X,217000 km,Sedan,null,Automatic,AWD,Beige,null,null,4 doors,Gasoline,null,null,12499
+2014,Infiniti,QX60,230700 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,12995
+2017,Infiniti,QX50,97328 km,SUV,3.7L V6 SMPI DOHC,Automatic,AWD,Majestic White Pearl,Grey,5,4,Gas,13.7L/100km,9.8L/100km,22500
+2010,Infiniti,G37X,115000 km,Sedan,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,13250
+2005,Infiniti,G35,178842 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,13500
+2011,Infiniti,M37x,141585 km,Sedan,null,Automatic,AWD,Beige,null,null,4 doors,Gasoline,null,null,13500
+2013,Infiniti,EX37,142433 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.1L/100km,8.1L/100km,14588
+2012,Infiniti,G37,199130 km,Coupe,3.7L 6cyl,7 Speed Automatic,AWD,Moonlight White,Black,4,2,Gas,11.7L/100km,7.8L/100km,14888
+2012,Infiniti,M56,154000 km,Sedan,8 Cylinder Engine,Automatic,AWD,Black,null,null,4,Gas,13.4L/100km,8.5L/100km,14900
+2015,Infiniti,QX60,198000 km,SUV,3.5 L,Automatic,AWD,White,Black,7,5,Gas,null,null,15995
+2014,Infiniti,Q50,186000 km,Sedan,3.7L,Automatic,AWD,Grey,Black,5,4,Gas,null,null,16995
+2011,Infiniti,QX56,221619 km,SUV,8 Cylinder Engine,Automatic,4x4,Silver,null,null,4,Gas,15.7L/100km,10.3L/100km,16995
+2018,Infiniti,Q60,22998 km,Coupe,V6 Cylinder Engine,Automatic,AWD,WHITE,Black,4,2,Gas,12.3L/100km,8.6L/100km,39588
+2014,Infiniti,Q70,180013 km,Sedan,3.7,Automatic,AWD,White,Black,5,4,Gas,12.0L/100km,8.3L/100km,16995
+2020,Infiniti,QX60,68272 km,SUV,V6 Cylinder Engine,Automatic,AWD,Not Specified,null,null,4,Gas,12.5L/100km,9.0L/100km,18990
+2016,Infiniti,QX50,142000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,19500
+2014,Infiniti,QX60,133000 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline - Hybrid,null,null,21000
+2016,Infiniti,Q50,108000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,22000
+2016,Infiniti,Q50,145000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,23500
+2014,Infiniti,QX60,null,SUV,null,Automatic,null,Silver,null,7,4,Gas,null,null,24900
+2010,Infiniti,FX35,114000 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,25000
+2014,Infiniti,Q60,85909 km,Coupe,null,Automatic,AWD,Silver,null,null,2 doors,Gasoline,null,null,26000
+2022,Infiniti,QX55,28650 km,SUV,4 Cylinder Engine,CVT,AWD,Hermosa Blue Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,56999
+2017,Infiniti,Q50,204000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,26000
+2018,Infiniti,Q50,77000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,28000
+2017,Infiniti,QX60,65000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,29000
+2020,Infiniti,Q50,71942 km,Sedan,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,12.5L/100km,8.7L/100km,29880
+2018,Infiniti,Q50,35000 km,Sedan,4 Cylinder Engine,7 Speed Automatic,AWD,Pure White,Black,5,4,Gas,10.7L/100km,8.4L/100km,30995
+2019,Infiniti,QX60,81000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,31000
+2017,Infiniti,QX60,62708 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,33000
+2017,Infiniti,Q50,70000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,33500
+2020,Infiniti,QX50,78990 km,SUV,2.0,Automatic,AWD,White,Beige,5,4,Gas,10.8L/100km,8.3L/100km,33888
+2014,Infiniti,Q50,115467 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Hagane Blue Metallic,null,null,null,Gasoline Hybrid,8.4L/100km,6.7L/100km,21649
+2019,Infiniti,QX50,64000 km,null,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,34000
+2020,Infiniti,Q50,37000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,34000
+2019,Infiniti,QX50,69500 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,35000
+2019,Infiniti,QX50,68989 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,35000
+2019,Infiniti,QX50,68877 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,35000
+2019,Infiniti,QX80,78000 km,SUV,5.6,Automatic,4WD,null,null,null,null,Gas,17.4L/100km,12.2L/100km,42888
+2020,Infiniti,Q60,41000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,45000

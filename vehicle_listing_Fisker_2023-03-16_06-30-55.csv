@@ -1,0 +1,4 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2012,Fisker,Karma,42000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline - Hybrid,null,null,57000
+2012,Fisker,Karma,42000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline - Hybrid,null,null,57000
+2012,Fisker,Karma,80000 km,Sedan,null,Automatic,RWD,Blue,null,null,4 doors,Electric,null,null,68500

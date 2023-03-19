@@ -1,0 +1,17 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2007,Hummer,H2,107069 km,SUV,8 Cylinder,Automatic,4x4,Victory Red,Black,null,4,Gas,null,null,59800
+2008,Hummer,H2,99456 km,SUV,8 Cylinder,Automatic,4x4,Black,Black,null,4,Gas,null,null,59800
+2006,Hummer,H1,83139 km,SUV,8 Cylinder,Automatic,4x4,Black,Brown,null,4,Diesel,null,null,299800
+2007,Hummer,H2,107069 km,SUV,8 Cylinder,Automatic,4x4,Victory Red,Black,null,4,Gas,null,null,59800
+2008,Hummer,H2,99456 km,SUV,8 Cylinder,Automatic,4x4,Black,Black,null,4,Gas,null,null,59800
+2006,Hummer,H1,83139 km,SUV,8 Cylinder,Automatic,4x4,Black,Brown,null,4,Diesel,null,null,299800
+2003,Hummer,H2,218000 km,SUV,8 Cylinder Engine,4 Speed Automatic,4x4,Burgundy,Grey,5,4,Gas,null,null,12900
+2006,Hummer,H2,219000 km,SUV,8 Cylinder Engine,4 Speed Automatic,4x4,Green,Black,5,4,Gas,null,null,19990
+2006,Hummer,H2,183000 km,SUV,8 Cylinder Engine,4 Speed Automatic,4x4,Black,Black,5,4,Gas,null,null,21900
+2007,Hummer,H2,150360 km,SUV,8 Cylinder,Automatic,4x4,Victory Red,Black,6,4,Gas,null,null,35888
+2003,Hummer,H2,2500 km,SUV,6.2,4 Speed Automatic,4x4,Yellow,Black,5,4,Gas,null,null,59788
+2009,Hummer,H2,158466 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Black,Black,6,4,Flexible,null,null,79999
+2006,Hummer,H3,363720 km,SUV,5 Cylinder Engine,Automatic,4x4,White,Black,5,4,Gas,14.7L - 15.6L/100km,10.9L - 11.4L/100km,3995
+2007,Hummer,H2,408000 km,SUV,8 Cylinder Engine,Automatic,4x4,Dark Green,Beige,5,4,Gas,null,null,16999
+2003,Hummer,H2,199809 km,SUV,6,Automatic,4x4,Black,Beige,null,4,Gas,null,null,19499
+2007,Hummer,H2,54600 km,SUV,8 Cylinder Engine,Automatic,null,null,null,null,null,Gas,null,null,69900

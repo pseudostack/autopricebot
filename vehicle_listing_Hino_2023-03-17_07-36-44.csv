@@ -1,0 +1,4 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2015,Hino,195,163473 km,null,null,null,null,White,null,null,null,Diesel,null,null,69800
+2016,Hino,338,45672 km,null,null,null,null,Blue,null,null,null,Diesel,null,null,124800
+2020,Hino,195,45284 km,null,null,null,null,White,null,null,null,Diesel,null,null,111800

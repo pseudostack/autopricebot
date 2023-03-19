@@ -1,0 +1,103 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+1999,Ferrari,F355,38999 km,Convertible,8 Cylinder,Automatic,RWD,Yellow,Black,null,2,Gas,null,null,119800
+2005,Ferrari,F430,46962 km,Coupe,8 Cylinder,Automatic,RWD,Black,Black,null,2,Gas,23.5L/100km,14.7L/100km,158800
+2008,Ferrari,F430,62560 km,Convertible,8 Cylinder,Automatic,RWD,Corsa Red,Black,null,2,Gas,21.4L/100km,14.7L/100km,168800
+2007,Ferrari,599,33801 km,Coupe,12 Cylinder,Automatic,RWD,Daytona Black,Black,null,2,Gas,21.4L/100km,15.7L/100km,189800
+1998,Ferrari,355,13755 km,Convertible,8 Cylinder Engine,null,RWD,Rosso Corsa,Beige,null,null,Gas,null,null,189987
+2017,Ferrari,California,12797 km,Convertible,8 Cylinder,Automatic,RWD,Blu California,Red,null,2,Gas,14.7L/100km,10.2L/100km,248800
+2017,Ferrari,California,14000 km,Convertible,8 Cylinder,Automatic,RWD,Bianco Avus,Black,null,2,Gas,14.7L/100km,10.2L/100km,249800
+2021,Ferrari,812,5027 km,Convertible,12 Cylinder Engine,7 Speed Automatic,RWD,Rosso Corsa,null,null,null,Gas,19.6L/100km,15.7L/100km,829987
+2021,Ferrari,812,2227 km,Convertible,12 Cylinder Engine,7 Speed Automatic,RWD,Rosso Fuocco,null,null,null,Gas,19.6L/100km,15.7L/100km,859987
+1999,Ferrari,F355,38999 km,Convertible,8 Cylinder,Automatic,RWD,Yellow,Black,null,2,Gas,null,null,119800
+2009,Ferrari,California,62595 km,Convertible,8 Cylinder Engine,null,null,Black,Black,null,null,Gas,null,null,128588
+2005,Ferrari,F430,46962 km,Coupe,8 Cylinder,Automatic,RWD,Black,Black,null,2,Gas,23.5L/100km,14.7L/100km,158800
+2011,Ferrari,California,23001 km,Convertible,8 Cylinder,Automatic,RWD,Grigio Alloy Metallic,null,null,2,Gas,18.1L/100km,12.4L/100km,158800
+2015,Ferrari,FF,30000 km,Wagon,6.3L,Automatic,AWD,Nero Daytona Metallic,null,4,2,Gas,21.4L/100km,14.7L/100km,229899
+2005,Ferrari,F430,50957 km,Convertible,8 Cylinder,Automatic,RWD,Grigio Alloy,Red,null,2,Gas,23.5L/100km,14.7L/100km,158800
+2007,Ferrari,F430,30236 km,Convertible,V8,Automatic,RWD,Dark Blue,Cream,2,2,Gas,18.1L/100km,13.8L/100km,165910
+2008,Ferrari,F430,62560 km,Convertible,8 Cylinder,Automatic,RWD,Corsa Red,Black,null,2,Gas,21.4L/100km,14.7L/100km,168800
+2014,Ferrari,FF,69114 km,Coupe,12 Cylinder Engine,Automatic,AWD,Black,Black,4,2,Gas,21.4L/100km,14.7L/100km,169910
+2006,Ferrari,F430,26628 km,Convertible,8 Cylinder,Automatic,RWD,Red,Brown,null,2,Gas,18.1L/100km,13.8L/100km,172800
+2007,Ferrari,599,33801 km,Coupe,12 Cylinder,Automatic,RWD,Daytona Black,Black,null,2,Gas,21.4L/100km,15.7L/100km,189800
+1998,Ferrari,355,13755 km,Convertible,8 Cylinder Engine,null,RWD,Rosso Corsa,Beige,null,null,Gas,null,null,189987
+2008,Ferrari,F430,30682 km,Convertible,8 Cylinder,Automatic,RWD,Black,Black,null,2,Gas,21.4L/100km,14.7L/100km,192800
+2007,Ferrari,F430,28000 km,Coupe,null,Automatic,RWD,Red,Black,2,2,Gas,null,null,198888
+2008,Ferrari,F430,40375 km,Convertible,4.3L 8cyl,6 Speed Manual,RWD,Black,null,null,2,Premium Unleaded,21.4L/100km,14.7L/100km,175277
+2013,Ferrari,FF,46002 km,Coupe,12 Cylinder Engine,Automatic,AWD,Grey,Tan,4,2,Gas,null,null,199910
+2008,Ferrari,430,15002 km,Coupe,8 Cylinder Engine,6 Speed Manual,RWD,Red,Black,2,2,Gas,21.4L/100km,14.7L/100km,218800
+2014,Ferrari,FF,40470 km,Coupe,12 Cylinder Engine,Automatic,AWD,Black,Black,4,2,Gas,21.4L/100km,14.7L/100km,219910
+2015,Ferrari,FF,30000 km,Wagon,6.3L,Automatic,AWD,Nero Daytona Metallic,null,4,2,Gas,21.4L/100km,14.7L/100km,229899
+2017,Ferrari,California,12797 km,Convertible,8 Cylinder,Automatic,RWD,Blu California,Red,null,2,Gas,14.7L/100km,10.2L/100km,248800
+2017,Ferrari,California,14000 km,Convertible,8 Cylinder,Automatic,RWD,Bianco Avus,Black,null,2,Gas,14.7L/100km,10.2L/100km,249800
+2018,Ferrari,GTC4Lusso,59472 km,Wagon,12 Cylinder Engine,Automatic,AWD,White,Blue,4,2,Gas,19.6L/100km,13.8L/100km,259910
+2019,Ferrari,Portofino,9959 km,Convertible,Twin Turbo Premium Unleaded V-8 3.9 L/235,Automatic,RWD,Grigio Alloy Metallic,Blue,4,2,Gas,14.7L/100km,10.7L/100km,297888
+2013,Ferrari,458,39000 km,Convertible,4.5L,Automatic,RWD,Nero,null,2,2,Gas,null,null,318888
+2015,Ferrari,458,20000 km,Coupe,4.5L,Automatic,RWD,Bianco Avus,null,2,2,Gas,null,null,368899
+1998,Ferrari,F355,37017 km,null,null,6 Speed Manual,RWD,null,null,2,2,null,null,null,349888
+2015,Ferrari,458,20000 km,Coupe,4.5L,Automatic,RWD,Bianco Avus,null,2,2,Gas,null,null,368899
+1980,Ferrari,512,15549 km,null,null,null,null,Rosso Corsa,null,null,null,null,null,null,499987
+2021,Ferrari,F8,900 km,Coupe,3.9L,Automatic,RWD,Rosso Corsa,null,2,2,Gas,15.7L/100km,12.4L/100km,509899
+2021,Ferrari,812,5027 km,Convertible,12 Cylinder Engine,7 Speed Automatic,RWD,Rosso Corsa,null,null,null,Gas,19.6L/100km,15.7L/100km,829987
+2021,Ferrari,SF90,947 km,Coupe,8 Cylinder Engine,8 Speed Automatic,null,Blu Torrice,null,null,null,Gasoline Hybrid,null,null,839987
+2021,Ferrari,SF90,1707 km,Coupe,8 Cylinder Engine,8 Speed Automatic,null,Blu Abu Dhabi Metallic,Orange,null,null,Gasoline Hybrid,null,null,919988
+1988,Ferrari,328,67000 km,Convertible,null,null,null,Red,Tan,null,2,null,null,null,109888
+2007,Ferrari,F430,null,Convertible,8 Cylinder Engine,Automatic,RWD,Modena Yellow,Black,2,2,Gas,18.1L/100km,13.8L/100km,179910
+1988,Ferrari,328,37414 km,null,null,null,null,Giallo,null,null,null,null,null,null,189987
+2016,Ferrari,California,37211 km,Convertible,8 Cylinder Engine,Automatic,RWD,Red,Black,4,2,Gas,null,null,219999
+2021,Ferrari,Roma,5257 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Nero Daytona Metallic,null,4,2,Gas,13.8L/100km,10.7L/100km,339999
+2019,Ferrari,488,11710 km,Convertible,8 Cylinder Engine,Automatic,RWD,Bianco Avus,Black,2,2,Gas,15.7L/100km,10.7L/100km,419910
+2022,Ferrari,F8,6008 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Bianco Avus,null,null,null,Gas,15.7L/100km,12.4L/100km,499987
+2022,Ferrari,F8,6000 km,Coupe,3.9L,Automatic,RWD,Rosso Corsa,null,2,2,Gas,null,null,559899
+2022,Ferrari,F8,327 km,Roadster,8 Cylinder Engine,7 Speed Automatic,RWD,Bianco Avus,null,null,null,Gas,15.7L/100km,13.1L/100km,599987
+2021,Ferrari,F8,2455 km,Roadster,8 Cylinder Engine,7 Speed Automatic,RWD,Rosso Corsa,null,null,null,Gas,15.7L/100km,13.1L/100km,629987
+2022,Ferrari,F8,656 km,Roadster,8 Cylinder Engine,7 Speed Automatic,RWD,Rosso Scuderia,null,null,null,Gas,15.7L/100km,13.1L/100km,659987
+2021,Ferrari,812,2227 km,Convertible,12 Cylinder Engine,7 Speed Automatic,RWD,Rosso Fuocco,null,null,null,Gas,19.6L/100km,15.7L/100km,859987
+2001,Ferrari,360,54334 km,Convertible,null,Automatic,RWD,Red,Black,2,2,Gas,null,null,99986
+1998,Ferrari,456,29288 km,Coupe,null,null,null,Silver,Blue,null,null,null,null,null,109500
+2010,Ferrari,California,60000 km,null,null,null,null,null,null,null,null,null,null,null,116900
+1999,Ferrari,360,73685 km,null,null,null,null,Red,Tan,2,2,null,null,null,119900
+1995,Ferrari,355,56875 km,null,null,null,null,Silver,Black,null,null,null,null,null,139500
+2012,Ferrari,California,59398 km,null,null,7 Speed Automatic with auto-shift,null,Red,Tan,2,2,null,null,null,149500
+2015,Ferrari,California,16350 km,Sedan,3.9L 8cyl,7 Speed Automatic,RWD,Grey,Tan,4,2,Gas,null,null,184800
+2002,Ferrari,575,11653 km,Sedan,5.7L 12cyl,6 Speed Automatic,RWD,Silver,Black,2,2,Gas,null,null,185800
+1999,Ferrari,360,3460 km,null,null,null,null,Yellow,null,null,null,null,null,null,199888
+1999,Ferrari,360,56716 km,null,null,null,null,Rosso Corsa,Tan,null,null,null,null,null,199888
+2007,Ferrari,430,22648 km,Convertible,8 Cylinder Engine,null,RWD,Blue,Cream,2,2,Gas,18.1L/100km,13.8L/100km,199900
+2017,Ferrari,California,8673 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,4,2,Gas,14.7L/100km,10.2L/100km,216000
+2009,Ferrari,F430,9859 km,Convertible,8 Cylinder Engine,6 Speed Automatic with auto-shift,RWD,Red,Tan,null,2,Gas,21.4L/100km,14.7L/100km,229888
+2012,Ferrari,458,60200 km,null,null,null,null,White,Red,null,null,null,null,null,259500
+2021,Ferrari,Roma,6985 km,Coupe,null,Automatic,RWD,Grey,Black,4,2,Gas,null,null,298888
+2012,Ferrari,458,24751 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Black,null,2,2,Gas,19.6L/100km,13.1L/100km,298888
+2019,Ferrari,Portofino,4737 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Nero Daytona Metallic,Cream,4,2,Gas,14.7L/100km,10.7L/100km,299900
+2019,Ferrari,Portofino,3800 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Bianco Avus,null,4,2,Gas,null,null,299900
+2013,Ferrari,458,18462 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,18.1L/100km,13.8L/100km,320000
+2013,Ferrari,458,35900 km,Convertible,4.5,Automatic,RWD,White,Black,2,2,Gas,null,null,329950
+2017,Ferrari,488,19146 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Red,Black,null,null,Gas,null,null,359995
+2018,Ferrari,488,4303 km,Coupe,null,null,RWD,Red,Beige,2,2,Gas,null,null,379500
+2018,Ferrari,488,14200 km,Convertible,null,Automatic,RWD,Black,Black,2,2,Gas,null,null,388888
+2019,Ferrari,488,7202 km,Coupe,null,Automatic,RWD,Red,Black,2,2,Gas,null,null,389900
+2018,Ferrari,488,3568 km,null,null,null,RWD,White,Black,2,2,Gas,null,null,399900
+2017,Ferrari,F12berlinetta,7000 km,Coupe,null,null,null,Red,Brown,2,2,Gas,null,null,439900
+2018,Ferrari,812,4078 km,Coupe,12 Cylinder Engine,7 Speed Automatic,RWD,Red,Beige,2,2,Gas,19.6L/100km,14.7L/100km,635000
+2022,Ferrari,F8,1451 km,Convertible,null,Automatic,RWD,Red,Black,2,2,Gas,null,null,669900
+2020,Ferrari,812,3305 km,Coupe,12 Cylinder Engine,7 Speed Automatic,RWD,Red,Black,2,2,Gas,19.6L/100km,14.7L/100km,788000
+2014,Ferrari,458,3534 km,Coupe,null,Automatic,RWD,Red,Black,2,2,Gas,null,null,799900
+2019,Ferrari,488,4711 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Red,Black,2,2,Gas,15.7L/100km,11.8L/100km,799999
+2021,Ferrari,SF90,4282 km,Coupe,8 Cylinder Engine,8 Speed Automatic,AWD,Red,Tan,2,2,Electric,null,null,839000
+2019,Ferrari,488,2445 km,Coupe,null,Automatic,RWD,Black,Black,2,2,Gas,null,null,839900
+2019,Ferrari,488,1254 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,15.7L/100km,11.8L/100km,889998
+2019,Ferrari,488,2000 km,null,null,null,null,null,null,null,null,null,null,null,899900
+2017,Ferrari,F12tdf,1077 km,Coupe,12 Cylinder Engine,7 Speed Automatic,RWD,Blue,Black,2,2,Gas,21.4L/100km,15.7L/100km,1250000
+2010,Ferrari,California,47200 km,Convertible,null,Manual,RWD,Red,null,null,2 doors,null,null,null,151500
+2006,Ferrari,F430,59000 km,Coupe,null,Automatic,RWD,Red,null,null,2 doors,Gasoline,null,null,160000
+2013,Ferrari,California,25481 km,Convertible,V8,Automatic,RWD,White,Brown,4,2,Gas,null,null,179900
+2007,Ferrari,612,11912 km,Coupe,5.7L,F1 Transmission,RWD,Black,Black,4,2,Gas,null,null,189900
+2007,Ferrari,599,11672 km,Coupe,12 Cylinder Engine,F1 Transmission,RWD,Black,Black,2,2,Gas,21.4L/100km,15.7L/100km,229999
+1995,Ferrari,F355,39000 km,Coupe,null,null,null,null,null,null,null,null,null,null,240000
+2015,Ferrari,FF,16592 km,Coupe,12 Cylinder Engine,7 Speed Automatic,AWD,Argento Nurburgring Metallic,Black,4,2,Gas,21.4L/100km,14.7L/100km,249900
+2019,Ferrari,Portofino,27525 km,Convertible,null,Automatic,RWD,Red,Black,4,2,Gas,null,null,288888
+2010,Ferrari,599,null,null,null,null,null,null,null,null,null,null,null,null,299900
+2021,Ferrari,Roma,763 km,Coupe,3.9L Turbo,8 Speed Automatic,RWD,Not Specified,Tan,4,2,Gas,null,null,349900
+2008,Ferrari,430,null,Coupe,null,null,null,White,Black,null,null,null,null,null,369900
+2018,Ferrari,488,3350 km,Coupe,null,Automatic,null,null,null,null,2 doors,null,null,null,395000
+2014,Ferrari,458,7955 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,18.1L/100km,13.8L/100km,399000

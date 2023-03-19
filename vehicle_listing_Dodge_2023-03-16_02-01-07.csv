@@ -1,0 +1,824 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2017,Dodge,Journey,94189 km,SUV,2.4L L4 DOHC 16V,Automatic,FWD,White,Black,null,4,Gas,12.7L/100km,9.2L/100km,16998
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2021,Dodge,Challenger,2000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Go Mango,Black,4,2,Gas,null,null,154777
+2012,Dodge,Grand,238268 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6770
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2020,Dodge,Challenger,34164 km,Coupe,3.6L V6 24V VVT,Automatic,RWD,Torred,Black,5,2,Gas,12.4L/100km,7.8L/100km,41999
+2014,Dodge,Grand,139158 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Red,Black,7,4,Gas,12.2L/100km,7.9L/100km,14990
+2021,Dodge,Challenger,84 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Brown,null,2,Gas,17.6L/100km,10.7L/100km,104995
+2012,Dodge,Journey,146019 km,SUV,I-4 cyl,4 Speed Automatic,FWD,Bright Silver Metallic,Grey,null,null,Gas,10.8L/100km,7.5L/100km,6999
+2006,Dodge,Ram,163998 km,Truck,8 Cylinder Engine,6 Speed Automatic,4x4,Grey,Grey,5,4,Flexible,16.6L/100km,11.3L/100km,8999
+2015,Dodge,Journey,169000 km,SUV,2.4,Automatic,FWD,Pitch Black,Black,5,4,Gas,12.7L/100km,9.1L/100km,9990
+2015,Dodge,Journey,165000 km,SUV,3.6,Automatic,AWD,Granite Crystal Metallic,Black,7,4,Gas,14.5L/100km,9.9L/100km,13990
+2021,Dodge,Durango,36080 km,SUV,5.7L 8Cyl,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,2,Gas,16.7L/100km,10.9L/100km,52999
+2015,Dodge,Grand,100567 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,null,null,15590
+2015,Dodge,Grand,102303 km,Minivan,V-6 cyl,Automatic,null,Granite Crystal Metallic,Black,null,null,Flexible,13.7L/100km,9.4L/100km,15995
+2016,Dodge,Grand,152292 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,7,4,Flexible,13.7L/100km,9.4L/100km,16490
+2017,Dodge,Journey,94189 km,SUV,2.4L L4 DOHC 16V,Automatic,FWD,White,Black,null,4,Gas,12.7L/100km,9.2L/100km,16998
+2016,Dodge,Grand,152866 km,Minivan,3.6,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,5,Other,13.7L/100km,9.4L/100km,17888
+2017,Dodge,Grand,114627 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,4,Gas,13.7L/100km,9.4L/100km,18888
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2017,Dodge,Grand,95390 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Granite Crystal Metallic,Black,null,4,Flexible,13.7L/100km,9.4L/100km,20995
+2016,Dodge,Challenger,148828 km,Coupe,3.6,Automatic,RWD,Jazz Blue Pearl,Black,null,2,Regular Unleaded,12.4L/100km,7.8L/100km,20998
+2019,Dodge,Challenger,25522 km,Coupe,V8,Automatic,RWD,F8 Green,Brown,null,null,Gas,17.6L/100km,10.7L/100km,109998
+2018,Dodge,Journey,117610 km,SUV,V6 Cylinder Engine,Automatic,AWD,Granite Crystal Metallic,null,null,4,Gas,14.5L/100km,10.0L/100km,22888
+2019,Dodge,Grand,88242 km,Minivan,3.6L V6,Automatic,FWD,Billet Metallic,null,null,null,Gas,13.7L/100km,9.4L/100km,23495
+2018,Dodge,Charger,148150 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Pitch Black,Black,null,null,Regular Unleaded,12.4L/100km,7.8L/100km,24900
+2020,Dodge,Grand,121770 km,Minivan,V-6 cyl,6 Speed Automatic,null,Brilliant Black Crystal Pearl,Black,null,null,Gas,13.7L/100km,9.4L/100km,26999
+2019,Dodge,Charger,118300 km,Sedan,3.6,Automatic,RWD,Pitch Black,Black,null,4,Gas,12.4L/100km,7.8L/100km,28888
+2019,Dodge,Grand,61818 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,null,null,null,2,Gas,13.7L/100km,9.4L/100km,29590
+2020,Dodge,Grand,67060 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,29998
+2017,Dodge,Challenger,148300 km,Coupe,3.6,Automatic,AWD,Gray,Black,null,2,Gas,12.8L/100km,8.7L/100km,30388
+2020,Dodge,Grand,79361 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Billet Silver Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,30950
+2019,Dodge,Grand,101330 km,Minivan,3.6,Automatic,FWD,Granite Crystal Metallic,Black,6,4,Other,13.7L/100km,9.4L/100km,26985
+2020,Dodge,Grand,79954 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,30994
+2020,Dodge,Grand,18500 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,null,Gas,13.7L/100km,9.4L/100km,32995
+2019,Dodge,Challenger,103587 km,Coupe,V-6 cyl,8 Speed Automatic,AWD,Grey,Black,null,null,Gas,12.8L/100km,8.7L/100km,33999
+2018,Dodge,Challenger,98122 km,Coupe,V6 Cylinder Engine,8 Speed Automatic,AWD,Go Mango,Black,5,2,Gas,12.8L/100km,8.7L/100km,36088
+2020,Dodge,Durango,88123 km,SUV,V6 Cylinder Engine,Automatic,AWD,White Knuckle,Black,7,4,Gas,12.7L/100km,9.6L/100km,37395
+2019,Dodge,Durango,75581 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Gray,Black,7,4,Gas,12.7L/100km,9.6L/100km,38965
+2020,Dodge,Durango,91855 km,SUV,V6 Cylinder Engine,Automatic,4WD,Grey,Black,6,4,Gas,12.7L/100km,9.6L/100km,38985
+2019,Dodge,Durango,104581 km,SUV,8 Cylinder Engine,Automatic,4WD,DB Black,Black,null,null,Gas,16.7L/100km,10.9L/100km,39999
+2021,Dodge,Durango,89540 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,White,Black,6,4,Gas,12.7L/100km,9.6L/100km,40994
+2017,Dodge,Grand,165782 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,18999
+2021,Dodge,Durango,81495 km,SUV,3.6L V6,Automatic,AWD,DB Black,null,null,null,Gas,12.7L/100km,9.6L/100km,40995
+2020,Dodge,Durango,42719 km,SUV,V-6 cyl,8 Speed Automatic,4WD,Red,Black,null,null,Gas,12.7L/100km,9.6L/100km,42999
+2017,Dodge,Challenger,40119 km,Coupe,8 Cylinder,Automatic,RWD,Go Mango,Black,null,2,Gas,14.7L/100km,9.4L/100km,44800
+2021,Dodge,Challenger,5428 km,Coupe,V-6 cyl,8 Speed Automatic,AWD,Grey,Black,null,null,Gas,12.8L/100km,8.7L/100km,44999
+2018,Dodge,Durango,57322 km,SUV,8 Cylinder Engine 5.7L,Automatic,AWD,null,null,null,4,Gas,16.7L/100km,10.9L/100km,47240
+2022,Dodge,Charger,14457 km,Sedan,3.6L V6 24V VVT,8 Speed Automatic,AWD,Frostbite Pearl,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,49995
+2021,Dodge,Durango,14074 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Granite Crystal Metallic,Red,6,4,Gas,12.7L/100km,9.6L/100km,53998
+2022,Dodge,Durango,4500 km,SUV,3.6L Pentastar VVT V6 w/ESS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,12.7L/100km,9.6L/100km,54699
+2022,Dodge,Durango,1780 km,SUV,V-8 cyl,8 Speed Automatic,4WD,Destroyer Grey,null,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,59999
+2022,Dodge,Durango,4690 km,SUV,8cyl,8 Speed Automatic,AWD,DB Black,Black,null,null,Gas,18.3L/100km,12.2L/100km,82999
+2022,Dodge,Durango,7001 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,Automatic,4WD,DB Black,Black,6,null,Regular Unleaded,16.7L/100km,10.9L/100km,61995
+2019,Dodge,Challenger,15383 km,Coupe,SRT HEMI 6.4L V8 with Fuelsaver MDS,Manual,null,B5 Blue Pearlcoat,Black,null,null,Gas,16.7L/100km,10.4L/100km,68888
+2022,Dodge,Challenger,774 km,Coupe,6.2L 8 Cylinder Engine,Automatic,RWD,Red,Black,2,2,Gas,17.6L - 18.1L/100km,10.7L - 11.4L/100km,104395
+2019,Dodge,Challenger,10723 km,Coupe,8 Cylinder,Automatic,RWD,White Knuckle Clear Coat,Black,null,2,Gas,17.6L/100km,10.7L/100km,114800
+2019,Dodge,Challenger,9291 km,Coupe,8 Cylinder,Automatic,RWD,Pitch Black Clear Coat,Black,2,2,Gas,17.6L/100km,10.7L/100km,115800
+2019,Dodge,Challenger,7500 km,Coupe,8 Cylinder,Automatic,RWD,F8 Green,Black,2,2,Gas,17.6L/100km,10.7L/100km,115800
+2021,Dodge,Challenger,1513 km,Coupe,8 Cylinder,Automatic,RWD,Indigo Blue,Black,null,2,Gas,18.6L/100km,11.3L/100km,129800
+2009,Dodge,Journey,149838 km,SUV,V-6 cyl,Automatic,FWD,Brilliant Black Crystal Prl,Black,null,null,Gas,13.5L/100km,8.6L/100km,5888
+2010,Dodge,Journey,199721 km,SUV,V6 Cylinder Engine,Automatic,AWD,Inferno Red Crystal Pearl,Grey,null,4,Gas,13.6L/100km,8.7L/100km,6500
+2018,Dodge,Charger,59213 km,Sedan,3.6L V6 24V VVT,8 Speed Automatic,AWD,Flame Red,null,null,null,Gas,12.8L/100km,8.7L/100km,56699
+2013,Dodge,Dart,161000 km,Sedan,1.4,6 Speed Manual,FWD,Gray,Grey,5,4,Gas,7.4L/100km,4.9L - 5.8L/100km,6990
+2014,Dodge,Journey,175000 km,SUV,2.4,4 Speed Automatic,FWD,White,Black,5,4,Gas,11.2L/100km,7.7L/100km,7990
+2015,Dodge,Grand,200000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Black,Black,null,4,Other,null,null,9995
+2015,Dodge,Journey,140438 km,SUV,4 Cylinder Engine,Automatic,FWD,White,Charcoal,7,4,Gas,12.7L/100km,9.1L/100km,12488
+2016,Dodge,Grand,108075 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Grey,7,null,Flexible,13.7L/100km,9.4L/100km,15880
+2016,Dodge,Journey,117574 km,SUV,3.6L V6 F DOHC 24V,Automatic,FWD,Redline Pearl,Black,null,2,Flexible,12.7L - 14.2L/100km,9.1L - 9.4L/100km,16499
+2017,Dodge,Grand,140639 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,4,Gas,13.7L/100km,9.4L/100km,17888
+2018,Dodge,Grand,125321 km,Minivan,3.6,Automatic,FWD,Black,Black,7,4,Other,13.7L/100km,9.4L/100km,17900
+2016,Dodge,Journey,137150 km,SUV,3.6,Automatic,FWD,Granite Crystal Metallic,Black,null,4,Other,null,null,18888
+2015,Dodge,Grand,113000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15495
+2017,Dodge,Journey,95089 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Olive Green,Black,7,4,Gas,12.7L/100km,9.2L/100km,18990
+2018,Dodge,Grand,144600 km,Minivan,3.6,Automatic,FWD,White,Black,7,4,Gas,13.7L/100km,9.4L/100km,21985
+2017,Dodge,Journey,102000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,7,4,Flexible,14.2L/100km,9.5L/100km,21990
+2016,Dodge,Grand,88858 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,22888
+2018,Dodge,Challenger,148150 km,Coupe,V6 Cylinder Engine,Automatic,RWD,Pitch Black,Black,null,null,Gas,12.4L/100km,7.8L/100km,24900
+2018,Dodge,Charger,135000 km,Sedan,3.6,Automatic,AWD,Black,Black,5,4,Gas,null,null,24999
+2019,Dodge,Grand,115000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Octane Red Pearl,Grey,7,4,Flexible,13.7L/100km,9.4L/100km,26590
+2019,Dodge,Grand,42470 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Granite Crystal Metallic,null,null,4,Gas,13.7L/100km,9.4L/100km,26790
+2018,Dodge,Grand,56669 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Billet Metallic,Black,null,4,Flexible,13.7L/100km,9.4L/100km,26995
+2020,Dodge,Grand,94342 km,Minivan,3.6L V6 24V MPFI DOHC,Automatic,FWD,Octane Red Pearl,Black,null,4,Gas,13.7L/100km,9.4L/100km,30950
+2019,Dodge,Grand,60002 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Brilliant Black Crystal Pearl,null,null,4,Gas,13.7L/100km,9.4L/100km,27990
+2020,Dodge,Grand,79102 km,Minivan,V-6 cyl,6 Speed Automatic,FWD,Octane Red Pearl,null,null,null,Regular Unleaded,13.7L/100km,9.4L/100km,29500
+2016,Dodge,Durango,95085 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Brilliant Black Crystal Pearl,null,6,4,Gas,16.7L/100km,10.7L/100km,30501
+2021,Dodge,Charger,75067 km,Sedan,LDDS48,Automatic,RWD,Pitch Black,null,null,null,Gas,12.4L/100km,7.8L/100km,38990
+2021,Dodge,Challenger,19000 km,Coupe,3.6,Automatic,AWD,Orange,Brown,null,2,Gas,12.8L/100km,8.7L/100km,46690
+2022,Dodge,Charger,14 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,51988
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53333
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53333
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53333
+2021,Dodge,Charger,1782 km,Sedan,5.7L 8Cyl,8 Speed Automatic,RWD,F8 Green Metallic,null,null,null,Gas,14.7L/100km,9.4L/100km,55988
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2023,Dodge,Challenger,12 km,Coupe,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,53756
+2022,Dodge,Charger,10 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Frostbite Pearl,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,54990
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,56447
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,56856
+2022,Dodge,Charger,1024 km,Sedan,8cyl,8 Speed Automatic,RWD,White Knuckle,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,53385
+2023,Dodge,Charger,10 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,10 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,13 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,10 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2018,Dodge,Durango,79530 km,SUV,3.6,Automatic,AWD,DB Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,39885
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57234
+2023,Dodge,Charger,12 km,Sedan,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,RWD,White Knuckle,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,57335
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57505
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57505
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57643
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2020,Dodge,Grand,67060 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,29998
+2019,Dodge,Challenger,10723 km,Coupe,8 Cylinder,Automatic,RWD,White Knuckle Clear Coat,Black,null,2,Gas,17.6L/100km,10.7L/100km,114800
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2019,Dodge,Challenger,14000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Green,Black,2,2,Gas,null,null,107777
+2021,Dodge,Challenger,2000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Go Mango,Black,4,2,Gas,null,null,154777
+2018,Dodge,Durango,79530 km,SUV,3.6,Automatic,AWD,DB Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,39885
+2021,Dodge,Durango,72824 km,SUV,8 Cylinder Engine,Automatic,AWD,Grey,Black,null,4,Gas,16.7L/100km,10.9L/100km,49980
+2014,Dodge,Grand,139158 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Red,Black,7,4,Gas,12.2L/100km,7.9L/100km,14990
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57643
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57643
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57643
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57643
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2023,Dodge,Charger,12 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,57914
+2023,Dodge,Charger,35 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,58988
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2023,Dodge,Charger,18 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,59988
+2022,Dodge,Durango,10 km,SUV,5.7L HEMI VVT V8 W/FUELSAVER MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,64990
+2020,Dodge,Challenger,34817 km,Coupe,6.4L 8cyl,8 Speed Automatic,RWD,Indigo Blue,Black,5,2,Premium Unleaded,16.7L/100km,10.4L/100km,65999
+2022,Dodge,Durango,23 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,4WD,Destroyer Grey,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,85801
+2012,Dodge,Journey,224100 km,SUV,3.6,4 Speed Automatic,FWD,White,Black,null,4,Other,null,null,7980
+2010,Dodge,Journey,75127 km,SUV,3.5L V6,Automatic,FWD,Brilliant Black Crystal Pearl,Dark Grey,null,null,Gas,13.3L/100km,8.3L/100km,9995
+2022,Dodge,Durango,4690 km,SUV,8cyl,8 Speed Automatic,AWD,DB Black,Black,null,null,Gas,18.3L/100km,12.2L/100km,82999
+2012,Dodge,Grand,133286 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,null,7,4,Gas,12.2L/100km,7.9L/100km,11988
+2014,Dodge,Journey,147000 km,SUV,3.6,Automatic,FWD,White,Black,7,4,Gas,11.2L - 12.7L/100km,7.7L - 7.9L/100km,12990
+2014,Dodge,Grand,146483 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,4,4,Flexible,null,null,13995
+2014,Dodge,Grand,114500 km,Minivan,3.6,Automatic,FWD,Gold,Dark Grey,null,4,Other,12.2L/100km,7.9L/100km,17999
+2016,Dodge,Grand,124826 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Brilliant Black Crystal Pearl,null,null,4,Gas,13.7L/100km,9.4L/100km,18398
+2017,Dodge,Journey,170743 km,SUV,V6 Cylinder Engine,Automatic,AWD,Redline Pearl,null,null,4,Gas,null,null,18995
+2016,Dodge,Grand,123971 km,Minivan,3.6,6 Speed Automatic,FWD,Bright White,Black,null,4,Other,13.7L/100km,9.4L/100km,19480
+2016,Dodge,Grand,128892 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Billet Silver Metallic,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19888
+2014,Dodge,Grand,87038 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White Clearcoat,Charcoal,7,4,Flexible,12.2L/100km,7.9L/100km,19988
+2022,Dodge,Durango,2950 km,SUV,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,58999
+2017,Dodge,Grand,121800 km,Minivan,3.6,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Other,13.7L/100km,9.4L/100km,21888
+2016,Dodge,Durango,246881 km,SUV,8 Cylinder Engine 5.7L,Automatic,AWD,Brilliant Black Crystal Pearl,null,null,4,Gas,16.7L/100km,10.7L/100km,21995
+2018,Dodge,Grand,123176 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,7,4,Flexible,13.7L/100km,9.4L/100km,27495
+2020,Dodge,Grand,81538 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Bright White,null,7,4,Gas,13.7L/100km,9.4L/100km,29886
+2019,Dodge,Grand,55452 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,32699
+2019,Dodge,Grand,48291 km,Minivan,V-6 cyl,Automatic,null,Bright White,null,null,null,Regular Unleaded,13.7L/100km,9.4L/100km,33797
+2021,Dodge,Charger,53000 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Pitch Black,Black,null,null,Gas,12.4L/100km,7.8L/100km,38900
+2022,Dodge,Durango,4500 km,null,null,8 Speed Automatic,null,DB Black,Black,null,null,null,null,null,54699
+2023,Dodge,Charger,0 km,Sedan,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,RWD,Pitch Black,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,62865
+2022,Dodge,Durango,380 km,SUV,HEMI 5.7L V8 VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58890
+2019,Dodge,Challenger,3124 km,Coupe,8 Cylinder Engine,Automatic,RWD,B5 Blue Pearl,null,5,2,Gas,15.8L/100km,9.6L/100km,66485
+2023,Dodge,Durango,0 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,0 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,82970
+2023,Dodge,Durango,0 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,82970
+2002,Dodge,Ram,477747 km,Truck Quad Cab,V-8 cyl,Automatic,4WD,Black,Brown,null,null,Gas,null,null,2499
+2014,Dodge,Grand,480000 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,null,4,Flexible,12.2L/100km,7.9L/100km,3500
+2005,Dodge,Dakota,141504 km,Truck,6 Cylinder Engine,Automatic,RWD,Light Green,Grey,6,4,Gas,14.7L/100km,10.7L/100km,6500
+2009,Dodge,Caliber,93133 km,Hatchback,4 Cylinder Engine,5 Speed Automatic,FWD,Inferno Red Crystal Pearl,Dark Grey,5,4,Gas,9.0L/100km,7.3L/100km,7500
+2011,Dodge,Journey,158000 km,SUV,2.4,4 Speed Automatic,FWD,Bright Silver Metallic,Black,7,4,Gas,10.8L/100km,7.5L/100km,7990
+2019,Dodge,Grand,82195 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,2,Gas,13.7L/100km,9.4L/100km,30980
+2010,Dodge,Caravan,186099 km,Minivan,4 CLYLINDER,Automatic,FWD,White,Charcoal,2,2,Gas,null,null,9988
+2012,Dodge,Grand,169000 km,Minivan,3.6,6 Speed Automatic,FWD,Gray,Black,7,4,Gas,12.2L/100km,7.9L/100km,9990
+2010,Dodge,Caravan,231971 km,Minivan,V6,Automatic,FWD,White,Charcoal,2,2,Gas,null,null,10988
+2016,Dodge,Journey,182000 km,SUV,2.4,Automatic,FWD,Billet Silver Metallic,Black,5,4,Gas,12.7L/100km,9.1L/100km,10990
+2013,Dodge,Grand,191163 km,Minivan,V6 Cylinder Engine,Automatic,FWD,White,Grey,7,4,Gas,12.2L/100km,7.9L/100km,11988
+2010,Dodge,Caravan,144938 km,Minivan,V6,Automatic,FWD,White,Charcoal,2,2,Gas,null,null,11988
+2004,Dodge,Dakota,79486 km,Truck,6 Cylinder Engine,5 Speed Automatic,RWD,Bright Silver Metallic,Dark Grey,6,4,Gas,14.1L - 15.7L/100km,9.5L - 10.8L/100km,11999
+2010,Dodge,Grand,97203 km,Minivan,3.3,4 Speed Automatic,FWD,Brilliant Black Pearl,Grey,null,4,Other,12.6L/100km,8.4L/100km,13280
+2013,Dodge,Grand,140698 km,Minivan,V6,Automatic,FWD,White,Charcoal,2,2,Gas,null,null,15988
+2022,Dodge,Challenger,10023 km,Coupe,3.6L V6 24V VVT,8 Speed Automatic,AWD,F8 Green Metallic,Black,null,null,Gas,12.8L/100km,8.7L/100km,48999
+2019,Dodge,Grand,69325 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Granite Crystal Metallic,Black,null,4,Flexible,13.7L/100km,9.4L/100km,32995
+2018,Dodge,Grand,57999 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,4,Gas,13.7L/100km,9.4L/100km,37128
+2022,Dodge,Charger,150 km,Sedan,3.6,Automatic,RWD,Pitch Black,Black,null,4,Gas,12.4L/100km,7.8L/100km,45888
+2022,Dodge,Charger,12 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Blue,Black,5,4,Gas,null,null,57060
+2022,Dodge,Charger,13 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,White,Black,5,4,Gas,null,null,57060
+2022,Dodge,Charger,12 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Red,Black,5,4,Gas,null,null,57455
+2022,Dodge,Durango,16 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Gray,Black,6,4,Gas,null,null,61998
+2022,Dodge,Durango,26 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,White,Black,6,4,Gas,null,null,64449
+2022,Dodge,Challenger,5050 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,5,2,Gas,15.8L/100km,9.6L/100km,82777
+2019,Dodge,Grand,101330 km,Minivan,3.6,Automatic,FWD,Granite Crystal Metallic,Black,6,4,Other,13.7L/100km,9.4L/100km,26985
+2000,Dodge,Viper,4313 km,Convertible,8.0L 10 Cylinder Engine,Manual,RWD,Viper Black,Black,2,2,Gas,null,null,83295
+2019,Dodge,Challenger,14000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Green,Black,2,2,Gas,null,null,107777
+2021,Dodge,Challenger,76 km,Coupe,8 Cylinder Engine,Automatic,RWD,White Knuckle,Black,5,2,Gas,17.6L/100km,10.7L/100km,115495
+2001,Dodge,Viper,34693 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Race Yellow Clearcoat/Viper Black,Black,null,2,Gas,14.0L/100km,27.0L/100km,124800
+2006,Dodge,Viper,16097 km,Coupe,V10 SFI,Manual,null,Copperhead Orange Satin,Black,null,null,Gas,19.5L/100km,10.7L/100km,129885
+2019,Dodge,Challenger,21859 km,Coupe,SC SRT HEMI V8,null,null,Granite Crystal Metallic,Black,null,null,Gas,17.6L - 18.1L/100km,10.7L - 11.4L/100km,129998
+2022,Dodge,Challenger,9500 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,5,2,Gas,null,null,134777
+2020,Dodge,Challenger,11140 km,Coupe,8 Cylinder,Automatic,RWD,Triple Nickel Clear Coat,Black,null,2,Gas,17.6L - 18.6L/100km,10.7L - 11.2L/100km,139800
+2002,Dodge,Viper,17357 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Red Clearcoat,Black,null,2,Gas,20.9L/100km,10.5L/100km,149800
+2019,Dodge,Grand,68413 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,32999
+2021,Dodge,Challenger,2000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Go Mango,Black,4,2,Gas,null,null,154777
+2013,Dodge,SRT,7917 km,Coupe,8.4L 10 Cylinder Engine,Manual,RWD,Venom Black,Black,2,2,Gas,18.1L/100km,11.1L/100km,175695
+2021,Dodge,Challenger,236 km,Coupe,V-8 cyl,8 Speed Automatic,RWD,White Knuckle,Red,null,null,Gas,18.6L/100km,11.3L/100km,185999
+2016,Dodge,Viper,11449 km,Coupe,8.4L 10cyl,6 Speed Manual,RWD,Orange,Black,2,2,Premium Unleaded,19.2L/100km,11.3L/100km,269900
+2016,Dodge,Viper,8072 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper White Clearcoat,Black,null,2,Gas,19.2L/100km,11.3L/100km,332800
+2017,Dodge,Viper,33553 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Venom Black Clear Coat,Black,null,2,Gas,19.9L/100km,12.6L/100km,339800
+2017,Dodge,Viper,1501 km,Coupe,8.4L 10 Cylinder Engine,Manual,RWD,Adrenaline Red,Black,2,2,Gas,19.9L/100km,12.6L/100km,369695
+2010,Dodge,Grand,265000 km,Minivan,3.3L,Automatic,null,null,null,null,null,null,null,null,3950
+2010,Dodge,Grand,203000 km,Minivan,3.3L,Automatic,null,null,null,null,null,null,null,null,5900
+2021,Dodge,Charger,8115 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,F8 Green Metallic,Black,5,4,Gas,12.8L/100km,8.7L/100km,48321
+2010,Dodge,Journey,182536 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,Brilliant Black Crystal Pearl,null,null,4,Gas,11.0L/100km,7.9L/100km,5995
+2012,Dodge,Grand,238268 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6770
+2015,Dodge,Grand,230000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Other,13.7L/100km,9.4L/100km,6900
+2010,Dodge,Ram,196000 km,Super Crew,5.7,Automatic,4x4,Red,Grey,6,4,Gas,16.2L/100km,10.8L/100km,6995
+2013,Dodge,Journey,220000 km,SUV,4 Cylinder Engine,Automatic,FWD,Red,Black,null,4,Gas,11.2L/100km,7.7L/100km,6995
+2010,Dodge,Grand,209829 km,Minivan,3.3,4 Speed Automatic,FWD,Bright Silver Metallic,Grey,null,4,Other,12.6L/100km,8.4L/100km,7480
+2006,Dodge,Ram,244152 km,null,null,null,null,Red,null,null,null,null,null,null,7498
+2011,Dodge,Grand,248000 km,Minivan,3.6,6 Speed Automatic,FWD,Bright Silver Metallic,Black,7,4,Gas,12.2L/100km,7.9L/100km,7990
+2008,Dodge,Ram,210000 km,Quad Cab,8 Cylinder Engine,Automatic,4x4,Black,Grey,6,4,Gas,17.0L - 17.1L/100km,12.3L - 12.4L/100km,8499
+2018,Dodge,Durango,57322 km,SUV,8 Cylinder Engine 5.7L,Automatic,AWD,null,null,null,4,Gas,16.7L/100km,10.9L/100km,47240
+2010,Dodge,Grand,194470 km,Minivan,4.0,4 Speed Automatic,FWD,Dark Blue,Black,null,4,Gas,12.2L/100km,7.9L/100km,8980
+2010,Dodge,Journey,134031 km,SUV,4 Cylinder Engine,Automatic,FWD,Deep Water Blue Pearl,Charcoal,7,4,Gas,11.0L/100km,7.9L/100km,8988
+2009,Dodge,RAM,178800 km,Crew Cab,5.7,5 Speed Automatic,4x4,Maroon,Light Grey,null,4,Gas,null,null,9499
+2016,Dodge,Grand,176000 km,Minivan,3.6,Automatic,FWD,Black,Black,7,4,Other,13.7L/100km,9.4L/100km,9580
+2011,Dodge,Grand,262040 km,Minivan,3.6,6 Speed Automatic,FWD,Stone White,Black,null,4,Gas,12.2L/100km,7.9L/100km,9980
+2013,Dodge,Journey,186599 km,SUV,2.4,4 Speed Automatic,FWD,White,Black,null,4,Gas,11.2L/100km,7.7L/100km,9980
+2009,Dodge,Grand,155389 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,FWD,Bright Silver Metallic,null,2,4,Gas,12.0L/100km,8.2L/100km,11488
+2014,Dodge,Grand,1 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Billet Silver Metallic Clearcoat,Black,null,4,Flexible,null,null,12995
+2017,Dodge,Grand,159754 km,Minivan,3.6,Automatic,FWD,Black,Black,null,null,Gas,null,null,13900
+2020,Dodge,Challenger,19397 km,Coupe,V-8 cyl,Manual,RWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,15.6L/100km,10.1L/100km,48589
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2015,Dodge,Grand,62000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Gold,Black,4,4,Flexible,null,null,36996
+2022,Dodge,Durango,8 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,Black,Black,6,4,Gas,null,null,79345
+2019,Dodge,Challenger,7500 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Plum Crazy Pearl,Black,5,2,Gas,17.6L/100km,10.7L/100km,114777
+2008,Dodge,Viper,41762 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Black Clear Coat,Black,null,2,Gas,16.8L/100km,9.2L/100km,129800
+2012,Dodge,Journey,248984 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,White,null,null,4,Gas,10.8L/100km,7.5L/100km,5995
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2020,Dodge,Grand,67060 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,29998
+2019,Dodge,Challenger,15383 km,Coupe,SRT HEMI 6.4L V8 with Fuelsaver MDS,Manual,null,B5 Blue Pearlcoat,Black,null,null,Gas,16.7L/100km,10.4L/100km,68888
+2021,Dodge,Challenger,1513 km,Coupe,8 Cylinder,Automatic,RWD,Indigo Blue,Black,null,2,Gas,18.6L/100km,11.3L/100km,129800
+2019,Dodge,Grand,55452 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,32699
+2014,Dodge,Grand,480000 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,null,4,Flexible,12.2L/100km,7.9L/100km,3500
+2017,Dodge,Viper,33553 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Venom Black Clear Coat,Black,null,2,Gas,19.9L/100km,12.6L/100km,339800
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2020,Dodge,Grand,62716 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,34987
+2008,Dodge,Viper,41762 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Black Clear Coat,Black,null,2,Gas,16.8L/100km,9.2L/100km,129800
+2012,Dodge,Journey,248984 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,White,null,null,4,Gas,10.8L/100km,7.5L/100km,5995
+2011,Dodge,Journey,205025 km,SUV,4 Cylinder Engine 2.4L,Automatic,FWD,Bright Silver Metallic,null,null,4,Gas,10.8L/100km,7.5L/100km,6999
+2013,Dodge,Journey,214970 km,SUV,V6 Cylinder Engine,Automatic,FWD,Red,null,null,4,Gas,12.6L/100km,7.9L/100km,9888
+2021,Dodge,Charger,8115 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,F8 Green Metallic,Black,5,4,Gas,12.8L/100km,8.7L/100km,48321
+2010,Dodge,Grand,175300 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Stone White,Black,2,4,Gas,12.3L/100km,8.3L/100km,10988
+2011,Dodge,Grand,80132 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Stone White,Black,7,4,Gas,12.2L/100km,7.9L/100km,14988
+2020,Dodge,Grand,28753 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Billet Silver Metallic,null,7,4,Gas,13.7L/100km,9.4L/100km,32994
+2023,Dodge,Hornet,8 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L,Automatic,AWD,Black,Black,5,4,Gas,null,null,41185
+2023,Dodge,Hornet,8 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L,Automatic,AWD,Black,Black,5,4,Gas,null,null,50380
+2022,Dodge,RAM,null,null,null,null,null,null,null,null,null,null,null,null,179800
+2013,Dodge,Grand,254295 km,Minivan,PENTASTAR 3.6L V6 283HP 260FT.,Automatic,FWD,Redline Pearl,Black,null,4,Gas,12.2L/100km,7.9L/100km,5990
+2012,Dodge,Journey,196996 km,SUV,3.6L V6,Automatic,AWD,Blue Pearl,Black,null,4,Gas,13.0L/100km,8.4L/100km,7990
+2014,Dodge,Grand,256896 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,7,4,Flexible,null,null,7999
+2019,Dodge,Grand,82195 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,2,Gas,13.7L/100km,9.4L/100km,30980
+2014,Dodge,Grand,173110 km,Minivan,V6 283HP 260FT. LBS.,Automatic,FWD,Dark Blue,Black,7,4,Gas,12.2L/100km,7.9L/100km,8990
+2011,Dodge,Grand,100800 km,Minivan,3.6,6 Speed Automatic,FWD,Stone White,Grey,7,4,Gas,12.2L/100km,7.9L/100km,10888
+2014,Dodge,Journey,184674 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Pitch Black Clearcoat,Black,7,4,Gas,12.9L/100km,8.4L/100km,10888
+2013,Dodge,Charger,150000 km,Sedan,V6 Cylinder Engine,5 Speed Automatic,RWD,White,Black,5,4,Gas,11.7L/100km,7.3L/100km,10999
+2012,Dodge,Grand,102300 km,Minivan,3.6,Automatic,FWD,Stone White,Black,null,4,Gas,12.2L/100km,7.9L/100km,11500
+2017,Dodge,Grand,198000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,11900
+2014,Dodge,Journey,113100 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic Clearcoat,Black,5,4,Gas,11.2L/100km,7.7L/100km,12450
+2016,Dodge,Charger,241000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,Pitch Black,Black,5,4,Gas,16.1L/100km,10.0L/100km,12499
+2016,Dodge,Grand,187291 km,Minivan,3.6,Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Other,13.7L/100km,9.4L/100km,12995
+2020,Dodge,Challenger,19397 km,Coupe,V-8 cyl,Manual,RWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,15.6L/100km,10.1L/100km,48589
+2014,Dodge,Grand,160000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,7,4,Flexible,12.2L/100km,7.9L/100km,12999
+2016,Dodge,Charger,226000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,Blue,Black,5,4,Gas,16.1L/100km,10.0L/100km,13500
+2017,Dodge,Grand,189000 km,Minivan,3.6,Automatic,FWD,Bright White,Black,null,4,Other,13.7L/100km,9.4L/100km,13598
+2015,Dodge,Grand,147399 km,Minivan,3.6L V6 DOHC 24V,Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,13861
+2015,Dodge,Journey,153376 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Granite Crystal Metallic,Black,7,4,Gas,null,null,13888
+2016,Dodge,Charger,159000 km,Sedan,V6 Cylinder Engine,5 Speed Automatic,RWD,White,Black,5,4,Flexible,13.7L/100km,8.9L/100km,13900
+2016,Dodge,Charger,227000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,Pitch Black,Black,5,4,Gas,16.1L/100km,10.0L/100km,13900
+2016,Dodge,Grand,162000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,13900
+2016,Dodge,Grand,180106 km,Minivan,3.6L V6 DOHC 24V,Automatic,FWD,Billet Silver Metallic,Grey,null,null,Gas,13.7L/100km,9.4L/100km,13995
+2019,Dodge,Grand,101330 km,Minivan,3.6,Automatic,FWD,Granite Crystal Metallic,Black,6,4,Other,13.7L/100km,9.4L/100km,26985
+2015,Dodge,Journey,132905 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Granite Crystal Metallic,null,null,null,Gas,null,null,14888
+2016,Dodge,Grand,130000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,White,Black,7,4,Flexible,null,null,14980
+2016,Dodge,Grand,120468 km,Minivan,3.6,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,4,Other,13.7L/100km,9.4L/100km,14995
+2014,Dodge,Grand,75646 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,7,4,Flexible,null,null,15388
+2015,Dodge,Grand,113000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15495
+2016,Dodge,Grand,156077 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15888
+2016,Dodge,Grand,155437 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15888
+2017,Dodge,Grand,151616 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Jazz Blue Pearl,Black,7,5,Gas,13.7L/100km,9.4L/100km,15995
+2014,Dodge,Grand,90145 km,Minivan,3.6,6 Speed Automatic,FWD,Billet Silver Metallic Clearcoat,Black,null,4,Other,12.2L/100km,7.9L/100km,15995
+2015,Dodge,Grand,113000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15495
+2016,Dodge,Journey,177294 km,SUV,3.6,6 Speed Automatic,AWD,Billet Silver Metallic,Black,7,4,Gas,14.5L/100km,9.9L/100km,15995
+2017,Dodge,Grand,155000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15995
+2018,Dodge,Grand,179562 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Billet Metallic,Black,null,null,Gas,13.7L/100km,9.4L/100km,15999
+2015,Dodge,Grand,138100 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Billet Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,16499
+2016,Dodge,Journey,133672 km,SUV,3.6L 6cyl,6 Speed Automatic,FWD,White,Black,7,4,Flexible,14.2L/100km,9.4L/100km,16888
+2016,Dodge,Journey,148000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Pitch Black,Black,7,4,Gas,14.5L/100km,9.9L/100km,16995
+2015,Dodge,Grand,70000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Flexible,null,null,17900
+2016,Dodge,Charger,204000 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Pitch Black,Black,5,4,Flexible,12.8L/100km,8.6L/100km,17900
+2010,Dodge,Ram,250000 km,Truck,8 Cylinder Engine,Automatic,4x4,Bright White,Dark Grey,6,4,Gas,null,null,17900
+2018,Dodge,Charger,59213 km,Sedan,3.6L V6 24V VVT,8 Speed Automatic,AWD,Flame Red,null,null,null,Gas,12.8L/100km,8.7L/100km,56699
+2012,Dodge,Grand,44000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,White,Black,7,4,Gas,null,null,17980
+2019,Dodge,Grand,160848 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Octane Red Pearl,null,null,4,Flexible,13.7L/100km,9.4L/100km,17998
+2018,Dodge,Charger,163000 km,Sedan,6 Cylinder Engine,5 Speed Automatic,RWD,White,Black,5,4,Gas,13.7L/100km,9.0L/100km,18900
+2012,Dodge,Challenger,210000 km,Coupe,8 Cylinder Engine,6 Speed Manual,RWD,null,null,5,2,Gas,null,null,18900
+2018,Dodge,Journey,166000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Granite Crystal Metallic,Black,7,4,Gas,14.5L/100km,10.0L/100km,18995
+2017,Dodge,Grand,176648 km,Van Regular,283HP 3.6L V6 Cylinder Engine,Automatic,FWD,Jazz Blue Pearl,Black,null,4,Gas,13.7L/100km,9.4L/100km,19290
+2018,Dodge,Grand,123000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Black,7,null,Gas,13.7L/100km,9.4L/100km,19490
+2019,Dodge,Grand,168172 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Grey,7,4,Flexible,13.7L/100km,9.4L/100km,19850
+2016,Dodge,Journey,100035 km,SUV,3.6L V6 SFI DO,Automatic,4x4,White,null,null,4,Gas,null,null,19995
+2022,Dodge,Durango,4690 km,SUV,8cyl,8 Speed Automatic,AWD,DB Black,Black,null,null,Gas,18.3L/100km,12.2L/100km,82999
+2019,Dodge,Grand,184175 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,null,Gas,13.7L/100km,9.4L/100km,19999
+2018,Dodge,Journey,126242 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,White,Black,7,4,Gas,14.5L/100km,10.0L/100km,20888
+2019,Dodge,Charger,193124 km,Sedan,3.6,Automatic,RWD,Pitch Black,Black,5,4,Gas,12.4L/100km,7.8L/100km,22990
+2018,Dodge,Journey,87237 km,SUV,V6 Cylinder Engine,6 Speed Automatic,FWD,White,Black,7,4,Flexible,14.2L/100km,9.5L/100km,23488
+2019,Dodge,Grand,132000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Billet Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,24895
+2017,Dodge,Journey,52032 km,SUV,3.6L V6 24V VVT,Automatic,AWD,Pearl White Tri-Coat,Black,null,4,Gas,14.5L/100km,10.0L/100km,24999
+2018,Dodge,Charger,75553 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,Red,Black,5,4,Flexible,12.4L/100km,7.8L/100km,25880
+2016,Dodge,Charger,92685 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Pitch Black,Black,5,4,Flexible,12.8L/100km,8.6L/100km,25987
+2019,Dodge,Grand,104000 km,Minivan,3.6,Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Other,13.7L/100km,9.4L/100km,25998
+2017,Dodge,Grand,95390 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Granite Crystal Metallic,Black,null,4,Flexible,13.7L/100km,9.4L/100km,20995
+2019,Dodge,Charger,108636 km,Sedan,3.6L V6 DOHC 24V,Automatic,RWD,White Knuckle,Grey,null,4,Gas,12.4L/100km,7.8L/100km,26599
+2019,Dodge,Grand,101330 km,Minivan,3.6,Automatic,FWD,Granite Crystal Metallic,Black,6,4,Other,13.7L/100km,9.4L/100km,26985
+2019,Dodge,Grand,56450 km,Minivan,3.6L V6 Flex Fuel 24V VVT,Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Gas,13.7L/100km,9.4L/100km,26986
+2015,Dodge,Challenger,87661 km,Coupe,V6 Cylinder Engine,8 Speed Automatic,RWD,Black,Charcoal,5,2,Gas,12.4L/100km,7.8L/100km,26995
+2019,Dodge,Journey,80379 km,SUV,V6 Cylinder Engine,Automatic,AWD,Granite Crystal Metallic,Black,null,null,Gas,14.5L/100km,10.0L/100km,26999
+2014,Dodge,Challenger,72423 km,Coupe,8 Cylinder Engine,6 Speed Manual,RWD,Jazz Blue Pearlcoat,null,5,2,Gas,null,null,27848
+2017,Dodge,Durango,128731 km,SUV,3.6L V6 24V VVT,8 Speed Automatic,AWD,Bright White,Black,null,null,Gas,12.7L/100km,9.6L/100km,31420
+2018,Dodge,Challenger,150000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Bright White,Red,5,2,Gas,14.7L/100km,9.4L/100km,31777
+2020,Dodge,Grand,97106 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,32597
+2022,Dodge,Challenger,10023 km,Coupe,3.6L V6 24V VVT,8 Speed Automatic,AWD,F8 Green Metallic,Black,null,null,Gas,12.8L/100km,8.7L/100km,48999
+2020,Dodge,Grand,83964 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Indigo Blue,Black,7,4,Flexible,13.7L/100km,9.4L/100km,32987
+2020,Dodge,Grand,85148 km,Minivan,3.6L 6cyl,Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,32990
+2020,Dodge,Grand,76972 km,Minivan,Pentastar 3.6L V6 VVT,Automatic,FWD,Indigo Blue,null,null,null,Gas,13.7L/100km,9.4L/100km,33820
+2018,Dodge,Durango,149000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,null,null,6,4,Gas,12.7L/100km,9.6L/100km,33995
+2020,Dodge,Grand,62716 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,34987
+2018,Dodge,Durango,136700 km,SUV,V6 Cylinder Engine,Automatic,4WD,DB Black,null,5,null,Gas,12.7L/100km,9.6L/100km,35888
+2020,Dodge,Durango,79819 km,SUV,V6 Cylinder Engine,Automatic,4WD,White,Black,7,null,Gas,12.7L/100km,9.6L/100km,35990
+2010,Dodge,Ram,110000 km,Truck,Straight 6 Cylinder Engine,Automatic,4x4,White,Dark Grey,6,4,Diesel,null,null,37900
+2019,Dodge,Durango,128393 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White,Black,6,4,Gas,16.7L/100km,10.9L/100km,38898
+2021,Dodge,Durango,36080 km,SUV,5.7L 8Cyl,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,2,Gas,16.7L/100km,10.9L/100km,52999
+2018,Dodge,Durango,79530 km,SUV,3.6,Automatic,AWD,DB Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,39885
+2017,Dodge,Challenger,60038 km,Coupe,HEMI 5.7L V8 Multi Displacement VVT,null,RWD,Green Go,Black,null,null,Gas,14.7L/100km,9.4L/100km,40920
+2019,Dodge,Charger,42886 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Pitch Black,Black,5,4,Gas,12.8L/100km,8.7L/100km,41480
+2020,Dodge,Challenger,34164 km,Coupe,3.6L V6 24V VVT,Automatic,RWD,Torred,Black,5,2,Gas,12.4L/100km,7.8L/100km,41999
+2018,Dodge,Challenger,57253 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Red,Black,5,2,Gas,12.8L/100km,8.7L/100km,42880
+2020,Dodge,Challenger,28500 km,Coupe,V6 Cylinder Engine,Automatic,RWD,Dark Grey,Black,5,2,Gas,12.4L/100km,7.8L/100km,43880
+2021,Dodge,Challenger,15674 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Go Mango,Grey,5,2,Gas,12.8L/100km,8.7L/100km,48880
+2021,Dodge,Durango,35241 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White,Red,6,4,Gas,16.7L/100km,10.9L/100km,49499
+2021,Dodge,Durango,72824 km,SUV,8 Cylinder Engine,Automatic,AWD,Grey,Black,null,4,Gas,16.7L/100km,10.9L/100km,49980
+2022,Dodge,Durango,5 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,White Knuckle,Black,null,null,Gas,16.7L/100km,10.9L/100km,56690
+2021,Dodge,Challenger,21204 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Pitch Black,Black,5,2,Gas,12.8L/100km,8.7L/100km,50880
+2021,Dodge,Durango,22489 km,SUV,8 Cylinder Engine,Automatic,4WD,DB Black,null,null,null,Gas,16.7L/100km,10.9L/100km,53995
+2021,Dodge,Durango,11079 km,SUV,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,AWD,Granite Crystal Metallic,null,null,null,Gas,16.7L/100km,10.9L/100km,56980
+2022,Dodge,Charger,14 km,Sedan,3.6L V6 24V VVT,8 Speed Automatic,AWD,Hellraisin,Black,null,null,Gas,12.8L/100km,8.7L/100km,57888
+2022,Dodge,Durango,19336 km,SUV,3.6L PENTASTAR VVT V6 W/ESS,8 Speed Automatic,AWD,DB Black,Black,null,null,Regular Unleaded,12.7L/100km,9.6L/100km,57920
+2020,Dodge,Challenger,9227 km,Coupe,SRT HEMI 6.4L V8 with Fuelsaver MDS,Manual,RWD,Go Mango,Black,null,null,Gas,16.7L/100km,10.4L/100km,66980
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2020,Dodge,Grand,67060 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,29998
+2017,Dodge,Challenger,148300 km,Coupe,3.6,Automatic,AWD,Gray,Black,null,2,Gas,12.8L/100km,8.7L/100km,30388
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2001,Dodge,Viper,34693 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Race Yellow Clearcoat/Viper Black,Black,null,2,Gas,14.0L/100km,27.0L/100km,124800
+2012,Dodge,Grand,238268 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6770
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2015,Dodge,Journey,153376 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Granite Crystal Metallic,Black,7,4,Gas,null,null,13888
+2015,Dodge,Journey,168828 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Billet Metallic,Black,7,4,Gas,14.5L/100km,9.9L/100km,14888
+2020,Dodge,Durango,34400 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,18.3L/100km,12.2L/100km,68950
+2020,Dodge,Charger,35844 km,Sedan,6.2L Supercharged HEMI V8 SRT,8 Speed Automatic,RWD,Granite Crystal Metallic,null,null,null,Gas,19.0L/100km,11.5L/100km,91920
+2021,Dodge,Charger,7617 km,Sedan,6.2L V8 Supercharged,8 Speed Automatic,RWD,Frostbite Pearl,Black,null,null,Gas,19.0L/100km,11.5L/100km,125980
+2021,Dodge,Challenger,5971 km,Coupe,6.2L V8 Supercharged,8 Speed Automatic,RWD,White Knuckle,null,null,null,Gas,18.6L/100km,11.3L/100km,129920
+2020,Dodge,Grand,61177 km,Minivan,3.6L V6 24V VVT,Automatic,FWD,Indigo Blue,Grey,null,4,Gas,13.7L/100km,9.4L/100km,31995
+2012,Dodge,Journey,367792 km,SUV,V6 Cylinder Engine,Automatic,FWD,Black,Black,null,4,Other,12.6L/100km,7.8L/100km,3495
+2008,Dodge,Grand,178100 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,FWD,null,null,2,4,Gas,12.0L/100km,8.2L/100km,5100
+2014,Dodge,Grand,251000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Red,Black,4,4,Flexible,12.2L/100km,7.9L/100km,5800
+2012,Dodge,Journey,161731 km,SUV,6 CYL V6,Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Gas,12.6L/100km,7.8L/100km,7990
+2013,Dodge,Journey,178031 km,SUV,3.6L 6cyl,4 Speed Automatic,FWD,Red,Black,5,5,Gas,11.2L - 12.6L/100km,7.7L - 7.9L/100km,7999
+2016,Dodge,Grand,246000 km,Minivan,6,Automatic,FWD,Burgundy,Grey,7,4,Gas,13.7L/100km,9.4L/100km,8995
+2009,Dodge,Grand,123500 km,Minivan,3.3,4 Speed Automatic,FWD,Stone White,Grey,7,4,Other,12.6L/100km,8.4L/100km,8999
+2010,Dodge,Charger,179000 km,Sedan,3.5,Automatic,AWD,null,null,null,null,Gas,12.6L/100km,8.6L/100km,8999
+2015,Dodge,Journey,168378 km,SUV,2.4,Automatic,FWD,Blue,Black,null,4,Gas,12.7L/100km,9.1L/100km,9998
+2019,Dodge,Challenger,24408 km,Coupe,8cyl,8 Speed Automatic,RWD,Go Mango,Black,null,null,Gas,null,null,98999
+2015,Dodge,Journey,187429 km,SUV,4 Cylinder Engine,Automatic,FWD,Blue,Charcoal,null,4,Gas,12.7L/100km,9.1L/100km,9999
+2013,Dodge,Grand,158000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Silver,Black,7,4,Gas,12.2L/100km,7.9L/100km,10950
+2010,Dodge,Grand,80000 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,FWD,Stone White,Grey,7,4,Flexible,12.6L/100km,8.4L/100km,10999
+2014,Dodge,Charger,190717 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Black,Black,null,4,Other,11.7L/100km,7.3L/100km,11495
+2014,Dodge,Grand,165000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Grey,Black,7,4,Other,null,null,11495
+2014,Dodge,Grand,147184 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Black,Black,null,4,Other,12.2L/100km,7.9L/100km,11495
+2013,Dodge,Grand,164752 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Dark Grey,Black,7,4,Gas,12.2L/100km,7.9L/100km,11495
+2015,Dodge,Grand,179900 km,Minivan,V6 Cylinder Engine,Automatic,null,null,null,null,null,Flexible,13.7L/100km,9.4L/100km,11995
+2016,Dodge,Grand,168000 km,Minivan,3.6L,Automatic,FWD,Blue,Black,7,4,Gas,13.7L/100km,9.4L/100km,11999
+2020,Dodge,Durango,35240 km,SUV,SRT HEMI 6.4L V8 MDS,Automatic,AWD,Gray,Black,null,4,Gas,18.3L/100km,12.2L/100km,76377
+2015,Dodge,Journey,139000 km,SUV,2.4,Automatic,FWD,Silver,Black,5,4,Gas,12.7L/100km,9.1L/100km,12490
+2013,Dodge,Grand,130000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Beige,Black,7,4,Gas,12.2L/100km,7.9L/100km,12500
+2013,Dodge,Grand,150000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Gas,12.2L/100km,7.9L/100km,12980
+2013,Dodge,Grand,84000 km,Minivan,3.6L V6,Automatic,FWD,Gold,Black,7,4,Gas,12.2L/100km,7.9L/100km,13988
+2016,Dodge,Grand,149000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,13995
+2015,Dodge,Journey,111850 km,SUV,3.6,6 Speed Automatic,AWD,Pitch Black,Black,null,4,Gas,14.5L/100km,9.9L/100km,13995
+2016,Dodge,Grand,194641 km,Minivan,3.6L V6 DOHC 24V,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,null,Gas,13.7L/100km,9.4L/100km,13999
+2014,Dodge,Grand,119000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White Clearcoat,Black,4,4,Flexible,12.2L/100km,7.9L/100km,14000
+2015,Dodge,Journey,168828 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Billet Metallic,Black,7,4,Gas,14.5L/100km,9.9L/100km,14888
+2014,Dodge,Viper,17089 km,Coupe,8.4L V10 SFI,6 Speed Manual,RWD,Black Clearcoat,Black,null,null,Gas,18.1L/100km,11.1L/100km,220890
+2014,Dodge,Grand,139158 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Red,Black,7,4,Gas,12.2L/100km,7.9L/100km,14990
+2017,Dodge,Journey,191000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,7,4,Gas,14.5L/100km,10.0L/100km,14995
+2016,Dodge,Journey,90258 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Redline Pearl,Black,7,4,Gas,12.7L/100km,9.1L/100km,14995
+2017,Dodge,Journey,185131 km,SUV,6 Cylinder,Automatic,FWD,Granite Crystal Metallic,Black,5,4,Gas,14.2L/100km,9.5L/100km,15333
+2016,Dodge,Journey,154000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Redline Pearl,Black,7,4,Gas,14.5L/100km,9.9L/100km,15500
+2017,Dodge,Grand,164763 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15888
+2018,Dodge,Grand,152731 km,Minivan,3.6,Automatic,FWD,Silver,Black,7,4,Flexible,13.7L/100km,9.4L/100km,15995
+2015,Dodge,Journey,126000 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Pitch Black,Black,7,4,Gas,null,null,15995
+2017,Dodge,Journey,155000 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,12.7L/100km,9.2L/100km,15995
+2019,Dodge,Challenger,7500 km,Coupe,8 Cylinder,Automatic,RWD,F8 Green,Black,2,2,Gas,17.6L/100km,10.7L/100km,115800
+2015,Dodge,Grand,87000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,True Blue Pearl,Black,4,4,Flexible,13.7L/100km,9.4L/100km,15995
+2017,Dodge,Grand,158378 km,Minivan,3.6,Automatic,FWD,Grey,Black,7,4,Other,13.7L/100km,9.4L/100km,16295
+2016,Dodge,Grand,112000 km,Minivan,3.0L,Automatic,null,White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,16480
+2016,Dodge,Grand,152222 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Dark Grey,7,4,Flexible,13.7L/100km,9.4L/100km,16850
+2016,Dodge,Journey,156353 km,SUV,3.6L 6cyl,6 Speed Automatic,FWD,Pitch Black,Black,7,4,Flexible,14.2L/100km,9.4L/100km,16888
+2016,Dodge,Grand,160000 km,Minivan,3.6L V6,Automatic,FWD,White,Black,7,4,Gas,13.7L/100km,9.4L/100km,16988
+2016,Dodge,Journey,97553 km,SUV,3.6L,Automatic,FWD,Silver,Black,5,4,Other,12.7L - 14.2L/100km,9.1L - 9.4L/100km,16990
+2015,Dodge,Grand,101036 km,Minivan,6 Cylinder,Automatic,FWD,Brilliant Black Crystal Pearl,Grey,7,4,Gas,null,null,17800
+2017,Dodge,Grand,102800 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Grey,7,4,Flexible,13.7L/100km,9.4L/100km,17890
+2019,Dodge,Grand,89804 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,4,Flexible,13.7L/100km,9.4L/100km,27988
+2018,Dodge,Grand,146000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,White,Black,7,4,Other,13.7L/100km,9.4L/100km,17985
+2018,Dodge,Journey,46662 km,SUV,4 Cylinder Engine,Automatic,FWD,WHITE,Black,5,4,Gas,12.7L/100km,9.2L/100km,17989
+2017,Dodge,Grand,146353 km,Minivan,3.6,6 Speed Automatic,FWD,Black,Black,7,5,Gas,13.7L/100km,9.4L/100km,17998
+2018,Dodge,Grand,102217 km,Minivan,6,Automatic,FWD,White,null,null,4,Other,13.7L/100km,9.4L/100km,19495
+2016,Dodge,Journey,129695 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,White,Black,7,4,Gas,null,null,19888
+2016,Dodge,Grand,115598 km,Minivan,3.6,Automatic,FWD,Billet Silver Metallic,Black,7,4,Other,13.7L/100km,9.4L/100km,19985
+2017,Dodge,Grand,101892 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Black,null,null,4,Other,13.7L/100km,9.4L/100km,20995
+2017,Dodge,Grand,101000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Maroon,null,7,4,Other,13.7L/100km,9.4L/100km,21500
+2016,Dodge,Journey,91798 km,SUV,3.6L 6cyl,6 Speed Automatic,FWD,White,Black,7,4,Gas,null,null,21888
+2018,Dodge,Durango,57322 km,SUV,8 Cylinder Engine 5.7L,Automatic,AWD,null,null,null,4,Gas,16.7L/100km,10.9L/100km,47240
+2017,Dodge,Journey,129182 km,SUV,3.6L V6 DOHC 24V,Automatic,FWD,White,Black,7,4,Gas,14.2L/100km,9.5L/100km,22379
+2016,Dodge,Charger,130067 km,Sedan,3.6L 6cyl,8 Speed Automatic,AWD,Grey,Grey,null,2,Gas,12.8L/100km,8.6L/100km,25990
+2019,Dodge,Grand,158375 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Billet Metallic,Black,7,5,Gas,13.7L/100km,9.4L/100km,26588
+2018,Dodge,Charger,139700 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Grey,Grey,5,4,Gas,12.4L/100km,7.8L/100km,26700
+2017,Dodge,Grand,39370 km,Minivan,3.6L V6 24V VVT,Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,27999
+2018,Dodge,Grand,63921 km,Minivan,3.6L,Automatic,FWD,Grey,Black,null,4,Gas,13.7L/100km,9.4L/100km,28990
+2019,Dodge,Grand,62941 km,Minivan,V6 Cylinder Engine,Automatic,null,Granite Crystal Metallic,null,null,null,Gas,13.7L/100km,9.4L/100km,28995
+2019,Dodge,Grand,79000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Black,7,4,Flexible,13.7L/100km,9.4L/100km,29088
+2018,Dodge,Charger,100306 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Pitch Black,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,31999
+2022,Dodge,RAM,null,null,null,null,null,null,null,null,null,null,null,null,179800
+2021,Dodge,Charger,76410 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Black,Black,5,4,Gas,12.4L/100km,7.8L/100km,34990
+2017,Dodge,Charger,93838 km,Sedan,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,RWD,Maximum Steel Metallic,Black,null,4,Gas,14.7L/100km,9.4L/100km,36499
+2020,Dodge,Grand,85273 km,Minivan,3.6,Automatic,FWD,Brilliant Black Crystal Pearl,Black,6,4,Gas,13.7L/100km,9.4L/100km,36665
+2020,Dodge,Durango,75800 km,SUV,3.6,Automatic,AWD,Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,37999
+2021,Dodge,Charger,63000 km,Sedan,3.6,Automatic,RWD,Red,Black,5,4,Gas,12.4L/100km,7.8L/100km,38999
+2022,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,White Knuckle,Black,7,4,Gas,12.7L/100km,9.6L/100km,51995
+2021,Dodge,Charger,48625 km,Sedan,8 Cylinder Engine,Automatic,RWD,Go Mango,Black,null,null,Gas,14.7L/100km,9.4L/100km,51999
+2022,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Go Mango,Black,null,4,Gas,12.8L/100km,8.7L/100km,53999
+2021,Dodge,Charger,35371 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Black,5,4,Gas,14.7L/100km,9.4L/100km,54880
+2022,Dodge,Charger,1024 km,Sedan,8cyl,8 Speed Automatic,RWD,White Knuckle,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,53385
+2022,Dodge,Charger,100 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,54999
+2022,Dodge,Charger,100 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,55998
+2022,Dodge,Durango,0 km,SUV,V-8 cyl,8 Speed Automatic,AWD,DB Black,null,null,4,Regular Unleaded,16.7L/100km,10.9L/100km,57585
+2022,Dodge,Durango,100 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White Knuckle,null,null,4,Gas,16.7L/100km,10.9L/100km,58385
+2022,Dodge,Durango,250 km,SUV,5.7L V8 16V MPFI OHV,Automatic,AWD,DB Black,Black,6,4,Gas,16.7L/100km,10.9L/100km,60562
+2022,Dodge,Durango,16 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Destroyer Grey,Black,6,4,Gas,12.7L/100km,9.6L/100km,61998
+2022,Dodge,Durango,100 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,DB Black,null,null,4,Gas,16.7L/100km,10.9L/100km,62735
+2022,Dodge,Durango,10 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,63035
+2022,Dodge,Durango,null,SUV,5.7L HEMI V-8 engine,8 Speed Automatic,AWD,Destroyer Grey,null,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,63710
+2015,Dodge,Challenger,76847 km,Coupe,3.6L V6 24V VVT,8 Speed Automatic,RWD,Torred,Black,null,null,Gas,12.4L/100km,7.8L/100km,23999
+2022,Dodge,Durango,20 km,SUV,3.6L Pentastar VVT V6 w/ESS,8 Speed Automatic,AWD,DB Black,null,null,null,Regular Unleaded,12.7L/100km,9.6L/100km,63780
+2022,Dodge,Durango,26 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,White Knuckle,Black,6,4,Gas,12.7L/100km,9.6L/100km,64449
+2022,Dodge,Durango,0 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,Automatic,4WD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,64995
+2022,Dodge,Durango,9200 km,SUV,5.7L HEMI VVT V8 W/FUELSAVER MDS,8 Speed Automatic,AWD,Destroyer Grey,null,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,76020
+2022,Dodge,Durango,35 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,AWD,DB Black,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,79920
+2022,Dodge,Durango,0 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,Automatic,4WD,Destroyer Grey,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,80995
+2022,Dodge,Durango,16 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,AWD,DB Black,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,81920
+2022,Dodge,Durango,16 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,AWD,DB Black,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,82327
+2022,Dodge,Durango,0 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,Automatic,4WD,White Knuckle,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,84995
+2022,Dodge,Durango,380 km,SUV,HEMI 5.7L V8 VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58890
+2022,Dodge,Durango,null,SUV,6.4L HEMI V8,8 Speed Automatic,AWD,Octane Red Pearl,Black,7,4,Gas,18.3L/100km,12.2L/100km,84995
+2022,Dodge,Durango,null,SUV,6.4L HEMI V8,8 Speed Automatic,AWD,DB Black,Black,5,4,Gas,18.3L/100km,12.2L/100km,84995
+2022,Dodge,Durango,0 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,Automatic,4WD,DB Black,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,85495
+2022,Dodge,Durango,22 km,SUV,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,AWD,Octane Red Pearl,Black,null,null,Premium Unleaded,18.3L/100km,12.2L/100km,86876
+2010,Dodge,Journey,194335 km,SUV,3.5L V6 235HP 232FT. LBS.,Automatic,FWD,Grey,Black,null,4,Gas,13.3L/100km,8.3L/100km,4990
+2011,Dodge,Journey,229327 km,SUV,6 CYL V6,Automatic,FWD,Bright Silver Metallic,Black,null,4,Gas,12.6L/100km,7.8L/100km,5990
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2015,Dodge,Grand,102303 km,Minivan,V-6 cyl,Automatic,null,Granite Crystal Metallic,Black,null,null,Flexible,13.7L/100km,9.4L/100km,15995
+2017,Dodge,Journey,94189 km,SUV,2.4L L4 DOHC 16V,Automatic,FWD,White,Black,null,4,Gas,12.7L/100km,9.2L/100km,16998
+2020,Dodge,Grand,67060 km,Van Regular,3.6L V6 DOHC 24V,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,29998
+2019,Dodge,Challenger,14000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Green,Black,2,2,Gas,null,null,107777
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2008,Dodge,Viper,41762 km,Coupe,10 Cylinder,6 Speed Manual,RWD,Viper Black Clear Coat,Black,null,2,Gas,16.8L/100km,9.2L/100km,129800
+2017,Dodge,Grand,189000 km,Minivan,3.6,Automatic,FWD,Bright White,Black,null,4,Other,13.7L/100km,9.4L/100km,13598
+2014,Dodge,Grand,139158 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Red,Black,7,4,Gas,12.2L/100km,7.9L/100km,14990
+2013,Dodge,Grand,196730 km,Minivan,PENTASTAR 3.6L V6 283HP 260FT.,Automatic,FWD,Blue,Black,5,4,Gas,12.2L/100km,7.9L/100km,7990
+2014,Dodge,Journey,215000 km,SUV,4 Cylinder Engine,Automatic,FWD,White,Black,5,4,Gas,11.2L/100km,7.7L/100km,7999
+2013,Dodge,Grand,217000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Grey,Black,7,4,Gas,12.2L/100km,7.9L/100km,8850
+2012,Dodge,Journey,177752 km,SUV,3.6L 6cyl,4 Speed Automatic,FWD,White,Black,null,4,Flexible,12.6L/100km,7.8L/100km,8990
+2022,Dodge,Challenger,10023 km,Coupe,3.6L V6 24V VVT,8 Speed Automatic,AWD,F8 Green Metallic,Black,null,null,Gas,12.8L/100km,8.7L/100km,48999
+2010,Dodge,Journey,91000 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gold,Black,5,4,Gas,13.3L/100km,8.3L/100km,8995
+2014,Dodge,Dart,125110 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Grey,Black,5,4,Flexible,8.8L - 9.1L/100km,5.6L/100km,9495
+2013,Dodge,Dart,157000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Pitch Black,Black,5,4,Gas,8.1L - 8.6L/100km,5.4L - 5.8L/100km,9800
+2013,Dodge,Grand,167715 km,Minivan,3.6L,Automatic,FWD,Blue,Black,7,4,Gas,12.2L/100km,7.9L/100km,10995
+2014,Dodge,Grand,192199 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,7,4,Gas,12.2L/100km,7.9L/100km,10998
+2014,Dodge,Grand,176000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Maximum Steel Metallic Clearcoat,Black,4,4,Flexible,null,null,12300
+2014,Dodge,Journey,124000 km,SUV,4 Cylinder Engine,Automatic,FWD,Pitch Black Clearcoat,Black,7,4,Gas,11.2L/100km,7.7L/100km,12900
+2014,Dodge,Journey,121000 km,SUV,4 Cylinder Engine,Automatic,FWD,Pitch Black Clearcoat,Black,5,4,Gas,11.2L/100km,7.7L/100km,12900
+2013,Dodge,Grand,144188 km,Minivan,3.6,Automatic,FWD,White,Black,7,4,Gas,12.2L/100km,7.9L/100km,12990
+2022,Dodge,Durango,2950 km,SUV,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,58999
+2016,Dodge,Grand,203184 km,Minivan,3.6,Automatic,FWD,Gold,Black,7,4,Other,13.7L/100km,9.4L/100km,12995
+2015,Dodge,Grand,211356 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,4,4,Flexible,13.7L/100km,9.4L/100km,12999
+2013,Dodge,Journey,110472 km,SUV,4 Cylinder,Automatic,FWD,Copper Pearl,Grey,5,4,Gas,11.2L/100km,7.7L/100km,13000
+2014,Dodge,Journey,118019 km,SUV,2.4L L4 DOHC 16V,Automatic,FWD,Granite Crystal Metallic Clearcoat,Black,5,4,Gas,11.2L/100km,7.7L/100km,13418
+2013,Dodge,Grand,112962 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,7,4,Gas,12.2L/100km,7.9L/100km,13694
+2014,Dodge,Grand,140285 km,Minivan,3.6,Automatic,FWD,Black,Black,7,4,Gas,12.2L/100km,7.9L/100km,13990
+2014,Dodge,Grand,166000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,True Blue Pearlcoat,Black,4,4,Flexible,12.2L/100km,7.9L/100km,13995
+2014,Dodge,Grand,132567 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,4,4,Flexible,null,null,13999
+2015,Dodge,Journey,154349 km,SUV,4 Cylinder,Automatic,FWD,Blue,Black,7,4,Gas,12.7L/100km,9.1L/100km,14000
+2022,Dodge,Charger,1111 km,Sedan,8cyl,8 Speed Automatic,RWD,Pitch Black,null,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,53385
+2015,Dodge,Grand,176546 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Bright White,Black,null,4,Gas,13.7L/100km,9.4L/100km,15498
+2016,Dodge,Grand,173546 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,null,null,4,Flexible,13.7L/100km,9.4L/100km,15850
+2014,Dodge,Grand,118681 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Silver,Black,7,4,Other,null,null,16999
+2019,Dodge,Journey,154208 km,SUV,4 Cylinder Engine,Automatic,FWD,Pitch Black,Black,5,4,Gas,12.7L/100km,9.2L/100km,19990
+2017,Dodge,Grand,153981 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Gas,13.7L/100km,9.4L/100km,21888
+2018,Dodge,Grand,83096 km,Minivan,V6 Cylinder Engine,Automatic,null,Granite Crystal Metallic,Black,null,null,Gas,13.7L/100km,9.4L/100km,22995
+2017,Dodge,Journey,109637 km,SUV,3.6L V6 DOHC 24V,Automatic,AWD,Black,null,null,4,Gas,14.5L/100km,10.0L/100km,24990
+2017,Dodge,Charger,146957 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Pitch Black,null,null,null,Gas,12.4L/100km,7.8L/100km,24995
+2016,Dodge,Grand,38000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Flexible,13.7L/100km,9.4L/100km,25900
+2022,Dodge,Durango,380 km,SUV,HEMI 5.7L V8 VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58890
+2015,Dodge,Challenger,113468 km,Coupe,5.7L,Automatic,RWD,Black,Black,5,4,Premium Unleaded,null,null,33995
+2023,Dodge,Hornet,8 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L,Automatic,AWD,8 Ball,Black,5,4,Gas,11.2L/100km,8.2L/100km,50380
+2023,Dodge,Challenger,null,Coupe,3.6L V6,8 Speed Automatic,AWD,Pitch Black,Black,5,2,Gas,12.8L/100km,8.7L/100km,52995
+2022,Dodge,Charger,0 km,Sedan,V-6 cyl,8 Speed Automatic,AWD,Go Mango,Black,null,4,Regular Unleaded,12.8L/100km,8.7L/100km,54995
+2022,Dodge,Charger,12 km,Sedan,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,RWD,Go Mango,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,55605
+2022,Dodge,Charger,12 km,Sedan,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,RWD,F8 Green Metallic,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,56050
+2022,Dodge,Charger,12 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Indigo Blue,Black,5,4,Gas,12.8L/100km,8.7L/100km,57060
+2022,Dodge,Charger,13 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,White Knuckle,Black,5,4,Gas,12.8L/100km,8.7L/100km,57060
+2022,Dodge,Charger,12 km,Sedan,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Octane Red Pearl,Black,5,4,Gas,12.8L/100km,8.7L/100km,57455
+2019,Dodge,Grand,82195 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,2,Gas,13.7L/100km,9.4L/100km,30980
+2022,Dodge,Charger,null,Sedan,3.6L V6,8 Speed Automatic,AWD,Pitch Black,Black,5,4,Gas,12.8L/100km,8.7L/100km,57995
+2023,Dodge,Charger,0 km,Sedan,V-6 cyl,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Regular Unleaded,12.4L/100km,7.8L/100km,58885
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,Triple Nickel,Black,null,4,Gas,12.4L/100km,7.8L/100km,58885
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,Triple Nickel,Black,null,4,Gas,12.4L/100km,7.8L/100km,58885
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,12.4L/100km,7.8L/100km,58885
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Black,null,4,Gas,12.4L/100km,7.8L/100km,58885
+2023,Dodge,Charger,17 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Sublime Pearl,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,60215
+2023,Dodge,Charger,15 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Torred,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,60215
+2022,Dodge,Charger,250 km,Sedan,5.7L V8 16V MPFI OHV,Automatic,RWD,White Knuckle,Black,null,4,Gas,14.7L/100km,9.4L/100km,61320
+2019,Dodge,Grand,68413 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,32999
+2022,Dodge,Charger,250 km,Sedan,5.7L V8 16V MPFI OHV,Automatic,RWD,Torred,Black,null,4,Gas,14.7L/100km,9.4L/100km,61320
+2022,Dodge,Charger,250 km,Sedan,5.7L V8 16V MPFI OHV,Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,61320
+2022,Dodge,Charger,250 km,Sedan,5.7L V8 16V MPFI OHV,Automatic,RWD,White Knuckle,Black,null,4,Gas,14.7L/100km,9.4L/100km,61320
+2023,Dodge,Charger,21 km,Sedan,3.6L Pentastar VVT V6,8 Speed Automatic,AWD,Triple Nickel,Black,null,null,Regular Unleaded,12.8L/100km,8.7L/100km,61355
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Granite Crystal Metallic,Black,null,4,Gas,12.8L/100km,8.7L/100km,61800
+2023,Dodge,Charger,0 km,Sedan,V-6 cyl,8 Speed Automatic,AWD,Pitch Black,Black,null,4,Regular Unleaded,12.8L/100km,8.7L/100km,62505
+2023,Dodge,Charger,0 km,Sedan,V-6 cyl,8 Speed Automatic,AWD,Pitch Black,Black,null,4,Regular Unleaded,12.8L/100km,8.7L/100km,62505
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Pitch Black,Black,null,4,Gas,12.8L/100km,8.7L/100km,62505
+2023,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,White Knuckle,Black,7,4,Gas,13.0L/100km,9.4L/100km,63995
+2022,Dodge,Durango,5 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,White Knuckle,Black,null,null,Gas,16.7L/100km,10.9L/100km,56690
+2023,Dodge,Durango,16 km,SUV,3.6L Pentastar VVT V6 w/ESS,8 Speed Automatic,4WD,White Knuckle,Black,null,null,Regular Unleaded,13.0L/100km,9.4L/100km,68880
+2023,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,White Knuckle,Black,6,4,Gas,13.0L/100km,9.4L/100km,69500
+2023,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,White Knuckle,Black,6,4,Gas,13.0L/100km,9.4L/100km,69500
+2023,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,DB Black,Black,6,4,Gas,13.0L/100km,9.4L/100km,69995
+2023,Dodge,Durango,null,SUV,3.6L V6,8 Speed Automatic,AWD,DB Black,Black,6,4,Gas,13.0L/100km,9.4L/100km,69995
+2022,Dodge,Durango,8249 km,SUV,8 Cylinder Engine,Automatic,4WD,DB Black,null,null,null,Gas,16.7L/100km,10.9L/100km,72395
+2022,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,72400
+2022,Dodge,Durango,18 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Octane Red Pearl,Black,null,4,Gas,12.7L/100km,9.6L/100km,73180
+2022,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,4WD,DB Black,Black,null,4,Gas,16.7L/100km,10.9L/100km,73875
+2021,Dodge,Charger,8115 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,F8 Green Metallic,Black,5,4,Gas,12.8L/100km,8.7L/100km,48321
+2023,Dodge,Charger,22 km,Sedan,6.4L SRT HEMI V8 w/FuelSaver MDS,8 Speed Automatic,RWD,Triple Nickel,Black,null,null,Premium Unleaded,15.9L/100km,9.6L/100km,78970
+2022,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Octane Red Pearl,Black,null,4,Gas,18.3L/100km,12.2L/100km,97640
+2022,Dodge,Challenger,34 km,Coupe,6.2L SRT HEMI V8 Supercharged,null,RWD,F8 Green Metallic,Black,null,null,Premium Unleaded,17.6L - 18.1L/100km,10.7L - 11.4L/100km,124995
+2010,Dodge,Grand,268441 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,FWD,Red,Grey,7,4,Flexible,null,null,4499
+2010,Dodge,Journey,207794 km,SUV,2.4L I4 173HP 166FT. LBS.,Automatic,FWD,Inferno Red Crystal Pearl,Black,null,4,Gas,11.0L/100km,7.9L/100km,4990
+2010,Dodge,Journey,217229 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Grey,Grey,5,4,Gas,11.0L/100km,7.9L/100km,5950
+2009,Dodge,Journey,153152 km,SUV,3.5L V6 235HP 232FT. LBS.,Automatic,FWD,Grey,Grey,null,4,Gas,13.5L/100km,8.6L/100km,5990
+2010,Dodge,Journey,173305 km,SUV,3.5L V6 235HP 232FT. LBS.,Automatic,FWD,Inferno Red Crystal Pearl,Black,5,4,Gas,13.3L/100km,8.3L/100km,5990
+2010,Dodge,Grand,216000 km,Minivan,3.3,Automatic,FWD,White,Black,2,4,Gas,12.3L/100km,8.3L/100km,6600
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2014,Dodge,Dart,229000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Pitch Black Clearcoat,Black,5,4,Gas,8.9L - 9.2L/100km,5.9L - 6.3L/100km,6900
+2012,Dodge,Journey,205710 km,SUV,4 Cylinder Engine,Automatic,FWD,Brown,Black,7,4,Gas,10.8L/100km,7.5L/100km,6995
+2010,Dodge,Journey,174000 km,SUV,3.5 L,Automatic,AWD,Black,Black,7,5,Gas,13.6L/100km,8.7L/100km,6995
+2013,Dodge,Dart,209308 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Blue,Black,5,4,Gas,7.4L/100km,4.9L - 5.8L/100km,7000
+2010,Dodge,Grand,182000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Dark Grey,Black,7,4,Other,12.6L/100km,8.4L/100km,7985
+2010,Dodge,Grand,184000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Black,Black,7,4,Other,12.6L/100km,8.4L/100km,7985
+2011,Dodge,Charger,190304 km,Sedan,3.6L,Automatic,RWD,null,null,null,null,Gas,11.7L/100km,7.3L/100km,8950
+2015,Dodge,Grand,275680 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Flexible,13.7L/100km,9.4L/100km,8995
+2009,Dodge,Caliber,77000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Stone White,Dark Grey,5,4,Gas,9.0L/100km,7.3L/100km,8999
+2020,Dodge,Challenger,19397 km,Coupe,V-8 cyl,Manual,RWD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,15.6L/100km,10.1L/100km,48589
+2004,Dodge,Ram,178200 km,Truck,8 Cylinder Engine,5 Speed Automatic,4x4,Black,Black,6,4,Gas,18.0L/100km,12.4L/100km,8999
+2010,Dodge,Ram,390270 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,Brilliant Black Crystal Pearl,Charcoal,5,4,Gas,16.2L/100km,10.8L/100km,9495
+2012,Dodge,Journey,196336 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,5,4,Gas,12.4L/100km,9.0L/100km,9699
+2012,Dodge,Journey,204730 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,White,Black,5,4,Gas,10.8L/100km,7.5L/100km,9699
+2012,Dodge,Grand,222000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Redline Pearl,Black,7,4,Gas,12.2L/100km,7.9L/100km,9950
+2012,Dodge,Grand,191254 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,True Blue Pearl,Black,7,4,Gas,12.2L/100km,7.9L/100km,10499
+2013,Dodge,Dart,115626 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black,Black,5,4,Gas,7.4L/100km,4.9L - 5.8L/100km,10499
+2014,Dodge,Journey,186000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,FWD,White,Black,7,4,Gas,null,null,10800
+2013,Dodge,Grand,168686 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Light Grey,null,7,4,Gas,12.2L/100km,7.9L/100km,10990
+2022,Dodge,Durango,4690 km,SUV,8cyl,8 Speed Automatic,AWD,DB Black,Black,null,null,Gas,18.3L/100km,12.2L/100km,82999
+2014,Dodge,Journey,197383 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,Granite Crystal Metallic Clearcoat,Black,7,4,Gas,11.2L/100km,7.7L/100km,10999
+2011,Dodge,Grand,144800 km,Minivan,3.6,Automatic,FWD,Dark Blue,Black,7,4,Gas,12.2L/100km,7.9L/100km,11500
+2015,Dodge,Journey,182 km,SUV,V6 Cylinder Engine,Automatic,FWD,Pitch Black,null,5,4,Gas,14.2L/100km,9.4L/100km,11995
+2016,Dodge,Journey,195542 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,White,Black,7,4,Gas,12.7L/100km,9.1L/100km,12499
+2015,Dodge,Journey,177000 km,SUV,2.4,Automatic,FWD,Dark Grey,Black,5,4,Gas,12.7L/100km,9.1L/100km,12500
+2014,Dodge,Journey,140288 km,SUV,4 Cylinder Engine,Automatic,FWD,Orange,null,null,4,Gas,11.2L/100km,7.7L/100km,12995
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2015,Dodge,Grand,102303 km,Minivan,V-6 cyl,Automatic,null,Granite Crystal Metallic,Black,null,null,Flexible,13.7L/100km,9.4L/100km,15995
+2019,Dodge,Challenger,15383 km,Coupe,SRT HEMI 6.4L V8 with Fuelsaver MDS,Manual,null,B5 Blue Pearlcoat,Black,null,null,Gas,16.7L/100km,10.4L/100km,68888
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2019,Dodge,Grand,55452 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Gas,13.7L/100km,9.4L/100km,32699
+2019,Dodge,Challenger,21859 km,Coupe,SC SRT HEMI V8,null,null,Granite Crystal Metallic,Black,null,null,Gas,17.6L - 18.1L/100km,10.7L - 11.4L/100km,129998
+2012,Dodge,Grand,238268 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6770
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2016,Dodge,Journey,91798 km,SUV,3.6L 6cyl,6 Speed Automatic,FWD,White,Black,7,4,Gas,null,null,21888
+2013,Dodge,Grand,127000 km,Minivan,3.6L V6,Automatic,FWD,Silver,Black,7,4,Gas,12.2L/100km,7.9L/100km,13888
+2012,Dodge,Grand,97000 km,Minivan,97000,Automatic,FWD,White,Black,7,4,Gas,12.2L/100km,7.9L/100km,13988
+2014,Dodge,Grand,163000 km,Minivan,3.6L V6,Automatic,FWD,Silver,Black,7,4,Gas,12.2L/100km,7.9L/100km,13988
+2014,Dodge,Grand,164000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearlcoat,Black,4,4,Flexible,null,null,14995
+2019,Dodge,Grand,68413 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,32999
+2010,Dodge,Ram,155533 km,Regular Cab,8 Cylinder,Automatic,AWD,Austin Tan Pearl,Grey,4,4,Gas,16.2L/100km,10.8L/100km,17800
+2019,Dodge,Challenger,90000 km,Coupe,V-6 CYL,8 Speed Automatic,null,Black,Black,5,2,Gas,null,null,33777
+2010,Dodge,Challenger,53042 km,Coupe,8 Cylinder Engine,6 Speed Manual,RWD,Brilliant Black Pearl,Black,5,2,Gas,15.6L - 16.0L/100km,9.2L - 10.6L/100km,35990
+2011,Dodge,Challenger,128000 km,Coupe,8 Cylinder Engine,Automatic,RWD,Green,Black,5,2,Gas,null,null,37777
+2023,Dodge,Hornet,8 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L,Automatic,AWD,8 Ball,Black,5,4,Gas,null,null,41185
+2023,Dodge,Challenger,null,Coupe,3.6L V6,8 Speed Automatic,AWD,Torred,Black,5,2,Gas,12.8L/100km,8.7L/100km,52995
+2023,Dodge,Challenger,0 km,Coupe,V6 Cylinder Engine,8 Speed Automatic,AWD,Pitch Black,Black,null,2,Gas,12.8L/100km,8.7L/100km,53255
+2022,Dodge,Durango,404 km,SUV,3.6L PENTASTAR VVT V6 W/ESS,8 Speed Automatic,4WD,Destroyer Grey,null,null,null,Gas,12.7L/100km,9.6L/100km,53920
+2023,Dodge,Challenger,100 km,Coupe,8 Cylinder Engine,null,RWD,Pitch Black,Black,null,2,Gas,14.7L/100km,9.4L/100km,56385
+2022,Dodge,Charger,1111 km,Sedan,8cyl,8 Speed Automatic,RWD,Pitch Black,null,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,53385
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Black,null,4,Gas,14.7L/100km,9.4L/100km,56585
+2023,Dodge,Challenger,0 km,Coupe,8 Cylinder Engine,null,RWD,Sublime Pearl,Black,null,2,Gas,14.7L/100km,9.4L/100km,56695
+2023,Dodge,Challenger,0 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,2,Gas,14.7L/100km,9.4L/100km,58475
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Sinamon Stick,Black,null,4,Gas,14.7L/100km,9.4L/100km,58875
+2023,Dodge,Charger,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Black,null,4,Gas,12.4L/100km,7.8L/100km,58885
+2022,Dodge,Durango,380 km,SUV,HEMI 5.7L V8 VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58890
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,59475
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Go Mango,Black,null,4,Gas,14.7L/100km,9.4L/100km,59770
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Sublime Pearl,Black,null,4,Gas,14.7L/100km,9.4L/100km,59975
+2022,Dodge,Durango,5 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,White Knuckle,Black,null,null,Gas,16.7L/100km,10.9L/100km,56690
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,59975
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Torred,Black,null,4,Gas,14.7L/100km,9.4L/100km,59975
+2023,Dodge,Charger,0 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Pitch Black,Black,null,4,Gas,14.7L/100km,9.4L/100km,60270
+2022,Dodge,Durango,41 km,SUV,3.6L PENTASTAR VVT V6 W/ESS,8 Speed Automatic,AWD,Destroyer Grey,Black,null,null,Regular Unleaded,12.7L/100km,9.6L/100km,62920
+1994,Dodge,Viper,25873 km,Convertible,8.0L V10,6 Speed Manual,RWD,Red,Grey,2,2,Gas,null,null,64999
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-6 3.6 L/220,Automatic,AWD,Octane Red Pearl,Black,null,4,Gas,13.0L/100km,9.4L/100km,69275
+2023,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,73980
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,DB Black,Black,null,4,Gas,16.7L/100km,10.9L/100km,77375
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,DB Black,Black,null,4,Gas,16.7L/100km,10.9L/100km,77375
+2022,Dodge,Durango,2950 km,SUV,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,58999
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,DB Black,Black,null,4,Gas,16.7L/100km,10.9L/100km,77375
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,DB Black,Black,null,4,Gas,16.7L/100km,10.9L/100km,77375
+2022,Dodge,Durango,8 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,DB Black,Black,6,4,Gas,16.7L/100km,10.9L/100km,79345
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,Destroyer Grey,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,Destroyer Grey,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,Destroyer Grey,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,4WD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,4WD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2023,Dodge,Durango,18 km,SUV,Regular Unleaded V-8 5.7 L/345,Automatic,AWD,White Knuckle,Black,null,4,Gas,16.7L/100km,10.9L/100km,82475
+2022,Dodge,Challenger,10023 km,Coupe,3.6L V6 24V VVT,8 Speed Automatic,AWD,F8 Green Metallic,Black,null,null,Gas,12.8L/100km,8.7L/100km,48999
+2023,Dodge,Durango,18 km,SUV,Premium Unleaded V-8 6.4 L/392,Automatic,AWD,White Knuckle,null,null,4,Gas,18.3L/100km,12.2L/100km,99431
+2022,Dodge,Challenger,250 km,Coupe,6.2L V8 16V MPFI OHV Supercharged,Automatic,RWD,White Knuckle,null,2,2,Gas,17.6L - 18.1L/100km,10.7L - 11.4L/100km,100570
+2023,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,4WD,White Knuckle,null,null,4,Gas,18.3L/100km,12.2L/100km,101680
+2021,Dodge,Challenger,84 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Brown,null,2,Gas,17.6L/100km,10.7L/100km,104995
+2022,Dodge,Challenger,114 km,Coupe,6.2L V8 Supercharged,null,RWD,Go Mango,Black,null,null,Gas,17.6L - 18.1L/100km,10.7L - 11.4L/100km,119920
+2020,Dodge,Challenger,14422 km,Coupe,V8,8 Speed Automatic,RWD,Dark Green,Black,4,2,Gas,17.6L - 18.6L/100km,10.7L - 11.2L/100km,126900
+2022,Dodge,Charger,4546 km,Sedan,6.2L 8cyl,8 Speed Automatic,RWD,White Knuckle,White,5,4,Gas,19.0L/100km,11.5L/100km,137800
+2002,Dodge,Viper,17200 km,Coupe,8.0,6 Speed Manual,RWD,Graphite Metallic,Black,2,2,Gas,20.9L/100km,10.5L/100km,149888
+2020,Dodge,Challenger,12738 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Blue,Black,4,2,Gas,17.6L - 18.6L/100km,10.7L - 11.2L/100km,149900
+2014,Dodge,Viper,17089 km,Coupe,8.4L V10 SFI,6 Speed Manual,RWD,Black Clearcoat,Black,null,null,Gas,18.1L/100km,11.1L/100km,220890
+2023,Dodge,Durango,0 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,DB Black,null,null,4,Gas,20.5L/100km,13.8L/100km,167225
+2018,Dodge,Challenger,5700 km,Coupe,6.2,8 Speed Automatic,RWD,Pitch Black Clearcoat,Red,4,2,Gas,17.6L/100km,10.7L/100km,210888
+2014,Dodge,Viper,17089 km,Coupe,8.4L V10 SFI,6 Speed Manual,RWD,Black Clearcoat,Black,null,null,Gas,18.1L/100km,11.1L/100km,220890
+2008,Dodge,Caliber,216698 km,Hatchback,null,Automatic,FWD,null,null,null,4 doors,Gasoline,null,null,500
+2006,Dodge,Caravan,236302 km,null,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,2200
+2007,Dodge,Caliber,207000 km,Hatchback,null,Automatic,FWD,Red,null,null,5 doors,Gasoline,null,null,2800
+2010,Dodge,Grand,296111 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,E85- Gasoline(Flex Fuel),null,null,3500
+2007,Dodge,Caravan,78517 km,Minivan,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,3500
+2009,Dodge,Grand,325000 km,Wagon,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,3800
+2022,Dodge,Durango,380 km,SUV,HEMI 5.7L V8 VVT,8 Speed Automatic,AWD,White Knuckle,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58890
+2013,Dodge,Avenger,212000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,4000
+2010,Dodge,Charger,270000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,4120
+2010,Dodge,Caliber,165000 km,Hatchback,null,Automatic,FWD,Red,null,null,4 doors,Gasoline,null,null,4200
+2008,Dodge,Grand,252000 km,Minivan,null,Automatic,FWD,Red,null,null,5 doors,Gasoline,null,null,4300
+2009,Dodge,Grand,221726 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Red,null,7,4,Flexible,12.6L/100km,8.4L/100km,4490
+2010,Dodge,Grand,253000 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,4499
+2010,Dodge,Caravan,251000 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,4499
+2010,Dodge,Caliber,142060 km,null,null,Automatic,null,White,Black,null,null,null,null,null,4499
+2010,Dodge,Caliber,174000 km,Hatchback,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,4800
+2020,Dodge,Durango,35240 km,SUV,SRT HEMI 6.4L V8 MDS,Automatic,AWD,Gray,Black,null,4,Gas,18.3L/100km,12.2L/100km,76377
+2011,Dodge,Grand,199000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Deep Cherry Red Crystal Pearl,Beige,7,4,Gas,12.2L/100km,7.9L/100km,4995
+2013,Dodge,Grand,125000 km,Minivan,null,Automatic,FWD,Purple,null,null,5 doors,Gasoline,null,null,5000
+2010,Dodge,Caliber,133000 km,Hatchback,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,5000
+2012,Dodge,Journey,177000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,5200
+2009,Dodge,Journey,213000 km,SUV,3.5,4 Speed Automatic,FWD,Inferno Red Crystal Pearl,Grey,5,4,Gas,13.5L/100km,8.6L/100km,5488
+2011,Dodge,Journey,198000 km,null,null,Automatic,FWD,Red,null,null,4 doors,Other/Don’t Know,null,null,5849
+2009,Dodge,Journey,184155 km,SUV,V6 Cylinder Engine,Automatic,FWD,White,Beige,7,4,Gas,13.5L/100km,8.6L/100km,5888
+2010,Dodge,Journey,209014 km,SUV,3.5L V6 235HP 232FT. LBS.,Automatic,AWD,Deep Water Blue Pearl,Black,null,4,Gas,13.6L/100km,8.7L/100km,5990
+2010,Dodge,Ram,309521 km,Quad Cab,8 Cylinder Engine,Automatic,4x4,Silver,Black,null,4,Gas,16.2L/100km,10.8L/100km,5995
+2018,Dodge,Durango,57322 km,SUV,8 Cylinder Engine 5.7L,Automatic,AWD,null,null,null,4,Gas,16.7L/100km,10.9L/100km,47240
+2008,Dodge,Grand,187000 km,Minivan,3.3,4 Speed Automatic,FWD,Bright Silver Metallic,Black,2,4,Gas,null,null,5999
+2013,Dodge,Journey,239181 km,null,null,Automatic,FWD,Grey,null,null,4 doors,E85- Gasoline(Flex Fuel),null,null,6000
+2013,Dodge,Journey,239181 km,null,null,Automatic,FWD,Grey,null,null,4 doors,E85- Gasoline(Flex Fuel),null,null,6000
+2010,Dodge,Caravan,103000 km,Minivan,null,null,null,Not Specified,null,null,null,null,null,null,6000
+2008,Dodge,Avenger,18400 km,Sedan,2.4,Automatic,FWD,Blue,Grey,5,4,null,null,null,6000
+2013,Dodge,Caravan,268000 km,Minivan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,6500
+2010,Dodge,Grand,295841 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,null,null,null,6500
+2011,Dodge,Ram,205000 km,Truck,8 Cylinder Engine,5 Speed Automatic,4WD,Brilliant Black Crystal Pearl,Grey,null,null,Gas,15.8L/100km,10.8L/100km,6500
+2009,Dodge,Journey,185000 km,null,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,6500
+2021,Dodge,Durango,10900 km,SUV,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,4WD,DB Black,Black,null,null,Gas,16.7L/100km,10.9L/100km,57999
+2010,Dodge,Grand,185000 km,Minivan,null,Automatic,FWD,Red,null,null,5 doors,Gasoline,null,null,6550
+2010,Dodge,Journey,null,SUV,V6 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Gas,13.3L/100km,8.3L/100km,6995
+2015,Dodge,Grand,235728 km,Minivan,null,Automatic,FWD,Red,null,null,4 doors,Gasoline,null,null,6999
+2013,Dodge,Grand,200000 km,Minivan,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,7000
+2016,Dodge,Caravan,203000 km,Minivan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,7000
+2015,Dodge,Grand,330000 km,Minivan,null,Automatic,null,White,null,null,5 doors,Gasoline,null,null,7500
+2012,Dodge,Journey,186245 km,SUV,4 Cylinder Engine,Automatic,FWD,Blue,Black,5,4,Gas,10.8L/100km,7.5L/100km,7500
+2008,Dodge,Grand,193000 km,Minivan,null,Automatic,FWD,Orange,null,null,5 doors,Gasoline,null,null,7750
+2012,Dodge,Journey,176586 km,SUV,4 Cylinder Engine,Automatic,FWD,Dark Grey,Black,null,4,Gas,10.8L/100km,7.5L/100km,7995
+2019,Dodge,Challenger,7500 km,Coupe,8 Cylinder,Automatic,RWD,F8 Green,Black,2,2,Gas,17.6L/100km,10.7L/100km,115800
+2012,Dodge,Grand,184599 km,Minivan,null,Automatic,null,Black,null,null,4 doors,Gasoline,null,null,8000
+2012,Dodge,Grand,221000 km,Minivan,3.6L,Automatic,FWD,White,null,null,null,Gas,null,null,8495
+2009,Dodge,Challenger,285000 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,8500
+2013,Dodge,Caravan,255715 km,Minivan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,8500
+2013,Dodge,Dart,195000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Bright White,Black,5,4,Gas,8.1L - 8.6L/100km,5.4L - 5.8L/100km,8500
+2018,Dodge,Grand,128999 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Indigo Blue,Black,null,4,Flexible,13.7L/100km,9.4L/100km,19900
+2022,Dodge,Durango,126 km,SUV,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,DB Black,Black,null,null,Regular Unleaded,16.7L/100km,10.9L/100km,58988
+2019,Dodge,Challenger,14000 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Green,Black,2,2,Gas,null,null,107777
+2012,Dodge,Grand,238268 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6770
+2019,Dodge,Grand,109800 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,28800
+2018,Dodge,Durango,79530 km,SUV,3.6,Automatic,AWD,DB Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,39885
+2014,Dodge,Grand,139158 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Red,Black,7,4,Gas,12.2L/100km,7.9L/100km,14990
+2016,Dodge,Journey,156353 km,SUV,3.6L 6cyl,6 Speed Automatic,FWD,Pitch Black,Black,7,4,Flexible,14.2L/100km,9.4L/100km,16888
+2021,Dodge,Challenger,84 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,White Knuckle,Brown,null,2,Gas,17.6L/100km,10.7L/100km,104995
+2012,Dodge,Grand,161000 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,8900
+2016,Dodge,Grand,246000 km,Minivan,6,Automatic,FWD,Burgundy,Grey,7,4,Gas,13.7L/100km,9.4L/100km,8995
+2011,Dodge,Grand,222000 km,Minivan,3.6L,Automatic,FWD,Grey,Black,7,4,Gas,null,null,8995
+2008,Dodge,Avenger,143000 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,9000
+2019,Dodge,Durango,69580 km,SUV,3.6L 6cyl,8 Speed Automatic,AWD,Red,null,null,2,Gas,12.7L/100km,9.6L/100km,43995
+2013,Dodge,Grand,205902 km,Minivan,null,Automatic,FWD,Grey,null,null,4 doors,E85- Gasoline(Flex Fuel),null,null,9000
+2010,Dodge,Grand,188000 km,Minivan,V6 Cylinder Engine,4 Speed Automatic,FWD,Stone White,Black,2,4,Gas,12.3L/100km,8.3L/100km,9450
+2008,Dodge,Grand,70000 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,9500
+2014,Dodge,Grand,243000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White Clearcoat,Black,4,4,Flexible,12.2L/100km,7.9L/100km,9500
+2012,Dodge,Grand,175000 km,Minivan,3.6L,Automatic,FWD,White,Black,2,4,Gas,null,null,9988
+2012,Dodge,Grand,207164 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Gas,12.2L/100km,7.9L/100km,9999
+2016,Dodge,Grand,304000 km,Minivan,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,9999
+2013,Dodge,Journey,151000 km,SUV,2.4,Automatic,FWD,Grey,Dark Grey,null,4,Gas,11.2L/100km,7.7L/100km,9999
+2009,Dodge,Challenger,218000 km,Coupe,null,Automatic,RWD,Red,null,null,2 doors,Gasoline,null,null,10000
+2021,Dodge,Charger,1782 km,Sedan,5.7L 8Cyl,8 Speed Automatic,RWD,F8 Green Metallic,null,null,null,Gas,14.7L/100km,9.4L/100km,55988
+2010,Dodge,RAM,194000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Gasoline,null,null,10000
+2016,Dodge,Grand,187000 km,Minivan,null,Automatic,null,null,null,null,null,null,null,null,10000
+2010,Dodge,Grand,112305 km,Minivan,null,Automatic,FWD,Blue,null,null,5 doors,Gasoline,null,null,10200
+2012,Dodge,Grand,165000 km,Minivan,3.6,Automatic,FWD,Blue,Black,7,4,Gas,12.2L/100km,7.9L/100km,10990
+2012,Dodge,Grand,160519 km,Minivan,V6 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,12.2L/100km,7.9L/100km,10995
+2016,Dodge,Journey,180000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,null,null,null,11000
+2010,Dodge,Grand,134000 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,11000
+2011,Dodge,Grand,159108 km,Minivan,3.6L 6cyl,Automatic,FWD,Blue,Black,7,4,Gas,12.2L/100km,7.9L/100km,11888
+2014,Dodge,Grand,184000 km,Minivan,3.6,Automatic,null,null,null,null,null,null,null,null,11995
+2017,Dodge,Grand,165782 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Granite Crystal Metallic,Black,7,4,Flexible,13.7L/100km,9.4L/100km,18999
+2006,Dodge,RAM,66000 km,Crew Cab,4.7L,Automatic,4x4,Blue,Grey,null,4,Gas,null,null,11999
+2014,Dodge,Grand,205000 km,Wagon,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,12000
+2014,Dodge,Journey,175128 km,SUV,4 Cylinder Engine,4 Speed Automatic,FWD,White,Black,7,4,Gas,11.2L/100km,7.7L/100km,12495
+2018,Dodge,Charger,284000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,Pitch Black,Black,5,4,Gas,16.0L/100km,10.1L/100km,12900
+2018,Dodge,Charger,273000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,Blue,Black,5,4,Gas,16.0L/100km,10.1L/100km,12900
+2014,Dodge,Grand,114252 km,Minivan,3.5,Automatic,FWD,Black,Charcoal,7,5,Gas,null,null,12995
+2014,Dodge,Durango,272228 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,12.4L/100km,8.3L/100km,12995
+2012,Dodge,RAM,200400 km,Crew Cab,5.7L,Automatic,AWD,Dark Blue,null,null,null,Gas,null,null,12999
+2015,Dodge,Journey,163100 km,null,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,13000
+2022,Dodge,Durango,1033 km,SUV,3.6L V6 24V VVT,8 Speed Automatic,AWD,Destroyer Grey,Black,null,4,Gas,12.7L/100km,9.6L/100km,47998
+2014,Dodge,Grand,134000 km,Minivan,3.6,Automatic,null,Silver,Black,7,4,Gas,null,null,13288
+2017,Dodge,Grand,197000 km,Minivan,null,Automatic,null,White,null,null,4 doors,Gasoline,null,null,13500
+2015,Dodge,Grand,103401 km,Minivan,null,Automatic,FWD,BLACK,Black,7,4,Gas,null,null,13989
+2014,Dodge,Grand,146000 km,Minivan,6,Automatic,FWD,Black,Grey,7,4,Gas,12.2L/100km,7.9L/100km,13995
+2011,Dodge,Durango,251115 km,SUV,V6 Cylinder Engine,Automatic,4x4,Brilliant Black Crystal Pearl,Black,7,4,Gas,13.0L/100km,8.9L/100km,13995
+2014,Dodge,Journey,145500 km,null,null,Automatic,AWD,Silver,null,null,4 doors,null,null,null,13995
+2015,Dodge,Caravan,121000 km,null,null,Automatic,null,Red,null,null,4 doors,null,null,null,14000
+2012,Dodge,RAM,241000 km,Truck,null,Automatic,RWD,Red,null,null,4 doors,Gasoline,null,null,14500
+2013,Dodge,Journey,164000 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,15000
+2018,Dodge,Durango,79530 km,SUV,3.6,Automatic,AWD,DB Black,Black,7,4,Gas,12.7L/100km,9.6L/100km,39885
+2016,Dodge,Grand,150000 km,Minivan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,15400
+2015,Dodge,Grand,152000 km,Minivan,3.6,Automatic,FWD,White,null,2,5,Gas,null,null,15888
+2016,Dodge,Charger,179000 km,Sedan,8 Cylinder Engine,5 Speed Automatic,AWD,White,Black,5,4,Gas,16.1L/100km,10.0L/100km,15900
+2012,Dodge,Ram,258000 km,Crew Cab,5.7,Automatic,4x4,White,Black,5,4,Gas,null,null,15995
+2015,Dodge,Grand,114000 km,Minivan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,15999
+2017,Dodge,Journey,102090 km,null,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,16499
+2011,Dodge,RAM,146200 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Gasoline,null,null,16500
+2015,Dodge,Journey,139367 km,SUV,3.6L 6cyl,6 Speed Automatic,AWD,Granite Crystal Metallic Clearcoat,Black,7,4,Gas,null,null,16888
+2017,Dodge,Grand,126000 km,Minivan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,18000
+2020,Dodge,Grand,100210 km,Minivan,3.6L V6 24V MPFI DOHC,Automatic,FWD,Billet Silver Metallic,Black,null,4,Gas,13.7L/100km,9.4L/100km,29950
+2015,Dodge,Journey,58000 km,null,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,18700
+2017,Dodge,Grand,123000 km,Minivan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,19700
+2019,Dodge,Grand,130000 km,Minivan,V6 Cylinder Engine,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,Black,7,4,Flexible,13.7L/100km,9.4L/100km,19900
+2015,Dodge,Journey,111425 km,SUV,3.6L,Automatic,AWD,Grey,null,7,4,Other,null,null,20999
+2015,Dodge,Challenger,166000 km,Coupe,null,Automatic,RWD,Red,null,null,2 doors,Gasoline,null,null,21000
+2014,Dodge,Grand,71000 km,Minivan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,22000
+2018,Dodge,RAM,212000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,22000
+2017,Dodge,Ram,307300 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,22000
+2017,Dodge,RAM,308000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,22500
+2022,Dodge,Charger,1024 km,Sedan,8cyl,8 Speed Automatic,RWD,White Knuckle,Black,null,null,Regular Unleaded,14.7L/100km,9.4L/100km,53385
+2018,Dodge,Grand,118000 km,Minivan,null,Automatic,FWD,White,null,null,5 doors,E85- Gasoline(Flex Fuel),null,null,23999
+2016,Dodge,Charger,117000 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,24999
+2018,Dodge,Charger,108000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,25550
+2019,Dodge,Journey,null,SUV,2.4L Tigershark MultiAir VVT I-4 engine,Automatic,FWD,Pitch Black,null,null,null,Regular Unleaded,12.7L/100km,9.2L/100km,28460
+2013,Dodge,RAM,70000 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,28800
+2017,Dodge,Ram,150000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Gasoline,null,null,29000
+2018,Dodge,Journey,86000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,29200
+2009,Dodge,Ram,66000 km,Truck,Straight 6 Cylinder Engine,Automatic,4x4,Bright White,Grey,3,2,Diesel,null,null,29900
+2014,Dodge,Grand,98000 km,Minivan,3.6L V6,Automatic,FWD,Not Specified,null,7,4,Gas,12.2L/100km,7.9L/100km,31988
+2019,Dodge,Grand,89804 km,Minivan,V6 Cylinder Engine 3.6L,Automatic,FWD,Brilliant Black Crystal Pearl,Black,null,4,Flexible,13.7L/100km,9.4L/100km,27988
+2016,Dodge,Grand,0 km,null,null,null,null,null,null,null,null,null,null,null,32900
+2020,Dodge,Grand,34736 km,Minivan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,32995
+2018,Dodge,Challenger,64300 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,32999
+2017,Dodge,Grand,null,Minivan,3.6L Pentastar V-6 engine,6 Speed Automatic,FWD,Bright White,null,null,null,Regular Unleaded,13.7L/100km,9.4L/100km,33890
+2015,Dodge,Grand,103000 km,Minivan,3.6L V6,Automatic,FWD,Gold,Black,7,4,Gas,13.7L/100km,9.4L/100km,33988
+2012,Dodge,Grand,17000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Silver,null,null,4,Gas,12.2L/100km,7.9L/100km,34000
+2019,Dodge,Grand,0 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Brilliant Black Crystal Pearl,null,null,2,Gas,13.7L/100km,9.4L/100km,34467
+2013,Dodge,Grand,89328 km,Minivan,V6 Cylinder Engine,Automatic,FWD,White,null,null,4,Gas,12.2L/100km,7.9L/100km,35000
+2015,Dodge,Grand,53600 km,Wagon,null,Automatic,FWD,Grey,null,null,5 doors,E85- Gasoline(Flex Fuel),null,null,36000
+2020,Dodge,Grand,94342 km,Minivan,3.6L V6 24V MPFI DOHC,Automatic,FWD,Octane Red Pearl,Black,null,4,Gas,13.7L/100km,9.4L/100km,30950
+2016,Dodge,Durango,166666 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,40000
+2015,Dodge,Grand,77000 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Other,13.7L/100km,9.4L/100km,41000
+2015,Dodge,Grand,null,Minivan,V6 Cylinder Engine,Automatic,FWD,Not Specified,null,null,4,Regular Unleaded,13.7L/100km,9.4L/100km,42000
+2020,Dodge,Grand,29000 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,43000
+2018,Dodge,Challenger,null,Coupe,8 Cylinder Engine,null,RWD,Purple,null,null,2,Gas,15.6L/100km,9.6L/100km,47900
+2016,Dodge,Challenger,65000 km,Coupe,null,Automatic,RWD,Grey,null,null,2 doors,Gasoline,null,null,49000
+2017,Dodge,Grand,52500 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Silver,null,null,4,Other,13.7L/100km,9.4L/100km,49900
+2019,Dodge,Ram,142230 km,Truck,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,49999
+2020,Dodge,Ram,120000 km,null,null,null,null,null,null,null,null,null,null,null,65000
+2019,Dodge,Challenger,25522 km,Coupe,V8,Automatic,RWD,F8 Green,Brown,null,null,Gas,17.6L/100km,10.7L/100km,109998
