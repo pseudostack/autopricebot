@@ -1,0 +1,208 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2020,MINI,3,28041 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,British Racing Green IV,Black,null,2,Premium Unleaded,8.9L/100km,6.6L/100km,30480
+2014,MINI,Cooper,105026 km,Wagon,Premium Unleaded I-4 1.6 L/98,Automatic,FWD,True Blue Metallic,null,5,4,Gas,7.4L/100km,5.7L/100km,13988
+2019,MINI,5,44284 km,Sedan,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Chili Red,Black,5,4,Gas,8.5L/100km,6.3L/100km,24879
+2019,MINI,Cooper,36943 km,Hatchback,2.0L TWIN TURBO,Automatic,FWD,White Silver Metallic,Black,null,4,Gas,10.2L/100km,7.4L/100km,29998
+2022,MINI,Cooper,29331 km,Hatchback,3 Cylinder Engine 1.5L,Automatic,FWD,British Racing Green IV Metallic,null,null,2,Gas,8.8L/100km,6.4L/100km,30999
+2019,MINI,Countryman,36250 km,null,Intercooled Turbo Gas/Electric I-3 1.5 L/91,Automatic,AWD,Moonwalk Grey Semi-Metallic,null,5,4,Gasoline Hybrid,8.4L/100km,8.8L/100km,39250
+2015,MINI,Cooper,140300 km,Coupe,1.5,Automatic,FWD,Midnight Black Metallic,Black,4,2,Gas,8.1L/100km,5.9L/100km,15998
+2007,MINI,Cooper,149000 km,Coupe,null,Automatic,FWD,Yellow,null,null,2 doors,Gasoline,null,null,5199
+2019,MINI,3,45043 km,Hatchback,3 Cylinder Engine,null,FWD,White,Black,4,2,Gas,8.5L/100km,6.2L/100km,20999
+2011,MINI,Cooper,158115 km,Convertible,4 Cylinder Engine,Manual,FWD,White,Black,5,null,Gas,6.8L/100km,5.3L/100km,6888
+2008,MINI,COOPER,127131 km,Hatchback,4 Cylinder Engine,null,FWD,null,null,null,null,Gas,7.7L/100km,5.7L/100km,6995
+2013,MINI,Cooper,177925 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Dark Green,Black,4,2,Gas,6.8L/100km,5.3L/100km,9888
+2016,MINI,Cooper,140654 km,Hatchback,3 Cylinder Engine,Manual,FWD,Blaze Red II Semi-Metallic,Black,4,null,Gas,8.4L/100km,6.0L/100km,12950
+2019,MINI,3,58500 km,Hatchback,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Chili Red,null,4,2,Gas,8.5L/100km,6.2L/100km,22949
+2014,MINI,Cooper,105026 km,Wagon,Premium Unleaded I-4 1.6 L/98,Automatic,FWD,True Blue Metallic,null,5,4,Gas,7.4L/100km,5.7L/100km,13988
+2010,MINI,Cooper,93318 km,Convertible,1.6,6 Speed Manual,FWD,Dark Silver,Black,null,2,Gas,7.8L/100km,5.7L/100km,15480
+2016,MINI,Cooper,115663 km,Sedan,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,White,Black,5,4,Gas,8.2L/100km,6.0L/100km,15994
+2013,MINI,Cooper,148125 km,Convertible,4 Cylinder Engine,5 Speed Automatic with auto-shift,FWD,Dark Grey,Black,4,2,Gas,7.4L/100km,5.7L/100km,16888
+2017,MINI,3,97457 km,Hatchback,1.5L 3cyl,6 Speed Automatic,FWD,Midnight Black Metallic,Black,null,2,Gas,8.5L/100km,6.2L/100km,17495
+2018,MINI,3,65103 km,Hatchback,3 Cylinder Engine,null,FWD,Moonwalk Grey Semi-Metallic,Black,4,2,Gas,8.5L/100km,6.2L/100km,18471
+2016,MINI,Cooper,81272 km,Hatchback,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,BLAZING RED II SEMI-MET,null,5,4,Gas,10.0L/100km,7.0L/100km,19888
+2018,MINI,Cooper,67723 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Red,Black,5,2,Gas,10.2L/100km,7.3L/100km,21890
+2019,MINI,Cooper,50247 km,Hatchback,3 Cylinder Engine,null,FWD,Melting Silver Metallic,Black,4,3,Gas,8.5L/100km,6.2L/100km,24585
+2019,MINI,John,50000 km,Convertible,4 Cylinder Engine,Automatic,FWD,Midnight Black Metallic,null,4,2,Gas,10.8L/100km,7.7L/100km,37998
+2019,MINI,5,44284 km,Sedan,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Chili Red,Black,5,4,Gas,8.5L/100km,6.3L/100km,24879
+2019,MINI,Cooper,49959 km,Hatchback,3 Cylinder Engine,Automatic,FWD,White,null,4,2,Gas,8.5L/100km,6.2L/100km,25590
+2019,MINI,3,19731 km,Coupe,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Melting Silver Metallic,Black,4,2,Gas,8.5L/100km,6.2L/100km,25887
+2020,MINI,Cooper,12936 km,Hatchback,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Starlight Blue Metallic,null,4,2,Gas,8.3L/100km,6.4L/100km,25988
+2020,MINI,Cooper,28077 km,Hatchback,3 Cylinder Engine,7 Speed Automatic,FWD,Midnight Black Metallic,Black,null,null,Gas,8.3L/100km,6.4L/100km,27785
+2019,MINI,Countryman,40678 km,Sedan,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,AWD,Midnight Black Metallic,Black,5,4,Gas,10.3L/100km,7.9L/100km,28998
+2020,MINI,3,21500 km,Hatchback,1.5L 3cyl,7 Speed Automatic with auto-shift,FWD,White,Black,null,2,Premium Unleaded,null,null,29480
+2019,MINI,Cooper,36943 km,Hatchback,2.0L TWIN TURBO,Automatic,FWD,White Silver Metallic,Black,null,4,Gas,10.2L/100km,7.4L/100km,29998
+2019,MINI,Clubman,40993 km,Station Wagon,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Chili Red,null,5,4,Gas,11.4L/100km,7.7L/100km,30388
+2020,MINI,3,38841 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,Midnight Black Metallic,Black,5,3,Premium Unleaded,8.9L/100km,6.6L/100km,29987
+2019,MINI,Countryman,58199 km,null,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Chili Red,null,5,4,Gas,10.5L/100km,7.6L/100km,30388
+2020,MINI,3,28041 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,British Racing Green IV,Black,null,2,Premium Unleaded,8.9L/100km,6.6L/100km,30480
+2019,MINI,Cooper,30968 km,Hatchback,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,MINI YOURS Lapisluxury Blue,null,4,2,Gas,10.2L/100km,7.4L/100km,30888
+2022,MINI,Cooper,29331 km,Hatchback,3 Cylinder Engine 1.5L,Automatic,FWD,British Racing Green IV Metallic,null,null,2,Gas,8.8L/100km,6.4L/100km,30999
+2018,MINI,Cooper,40560 km,Convertible,1.5,Automatic,FWD,Blazing Red II Semi-Metallic,Black,5,2,Gas,8.5L/100km,6.3L/100km,31488
+2020,MINI,Clubman,47300 km,Station Wagon,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,British Racing Green IV,null,5,4,Gas,10.2L/100km,7.6L/100km,31588
+2021,MINI,Cooper,23513 km,Hatchback,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Manual,FWD,Chili Red,null,4,2,Gas,10.2L/100km,7.1L/100km,31988
+2022,MINI,3,22062 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,Midnight Black Metallic,Black,null,2,Premium Unleaded,10.5L/100km,7.3L/100km,35780
+2022,MINI,5,8247 km,Hatchback,1.5L 3cyl,6 Speed Manual,FWD,British Racing Green IV Metallic,Black,null,2,Premium Unleaded,8.7L/100km,6.3L/100km,38480
+2022,MINI,Countryman,10311 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,Black,5,4,Gas,10.2L/100km,7.7L/100km,41490
+2023,MINI,COOPER,4651 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,White,Black,null,3,Gas,10.5L/100km,7.3L/100km,40995
+2022,MINI,Cooper,11477 km,Wagon,2.0L I4 DOHC Turbocharged,8 Speed Automatic,AWD,White Silver Metallic,null,null,null,Gas,10.2L/100km,7.4L/100km,40998
+2023,MINI,Cooper,7722 km,Hatchback,Electric,Automatic,FWD,White Silver Metallic,null,4,2,Electric,null,null,41388
+2022,MINI,Countryman,12435 km,null,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Chili Red,null,5,4,Gas,10.4L/100km,7.5L/100km,42588
+2023,MINI,3,9950 km,Hatchback,Electric Motor,10 Speed Automatic,FWD,British Racing Green IV Metallic,Black,4,2,Electric,null,null,48000
+2015,MINI,Countryman,118220 km,Wagon,1.6L 4cyl,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,9.5L/100km,7.7L/100km,18495
+2015,MINI,Cooper,149133 km,Wagon,1.6L 4 Cylinder Engine,Automatic,AWD,Chili Red,Black,5,4,Gas,9.5L/100km,7.7L/100km,19195
+2016,MINI,3,104157 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Midnight Black Metallic,Black,null,2,Gas,10.2L/100km,7.1L/100km,19888
+2017,MINI,Cooper,142640 km,Hatchback,2.0,Automatic,AWD,Blue,Black,5,5,Gas,11.3L/100km,7.7L/100km,23888
+2021,MINI,John,11006 km,Hatchback,4 Cylinder Engine,8 Speed Automatic,FWD,Racing Grey Metallic,null,2,2,Gas,9.9L/100km,7.8L/100km,63990
+2019,MINI,3,44016 km,Hatchback,1.5L 3cyl,6 Speed Automatic,FWD,Red,Black,null,2,Premium Unleaded,8.5L/100km,6.2L/100km,24980
+2019,MINI,Cooper,12326 km,Hatchback,3 Cylinder Engine,Automatic,FWD,Maroon,Black,4,2,Gas,8.5L/100km,6.2L/100km,28990
+2020,MINI,3,14376 km,Hatchback,1.5L 3cyl,7 Speed Automatic with auto-shift,FWD,Grey,Black,null,2,Premium Unleaded,8.3L/100km,6.4L/100km,29480
+2020,MINI,Cooper,28492 km,null,4 Cylinder Engine 2.0L,Automatic,AWD,British Racing Green IV,Black,null,4,Gas,10.4L/100km,7.5L/100km,35999
+2019,MINI,Countryman,36250 km,null,Intercooled Turbo Gas/Electric I-3 1.5 L/91,Automatic,AWD,Moonwalk Grey Semi-Metallic,null,5,4,Gasoline Hybrid,8.4L/100km,8.8L/100km,39250
+2013,MINI,Cooper,122676 km,Coupe,1.6,6 Speed Automatic,FWD,British Racing Green,Black,5,2,Gas,6.8L/100km,5.3L/100km,10888
+2012,MINI,Cooper,126756 km,Hatchback,Turbocharged Gas I4 1.6L/98,Automatic,FWD,Midnight Black,null,4,2,Gas,7.6L/100km,5.6L/100km,12500
+2013,MINI,Cooper,82000 km,Coupe,1.6l,Automatic,FWD,White,Black,4,2,Gas,6.8L/100km,5.3L/100km,12999
+2015,MINI,Cooper,140300 km,Coupe,1.5,Automatic,FWD,Midnight Black Metallic,Black,4,2,Gas,8.1L/100km,5.9L/100km,15998
+2019,MINI,John,30705 km,Convertible,4 Cylinder Engine,Automatic,FWD,Thunder Grey Metallic,null,null,null,Gas,10.8L/100km,7.7L/100km,38998
+2016,MINI,Cooper,131228 km,Coupe,1.5,Automatic,FWD,White,Black,5,2,Gas,8.4L/100km,6.0L/100km,16488
+2016,MINI,Cooper,93900 km,Wagon,Intercooled Turbo Premium Unleaded I-4 1.6 L/98,Automatic,AWD,Absolute Black Metallic,null,5,4,Gas,9.4L/100km,7.6L/100km,22300
+2018,MINI,Countryman,79992 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Light White,Black,5,4,Gas,10.5L/100km,7.4L/100km,27490
+2019,MINI,Cooper,24688 km,Hatchback,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,Thunder Grey Metallic,null,4,2,Gas,10.2L/100km,7.4L/100km,27988
+2022,MINI,Cooper,10636 km,Hatchback,Electric,Automatic,FWD,Moonwalk Grey Semi-Metallic,null,4,2,Electric,null,null,37988
+2007,MINI,Cooper,149000 km,Coupe,null,Automatic,FWD,Yellow,null,null,2 doors,Gasoline,null,null,5199
+2011,MINI,Cooper,181000 km,Coupe,4 Cylinder Engine,Automatic,FWD,Tan,Black,null,2,Gas,6.8L/100km,5.3L/100km,7995
+2015,MINI,Cooper,17127 km,Hatchback,181HP 1.6L 4 Cylinder Engine,Manual,AWD,Absolute Black Metallic,null,null,2,Gas,9.5L/100km,7.7L/100km,18988
+2021,MINI,COOPER,7849 km,Hatchback,null,Automatic,FWD,White,null,null,3 doors,Electric,null,null,36500
+2019,MINI,Cabriolet,38000 km,Cabriolet,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Manual,FWD,Midnight Black Metallic,null,4,2,Gas,8.4L/100km,6.3L/100km,29949
+2006,MINI,Cooper,184520 km,Hatchback,4 Cylinder Engine,6 Speed Manual,FWD,Red,Black,4,2,Gas,9.5L/100km,6.7L/100km,6950
+2015,MINI,Cooper,126202 km,Convertible,4 Cylinder Engine,null,FWD,null,null,4,2,Gas,8.4L/100km,6.4L/100km,14256
+2015,MINI,Cooper,67650 km,Coupe,1.5,Automatic,FWD,Blaze Red II Semi Metallic,Black,null,2,Gas,8.1L/100km,5.9L/100km,14995
+2015,MINI,Cooper,88725 km,Hatchback,3 Cylinder Engine,null,FWD,Midnight Black Metallic,Black,4,2,Gas,8.1L/100km,5.9L/100km,15690
+2017,MINI,Cooper,70000 km,Hatchback,3 Cylinder Engine,6 Speed Automatic,FWD,Volcanic Orange,Black,4,2,Gas,8.5L/100km,6.2L/100km,18495
+2017,MINI,Cooper,69062 km,Hatchback,3 Cylinder,Automatic,FWD,Moonwalk Grey Semi-Metallic,Black,5,4,Gas,8.2L/100km,6.0L/100km,20333
+2019,MINI,3,45043 km,Hatchback,3 Cylinder Engine,null,FWD,White,Black,4,2,Gas,8.5L/100km,6.2L/100km,20999
+2018,MINI,3,57000 km,Hatchback,3 Cylinder Engine,null,FWD,null,null,4,2,Gas,8.5L/100km,6.2L/100km,21900
+2017,MINI,Cooper,78700 km,Hatchback,4 Cylinder Engine,null,AWD,Melting Silver Metallic,null,null,null,Gas,11.4L/100km,7.8L/100km,23990
+2022,MINI,Cooper,8226 km,Convertible,3 Cylinder Engine,Automatic,FWD,null,null,4,2,Gas,8.7L/100km,6.3L/100km,36993
+2019,MINI,5,35089 km,Hatchback,1.5L 3cyl,6 Speed Automatic,FWD,White,Black,5,5,Gas,8.5L/100km,6.3L/100km,24348
+2019,MINI,3,35364 km,Hatchback,1.5L 3cyl,6 Speed Automatic,FWD,Purple,Black,5,3,Gas,8.5L/100km,6.2L/100km,24878
+2019,MINI,Cooper,49732 km,Hatchback,3 Cylinder Engine,null,FWD,Melting Silver Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,24990
+2020,MINI,3,39900 km,Hatchback,3 Cylinder,Automatic,FWD,White,Black,4,2,Gas,8.3L/100km,6.4L/100km,25878
+2019,MINI,Cooper,40316 km,Hatchback,3 Cylinder Engine,null,FWD,Emerald Grey,null,null,null,Gas,8.5L/100km,6.2L/100km,25990
+2019,MINI,Cooper,28936 km,Hatchback,3 Cylinder Engine,null,FWD,Moonwalk Grey Semi-Metallic,null,null,null,Gas,8.4L/100km,6.3L/100km,25990
+2019,MINI,COOPER,58763 km,Hatchback,4 Cylinder Engine,null,FWD,Electric Blue Metallic,null,null,null,Gas,10.2L/100km,7.4L/100km,25990
+2019,MINI,COOPER,69835 km,Hatchback,4 Cylinder Engine,null,FWD,Thunder Grey Metallic,null,5,4,Gas,10.2L/100km,7.3L/100km,25990
+2018,MINI,Cooper,36200 km,Hatchback,1.5,Automatic,AWD,Melting Silver Metallic,Black,5,4,Gas,10.5L/100km,7.4L/100km,25990
+2019,MINI,COOPER,69835 km,Hatchback,4 Cylinder Engine,null,FWD,Thunder Grey Metallic,null,5,4,Gas,10.2L/100km,7.3L/100km,25990
+2019,MINI,5,50000 km,Sedan,2.0,Automatic,FWD,Midnight Black Metallic,Black,4,4,Gas,10.2L/100km,7.3L/100km,26950
+2018,MINI,COOPER,47291 km,Hatchback,4 Cylinder Engine,null,FWD,Thunder Grey Metallic,null,null,null,Gas,10.3L/100km,7.4L/100km,26990
+2019,MINI,5,84486 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Brown,4,5,Premium Unleaded,10.2L/100km,7.4L/100km,26991
+2018,MINI,Cooper,71987 km,null,4 Cylinder Engine,null,AWD,Thunder Grey Metallic,null,null,null,Gas,11.3L/100km,7.7L/100km,27990
+2020,MINI,Cooper,21855 km,Hatchback,3 Cylinder Engine,7 Speed Automatic,FWD,British Racing Green IV,null,null,null,Gas,8.3L/100km,6.4L/100km,29188
+2019,MINI,3,82000 km,Hatchback,4 Cylinder,Automatic,FWD,Midnight Black Metallic,Black,4,2,Gas,10.2L/100km,7.3L/100km,29878
+2020,MINI,COOPER,50917 km,Hatchback,4 Cylinder Engine,7 Speed Automatic,FWD,Chili Red,null,null,null,Gas,8.9L/100km,6.6L/100km,30990
+2020,MINI,Cooper,55000 km,Hatchback,1.5,8 Speed Automatic,AWD,Moonwalk Grey Semi-Metallic,Black,5,4,Gas,9.8L/100km,7.1L/100km,31550
+2020,MINI,Countryman,51832 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,null,5,4,Gas,9.8L/100km,7.1L/100km,31888
+2021,MINI,3,23260 km,Hatchback,3 Cylinder Engine,5 Speed Manual,FWD,null,null,4,2,Gas,8.8L/100km,6.4L/100km,29748
+2019,MINI,Cooper,57533 km,null,4 Cylinder Engine,null,AWD,Thunder Grey Metallic,null,null,null,Gas,10.5L/100km,7.6L/100km,31888
+2021,MINI,Cooper,34339 km,Hatchback,3 Cylinder Engine,null,FWD,Midnight Black Metallic,null,null,null,Gas,8.8L/100km,6.4L/100km,31990
+2019,MINI,Cooper,43322 km,Hatchback,4 Cylinder Engine,null,AWD,Pepper White,null,null,null,Gas,11.4L/100km,7.8L/100km,32990
+2019,MINI,Convertible,40107 km,Convertible,4 Cylinder Engine,6 Speed Automatic,FWD,White,Black,null,null,Gas,10.2L/100km,7.4L/100km,34423
+2021,MINI,Countryman,25798 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Island Blue Metallic,null,5,4,Gas,10.0L/100km,7.4L/100km,36790
+2020,MINI,Cooper,37707 km,Hatchback,4 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,null,null,null,Gas,10.2L/100km,7.4L/100km,37188
+2021,MINI,COOPER,24919 km,Hatchback,4 Cylinder Engine,null,FWD,Melting Silver Metallic,null,null,null,Gas,8.9L/100km,6.6L/100km,37888
+2019,MINI,Cooper,13522 km,Convertible,4 Cylinder Engine,null,FWD,Starlight Blue Metallic,null,null,null,Gas,10.2L/100km,7.4L/100km,37888
+2021,MINI,COOPER,24010 km,Hatchback,4 Cylinder Engine,null,FWD,MINI Yours Enigmatic Black Metallic,null,null,null,Gas,8.9L/100km,6.6L/100km,38990
+2019,MINI,3,45043 km,Hatchback,3 Cylinder Engine,null,FWD,White,Black,4,2,Gas,8.5L/100km,6.2L/100km,20999
+2022,MINI,Countryman,25003 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,White Silver Metallic,null,null,null,Gas,10.0L/100km,7.4L/100km,39490
+2021,MINI,Cooper,7092 km,Convertible,3 Cylinder Engine,null,FWD,Caribbean Aqua Metallic,null,null,null,Gas,8.8L/100km,6.4L/100km,39988
+2022,MINI,Cooper,18831 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Sage Green Metallic,null,null,null,Gas,10.4L/100km,7.5L/100km,40888
+2021,MINI,John,11006 km,Hatchback,4 Cylinder Engine,8 Speed Automatic,FWD,Racing Grey Metallic,null,2,2,Gas,9.9L/100km,7.8L/100km,63990
+2011,MINI,Cooper,167539 km,Hatchback,1.6,Automatic,FWD,Not Specified,Black,4,2,Gas,7.7L/100km,5.6L/100km,8699
+2012,MINI,Cooper,145788 km,Hatchback,4 Cylinder,Automatic,AWD,Blue,Black,5,4,Gas,8.1L/100km,6.3L/100km,12900
+2020,MINI,3,28041 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,British Racing Green IV,Black,null,2,Premium Unleaded,8.9L/100km,6.6L/100km,30480
+2014,MINI,Cooper,105026 km,Wagon,Premium Unleaded I-4 1.6 L/98,Automatic,FWD,True Blue Metallic,null,5,4,Gas,7.4L/100km,5.7L/100km,13988
+2019,MINI,5,44284 km,Sedan,Intercooled Turbo Premium Unleaded I-3 1.5 L/91,Automatic,FWD,Chili Red,Black,5,4,Gas,8.5L/100km,6.3L/100km,24879
+2019,MINI,Cooper,36943 km,Hatchback,2.0L TWIN TURBO,Automatic,FWD,White Silver Metallic,Black,null,4,Gas,10.2L/100km,7.4L/100km,29998
+2019,MINI,Cooper,12326 km,Hatchback,3 Cylinder Engine,Automatic,FWD,Maroon,Black,4,2,Gas,8.5L/100km,6.2L/100km,28990
+2015,MINI,Cooper,140300 km,Coupe,1.5,Automatic,FWD,Midnight Black Metallic,Black,4,2,Gas,8.1L/100km,5.9L/100km,15998
+2007,MINI,Cooper,149000 km,Coupe,null,Automatic,FWD,Yellow,null,null,2 doors,Gasoline,null,null,5199
+2021,MINI,COOPER,7849 km,Hatchback,null,Automatic,FWD,White,null,null,3 doors,Electric,null,null,36500
+2019,MINI,3,45043 km,Hatchback,3 Cylinder Engine,null,FWD,White,Black,4,2,Gas,8.5L/100km,6.2L/100km,20999
+2012,MINI,Cooper,122000 km,Hatchback,4 Cylinder Engine,Manual,AWD,Crystal Silver Metallic,Black,4,4,Gas,8.1L/100km,6.3L/100km,14900
+2017,MINI,Cooper,47152 km,Hatchback,3 Cylinder Engine,null,FWD,Blazing Red II Semi-Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,21990
+2019,MINI,Cooper,71520 km,Hatchback,3 Cylinder Engine,Automatic,FWD,Pepper White,null,null,null,Gas,8.5L/100km,6.3L/100km,22500
+2016,MINI,Cooper,83450 km,Wagon,4 Cylinder Engine,null,AWD,Absolute Black Metallic,null,null,null,Gas,9.4L/100km,7.6L/100km,22980
+2022,MINI,Cooper,29331 km,Hatchback,3 Cylinder Engine 1.5L,Automatic,FWD,British Racing Green IV Metallic,null,null,2,Gas,8.8L/100km,6.4L/100km,30999
+2018,MINI,Cooper,61024 km,Hatchback,3 Cylinder Engine,Automatic,FWD,Midnight Black Metallic,Black,5,5,Gas,8.5L/100km,6.3L/100km,24490
+2019,MINI,5,62112 km,Hatchback,3 Cylinder Engine,Automatic,FWD,Blue,Black,5,4,Gas,8.4L/100km,6.3L/100km,24895
+2018,MINI,Cooper,55000 km,null,3 Cylinder,Automatic,AWD,Midnight Black Metallic,Black,5,4,Gas,10.5L/100km,7.4L/100km,25878
+2019,MINI,Cooper,48099 km,Hatchback,3 Cylinder Engine,null,FWD,Midnight Black Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,25990
+2019,MINI,Cooper,41316 km,Hatchback,3 Cylinder Engine,null,FWD,British Racing Green IV,null,null,null,Gas,8.5L/100km,6.2L/100km,26990
+2018,MINI,Convertible,63852 km,Convertible,1.5L TURBO,6 Speed Automatic,FWD,Black,Black,4,2,Gas,8.5L/100km,6.3L/100km,27999
+2019,MINI,Countryman,59237 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Light White,null,5,4,Gas,10.3L/100km,7.9L/100km,29990
+2019,MINI,Countryman,44959 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Light White,null,5,4,Gas,10.3L/100km,7.9L/100km,29990
+2021,MINI,Cooper,23812 km,Hatchback,3 Cylinder Engine,null,FWD,White Silver Metallic,null,null,null,Gas,8.8L/100km,6.4L/100km,32888
+2022,MINI,Countryman,25003 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,White Silver Metallic,null,null,null,Gas,10.0L/100km,7.4L/100km,39490
+2020,MINI,Cooper,37501 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Moonwalk Grey Semi-Metallic,null,null,null,Gas,10.4L/100km,7.5L/100km,36990
+2022,MINI,Cooper,2490 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Moonwalk Grey Semi-Metallic,null,null,null,Electric,null,null,39303
+2022,MINI,Countryman,10311 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,Black,5,4,Gas,10.2L/100km,7.7L/100km,41490
+2020,MINI,John,67833 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,null,null,null,Gas,10.0L/100km,7.8L/100km,43188
+2022,MINI,Cooper,23048 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Island Blue Metallic,null,null,null,Gas,10.4L/100km,7.5L/100km,43490
+2023,MINI,Cooper,6012 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,null,null,Gas,10.4L/100km,7.5L/100km,46990
+2022,MINI,John,22738 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,null,5,4,Gas,10.4L/100km,7.8L/100km,49990
+2021,MINI,John,2072 km,Hatchback,4 Cylinder Engine,8 Speed Automatic,FWD,Racing Grey Metallic,null,2,2,Gas,9.9L/100km,7.8L/100km,67990
+2012,MINI,Cooper,147768 km,Hatchback,4 Cylinder Engine,null,FWD,Rooftop Grey,null,null,null,Gas,6.8L/100km,5.3L/100km,11688
+2023,MINI,COOPER,4651 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,White,Black,null,3,Gas,10.5L/100km,7.3L/100km,40995
+2013,MINI,Cooper,119000 km,Coupe,4 Cylinder Engine,Manual,FWD,White,Black,4,2,Gas,6.8L/100km,5.3L/100km,11900
+2010,MINI,Cooper,136761 km,Coupe,4 Cylinder Engine,6 Speed Automatic with auto-shift,FWD,White,Black,4,2,Gas,7.8L/100km,5.7L/100km,11950
+2012,MINI,Cooper,152000 km,Sedan,1.6,null,AWD,null,null,null,null,Gas,8.1L/100km,6.3L/100km,11999
+2016,MINI,Cooper,45000 km,Hatchback,3 Cylinder Engine,null,FWD,null,null,4,2,Gas,8.1L/100km,5.9L/100km,18950
+2023,MINI,COOPER,520 km,Hatchback,4 Cylinder Engine,null,FWD,Island Blue Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,42613
+2023,MINI,COOPER,418 km,Hatchback,4 Cylinder Engine,null,FWD,British Racing Green IV Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,42613
+2023,MINI,COOPER,90 km,Hatchback,4 Cylinder Engine,null,FWD,British Racing Green IV Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,44713
+2023,MINI,COOPER,90 km,Hatchback,4 Cylinder Engine,null,FWD,Island Blue Metallic,null,null,null,Gas,8.5L/100km,6.2L/100km,45963
+2020,MINI,John,17274 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Light White,Black,5,4,Gas,10.0L/100km,7.8L/100km,47990
+2022,MINI,3,22062 km,Hatchback,2.0L 4cyl,7 Speed Automatic with auto-shift,FWD,Midnight Black Metallic,Black,null,2,Premium Unleaded,10.5L/100km,7.3L/100km,35780
+2023,MINI,Cooper,105 km,Convertible,4 Cylinder Engine,null,FWD,Melting Silver III,null,null,null,Gas,8.8L/100km,6.5L/100km,48793
+2023,MINI,Cooper,90 km,Convertible,4 Cylinder Engine,null,FWD,Midnight Black II,null,null,null,Gas,8.8L/100km,6.5L/100km,51018
+2023,MINI,Convertible,90 km,Convertible,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,Chili Red,null,4,2,Gas,10.1L/100km,7.1L/100km,51450
+2023,MINI,Cooper,1213 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Chili Red,null,null,null,Gas,10.4L/100km,7.5L/100km,51488
+2023,MINI,Cooper,90 km,Convertible,4 Cylinder Engine,null,FWD,Island Blue Metallic,null,null,null,Gas,8.8L/100km,6.5L/100km,51768
+2023,MINI,Cooper,5163 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black II,Black,null,null,Gas,10.2L/100km,7.6L/100km,52604
+2023,MINI,John,90 km,Hatchback,4 Cylinder Engine,null,FWD,JCW Rebel Green,null,null,null,Gas,9.3L/100km,6.9L/100km,54243
+2023,MINI,Convertible,90 km,Convertible,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,Zesty Yellow,null,4,2,Gas,10.1L/100km,7.1L/100km,55544
+2023,MINI,Convertible,90 km,Convertible,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,FWD,Rooftop Grey Metallic,null,4,2,Gas,9.7L/100km,7.2L/100km,61876
+2022,MINI,Countryman,10311 km,null,3 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,Black,5,4,Gas,10.2L/100km,7.7L/100km,41490
+2023,MINI,John,90 km,Convertible,4 Cylinder Engine,8 Speed Automatic,FWD,John Cooper Works Rebel Green,null,null,null,Gas,9.7L/100km,7.2L/100km,63328
+2023,MINI,Cooper,1100 km,null,3 Cylinder Engine,6 Speed Automatic,AWD,Island Blue Metallic,null,null,null,Gasoline Hybrid,8.1L/100km,7.9L/100km,64882
+2003,MINI,Cooper,168342 km,Hatchback,4 Cylinder Engine,5 Speed Manual,FWD,Blue,Black,4,2,Gas,8.3L/100km,5.9L/100km,5999
+2012,MINI,Cooper,103510 km,Coupe,1.6,Automatic,FWD,Chili Red,Black,null,2,Gas,6.8L/100km,5.3L/100km,10995
+2012,MINI,COOPER,145000 km,Hatchback,4 Cylinder Engine,null,FWD,Blue,Black,null,null,Gas,7.6L/100km,5.6L/100km,11000
+2015,MINI,Cooper,161039 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Midnight Black Metallic,Black,4,2,Gas,null,null,18995
+2019,MINI,Countryman,93701 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Light White,Black,null,2,Premium Unleaded,10.6L/100km,7.8L/100km,31500
+2017,MINI,Cooper,34375 km,Convertible,4 Cylinder Engine,Automatic,FWD,Grey,Black,4,2,Gas,10.2L/100km,7.3L/100km,33490
+2023,MINI,John,10960 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Sage Green Metallic,null,5,4,Gas,10.0L/100km,7.8L/100km,54990
+2019,MINI,Cooper,74322 km,null,4 Cylinder Engine,Automatic,AWD,Midnight Black Metallic,null,null,null,Gas,10.5L/100km,7.6L/100km,28998
+2009,MINI,Cooper,142300 km,Coupe,1.6L 118.0hp,Manual,FWD,Red,Tan,4,2,Gas,7.1L/100km,5.3L/100km,5995
+2006,MINI,3,160000 km,Coupe,null,Automatic,FWD,Silver,null,null,3 doors,Gasoline,null,null,7500
+2009,MINI,Cooper,156300 km,Coupe,null,Automatic,FWD,Black,null,null,3 doors,Gasoline,null,null,8500
+2011,MINI,COOPER,148000 km,Coupe,null,Manual,FWD,Grey,null,null,3 doors,Gasoline,null,null,9000
+2004,MINI,Cooper,80000 km,Coupe,null,Automatic,null,Green,null,null,2 doors,Gasoline,null,null,10000
+2010,MINI,Cooper,128800 km,Hatchback,null,Automatic,FWD,Silver,null,null,2 doors,Gasoline,null,null,11500
+2012,MINI,Cooper,94000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,13250
+2011,MINI,Cooper,159000 km,Hatchback,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,13500
+2013,MINI,Cooper,87000 km,Hatchback,null,Automatic,FWD,Black,null,null,3 doors,Gasoline,null,null,14500
+2019,MINI,John,50000 km,Convertible,4 Cylinder Engine,Automatic,FWD,Midnight Black Metallic,null,4,2,Gas,10.8L/100km,7.7L/100km,37998
+2006,MINI,COOPER,142000 km,Coupe,null,Manual,FWD,White,null,null,3 doors,Gasoline,null,null,14995
+2015,MINI,Cooper,105000 km,Coupe,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,17950
+2015,MINI,3,55000 km,Coupe,null,Manual,FWD,Grey,null,null,2 doors,Gasoline,null,null,18500
+2017,MINI,Cooper,64500 km,Coupe,null,Automatic,FWD,Red,null,null,3 doors,Gasoline,null,null,20500
+2013,MINI,John,105000 km,Hatchback,null,Manual,FWD,Silver,null,null,2 doors,Gasoline,null,null,21995
+2012,MINI,John,74121 km,Hatchback,4 Cylinder Engine,6 Speed Manual,FWD,Midnight Black Metallic,Black,2,2,Gas,7.6L/100km,5.6L/100km,22995
+2014,MINI,Clubman,23000 km,Wagon,null,Automatic,null,null,null,null,5 doors,null,null,null,25000
+2019,MINI,John,74252 km,null,4 Cylinder Engine,null,AWD,Light White,null,null,null,Gas,10.6L/100km,7.8L/100km,34888
+2019,MINI,John,55812 km,null,4 Cylinder Engine,8 Speed Automatic,AWD,Midnight Black Metallic,null,5,4,Gas,10.6L/100km,7.8L/100km,35990
+2019,MINI,John,30705 km,Convertible,4 Cylinder Engine,Automatic,FWD,Thunder Grey Metallic,null,null,null,Gas,10.8L/100km,7.7L/100km,38998
+2019,MINI,Convertible,37000 km,Convertible,null,Automatic,FWD,Black,null,null,2 doors,Gasoline,null,null,36000
+2019,MINI,3,20100 km,Hatchback,null,Automatic,FWD,Black,null,null,3 doors,Gasoline,null,null,49000
+2012,MINI,Cooper,98000 km,Coupe,4 Cylinder Engine,6 Speed Automatic,FWD,Midnight Black,Brown,4,2,Gas,7.4L/100km,5.7L/100km,6000

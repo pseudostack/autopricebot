@@ -1,0 +1,873 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2018,Porsche,Macan,81853 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,11.6L/100km,9.3L/100km,42800
+2021,Porsche,Panamera,29697 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,12.8L/100km,9.8L/100km,139500
+2017,Porsche,911,29249 km,Coupe,3.0L 6cyl,7 Speed Automatic,AWD,Agate Grey Metallic,Red,4,2,Premium Unleaded,12.2L/100km,8.5L/100km,154599
+2019,Porsche,911,38495 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,null,null,159000
+2009,Porsche,911,121770 km,Coupe,null,Manual,4X4,Black,null,null,2 doors,Gasoline,null,null,74000
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2017,Porsche,Macan,87095 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,13.7L/100km,10.3L/100km,40999
+2018,Porsche,Cayenne,100733 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Mahogany Metallic,Beige,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,49898
+2013,Porsche,Cayenne,178000 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,5,5,Gas,12.9L - 14.1L/100km,8.6L - 9.3L/100km,22999
+2010,Porsche,Panamera,170000 km,Sedan,8 Cylinder,Automatic,AWD,Black,Beige,4,4,Gas,null,null,24995
+2014,Porsche,Cayenne,162684 km,SUV,V6 Cylinder Engine 3.6L,Automatic,AWD,Classic Silver Metallic,Black,null,4,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,25495
+2013,Porsche,Cayenne,138000 km,SUV,6 Cylinder,Automatic,AWD,White,Beige,5,4,Gas,12.9L - 14.1L/100km,8.6L - 9.3L/100km,25995
+2020,Porsche,Cayenne,41502 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.5L/100km,10.0L/100km,66999
+2017,Porsche,Macan,184276 km,SUV,4 Cylinder Engine,Automatic,AWD,Palladium Metallic,Brown,5,4,Gas,11.6L/100km,9.3L/100km,29888
+2016,Porsche,Macan,175920 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,13.7L/100km,10.3L/100km,30800
+2017,Porsche,Macan,132760 km,SUV,4 Cylinder Engine,Automatic,AWD,Palladium Metallic,Brown,5,null,Gas,11.6L/100km,9.3L/100km,33880
+2007,Porsche,Cayman,172461 km,Coupe,3.4,6 Speed Manual,RWD,Black,Black,null,2,Gas,11.8L/100km,7.7L/100km,33950
+2017,Porsche,Macan,102003 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Blue,Dark Grey,5,4,Gas,11.6L/100km,9.3L/100km,33999
+2015,Porsche,Macan,122000 km,SUV,3.0L Twin Turbo V6 Engine,Automatic,AWD,White,Black,5,4,Gas,null,null,34888
+2015,Porsche,Macan,74000 km,SUV,3.0,Automatic,AWD,Palladium Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,34990
+2014,Porsche,Panamera,139000 km,Hatchback,6 Cylinder,Automatic,AWD,Burgundy,Beige,4,4,Gas,11.6L - 11.8L/100km,7.4L - 7.6L/100km,34995
+2016,Porsche,Cayenne,149913 km,SUV,3.6L,Automatic,AWD,Moonlight Blue Metallic,Beige,5,4,Gas,12.9L/100km,9.7L/100km,35995
+2021,Porsche,Taycan,10800 km,Sedan,Electric Motor,null,null,Chalk,null,null,null,Electric,null,null,189995
+2015,Porsche,Macan,89000 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,13.7L/100km,10.3L/100km,37800
+2014,Porsche,Cayenne,91561 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Meteor Grey Metallic,Black,5,4,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,38500
+2016,Porsche,Cayenne,148000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.9L/100km,9.7L/100km,38800
+2014,Porsche,Cayenne,56127 km,SUV,6 Cylinder,Sequential,AWD,White,Tan,5,4,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,38800
+2017,Porsche,Macan,148000 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,13.7L/100km,10.3L/100km,38885
+2016,Porsche,Cayenne,99406 km,SUV,3.6L 6cyl,8 Speed Automatic,AWD,Black,Tan,5,4,Premium Unleaded,12.9L/100km,9.7L/100km,38888
+2016,Porsche,Macan,163800 km,SUV,3.6,Automatic,AWD,Black,Red,5,4,Gas,14.2L/100km,10.1L/100km,39888
+2007,Porsche,Boxster,39837 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,White,Blue,null,2,Gas,11.8L/100km,7.7L/100km,39888
+2015,Porsche,Macan,109995 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,null,null,39888
+2016,Porsche,Panamera,102501 km,Sedan,8 Cylinder Engine 4.8L,Automatic,AWD,White,Black,4,4,Gas,15.1L/100km,9.7L/100km,65900
+2017,Porsche,Macan,103000 km,SUV,3.0L V6 Cylinder Engine,Automatic,AWD,Rhodium Silver Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,39950
+2017,Porsche,Cayenne,132243 km,SUV,6 Cylinder,Sequential,AWD,White,Black,null,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,40800
+2018,Porsche,Macan,93403 km,SUV,2.0,Automatic,AWD,Black,Black,5,4,Gas,11.6L/100km,9.3L/100km,40888
+2017,Porsche,Macan,133000 km,SUV,3.0L,Automatic,AWD,Carrara White Metallic,null,5,4,Gas,13.7L/100km,10.3L/100km,41888
+2016,Porsche,Macan,46857 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Blue Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,41910
+2016,Porsche,Cayenne,147991 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,13.9L/100km,9.6L/100km,41910
+2018,Porsche,Macan,81853 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,11.6L/100km,9.3L/100km,42800
+2017,Porsche,Macan,74216 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Sapphire Blue Metallic,null,null,null,Gas,13.7L/100km,10.3L/100km,42900
+2017,Porsche,Macan,72683 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,13.7L/100km,10.3L/100km,43800
+2019,Porsche,911,7514 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,null,null,319999
+2017,Porsche,Cayenne,117000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,44880
+2016,Porsche,Panamera,139000 km,Sedan,6 Cylinder,Automatic,AWD,Black,Black,4,4,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,44885
+2016,Porsche,Cayenne,74000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.9L/100km,9.7L/100km,45799
+2017,Porsche,Cayenne,114900 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Tan,5,4,Gas,13.9L/100km,9.6L/100km,45876
+2018,Porsche,Cayenne,107000 km,SUV,3.6L,Automatic,AWD,Jet Black Metallic,null,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,45888
+2018,Porsche,Macan,52893 km,SUV,4 Cylinder,7 Speed Automatic,AWD,Black,Black,5,4,Gas,11.6L/100km,9.3L/100km,46800
+2015,Porsche,Macan,97635 km,SUV,6 Cylinder,7 Speed Automatic,AWD,White,Red,null,4,Gas,14.2L/100km,10.1L/100km,46800
+2016,Porsche,Macan,54900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Jet Black Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,46999
+2018,Porsche,Macan,46616 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Grey,Black,null,4,Gas,11.6L/100km,9.3L/100km,47673
+2022,Porsche,Cayenne,9390 km,SUV,8 Cylinder Engine 4.0L,Automatic,AWD,White,Red,null,4,Gas,15.2L/100km,12.4L/100km,159990
+2018,Porsche,Macan,62806 km,SUV,Twin Turbo Premium Unleaded V-6 3.0 L/183,Automatic,AWD,Blue,Black,5,4,Gas,13.7L/100km,10.3L/100km,47998
+2015,Porsche,Macan,79000 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Red,5,4,Gas,14.2L/100km,10.1L/100km,48800
+2011,Porsche,Boxster,39000 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Red,Black,2,2,Gas,7.4L/100km,7.4L/100km,49800
+2018,Porsche,Macan,107000 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Dark Grey,Black,5,4,Gas,13.8L/100km,10.3L/100km,49800
+2016,Porsche,Cayenne,124000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Electric,11.3L/100km,9.8L/100km,49800
+2017,Porsche,Cayenne,72367 km,SUV,6 Cylinder,Sequential,AWD,Black,Black,null,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,49800
+2018,Porsche,Macan,79217 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,11.6L/100km,9.3L/100km,49888
+2018,Porsche,Macan,33383 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,11.6L/100km,9.3L/100km,49900
+2013,Porsche,Panamera,119672 km,Sedan,8 Cylinder Engine,Automatic,RWD,Red,Black,4,4,Gas,13.3L/100km,8.5L/100km,49910
+2019,Porsche,Cayenne,46538 km,SUV,2.9L V6 DOHC 24V,Automatic,4x4,Black,Red,null,4,Gas,12.5L/100km,10.0L/100km,78995
+2017,Porsche,Macan,123578 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,13.8L/100km,10.3L/100km,49910
+2018,Porsche,Cayenne,88603 km,SUV,V-6 cyl,8 Speed Automatic,AWD,White,null,null,null,Premium Unleaded,12.9L - 13.6L/100km,9.7L - 10.2L/100km,50997
+2017,Porsche,Cayenne,92000 km,SUV,3.6,8 Speed Automatic,AWD,White,Grey,null,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,51200
+2017,Porsche,Macan,101300 km,SUV,6 Cylinder,7 Speed Automatic,AWD,White,Red,null,4,Gas,null,null,53800
+2017,Porsche,Cayenne,79674 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,13.9L/100km,9.6L/100km,53910
+2016,Porsche,Cayenne,142758 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,null,null,54888
+2017,Porsche,Macan,71184 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,13.8L/100km,10.3L/100km,56800
+2016,Porsche,Panamera,81458 km,Sedan,V6 Cylinder Engine,Automatic,null,Black,Beige,null,null,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,56910
+2017,Porsche,Macan,80823 km,SUV,6 Cylinder,7 Speed Automatic,AWD,White,Red,null,4,Gas,null,null,57800
+2010,Porsche,911,49236 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Basalt Black Metallic,null,4,2,Gas,11.6L/100km,7.9L - 8.0L/100km,104900
+2017,Porsche,Macan,87458 km,SUV,6 Cylinder,Automatic,AWD,White,Black,null,4,Gas,null,null,57800
+2017,Porsche,Macan,55751 km,SUV,V6 Cylinder Engine,Automatic,AWD,Rhodium Silver Metallic,Black,5,4,Gas,13.8L/100km,10.3L/100km,57910
+2020,Porsche,Macan,49093 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,12.2L/100km,10.2L/100km,58000
+2018,Porsche,Macan,69847 km,SUV,V6 Cylinder Engine 3.0L,Automatic,AWD,Blue,Black,null,4,Gas,13.8L/100km,10.3L/100km,58295
+2018,Porsche,Macan,78687 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Carmine Red Metallic,Black,null,4,Gas,13.8L/100km,10.3L/100km,58800
+2018,Porsche,Macan,81500 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,13.8L/100km,10.3L/100km,59800
+2020,Porsche,Macan,33000 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,10.2L/100km,59800
+2018,Porsche,Cayenne,97088 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,null,4,Gasoline Hybrid,11.3L/100km,9.8L/100km,59800
+2016,Porsche,Cayenne,77459 km,SUV,6 Cylinder,Sequential,AWD,White,Black,null,4,Gas,14.5L/100km,10.4L/100km,59800
+2021,Porsche,Macan,16904 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,72800
+2016,Porsche,Panamera,64494 km,Sedan,6 Cylinder,Automatic,AWD,White,Tan,null,4,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,59800
+2015,Porsche,Boxster,59000 km,Convertible,2.7,Automatic,RWD,White,White,2,2,Gas,null,null,59880
+2009,Porsche,911,130592 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,Black,Black,4,2,Gas,17.0L/100km,25.0L/100km,59888
+2018,Porsche,Cayenne,109863 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Purpurit Metallic,Black,5,4,Electric,11.3L/100km,9.8L/100km,59888
+2017,Porsche,Cayenne,63142 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Rhodium Silver Metallic,Brown,5,4,Gasoline Hybrid,null,null,59888
+2019,Porsche,Macan,71285 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,null,null,59900
+2017,Porsche,Macan,38097 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,13.8L/100km,10.3L/100km,59910
+2018,Porsche,Macan,59566 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,13.7L/100km,10.3L/100km,59950
+2016,Porsche,Panamera,77923 km,Hatchback,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,Black,4,4,Gas,13.1L/100km,8.4L - 8.7L/100km,59990
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2019,Porsche,Macan,61722 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,null,null,60900
+2017,Porsche,Cayenne,33200 km,SUV,3.6,Automatic,AWD,White,Black,null,4,Gas,13.9L/100km,9.6L/100km,61499
+2018,Porsche,Cayenne,97558 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,BLACK,Black,5,4,Electric,11.3L/100km,9.8L/100km,61500
+2018,Porsche,Macan,55000 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,null,null,null,Gas,13.8L/100km,10.3L/100km,61895
+2018,Porsche,Macan,49182 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.7L/100km,10.3L/100km,61950
+2018,Porsche,Macan,69000 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,null,null,62800
+2018,Porsche,Macan,25995 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Red,5,4,Gas,13.7L/100km,10.3L/100km,62800
+2015,Porsche,Cayenne,92000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,null,null,62800
+2016,Porsche,Panamera,59436 km,Sedan,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,62800
+2022,Porsche,Cayenne,25467 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Red,5,4,Gas,13.4L/100km,10.9L/100km,119995
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2020,Porsche,Macan,26500 km,SUV,2.0,Automatic,AWD,Black,Grey,null,4,Gas,12.2L/100km,10.2L/100km,63400
+2020,Porsche,Macan,44211 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,12.9L/100km,10.2L/100km,63910
+2020,Porsche,Macan,19929 km,SUV,V6 Cylinder Engine,Automatic,AWD,Carmine Red,null,null,null,Gas,12.9L/100km,10.2L/100km,64000
+2020,Porsche,Macan,49676 km,SUV,4 Cylinder Engine,Automatic,AWD,Dolomite Silver Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,64500
+2020,Porsche,Macan,42744 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,12.9L/100km,10.2L/100km,64800
+2019,Porsche,Macan,62674 km,SUV,3.0,Automatic,AWD,Dark Blue,Black,5,4,Gas,12.9L/100km,10.2L/100km,64888
+2017,Porsche,718,67649 km,Convertible,4 Cylinder Engine,Automatic,RWD,Silver,Black,2,2,Gas,null,null,64910
+2017,Porsche,Macan,48983 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,null,null,64910
+2015,Porsche,Macan,51463 km,SUV,V-6 cyl,7 Speed Automatic with auto-shift,AWD,White,Red,null,null,Gas,14.2L/100km,10.1L/100km,49995
+2017,Porsche,Cayenne,91890 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Moonlight Blue Metallic,null,5,4,Gas,14.5L/100km,10.4L/100km,64995
+2017,Porsche,718,86900 km,Convertible,2.0,Automatic,RWD,Agate Grey Metallic,Red,null,2,Gas,11.0L/100km,8.3L/100km,65500
+2018,Porsche,Macan,7124 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,13.7L/100km,10.3L/100km,65800
+2007,Porsche,911,100600 km,Coupe,Flat 6 Cylinder Engine,null,AWD,Grey,Brown,4,2,Gas,13.1L - 13.6L/100km,8.4L - 8.7L/100km,65888
+2019,Porsche,Cayenne,61759 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Black,5,4,Gas,12.5L/100km,10.0L/100km,65900
+2019,Porsche,Cayenne,75000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Tan,5,4,Gas,12.5L/100km,10.0L/100km,66800
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2016,Porsche,Macan,54900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Jet Black Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,46999
+2020,Porsche,Macan,42744 km,SUV,6 Cylinder,7 Speed Automatic,AWD,Black,Black,null,4,Gas,12.9L/100km,10.2L/100km,64800
+2020,Porsche,Macan,38825 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,null,null,Gas,null,null,73900
+2019,Porsche,Cayenne,77500 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gas,12.5L/100km,10.0L/100km,72777
+2021,Porsche,Panamera,29697 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,12.8L/100km,9.8L/100km,139500
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2018,Porsche,Macan,31200 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.8L/100km,10.3L/100km,60999
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2019,Porsche,Cayenne,66490 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Purpurite Metallic,null,null,null,Gas,12.5L/100km,10.0L/100km,66900
+2021,Porsche,Macan,30282 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,66900
+2020,Porsche,Macan,38552 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dolomite Silver Metallic,null,null,null,Gas,12.9L/100km,10.2L/100km,67000
+2021,Porsche,Macan,39563 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,67900
+2018,Porsche,Macan,48127 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,11.6L/100km,9.3L/100km,47450
+2015,Porsche,Panamera,95900 km,Sedan,4.8L 8cyl,7 Speed Automatic with auto-shift,AWD,Black,Black,4,4,Premium Unleaded,null,null,68500
+2021,Porsche,Macan,28147 km,SUV,4 Cylinder,7 Speed Automatic,AWD,White,Red,null,4,Gas,12.2L/100km,10.2L/100km,68800
+2019,Porsche,Cayenne,65475 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Rhodium Silver Metallic,null,null,null,Gas,12.5L/100km,10.0L/100km,68900
+2020,Porsche,Macan,40401 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,null,null,null,Gas,12.9L/100km,10.2L/100km,69000
+2019,Porsche,Cayenne,53053 km,SUV,V6 Cylinder Engine,Automatic,AWD,Moonlight Blue Metallic,null,null,null,Gas,12.5L/100km,10.0L/100km,69000
+2021,Porsche,Macan,36910 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,69624
+2019,Porsche,Cayenne,30295 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.5L/100km,10.0L/100km,69900
+2019,Porsche,Cayenne,50019 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,12.5L/100km,10.0L/100km,70999
+2021,Porsche,Macan,32937 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,71443
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2019,Porsche,Cayenne,54000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.5L/100km,10.0L/100km,71800
+2017,Porsche,Cayenne,75000 km,SUV,3.6L,Automatic,AWD,Meteor Grey Metallic,Black,5,4,Gas,14.5L/100km,10.4L/100km,71889
+2019,Porsche,Cayenne,57528 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,null,null,null,Gas,12.5L/100km,10.0L/100km,71899
+2019,Porsche,Cayenne,44256 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,12.5L/100km,10.0L/100km,71900
+2018,Porsche,Cayenne,74875 km,SUV,V6 Cylinder Engine 3.6L,Automatic,AWD,White,Grey,null,4,Gas,14.5L/100km,10.4L/100km,71989
+2019,Porsche,Cayenne,25391 km,SUV,6 Cylinder,Sequential,AWD,White,Black,null,4,Gas,12.5L/100km,10.0L/100km,72800
+2020,Porsche,Macan,39790 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,null,null,Gas,null,null,73455
+2021,Porsche,Macan,21658 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,null,null,Gas,12.2L/100km,10.2L/100km,73733
+2017,Porsche,Cayenne,46200 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,14.5L/100km,10.4L/100km,73880
+2018,Porsche,Macan,31200 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.8L/100km,10.3L/100km,60999
+2020,Porsche,Macan,38825 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,null,null,Gas,null,null,73900
+2022,Porsche,Macan,5379 km,SUV,4 Cylinder Engine,Automatic,AWD,Carmine Red,null,null,null,Gas,12.4L/100km,9.3L/100km,75000
+2021,Porsche,Macan,11029 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.2L/100km,10.2L/100km,75900
+2019,Porsche,Cayenne,105474 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,12.9L/100km,10.4L/100km,75910
+2021,Porsche,Macan,18151 km,SUV,V6 Cylinder Engine,Automatic,AWD,Carrara White Metallic,null,null,null,Gas,13.1L/100km,9.6L/100km,77500
+2019,Porsche,Cayenne,83000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,77800
+2019,Porsche,Cayenne,42000 km,SUV,3.0L,Automatic,AWD,Quarzite Grey Metallic,null,5,4,Gas,12.5L/100km,10.0L/100km,77888
+2018,Porsche,Panamera,70000 km,Wagon,3.0L,Automatic,AWD,Chalk,Black,4,4,Gas,11.0L - 11.3L/100km,8.3L - 8.6L/100km,77888
+2022,Porsche,Macan,17615 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.4L/100km,9.3L/100km,77900
+2021,Porsche,Macan,17789 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,68900
+2020,Porsche,Cayenne,59869 km,SUV,Intercooled Turbo Premium Unleaded V-6 3.0 L/183,Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gas,12.5L/100km,10.0L/100km,77998
+2021,Porsche,Macan,12710 km,SUV,V6 Cylinder Engine,Automatic,AWD,Carrara White Metallic,null,null,null,Gas,13.1L/100km,9.6L/100km,78500
+2021,Porsche,Macan,9000 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,White,Red,5,4,Gas,12.2L/100km,10.2L/100km,78800
+2008,Porsche,911,61379 km,Convertible,Flat 6 Cylinder Engine,Automatic,AWD,White,Black,4,2,Gas,12.5L - 12.9L/100km,8.1L - 8.4L/100km,78910
+2019,Porsche,Cayenne,63113 km,SUV,6 Cylinder,Sequential,AWD,Black,Tan,null,4,Gas,12.9L/100km,10.4L/100km,79800
+2022,Porsche,Macan,17615 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.4L/100km,9.3L/100km,79900
+2017,Porsche,718,41534 km,Coupe,4 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,12.1L/100km,9.0L/100km,79900
+2017,Porsche,718,77274 km,Coupe,4 Cylinder Engine,null,RWD,Miami Blue,null,null,null,Gas,12.1L/100km,9.0L/100km,79900
+2007,Porsche,911,51917 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,White,Black,4,2,Gas,13.1L - 13.6L/100km,8.4L - 8.7L/100km,79910
+2018,Porsche,911,48880 km,Coupe,4.0L,Manual,RWD,Chalk,Black,2,2,Gas,15.8L/100km,11.6L/100km,224899
+2020,Porsche,Cayenne,45768 km,SUV,V6 Cylinder Engine,Automatic,null,White,null,null,null,Gas,12.5L/100km,10.3L/100km,81000
+2018,Porsche,718,25910 km,Coupe,4 Cylinder Engine,Manual,RWD,Jet Black Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,81000
+2021,Porsche,Macan,35802 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,null,null,null,Gas,13.1L/100km,9.6L/100km,81084
+2020,Porsche,Cayenne,60108 km,SUV,V6 Cylinder Engine,Automatic,null,Dolomite Silver Metallic,null,null,null,Gas,12.5L/100km,10.3L/100km,82000
+2019,Porsche,718,23820 km,Convertible,4 Cylinder Engine,Manual,RWD,Black,Black,2,2,Gas,11.0L/100km,8.3L/100km,83910
+2019,Porsche,Cayenne,37169 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,12.9L/100km,10.4L/100km,83910
+2021,Porsche,Macan,23500 km,SUV,2.9L 6cyl,7 Speed Automatic with auto-shift,AWD,Blue,Red,null,4,Gas,13.5L/100km,10.5L/100km,83995
+2018,Porsche,Panamera,76185 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Red,4,4,Gas,11.0L - 11.3L/100km,8.3L - 8.6L/100km,84888
+2020,Porsche,Macan,30359 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,null,null,null,Gas,13.5L/100km,10.5L/100km,84900
+2018,Porsche,Macan,25995 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Red,5,4,Gas,13.7L/100km,10.3L/100km,62800
+2019,Porsche,718,10692 km,Coupe,4 Cylinder Engine,Manual,RWD,Light Grey,Black,2,2,Gas,11.0L/100km,8.3L/100km,84910
+2020,Porsche,Cayenne,36646 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,White,null,null,null,Gas,12.5L/100km,10.3L/100km,85449
+2018,Porsche,Panamera,45050 km,Sedan,3.0,Automatic,AWD,Burgundy Red Metallic,Beige,5,4,Gas,11.0L - 11.3L/100km,8.3L - 8.6L/100km,85988
+2018,Porsche,Panamera,30046 km,Sedan,2.9,Automatic,AWD,Gray,Black,null,4,Gas,11.3L/100km,8.5L/100km,89950
+2018,Porsche,Panamera,65389 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gasoline Hybrid,null,null,91900
+2017,Porsche,Panamera,53468 km,Hatchback,V6 Cylinder Engine,Automatic,AWD,Black,Black,4,4,Gas,null,null,91910
+2021,Porsche,Cayenne,17687 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.5L/100km,10.3L/100km,92800
+2018,Porsche,Panamera,47290 km,Hatchback,V6 Cylinder Engine,Automatic,AWD,White,Black,4,4,Electric,null,null,93910
+2021,Porsche,Macan,20563 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,13.5L/100km,10.5L/100km,94900
+2019,Porsche,Cayenne,48458 km,SUV,V6 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,12.9L/100km,10.4L/100km,84899
+2022,Porsche,Cayenne,19022 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,13.8L/100km,10.7L/100km,95900
+2020,Porsche,Cayenne,59874 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,Quarzite Grey Metallic,null,null,null,Gas,12.9L/100km,10.4L/100km,96900
+2017,Porsche,Panamera,25779 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,null,4,4,Gas,null,null,97800
+2018,Porsche,Panamera,40798 km,Sedan,6 Cylinder,8 Speed Automatic,AWD,Burgundy Red Metallic,Tan,null,4,Gas,11.3L/100km,8.5L/100km,97800
+2020,Porsche,Cayenne,43000 km,SUV,2.9L,Automatic,AWD,Jet Black Metallic,null,5,4,Gas,12.9L/100km,10.4L/100km,97880
+2022,Porsche,Cayenne,18459 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,13.8L/100km,10.7L/100km,98900
+2020,Porsche,Cayenne,29446 km,SUV,6 Cylinder,Sequential,AWD,White,Red,null,4,Gas,null,null,99800
+2019,Porsche,Panamera,34977 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Volcano Grey Metallic,null,null,null,Gasoline Hybrid,null,null,99900
+2020,Porsche,Cayenne,42442 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,Mahogany Metallic,null,null,null,Gas,null,null,99900
+2018,Porsche,718,16871 km,Coupe,4 Cylinder Engine,7 Speed Automatic,RWD,Irish Green,null,2,2,Gas,null,null,104900
+2017,Porsche,911,113867 km,Coupe,Flat 6 Cylinder Engine,Automatic,AWD,White,Black,4,2,Gas,null,null,99910
+2022,Porsche,Cayenne,21579 km,SUV,V6 Cylinder Engine,Automatic,null,White,null,null,null,Gas,13.8L/100km,10.7L/100km,101900
+2013,Porsche,911,82808 km,Coupe,3.8L H6 DI 400 hp,Automatic,AWD,Agate Grey Metallic,Grey,null,2,Gas,null,null,102721
+2022,Porsche,Cayenne,10340 km,SUV,6 Cylinder,Sequential,AWD,Carmine Red,Black,5,4,Gas,12.5L/100km,10.3L/100km,103800
+2011,Porsche,911,44293 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Speed Yellow,Black,null,null,Gas,11.3L - 11.6L/100km,7.9L - 8.0L/100km,104000
+2022,Porsche,Macan,14363 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Black,5,4,Gas,13.5L/100km,10.7L/100km,106950
+2019,Porsche,718,11468 km,Coupe,4 Cylinder,null,RWD,Guards Red,Black,null,2,Gas,null,null,108800
+2017,Porsche,Panamera,71000 km,Wagon,4.0L,Automatic,AWD,Jet Black Metallic,null,4,4,Gas,null,null,108888
+2019,Porsche,718,19486 km,Coupe,4 Cylinder Engine,null,RWD,Carmine Red,null,null,null,Gas,null,null,109900
+2018,Porsche,Macan,49182 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.7L/100km,10.3L/100km,61950
+2020,Porsche,Cayenne,23844 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,Quarzite Grey Metallic,null,null,null,Gasoline Hybrid,null,null,109900
+2020,Porsche,Cayenne,50113 km,SUV,6 Cylinder,Automatic,AWD,Chalk,Red,null,4,Gas,null,null,111800
+2020,Porsche,Cayenne,22391 km,SUV,6 Cylinder,Sequential,AWD,Black,Red,null,4,Gasoline Hybrid,null,null,114800
+2017,Porsche,Panamera,51702 km,Sedan,8 Cylinder,8 Speed Automatic,AWD,Agate Grey Metallic,null,null,4,Gas,null,null,114800
+2019,Porsche,Cayenne,30435 km,SUV,8 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,15.6L/100km,11.8L/100km,115000
+2022,Porsche,Cayenne,7300 km,SUV,6 Cylinder,Automatic,AWD,Black,Red,null,4,Gas,13.8L/100km,10.7L/100km,118900
+2020,Porsche,Panamera,45671 km,Hatchback,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Beige,5,4,Gas,13.1L/100km,8.9L/100km,118910
+2019,Porsche,Cayenne,30009 km,SUV,8 Cylinder,Sequential,AWD,White,null,null,4,Gas,15.6L/100km,11.8L/100km,119800
+2017,Porsche,911,58030 km,Coupe,Flat 6 Cylinder Engine,null,null,White,null,null,null,Gas,null,null,119900
+2021,Porsche,718,6800 km,Convertible,Flat 6 Cylinder Engine,null,RWD,Black,null,2,2,Gas,14.0L/100km,10.1L/100km,167995
+2022,Porsche,718,2137 km,Coupe,4 Cylinder Engine,Manual,RWD,Chalk,null,null,null,Gas,12.5L/100km,9.6L/100km,120000
+2019,Porsche,911,32773 km,Coupe,Flat 6 Cylinder Engine,Automatic,RWD,GT Silver Metallic,Black,4,2,Gas,12.1L/100km,8.3L/100km,121910
+2019,Porsche,718,1865 km,Coupe,4 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,null,null,122800
+2016,Porsche,911,42880 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Dark Blue Metallic,null,null,null,Gas,null,null,123000
+2017,Porsche,911,71199 km,Coupe,Flat 6 Cylinder Engine,Automatic,AWD,White,Red,4,2,Gas,null,null,125910
+2017,Porsche,911,53087 km,Coupe,6 Cylinder,null,AWD,Black,null,null,2,Gas,null,null,129800
+2021,Porsche,718,18076 km,Coupe,Flat 6 Cylinder Engine,null,RWD,Jet Black Metallic,null,null,null,Gas,14.0L/100km,10.0L/100km,129900
+2016,Porsche,911,42839 km,Coupe,Flat 6 Cylinder Engine,null,null,White,null,null,null,Gas,null,null,129900
+2011,Porsche,Panamera,154000 km,Hatchback,6 Cylinder,Automatic,AWD,Amethyst Metallic,Tan,4,4,Gas,null,null,24995
+2020,Porsche,Taycan,19344 km,Sedan,Electric,Automatic,AWD,Black,Black,null,4,Electric,null,null,137800
+2014,Porsche,Cayenne,184153 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Beige,5,4,Diesel,10.8L/100km,6.7L/100km,32888
+2014,Porsche,Panamera,163703 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,RWD,Red,Black,4,4,Electric,null,null,46888
+2016,Porsche,Cayenne,119368 km,SUV,V6 Cylinder Engine,Automatic,AWD,Meteor Grey Metallic,Black,5,4,Diesel,11.8L/100km,8.1L/100km,46910
+2011,Porsche,Cayman,44800 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Silver,null,null,null,Gas,11.2L/100km,7.4L/100km,56000
+2017,Porsche,Cayenne,89790 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,4,Premium Unleaded,11.3L/100km,9.8L/100km,57000
+2018,Porsche,Cayenne,78117 km,SUV,6 Cylinder,Sequential,AWD,Black,Brown,null,4,Gas,13.9L/100km,9.6L/100km,59800
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2017,Porsche,911,53087 km,Coupe,6 Cylinder,null,AWD,Black,null,null,2,Gas,null,null,129800
+2016,Porsche,911,42839 km,Coupe,Flat 6 Cylinder Engine,null,null,White,null,null,null,Gas,null,null,129900
+2022,Porsche,Macan,1211 km,SUV,I-4 cyl,Automatic,AWD,White,Black,null,null,Premium Unleaded,12.4L/100km,9.3L/100km,89988
+2017,Porsche,911,9352 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,GT Silver Metallic,null,null,null,Gas,null,null,148000
+2017,Porsche,Macan,36000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,65000
+2009,Porsche,911,121770 km,Coupe,null,Manual,4X4,Black,null,null,2 doors,Gasoline,null,null,74000
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2018,Porsche,Macan,31200 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.8L/100km,10.3L/100km,60999
+2016,Porsche,Macan,76000 km,SUV,3.6L,Automatic,AWD,Carrara White Metallic,null,5,4,Gas,14.2L/100km,10.1L/100km,59888
+2019,Porsche,Cayenne,71994 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Black,5,4,Gas,12.5L/100km,10.0L/100km,69900
+2017,Porsche,Panamera,85280 km,Sedan,3.0,Automatic,RWD,Black,White,4,4,Gas,null,null,74988
+2021,Porsche,Macan,16395 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,12.2L/100km,10.2L/100km,75900
+2019,Porsche,Cayenne,76900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Polar White,Red,5,4,Gas,12.5L/100km,10.0L/100km,73999
+2022,Porsche,Macan,15500 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Blue,Tan,5,4,Gas,12.4L/100km,9.3L/100km,78800
+2018,Porsche,718,47950 km,Coupe,4 Cylinder Engine,Manual,RWD,GT Silver Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,83000
+2021,Porsche,Macan,7648 km,SUV,V6 Cylinder Engine,Automatic,AWD,Volcano Grey Metallic,null,null,null,Gas,13.1L/100km,9.6L/100km,83500
+2020,Porsche,Cayenne,49182 km,SUV,V6 Cylinder Engine,Automatic,AWD,Blue,Cream,5,4,Gas,12.5L/100km,10.3L/100km,83910
+2008,Porsche,911,59197 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,White,Brown,4,2,Gas,12.5L - 12.9L/100km,8.1L - 8.4L/100km,86800
+2019,Porsche,Cayenne,69295 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gasoline Hybrid,null,null,86900
+2020,Porsche,Cayenne,62548 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,89900
+2020,Porsche,Cayenne,35942 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,Dolomite Silver Metallic,null,null,null,Gas,12.5L/100km,10.3L/100km,94002
+2021,Porsche,Macan,20566 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,13.5L/100km,10.5L/100km,95900
+2015,Porsche,Cayman,60155 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Dark Blue Metallic,null,2,2,Gas,null,null,68600
+2022,Porsche,Cayenne,7075 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Dolomite Silver Metallic,Black,5,4,Gas,13.8L/100km,10.7L/100km,104900
+2017,Porsche,Panamera,79255 km,Sedan,8 Cylinder,8 Speed Automatic,AWD,Agate Grey Metallic,White,null,4,Gas,null,null,109800
+2022,Porsche,Cayenne,18215 km,SUV,V6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,13.8L/100km,10.7L/100km,114000
+2020,Porsche,Cayenne,38555 km,SUV,V6 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gasoline Hybrid,null,null,115910
+2022,Porsche,718,1024 km,Convertible,4 Cylinder Engine,Automatic,RWD,Gentian Blue Metallic,null,null,null,Gas,12.5L/100km,9.6L/100km,124000
+2021,Porsche,Cayenne,74111 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Jet Black Metallic,null,null,null,Gas,15.8L/100km,12.3L/100km,124900
+2020,Porsche,Taycan,62787 km,Sedan,Electric Motor,null,null,Jet Black Metallic,null,null,null,Electric,null,null,126900
+2008,Porsche,911,7260 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Black,Black,null,2,Gas,12.5L - 12.9L/100km,8.1L - 8.4L/100km,128800
+2011,Porsche,Panamera,115115 km,Sedan,3.6,6 Speed Automatic,AWD,Ruby Red Metallic,Grey,4,4,Gas,null,null,32000
+2018,Porsche,Macan,49182 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.7L/100km,10.3L/100km,61950
+2016,Porsche,Cayenne,213754 km,SUV,3.0L-DIESEL,Automatic,AWD,Black,Black,5,4,Diesel,null,null,35995
+2015,Porsche,Cayenne,194826 km,SUV,3.0L,Automatic,AWD,Black,Beige,5,4,Diesel,null,null,37995
+2015,Porsche,Cayenne,147200 km,SUV,3.6L 6cyl,8 Speed Automatic,AWD,Black,Black,null,2,Premium Unleaded,null,null,38888
+2016,Porsche,Cayenne,119422 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Diesel,null,null,47910
+2009,Porsche,911,120565 km,Coupe,Flat 6 Cylinder Engine,Automatic,RWD,null,null,4,2,Gas,17.0L/100km,23.0L - 25.0L/100km,63910
+2021,Porsche,Macan,37372 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,White,null,null,null,Gas,12.2L/100km,10.2L/100km,69294
+2019,Porsche,Cayenne,76900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Polar White,Red,5,4,Gas,12.5L/100km,10.0L/100km,73999
+2022,Porsche,Macan,1211 km,SUV,I-4 cyl,Automatic,AWD,White,Black,null,null,Premium Unleaded,12.4L/100km,9.3L/100km,89988
+2021,Porsche,Cayenne,29374 km,SUV,V6 Cylinder Engine,8 Speed Automatic,null,Dolomite Silver Metallic,null,null,null,Gas,12.5L/100km,10.3L/100km,100933
+2019,Porsche,Cayenne,30009 km,SUV,8 Cylinder,Sequential,AWD,White,null,null,4,Gas,15.6L/100km,11.8L/100km,119800
+2022,Porsche,Cayenne,10399 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,13.8L/100km,10.7L/100km,104900
+2008,Porsche,911,92428 km,Coupe,3.6,Manual,AWD,Black,null,4,2,Gas,13.3L/100km,8.5L/100km,111995
+2007,Porsche,911,63073 km,Coupe,Flat 6 Cylinder Engine,Manual,AWD,Silver,Black,4,2,Gas,13.3L/100km,8.5L/100km,123910
+2014,Porsche,Cayenne,153878 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Beige,null,null,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,23985
+2012,Porsche,Panamera,165000 km,Sedan,6 Cylinder,Automatic,RWD,Black,Black,4,4,Gas,11.6L - 11.8L/100km,7.4L - 7.6L/100km,25995
+2014,Porsche,Cayenne,193224 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Meteor Grey Metallic,null,5,4,Diesel,10.8L/100km,6.7L/100km,28495
+2006,Porsche,Boxster,76379 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,Grey,Beige,2,2,Gas,null,null,29910
+2013,Porsche,Panamera,79000 km,Sedan,8 Cylinder,Automatic,AWD,Gray,Beige,4,4,Gas,12.9L/100km,8.3L/100km,35995
+2015,Porsche,Cayenne,117700 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Beige,5,4,Diesel,null,null,43777
+2021,Porsche,Macan,18217 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,74800
+2014,Porsche,Panamera,44797 km,Hatchback,V6 Cylinder Engine,7 Speed Automatic,AWD,Grey,Tan,4,4,Gas,11.6L - 11.8L/100km,7.4L - 7.6L/100km,44888
+2003,Porsche,911,38016 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Black,Black,4,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,53910
+2004,Porsche,911,99560 km,Convertible,6 Cylinder,6 Speed Manual,AWD,Black,Brown,null,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,54800
+2018,Porsche,Macan,67000 km,SUV,2.0,Automatic,AWD,White,Black,5,4,Gas,11.6L/100km,9.3L/100km,54800
+2017,Porsche,Macan,75182 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,59888
+2018,Porsche,Macan,71261 km,SUV,null,7 Speed Automatic,AWD,null,null,5,4,Gas,null,null,60800
+2018,Porsche,Macan,76500 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grey,Red,5,4,Gas,13.8L/100km,10.3L/100km,62000
+2018,Porsche,Macan,63300 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,13.8L/100km,10.3L/100km,62777
+2003,Porsche,911,21719 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Grey,Black,4,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,64888
+2022,Porsche,Cayenne,25467 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Red,5,4,Gas,13.4L/100km,10.9L/100km,119995
+1987,Porsche,928,26330 km,Coupe,8 Cylinder Engine,Automatic,null,Green,null,null,null,Gas,null,null,68000
+2019,Porsche,Cayenne,77500 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gas,12.5L/100km,10.0L/100km,72777
+2006,Porsche,911,77494 km,Convertible,3.8,Manual,null,Seal Grey Metallic,null,null,2,Gas,13.1L - 13.8L/100km,9.0L - 9.4L/100km,72995
+2010,Porsche,911,96000 km,Convertible,Flat 6 Cylinder Engine,Automatic,AWD,Black,Black,4,2,Gas,11.5L - 11.9L/100km,7.7L - 8.1L/100km,88860
+2019,Porsche,Cayenne,58000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,12.9L/100km,10.4L/100km,89000
+2006,Porsche,911,38385 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Grey,Black,null,2,Gas,null,null,89888
+2023,Porsche,Macan,341 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Papaya Metallic,null,null,null,Gas,12.4L/100km,9.3L/100km,94900
+2018,Porsche,718,17173 km,Convertible,2.5,8 Speed Automatic,RWD,Agate Grey Metallic,Grey,2,2,Gas,null,null,99888
+2021,Porsche,Macan,11926 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,Black,null,null,Gas,13.5L/100km,11.2L/100km,99900
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2007,Porsche,911,113357 km,Coupe,Flat 6 Cylinder Engine,null,null,Carrera White,null,null,null,Gas,13.3L/100km,8.5L/100km,109900
+2006,Porsche,911,32200 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Carmon Red Metallic,Black,null,2,Gas,null,null,118800
+2020,Porsche,Panamera,58700 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,4,4,Gas,12.4L/100km,8.7L - 9.0L/100km,119777
+2019,Porsche,Cayenne,39000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Dark Blue,Cream,5,4,Gas,15.6L/100km,11.8L/100km,127777
+2021,Porsche,Cayenne,47422 km,SUV,8 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,15.8L/100km,12.3L/100km,131910
+2020,Porsche,Taycan,31102 km,Sedan,Electric Motor,null,AWD,Blue,Red,5,4,Electric,null,null,132900
+2017,Porsche,911,27459 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,GT Silver Metallic,null,null,null,Gas,null,null,133000
+2017,Porsche,911,47744 km,Coupe,Flat 6 Cylinder Engine,null,null,Rhodium Silver Metallic,null,null,null,Gas,null,null,133900
+2018,Porsche,Panamera,20558 km,Wagon,8 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,13.4L/100km,10.1L/100km,134800
+2022,Porsche,Taycan,7405 km,Sedan,Electric Motor,null,AWD,Jet Black Metallic,null,5,4,Electric,null,null,154900
+2020,Porsche,Taycan,39964 km,Sedan,Electric Motor,null,null,Volcano Grey Metallic,null,null,null,Electric,null,null,134900
+2020,Porsche,Taycan,38927 km,Sedan,Electric Motor,null,null,Volcano Grey Metallic,null,null,null,Electric,null,null,134900
+2021,Porsche,Cayenne,46831 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Carrara White Metallic,null,null,null,Gas,15.8L/100km,12.3L/100km,134900
+2017,Porsche,911,13654 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,null,null,135500
+2017,Porsche,911,24700 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Black,Red,4,2,Gas,12.1L/100km,8.3L - 8.4L/100km,137777
+2020,Porsche,Taycan,19344 km,Sedan,Electric,Automatic,AWD,Black,Black,null,4,Electric,null,null,137800
+2017,Porsche,911,13179 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Agate Grey Metallic,Black,4,2,Gas,null,null,137900
+2019,Porsche,911,53298 km,Coupe,Flat 6 Cylinder Engine,null,null,Agate Grey Metallic,null,null,null,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,137900
+2020,Porsche,Taycan,28049 km,Sedan,Electric Motor,null,null,Jet Black Metallic,null,null,null,Electric,null,null,137900
+2019,Porsche,Macan,58862 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,55000
+2021,Porsche,Cayenne,29000 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Jet Black Metallic,null,null,null,Gas,15.8L/100km,12.3L/100km,137900
+2018,Porsche,911,20426 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Carrara White Metallic,null,null,null,Gas,null,null,138000
+2021,Porsche,Panamera,33000 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.8L/100km,9.8L/100km,138500
+2018,Porsche,911,73200 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,4,2,Gas,null,null,138669
+2019,Porsche,Panamera,15000 km,Wagon,4.0L,Automatic,AWD,Carrara White Metallic,null,4,4,Gas,14.5L/100km,10.2L/100km,138888
+2021,Porsche,Panamera,29697 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,null,null,Gas,12.8L/100km,9.8L/100km,139500
+2023,Porsche,Cayenne,5287 km,SUV,6 Cylinder,Sequential,AWD,White,Black,null,4,Gasoline Hybrid,11.8L/100km,10.6L/100km,139800
+2018,Porsche,Panamera,27092 km,Wagon,8 Cylinder,8 Speed Automatic,AWD,Agate Grey Metallic,null,null,4,Gas,13.4L/100km,10.1L/100km,139800
+2020,Porsche,Taycan,34237 km,Sedan,Electric Motor,null,AWD,Blue,Beige,5,4,Electric,null,null,139900
+2018,Porsche,Macan,48127 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,11.6L/100km,9.3L/100km,47450
+2022,Porsche,Panamera,8295 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,null,Chalk,null,null,null,Gas,12.8L - 13.1L/100km,9.8L/100km,139900
+2018,Porsche,911,28230 km,Convertible,Flat 6 Cylinder Engine,null,RWD,Agate Grey Metallic,Red,4,2,Gas,null,null,139900
+2019,Porsche,911,14023 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,4,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,139900
+2017,Porsche,911,40886 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Night Blue Metallic,null,4,2,Gas,null,null,139995
+2020,Porsche,Taycan,15871 km,Sedan,Electric Motor,null,AWD,null,null,5,4,Electric,null,null,142900
+2020,Porsche,Taycan,21439 km,Sedan,Electric Motor,null,AWD,null,null,5,4,Electric,null,null,142900
+2021,Porsche,Taycan,23141 km,Sedan,Electric Motor,null,null,Carrara White Metallic,null,null,null,Electric,null,null,142900
+2018,Porsche,911,75474 km,Coupe,Flat 6 Cylinder Engine,null,null,Chalk,null,null,null,Gas,null,null,144900
+2021,Porsche,Taycan,12558 km,Sedan,Electric Motor,null,null,Frozen Blue Metallic,null,null,null,Electric,null,null,144900
+2015,Porsche,Macan,105995 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Tan,5,4,Gas,13.7L/100km,10.3L/100km,34899
+2020,Porsche,Taycan,9162 km,Sedan,Electric Motor,null,AWD,White,Red,5,4,Electric,null,null,145900
+2019,Porsche,911,13201 km,Coupe,Twin Turbo Premium Unleaded H-6 3.0 L/182,Automatic,AWD,White,Black,4,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,145998
+2021,Porsche,Panamera,19037 km,Sedan,8 Cylinder Engine,Automatic,AWD,Cherry Metallic,null,null,null,Gas,15.7L/100km,11.2L/100km,147000
+2018,Porsche,911,28242 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Silver,Brown,4,2,Gas,12.2L/100km,8.5L/100km,147800
+2021,Porsche,Taycan,15976 km,Sedan,Electric Motor,null,null,Jet Black Metallic,null,null,null,Electric,null,null,147900
+2017,Porsche,911,9352 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,GT Silver Metallic,null,null,null,Gas,null,null,148000
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2016,Porsche,Macan,54900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Jet Black Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,46999
+2019,Porsche,Cayenne,50019 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,12.5L/100km,10.0L/100km,70999
+2019,Porsche,Cayenne,30435 km,SUV,8 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,15.6L/100km,11.8L/100km,115000
+2018,Porsche,911,9036 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Agate Grey Metallic,Black,null,2,Gas,15.8L/100km,11.6L/100km,279800
+2017,Porsche,Macan,36000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,65000
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2019,Porsche,Cayenne,47822 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Light Blue,Cream,5,4,Gas,12.5L/100km,10.0L/100km,69998
+2018,Porsche,911,17500 km,Coupe,Flat 6 Cylinder Engine,null,null,Racing Yellow,null,null,null,Gas,null,null,148900
+2017,Porsche,911,41687 km,Convertible,3.0L 6cyl,7 Speed Automatic with auto-shift,AWD,White,Black,2,2,Premium Unleaded,null,null,149888
+2020,Porsche,Taycan,51369 km,Sedan,Electric Motor,null,null,Volcano Grey Metallic,null,null,null,Electric,null,null,149900
+2022,Porsche,Cayenne,10248 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Moonlight Blue Metallic,null,null,null,Gas,15.8L/100km,12.3L/100km,149900
+2015,Porsche,Cayman,60155 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Dark Blue Metallic,null,2,2,Gas,null,null,68600
+2011,Porsche,911,49735 km,Convertible,Flat 6 Cylinder Engine,null,null,Black,null,null,null,Gas,null,null,149900
+2012,Porsche,911,77622 km,Convertible,Flat 6 Cylinder Engine,null,null,Platinum Silver Metallic,null,null,null,Gas,null,null,149900
+2018,Porsche,911,10337 km,Coupe,Flat 6 Cylinder Engine,null,null,Jet Black Metallic,null,null,null,Gas,null,null,149900
+2017,Porsche,911,51086 km,Convertible,3.0,Automatic,AWD,Rhodium Silver Metallic,null,null,2,Gas,null,null,150995
+2018,Porsche,911,73714 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Chalk,null,null,null,Gas,null,null,153000
+2017,Porsche,911,29249 km,Coupe,3.0L 6cyl,7 Speed Automatic,AWD,Agate Grey Metallic,Red,4,2,Premium Unleaded,12.2L/100km,8.5L/100km,154599
+2017,Porsche,911,36118 km,Coupe,6 Cylinder,Automatic,AWD,Guards Red,Black,null,2,Gas,null,null,154800
+2019,Porsche,911,22816 km,Coupe,Twin Turbo Premium Unleaded H-6 3.0 L/182,Automatic,AWD,White,Red,4,2,Gas,null,null,154899
+2019,Porsche,911,15060 km,Coupe,Flat 6 Cylinder Engine,null,null,Guards Red,null,null,null,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,154900
+2022,Porsche,Cayenne,25467 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Red,5,4,Gas,13.4L/100km,10.9L/100km,119995
+2019,Porsche,911,13950 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,null,null,4,2,Gas,null,null,154900
+2018,Porsche,911,76312 km,Coupe,Flat 6 Cylinder Engine,null,null,Black,null,null,null,Gas,null,null,154900
+2021,Porsche,Panamera,16671 km,Hatchback,V-8 cyl,8 Speed Automatic with auto-shift,AWD,Volcano Grey Metallic,Grey,null,null,Gas,15.7L/100km,11.2L/100km,154999
+2020,Porsche,911,34800 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,RWD,Agate Grey Metallic,Grey,4,2,Gas,13.1L/100km,9.7L - 10.2L/100km,155000
+2020,Porsche,911,22199 km,Coupe,3,Automatic,RWD,Silver,null,null,2,Gas,13.1L/100km,9.8L/100km,157457
+2019,Porsche,911,34312 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Racing Yellow,Black,null,null,Gas,null,null,157900
+2022,Porsche,Taycan,446 km,Sedan,Electric Motor,null,null,White,null,null,null,Electric,null,null,158000
+2020,Porsche,718,1407 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,Carrara White Metallic,null,null,null,Gas,14.3L/100km,10.4L/100km,158000
+2017,Porsche,911,24633 km,Convertible,6 Cylinder,null,AWD,White,null,null,2,Gas,null,null,158800
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2020,Porsche,Cayenne,20529 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Chalk,null,null,null,Gas,null,null,158900
+2019,Porsche,911,38495 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,null,null,159000
+2015,Porsche,911,45000 km,Convertible,3.8L,Automatic,AWD,GT Silver Metallic,Black,4,2,Gas,null,null,159899
+2021,Porsche,911,10285 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,GT Silver Met,null,null,null,Gas,13.1L/100km,9.8L/100km,159900
+2021,Porsche,Taycan,11700 km,Sedan,Electric Motor,null,AWD,null,null,5,4,Electric,null,null,159900
+2020,Porsche,Cayenne,49639 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,159900
+2021,Porsche,Taycan,8863 km,Wagon,Electric Motor,null,AWD,null,null,5,4,Electric,null,null,159900
+2020,Porsche,911,41518 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,Jet Black Metallic,null,null,null,Gas,13.1L/100km,9.8L/100km,159900
+2017,Porsche,911,51848 km,Convertible,Flat 6 Cylinder Engine,null,null,Black,null,null,null,Gas,null,null,159900
+2019,Porsche,Cayenne,30009 km,SUV,8 Cylinder,Sequential,AWD,White,null,null,4,Gas,15.6L/100km,11.8L/100km,119800
+2019,Porsche,911,10013 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,White,Black,4,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,159900
+2018,Porsche,911,30885 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,GT Silver Met,null,4,2,Gas,null,null,159900
+2019,Porsche,911,59564 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,Agate Grey Metallic,null,null,null,Gas,null,null,160000
+2022,Porsche,Cayenne,16803 km,SUV,8 Cylinder Engine,Automatic,null,Chalk,null,null,null,Gas,15.2L/100km,12.4L/100km,162000
+2020,Porsche,911,33362 km,Coupe,6 Cylinder,Automatic,AWD,Dolomite Silver Metallic,Black,null,2,Gas,null,null,162800
+2018,Porsche,911,48312 km,Coupe,6 Cylinder,Automatic,AWD,Black,Black,null,2,Gas,null,null,162800
+2022,Porsche,Cayenne,23814 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Carrara White Metallic,null,null,null,Gas,15.6L/100km,12.4L/100km,162900
+2020,Porsche,718,10253 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,GT Silver Metallic,null,null,null,Gas,null,null,162900
+2020,Porsche,718,5355 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Guards Red,Black,null,2,Gas,14.3L/100km,10.4L/100km,163895
+2019,Porsche,Cayenne,76900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Polar White,Red,5,4,Gas,12.5L/100km,10.0L/100km,73999
+2020,Porsche,718,11514 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Carrara White Metallic,null,null,null,Gas,null,null,163900
+2020,Porsche,718,4908 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Black,Black,null,2,Gas,null,null,164800
+2023,Porsche,Cayenne,1000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,15.8L/100km,12.3L/100km,164888
+2020,Porsche,718,18000 km,Coupe,4.0L,Manual,RWD,Chalk,Black,2,2,Gas,14.3L/100km,10.4L/100km,164888
+2021,Porsche,911,6821 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,Agate Grey Metallic,null,null,null,Gas,13.1L/100km,9.8L/100km,164900
+2018,Porsche,911,10961 km,Coupe,Flat 6 Cylinder Engine,null,null,Racing Yellow,null,null,null,Gas,null,null,164900
+2020,Porsche,718,10970 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Chalk,null,null,null,Gas,null,null,164900
+2019,Porsche,911,8600 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Racing Yellow,Black,4,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,169777
+2022,Porsche,Cayenne,90 km,SUV,8 Cylinder,Sequential,AWD,Chalk,Black,null,4,Gas,15.2L/100km,12.4L/100km,169800
+2022,Porsche,Taycan,7405 km,Sedan,Electric Motor,null,AWD,Jet Black Metallic,null,5,4,Electric,null,null,154900
+2018,Porsche,911,29870 km,Coupe,Flat 6 Cylinder Engine,null,null,Jet Black Metallic,null,null,null,Gas,null,null,169900
+2022,Porsche,911,6753 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,White,null,null,null,Gas,13.1L/100km,9.8L/100km,169900
+2020,Porsche,911,16287 km,Coupe,Flat 6 Cylinder Engine,null,null,Jet Black Metallic,Black,null,null,Gas,13.1L/100km,9.7L - 10.2L/100km,169900
+2018,Porsche,911,48304 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Silver,Black,4,2,Gas,null,null,169900
+2019,Porsche,911,28805 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,GT Silver Metallic,null,4,2,Gas,null,null,172800
+2021,Porsche,718,9618 km,Convertible,Flat 6 Cylinder Engine,null,RWD,GT Silver Metallic,null,null,null,Gas,14.0L/100km,10.1L/100km,172900
+2022,Porsche,911,11752 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,Jet Black Metallic,null,null,null,Gas,13.1L/100km,9.8L/100km,174900
+2020,Porsche,911,23000 km,Coupe,Flat 6 Cylinder Engine,Automatic,AWD,Blue,Black,4,2,Gas,13.1L/100km,9.8L/100km,177000
+2021,Porsche,718,11519 km,Coupe,Flat 6 Cylinder Engine,null,RWD,White,null,null,null,Gas,14.0L/100km,10.1L/100km,177900
+2016,Porsche,Panamera,102501 km,Sedan,8 Cylinder Engine 4.8L,Automatic,AWD,White,Black,4,4,Gas,15.1L/100km,9.7L/100km,65900
+2021,Porsche,911,16458 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,Carrara White Metallic,null,null,null,Gas,12.8L - 12.9L/100km,10.2L/100km,179000
+2019,Porsche,911,21103 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,GT Silver Metallic,null,null,null,Gas,null,null,179000
+2020,Porsche,911,23580 km,Coupe,Flat 6 Cylinder Engine,null,null,Jet Black Metallic,null,null,null,Gas,13.1L/100km,9.7L - 10.2L/100km,179900
+2021,Porsche,911,6568 km,Convertible,Flat 6 Cylinder Engine,8 Speed Automatic,null,Guards Red,null,null,null,Gas,13.1L/100km,9.7L - 9.8L/100km,179900
+2020,Porsche,911,31266 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Gentian Blue Metallic,null,null,null,Gas,13.1L/100km,9.7L - 10.2L/100km,179900
+2021,Porsche,911,18274 km,Coupe,Flat 6 Cylinder Engine,null,RWD,Lava Orange,Black,4,2,Gas,12.9L - 13.0L/100km,10.2L/100km,179900
+2022,Porsche,718,2357 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Racing Yellow,Black,null,null,Gas,14.0L/100km,10.1L/100km,180000
+2018,Porsche,911,23200 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,White,Black,4,2,Gas,null,null,182888
+2017,Porsche,911,57442 km,Convertible,6 Cylinder,7 Speed Automatic,AWD,White,Black,null,2,Gas,null,null,183800
+2021,Porsche,Taycan,10800 km,Sedan,Electric Motor,null,null,Chalk,null,null,null,Electric,null,null,189995
+2022,Porsche,718,2559 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Racing Yellow,null,null,null,Gas,14.0L/100km,10.1L/100km,185500
+2021,Porsche,911,19702 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,White,null,null,null,Gas,12.8L - 12.9L/100km,10.2L/100km,186000
+2022,Porsche,911,1507 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Aventurine Green Metallic,null,null,null,Gas,13.1L/100km,9.8L/100km,188000
+2021,Porsche,911,17633 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Aventurine Green Metallic,null,null,null,Gas,12.9L - 13.0L/100km,10.2L/100km,189000
+2021,Porsche,911,15260 km,Coupe,6 Cylinder,null,AWD,White,null,null,2,Gas,12.9L - 13.0L/100km,10.2L/100km,189800
+2020,Porsche,Taycan,26407 km,Sedan,Electric,null,AWD,Black,Black,null,2,Electric,null,null,189980
+2021,Porsche,911,18949 km,Coupe,Twin Turbo Premium Unleaded H-6 3.0 L/182,Automatic,AWD,Silver,Grey,4,2,Gas,12.9L - 13.0L/100km,10.2L/100km,189988
+2022,Porsche,911,5632 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,Carrara White Metallic,null,null,null,Gas,null,null,190000
+2023,Porsche,718,608 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Shark Blue,null,null,null,Gas,null,null,190000
+2019,Porsche,911,7514 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,null,null,319999
+2022,Porsche,911,1826 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Carrara White Metallic,null,null,null,Gas,null,null,196000
+2017,Porsche,911,19942 km,Sedan,Flat 6 Cylinder Engine,Automatic,AWD,Silver,Black,null,2,Gas,null,null,196955
+2022,Porsche,911,2729 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Chalk,Black,null,null,Gas,null,null,198000
+2021,Porsche,911,24515 km,Convertible,Twin Turbo Premium Unleaded H-6 3.0 L/182,Automatic,AWD,Black,Grey,4,2,Gas,12.8L - 12.9L/100km,10.2L/100km,198888
+2007,Porsche,911,30952 km,Coupe,6 Cylinder,5 Speed Manual,AWD,Carrera White,Black,null,2,Gas,13.3L/100km,8.5L/100km,199800
+2007,Porsche,911,33547 km,Coupe,6 Cylinder,6 Speed Manual,AWD,Black,Black,null,2,Gas,13.3L/100km,8.5L/100km,199800
+2021,Porsche,911,6295 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Green,null,null,null,Gas,12.9L - 13.0L/100km,10.2L/100km,199995
+2021,Porsche,911,15755 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Racing Yellow,Black,null,null,Gas,12.9L - 13.0L/100km,10.2L/100km,200000
+2021,Porsche,911,11639 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,12.8L - 12.9L/100km,10.2L/100km,203000
+2019,Porsche,Macan,58862 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,55000
+2017,Porsche,911,36663 km,Convertible,Flat 6 Cylinder Engine,7 Speed Automatic,null,Jet Black Metallic,null,null,null,Gas,null,null,204900
+2020,Porsche,Taycan,14930 km,Sedan,Electric Motor,null,null,Jet Black Metallic,null,null,null,Electric,null,null,204900
+2020,Porsche,Taycan,9125 km,Sedan,Electric Motor,null,null,Jet Black Metallic,null,null,null,Electric,null,null,205900
+2021,Porsche,911,4030 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,null,null,4,2,Gas,13.1L/100km,9.8L/100km,208800
+2022,Porsche,911,10473 km,Coupe,Flat 6 Cylinder Engine,null,null,Carrara White Metallic,null,null,null,Gas,null,null,209900
+2021,Porsche,911,4175 km,Coupe,Flat 6 Cylinder Engine,null,AWD,Black,Black,4,2,Gas,12.9L - 13.0L/100km,10.2L/100km,218800
+2018,Porsche,911,28875 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Guards Red,null,null,null,Gas,15.8L/100km,11.6L/100km,222000
+2018,Porsche,911,48880 km,Coupe,4.0L,Manual,RWD,Chalk,Black,2,2,Gas,15.8L/100km,11.6L/100km,224899
+2021,Porsche,911,24565 km,Coupe,Flat 6 Cylinder Engine,null,null,Carmine Red,null,null,null,Gas,13.1L/100km,10.2L/100km,224900
+2020,Porsche,Cayenne,41502 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.5L/100km,10.0L/100km,66999
+2022,Porsche,911,2746 km,Coupe,Flat 6 Cylinder Engine,null,AWD,Grey,Black,4,2,Gas,null,null,229000
+2018,Porsche,911,22169 km,Coupe,Flat 6 Cylinder Engine,Automatic,null,Sapphire Blue Metallic,null,null,null,Gas,15.8L/100km,11.6L/100km,229000
+2022,Porsche,911,6507 km,Convertible,Flat 6 Cylinder Engine,Manual,AWD,Agate Grey Metallic,null,4,2,Gas,null,null,229888
+2022,Porsche,911,9490 km,Coupe,Flat 6 Cylinder Engine,null,null,Chalk,null,null,null,Gas,null,null,229900
+2018,Porsche,911,32718 km,Convertible,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Black,Grey,4,2,Gas,null,null,229900
+2022,Porsche,911,13187 km,Coupe,Flat 6 Cylinder Engine,null,AWD,Silver,Black,4,2,Gas,null,null,237800
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2020,Porsche,Macan,33000 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,10.2L/100km,59800
+2017,Porsche,Cayenne,75000 km,SUV,3.6L,Automatic,AWD,Meteor Grey Metallic,Black,5,4,Gas,14.5L/100km,10.4L/100km,71889
+2022,Porsche,Cayenne,7300 km,SUV,6 Cylinder,Automatic,AWD,Black,Red,null,4,Gas,13.8L/100km,10.7L/100km,118900
+2019,Porsche,Cayenne,39000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Dark Blue,Cream,5,4,Gas,15.6L/100km,11.8L/100km,127777
+2017,Porsche,911,29249 km,Coupe,3.0L 6cyl,7 Speed Automatic,AWD,Agate Grey Metallic,Red,4,2,Premium Unleaded,12.2L/100km,8.5L/100km,154599
+2003,Porsche,911,148000 km,Convertible,null,Manual,AWD,Silver,null,null,2 doors,Gasoline,null,null,41450
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2018,Porsche,911,19711 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Guards Red,Black,null,2,Gas,15.8L/100km,11.6L/100km,239800
+2019,Porsche,911,7257 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,GT Silver Metallic,Red,4,2,Gas,null,null,239900
+2018,Porsche,911,29260 km,Coupe,Flat 6 Cylinder Engine,null,null,Guards Red,null,null,null,Gas,15.8L/100km,11.6L/100km,244900
+2021,Porsche,911,29819 km,Convertible,Flat 6 Cylinder Engine,Automatic,null,White,null,null,null,Gas,null,null,249000
+2018,Porsche,911,48880 km,Coupe,4.0L,Manual,RWD,Chalk,Black,2,2,Gas,15.8L/100km,11.6L/100km,224899
+2022,Porsche,911,3623 km,Coupe,Flat 6 Cylinder Engine,null,null,Jet Black Metallic,null,null,null,Gas,null,null,249900
+2018,Porsche,911,20111 km,Coupe,Flat 6 Cylinder Engine,null,null,Carrara White Metallic,null,null,null,Gas,15.8L/100km,11.6L/100km,249900
+2018,Porsche,911,16912 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,null,null,249900
+2018,Porsche,911,14095 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Lava Orange,Black,2,2,Gas,15.8L/100km,11.6L/100km,249900
+2022,Porsche,Cayenne,4172 km,SUV,8 Cylinder Engine,8 Speed Automatic,null,Arctic Grey,null,null,null,Gas,16.8L/100km,12.4L/100km,259995
+2018,Porsche,911,9036 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Agate Grey Metallic,Black,null,2,Gas,15.8L/100km,11.6L/100km,279800
+2022,Porsche,911,6050 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,null,null,2,2,Gas,null,null,292880
+2022,Porsche,911,3047 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,Agate Grey Metallic,Black,2,2,Gas,null,null,299900
+2021,Porsche,911,3413 km,Coupe,6 Cylinder,Automatic,AWD,Dolomite Silver Metallic,null,4,2,Gas,null,null,314800
+2018,Porsche,Macan,25995 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,Red,5,4,Gas,13.7L/100km,10.3L/100km,62800
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2019,Porsche,911,20221 km,Coupe,Flat 6 Cylinder Engine,Automatic,RWD,Black,null,2,2,Gas,16.1L/100km,12.2L/100km,318888
+2019,Porsche,911,7514 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,null,null,319999
+2019,Porsche,911,15194 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,White,Black,2,2,Gas,16.1L/100km,12.2L/100km,329000
+2022,Porsche,911,5511 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,null,Racing Yellow,Black,null,null,Gas,null,null,334900
+2021,Porsche,911,1543 km,Convertible,6 Cylinder,8 Speed Automatic,AWD,Black,Black,null,2,Gas,null,null,339800
+2022,Porsche,911,6909 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Custom Colour,Black,null,null,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,348000
+2021,Porsche,911,7000 km,Coupe,3.8L,Automatic,AWD,Gentian Blue Metallic,null,4,2,Gas,null,null,349888
+2022,Porsche,911,3446 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,Silver,Blue,2,2,Gas,null,null,349900
+2021,Porsche,718,6800 km,Convertible,Flat 6 Cylinder Engine,null,RWD,Black,null,2,2,Gas,14.0L/100km,10.1L/100km,167995
+2022,Porsche,911,2575 km,Coupe,Flat 6 Cylinder Engine,null,null,Agate Grey Metallic,null,null,null,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,349900
+2022,Porsche,911,2401 km,Coupe,Flat 6 Cylinder Engine,null,RWD,Silver,Black,2,2,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,349900
+2022,Porsche,911,6100 km,Convertible,3.8,Automatic,AWD,White,Red,null,2,Gas,null,null,358888
+2022,Porsche,911,3786 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Gentian Blue Metallic,null,null,null,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,359000
+2022,Porsche,911,2201 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,RWD,null,null,2,2,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,365900
+2022,Porsche,911,1617 km,Coupe,Flat 6 Cylinder Engine,Manual,null,Custom Colour,null,null,null,Gas,null,null,374500
+2021,Porsche,911,6000 km,Coupe,3.8L,Automatic,AWD,Jet Black Metallic,null,4,2,Gas,null,null,378888
+2010,Porsche,911,35999 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Carrara White,Black,2,2,Gas,null,null,399800
+1997,Porsche,911,36118 km,Coupe,6 Cylinder,6 Speed Manual,AWD,Guards Red,Black,null,2,Gas,null,null,469800
+2019,Porsche,Cayenne,48458 km,SUV,V6 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,12.9L/100km,10.4L/100km,84899
+2008,Porsche,911,27475 km,Coupe,6 Cylinder,6 Speed Manual,RWD,Carrara White,Black,null,2,Gas,13.3L/100km,8.5L/100km,499800
+2014,Porsche,Cayenne,150652 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Tan,5,null,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,18950
+2002,Porsche,BOXSTER,145000 km,Coupe,3.2L,null,RWD,Not Specified,null,null,2,Gas,13.1L - 13.8L/100km,9.0L - 9.4L/100km,19999
+2013,Porsche,Cayenne,138385 km,SUV,3;0TURBO,Automatic,AWD,Black,Tan,null,null,Diesel,null,null,27900
+2003,Porsche,911,148000 km,Convertible,null,Manual,AWD,Silver,null,null,2 doors,Gasoline,null,null,41450
+2003,Porsche,Boxster,45549 km,Convertible,Flat 6 Cylinder Engine,Manual,null,null,null,null,null,Gas,13.1L - 13.8L/100km,9.0L/100km,53000
+2017,Porsche,Macan,36000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,65000
+2009,Porsche,911,121770 km,Coupe,null,Manual,4X4,Black,null,null,2 doors,Gasoline,null,null,74000
+2012,Porsche,911,72000 km,Coupe,3.6L,6 Speed Manual,null,Not Specified,null,null,2,Gas,11.3L - 11.4L/100km,7.9L - 8.1L/100km,89888
+2020,Porsche,Taycan,19344 km,Sedan,Electric,Automatic,AWD,Black,Black,null,4,Electric,null,null,137800
+2008,Porsche,911,78500 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Carrera White,Black,4,2,Gas,12.5L - 12.9L/100km,8.1L - 8.4L/100km,111777
+2022,Porsche,Cayenne,6500 km,SUV,V6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,null,Gas,13.8L/100km,10.7L/100km,119000
+2021,Porsche,Cayenne,14850 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Carrara White Metallic,null,5,4,Gas,15.8L/100km,12.3L/100km,135988
+2021,Porsche,Cayenne,14029 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,15.8L/100km,12.3L/100km,139900
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2018,Porsche,911,65280 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,GT Silver Metallic,null,4,2,Gas,null,null,144888
+2017,Porsche,911,23000 km,Coupe,null,Manual,RWD,Silver,null,null,2 doors,Gasoline,null,null,149000
+2022,Porsche,Taycan,3175 km,Wagon,Electric Motor,null,AWD,null,null,5,4,Electric,null,null,184900
+2020,Porsche,911,7500 km,Coupe,null,Automatic,AWD,Silver,null,null,2 doors,Gasoline,null,null,185000
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2020,Porsche,718,5500 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,Guards Red,Black,2,2,Gas,14.3L/100km,10.4L/100km,168500
+2012,Porsche,Cayenne,132001 km,SUV,3.6,Automatic,AWD,Black,Tan,5,null,Gas,12.9L - 14.1L/100km,8.6L - 9.3L/100km,22995
+2013,Porsche,Cayenne,151028 km,SUV,8 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,12.9L - 14.1L/100km,8.6L - 9.3L/100km,24950
+2008,Porsche,Cayman,185278 km,Coupe,3.4,6 Speed Manual,RWD,Dark Grey,Black,null,2,Gas,11.8L/100km,7.7L/100km,26598
+2007,Porsche,Boxster,122800 km,Convertible,Flat 6 Cylinder Engine,Automatic,RWD,Silver,Grey,2,2,Gas,10.1L/100km,6.8L/100km,26999
+2014,Porsche,Cayenne,148000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Diesel,10.8L/100km,6.7L/100km,28900
+2014,Porsche,Cayenne,97000 km,SUV,V-6 cyl,8 Speed Automatic,AWD,Black,Black,null,null,Gas,null,null,29900
+2014,Porsche,Cayenne,166961 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,5,4,Diesel,10.8L/100km,6.7L/100km,29999
+2016,Porsche,Macan,112097 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,13.7L/100km,10.3L/100km,33450
+2018,Porsche,Macan,31200 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.8L/100km,10.3L/100km,60999
+2016,Porsche,Macan,96300 km,SUV,3.0,Automatic,AWD,Blue,Black,null,4,Gas,13.7L/100km,10.3L/100km,37950
+2016,Porsche,Cayenne,97000 km,SUV,3.6L 6cyl,8 Speed Automatic,AWD,Moonlight Blue Metallic,Beige,5,4,Gas,12.9L/100km,9.7L/100km,38795
+2017,Porsche,Macan,94700 km,SUV,3.0L 6cyl,7 Speed Automatic with auto-shift,AWD,Black,Black,5,4,Gas,13.7L/100km,10.3L/100km,38995
+2017,Porsche,Macan,66505 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Beige,null,4,Gas,11.8L/100km,9.4L/100km,39980
+2018,Porsche,Macan,99863 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,White,Tan,5,4,Gas,11.6L/100km,9.3L/100km,39999
+2014,Porsche,Panamera,120000 km,Hatchback,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,4,4,Gas,null,null,39999
+2017,Porsche,Macan,87095 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,13.7L/100km,10.3L/100km,40999
+2018,Porsche,Macan,74000 km,SUV,4 Cylinder,Automatic,AWD,Black,Red,5,4,Gas,11.6L/100km,9.3L/100km,43878
+2018,Porsche,Macan,69000 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,2,4,Gas,11.6L/100km,9.3L/100km,43878
+2022,Porsche,Cayenne,9390 km,SUV,8 Cylinder Engine 4.0L,Automatic,AWD,White,Red,null,4,Gas,15.2L/100km,12.4L/100km,159990
+2015,Porsche,Cayenne,160813 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,null,null,43987
+2018,Porsche,Macan,78353 km,SUV,2.0,Automatic,AWD,White,Red,5,4,Gas,11.6L/100km,9.3L/100km,44888
+2018,Porsche,Macan,100000 km,SUV,6 Cylinder,Automatic,AWD,White,Black,5,4,Gas,13.7L/100km,10.3L/100km,44888
+2017,Porsche,Cayenne,146245 km,SUV,3.0,Automatic,AWD,Black,Black,null,4,Electric,null,null,45998
+2018,Porsche,Macan,58000 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,null,Gas,11.6L/100km,9.3L/100km,46888
+2016,Porsche,Macan,49818 km,SUV,3.0,Automatic,AWD,Black,Black,5,4,Gas,13.7L/100km,10.3L/100km,46888
+2016,Porsche,Cayenne,107000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Meteor Grey Metallic,Black,5,4,Gas,null,null,46988
+2015,Porsche,Cayenne,63415 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Moonlight Blue Metallic,Tan,5,4,Diesel,null,null,47898
+2018,Porsche,Cayenne,100733 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Mahogany Metallic,Beige,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,49898
+2021,Porsche,Macan,17789 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,68900
+2018,Porsche,Macan,50908 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Mahogany Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,49898
+2018,Porsche,Cayenne,73462 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,50888
+2017,Porsche,Cayenne,60622 km,SUV,3.6L 6cyl,8 Speed Automatic,AWD,null,null,null,null,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,52188
+2016,Porsche,Panamera,104350 km,Hatchback,6 Cylinder,Automatic,AWD,Black,Black,4,4,Gas,13.4L/100km,8.8L/100km,52888
+2018,Porsche,Macan,65000 km,SUV,6 Cylinder,Automatic,AWD,White,Black,5,4,Gas,13.7L/100km,10.3L/100km,53900
+2017,Porsche,Cayenne,55863 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.9L - 13.6L/100km,9.7L - 10.2L/100km,56998
+2018,Porsche,Macan,52000 km,SUV,6 Cylinder,Automatic,AWD,Black,Charcoal,5,4,Gas,13.7L/100km,10.3L/100km,57800
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2014,Porsche,Panamera,80060 km,Sedan,8 Cylinder Engine,Automatic,AWD,White,Red,null,null,Gas,null,null,58888
+2018,Porsche,718,16871 km,Coupe,4 Cylinder Engine,7 Speed Automatic,RWD,Irish Green,null,2,2,Gas,null,null,104900
+2017,Porsche,718,123000 km,Convertible,4 Cylinder Engine,null,RWD,null,null,2,2,Gas,11.0L/100km,8.3L/100km,58900
+2020,Porsche,Macan,36524 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Night Blue Metallic,Beige,5,4,Gas,12.2L/100km,10.2L/100km,59900
+2020,Porsche,Macan,42128 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,59995
+2018,Porsche,Macan,31200 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carmine Red,Black,5,4,Gas,13.8L/100km,10.3L/100km,60999
+2017,Porsche,Cayenne,92072 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Rhodium Silver Metallic,Black,null,null,Gas,14.5L/100km,10.4L/100km,62807
+2020,Porsche,Macan,88549 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Black,5,4,Gas,12.9L/100km,10.2L/100km,62900
+2019,Porsche,Cayenne,67185 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Grey,5,4,Gas,12.5L/100km,10.0L/100km,65898
+2021,Porsche,Macan,55000 km,SUV,2.0L I4 Turbocharged,7 Speed Automatic,AWD,Blue,null,5,4,Gas,12.2L/100km,10.2L/100km,65999
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2022,Porsche,Taycan,7405 km,Sedan,Electric Motor,null,AWD,Jet Black Metallic,null,5,4,Electric,null,null,154900
+2019,Porsche,Cayenne,67500 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,12.5L/100km,10.0L/100km,67890
+2019,Porsche,Macan,27438 km,SUV,3.0L 6cyl,7 Speed Automatic with auto-shift,AWD,Black,Black,5,4,Gas,null,null,68800
+2019,Porsche,Macan,27553 km,SUV,3.0L 6cyl,7 Speed Automatic with auto-shift,AWD,null,null,null,null,Gas,12.9L/100km,10.2L/100km,68888
+2019,Porsche,Cayenne,70840 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Jet Black Metallic,null,5,4,Gas,12.5L/100km,10.0L/100km,68995
+2020,Porsche,Macan,37790 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Night Blue Metallic,Black,5,4,Gas,null,null,69900
+2019,Porsche,Macan,30344 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,null,5,4,Gas,12.9L/100km,10.2L/100km,69900
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2020,Porsche,Macan,33000 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,10.2L/100km,59800
+2019,Porsche,Cayenne,50019 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,12.5L/100km,10.0L/100km,70999
+2004,Porsche,911,99560 km,Convertible,6 Cylinder,6 Speed Manual,AWD,Black,Brown,null,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,54800
+2017,Porsche,Macan,36000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,65000
+2009,Porsche,911,121770 km,Coupe,null,Manual,4X4,Black,null,null,2 doors,Gasoline,null,null,74000
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2020,Porsche,911,7500 km,Coupe,null,Automatic,AWD,Silver,null,null,2 doors,Gasoline,null,null,185000
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2019,Porsche,Cayenne,67000 km,SUV,6 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,12.9L/100km,10.4L/100km,69980
+2019,Porsche,Cayenne,47822 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Light Blue,Cream,5,4,Gas,12.5L/100km,10.0L/100km,69998
+2018,Porsche,718,24850 km,Convertible,4 Cylinder Engine,null,RWD,null,null,2,2,Gas,11.0L/100km,8.3L/100km,69998
+2020,Porsche,Macan,17150 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Red,null,null,Gas,null,null,70999
+2019,Porsche,Cayenne,46538 km,SUV,2.9L V6 DOHC 24V,Automatic,4x4,Black,Red,null,4,Gas,12.5L/100km,10.0L/100km,78995
+2019,Porsche,Cayenne,44587 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.5L/100km,10.0L/100km,72998
+2019,Porsche,Macan,32411 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,null,5,4,Gas,null,null,73000
+2019,Porsche,Cayenne,49000 km,SUV,6 Cylinder,Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gas,12.5L/100km,10.0L/100km,73800
+2017,Porsche,Cayenne,107000 km,SUV,8 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,null,null,73895
+2020,Porsche,Cayenne,52012 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,null,5,4,Gas,12.5L/100km,10.3L/100km,77995
+2017,Porsche,718,42000 km,Convertible,4 Cylinder,Manual,RWD,Racing Yellow,Grey,2,2,Gas,12.1L/100km,9.0L/100km,78878
+2019,Porsche,Cayenne,55000 km,SUV,6 Cylinder,Automatic,AWD,Quarzite Grey Metallic,Red,5,4,Gasoline Hybrid,null,null,79800
+2017,Porsche,Panamera,40211 km,Sedan,V6 Cylinder Engine,Automatic,null,Night Blue Metallic,null,null,null,Gas,null,null,79900
+2019,Porsche,Cayenne,52140 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Grey,5,4,Gas,12.9L/100km,10.4L/100km,81898
+2010,Porsche,911,49236 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Basalt Black Metallic,null,4,2,Gas,11.6L/100km,7.9L - 8.0L/100km,104900
+2021,Porsche,Macan,23500 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Red,5,4,Gas,13.5L/100km,10.5L/100km,83995
+2020,Porsche,Cayenne,41000 km,SUV,6 Cylinder,Automatic,AWD,Black,Red,5,4,Gas,12.5L/100km,10.3L/100km,84989
+2021,Porsche,Macan,39327 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Red,5,4,Gas,13.5L/100km,10.5L/100km,87995
+2020,Porsche,Macan,22492 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,null,5,4,Gas,null,null,87995
+2021,Porsche,Cayenne,32101 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,null,5,4,Gas,12.7L/100km,10.3L/100km,89888
+2018,Porsche,Panamera,71000 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Black,4,4,Electric,null,null,89888
+2018,Porsche,718,34564 km,Convertible,4 Cylinder Engine,null,RWD,White,Red,2,2,Gas,null,null,89998
+2020,Porsche,Cayenne,60500 km,SUV,2.9L V6 DOHC 24V,Automatic,4x4,null,null,null,4,Gas,null,null,90999
+2018,Porsche,Panamera,50284 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,4,4,Electric,null,null,91898
+2019,Porsche,911,7514 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,null,null,319999
+2017,Porsche,Panamera,101580 km,Sedan,4.8L V8 DOHC 32V,Automatic,AWD,null,null,null,4,Gas,null,null,98899
+2020,Porsche,Cayenne,44200 km,SUV,V6 Cylinder Engine,Automatic,null,Black,Black,5,null,Gas,13.1L/100km,10.5L/100km,99999
+2021,Porsche,Cayenne,39700 km,SUV,6 Cylinder,Automatic,AWD,Quarzite Grey Metallic,Black,5,4,Gas,12.7L/100km,10.3L/100km,103880
+2016,Porsche,911,41000 km,Coupe,Flat 6 Cylinder,Automatic,RWD,Black,Black,4,2,Gas,12.4L/100km,8.7L/100km,108878
+2021,Porsche,Cayenne,28205 km,SUV,3,Automatic,AWD,White,null,5,4,Gas,12.7L/100km,10.3L/100km,109990
+2013,Porsche,911,66000 km,Coupe,Flat 6 Cylinder,Manual,AWD,Black,Black,4,2,Gas,null,null,112980
+2022,Porsche,Cayenne,13000 km,SUV,3.0L V6 DOHC 24V,8 Speed Automatic,null,null,null,null,null,Gas,14.7L/100km,10.6L/100km,115555
+2022,Porsche,Cayenne,25467 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,Red,5,4,Gas,13.4L/100km,10.9L/100km,119995
+2017,Porsche,911,27000 km,Coupe,Flat 6 Cylinder,Manual,RWD,White,Black,4,2,Gas,null,null,128880
+2021,Porsche,Macan,16904 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,72800
+2020,Porsche,Panamera,38112 km,Sedan,2.9L 6cyl,8 Speed Automatic with auto-shift,AWD,Blue,Beige,5,4,Gas,null,null,129800
+2010,Porsche,Panamera,136000 km,Sedan,8 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,null,null,29900
+2011,Porsche,Cayenne,137409 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Silver,Charcoal,5,4,Gas,14.3L/100km,9.3L/100km,32995
+2010,Porsche,Panamera,132930 km,Sedan,4.8,Automatic,AWD,Black,Black,null,4,Gas,null,null,33888
+2013,Porsche,Panamera,139000 km,Sedan,8 Cylinder Engine,Automatic,RWD,Silver,Black,4,4,Gas,13.3L/100km,8.5L/100km,42999
+2018,Porsche,Macan,63932 km,SUV,3,Automatic,AWD,White,Red,5,4,Gas,13.7L/100km,10.3L/100km,45288
+2015,Porsche,Cayenne,155600 km,SUV,4.8,Automatic,AWD,Black,Red,null,4,Gas,null,null,45990
+2018,Porsche,Macan,110183 km,SUV,V6,Automatic,AWD,Grey,Brown,5,4,Gas,13.8L/100km,10.3L/100km,47900
+2017,Porsche,Cayenne,80000 km,SUV,3.6,8 Speed Automatic,AWD,White,Black,5,4,Gas,13.8L/100km,9.8L/100km,49950
+2015,Porsche,Macan,51463 km,SUV,V-6 cyl,7 Speed Automatic with auto-shift,AWD,White,Red,null,null,Gas,14.2L/100km,10.1L/100km,49995
+2020,Porsche,Macan,40050 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,10.2L/100km,55880
+2016,Porsche,Panamera,81242 km,Hatchback,3.6L 6cyl,7 Speed Automatic with auto-shift,AWD,null,null,null,null,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,57888
+2008,Porsche,911,143838 km,Convertible,3.8L,Manual,RWD,Dark Green,Black,4,2,Gas,12.5L - 12.9L/100km,8.1L - 8.4L/100km,57900
+2019,Porsche,Macan,79000 km,SUV,3.0L,Automatic,AWD,Grey,null,5,4,Gas,12.2L/100km,10.2L/100km,59995
+2019,Porsche,Macan,65341 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,White,null,5,4,Gas,12.9L/100km,10.2L/100km,59995
+2014,Porsche,Cayenne,42000 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,14.2L/100km,9.6L/100km,61995
+2019,Porsche,Cayenne,84900 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Grey,5,4,Gas,12.5L/100km,10.0L/100km,63377
+2019,Porsche,Macan,29153 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,null,5,4,Gas,null,null,64115
+2013,Porsche,Boxster,51260 km,Convertible,Flat 6 Cylinder Engine,Automatic,RWD,Silver,Red,2,2,Gas,11.2L/100km,7.4L/100km,64888
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2019,Porsche,Cayenne,50135 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Biscay Blue Metallic,null,5,4,Gas,12.5L/100km,10.0L/100km,66115
+2019,Porsche,Cayenne,86592 km,SUV,V6 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,2,Gas,12.5L/100km,10.0L/100km,68995
+2019,Porsche,Cayenne,66488 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,null,5,4,Gas,null,null,69115
+2014,Porsche,Cayman,39981 km,Coupe,Flat 6 Cylinder Engine,Automatic,RWD,Silver,Black,2,2,Gas,10.5L/100km,7.2L/100km,69900
+2017,Porsche,718,53493 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,null,null,null,null,Gas,11.0L/100km,8.3L/100km,69990
+2021,Porsche,Macan,6782 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Carrara White Metallic,null,5,4,Gas,13.1L/100km,9.6L/100km,74115
+2020,Porsche,Macan,17091 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,null,5,4,Gas,null,null,82115
+2012,Porsche,911,74123 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,null,null,4,2,Gas,11.3L - 11.4L/100km,7.9L - 8.1L/100km,89995
+2019,Porsche,Panamera,33233 km,Wagon,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Blue,Tan,5,4,Gas,11.5L/100km,9.0L/100km,99900
+2020,Porsche,Cayenne,41502 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.5L/100km,10.0L/100km,66999
+2017,Porsche,911,68477 km,Sedan,3.0L 6cyl,7 Speed Automatic with auto-shift,AWD,Blue,Grey,4,2,Gas,11.8L - 12.1L/100km,8.1L - 8.3L/100km,112800
+2020,Porsche,Cayenne,16900 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Quarzite Grey Metallic,null,5,4,Gas,15.6L/100km,12.4L/100km,119789
+2011,Porsche,Panamera,145900 km,Hatchback,8 Cylinder Engine,6 Speed Manual,AWD,Carrara White,Tan,4,4,Gas,null,null,27750
+2014,Porsche,Cayenne,106642 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Diesel,10.8L/100km,6.7L/100km,38995
+2015,Porsche,Cayenne,97677 km,SUV,1 Cylinder Engine,Automatic,AWD,Moonlight Blue,Brown,5,5,Gasoline Hybrid,null,null,47900
+2008,Porsche,911,99000 km,Convertible,Flat 6 Cylinder,Automatic,AWD,White,Orange,4,2,Gas,13.6L/100km,8.4L/100km,97780
+2019,Porsche,Panamera,24000 km,Hatchback,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,11.0L - 11.3L/100km,8.3L - 8.6L/100km,113998
+2008,Porsche,911,63938 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,AWD,Grey,Red,4,2,Gas,13.6L/100km,8.4L/100km,129995
+2008,Porsche,Cayenne,15995 km,SUV,8 Cylinder Engine,6 Speed Automatic,AWD,Sand White,Black,5,4,Gas,16.3L/100km,10.5L/100km,15995
+2016,Porsche,Panamera,102501 km,Sedan,8 Cylinder Engine 4.8L,Automatic,AWD,White,Black,4,4,Gas,15.1L/100km,9.7L/100km,65900
+1998,Porsche,Boxster,80876 km,Convertible,Flat 6 Cylinder Engine,5 Speed Manual,RWD,Silver,Black,2,2,Gas,12.4L - 13.8L/100km,9.0L - 9.8L/100km,19995
+1999,Porsche,Boxster,138100 km,Convertible,2.5,5 Speed Manual,RWD,Gray,Black,2,2,Gas,12.4L - 13.8L/100km,9.0L - 9.8L/100km,22999
+2002,Porsche,BOXSTER,82600 km,Convertible,3.2-liter flat six engine,6 Speed Manual,RWD,Blue,Grey,2,2,Gas,null,null,25900
+1999,Porsche,911,130722 km,Sedan,3.4L 6cyl,5 Speed Automatic,RWD,null,null,null,null,Gas,13.8L - 14.7L/100km,9.4L - 9.8L/100km,26888
+2013,Porsche,Cayenne,205142 km,SUV,V6 Cylinder Engine,Automatic,AWD,Umber Metallic,Brown,5,4,Diesel,10.8L/100km,6.7L/100km,26990
+2014,Porsche,Cayenne,102000 km,SUV,3.6,Automatic,AWD,Maroon,Beige,5,null,Gas,12.1L - 14.1L/100km,8.4L - 9.3L/100km,26995
+2017,Porsche,Macan,141899 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Tan,5,4,Gas,13.7L/100km,10.3L/100km,35998
+2016,Porsche,Macan,106853 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Agate Grey Metallic,Tan,5,4,Gas,13.7L/100km,10.3L/100km,36995
+2013,Porsche,Panamera,107353 km,Sedan,V6,7 Speed Automatic,RWD,Blue,Beige,4,4,Gas,null,null,38800
+2021,Porsche,Taycan,10800 km,Sedan,Electric Motor,null,null,Chalk,null,null,null,Electric,null,null,189995
+2008,Porsche,911,153920 km,Convertible,3.6L 6cyl,Manual,null,Silver,Grey,null,2,Premium Unleaded,11.8L - 12.3L/100km,7.8L - 8.1L/100km,46998
+2018,Porsche,Macan,37500 km,SUV,3.6L V6 DOHC 24V TWIN-TURBO,Automatic,AWD,White,null,null,4,Gas,11.6L/100km,9.3L/100km,49980
+2002,Porsche,911,138622 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,AWD,Black,Black,4,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,49999
+2014,Porsche,Panamera,112123 km,Hatchback,null,7 Speed Automatic,AWD,null,null,4,4,Gas,null,null,54900
+2020,Porsche,Macan,42568 km,SUV,null,7 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,58888
+2019,Porsche,Cayenne,61727 km,null,null,null,null,null,null,null,null,null,null,null,69900
+2013,Porsche,Boxster,14480 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Blue,Light Grey,2,2,Gas,11.1L/100km,7.5L/100km,72900
+2018,Porsche,718,38932 km,Coupe,null,7 Speed Automatic,RWD,Silver,null,2,2,Gas,null,null,79986
+1987,Porsche,911,3728 km,Convertible,Flat 6 Cylinder Engine,null,null,Grand Prix White,Black,null,null,Gas,null,null,88888
+2018,Porsche,Panamera,20558 km,Wagon,8 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,13.4L/100km,10.1L/100km,134800
+2022,Porsche,718,4720 km,Sedan,2.0L 4cyl,6 Speed Manual,RWD,Blue,White,2,2,Gas,11.7L/100km,8.9L/100km,89900
+1996,Porsche,911,100024 km,Sedan,3.6L 6cyl,6 Speed Manual,AWD,Silver,Black,4,2,Gas,null,null,97800
+2019,Porsche,Cayenne,68560 km,SUV,null,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,109900
+2023,Porsche,Cayenne,3505 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Carmine Red,null,5,4,Gas,13.8L/100km,10.7L/100km,112115
+2015,Porsche,911,58429 km,Sedan,3.8L 6cyl,7 Speed Automatic with auto-shift,AWD,null,null,null,null,Gas,null,null,122800
+2022,Porsche,Cayenne,18879 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Carrara White Metallic,null,5,4,Electric,11.8L/100km,10.6L/100km,129995
+2018,Porsche,911,39000 km,Coupe,Flat 6 Cylinder,Automatic,AWD,Agate Grey Metallic,Black,4,2,Gas,19.4L/100km,28.3L/100km,130980
+2012,Porsche,911,38866 km,Sedan,3.8L 6cyl,7 Speed Automatic with auto-shift,AWD,Grey,Black,4,2,Gas,null,null,134800
+2022,Porsche,Panamera,12789 km,Wagon,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Grey,5,4,Gas,12.8L/100km,10.2L/100km,139000
+2017,Porsche,911,5523 km,Convertible,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,4,2,Gas,null,null,222800
+2017,Porsche,Panamera,27696 km,Sedan,8 Cylinder Engine,8 Speed Automatic,AWD,Carmine Red,Black,4,4,Gas,null,null,139999
+2017,Porsche,911,31000 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Silver,Black,4,2,Gas,null,null,141995
+2019,Porsche,911,9900 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Agate Grey Metallic,Black,4,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,142000
+2021,Porsche,Cayenne,15354 km,SUV,8 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,15.8L/100km,12.3L/100km,142880
+2018,Porsche,911,27354 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Graphite Blue Metallic,null,4,2,Gas,null,null,143995
+2020,Porsche,Panamera,23800 km,Sedan,8 Cylinder Engine,8 Speed Automatic,AWD,Carrara White Metallic,null,5,4,Gas,14.5L/100km,10.2L/100km,149888
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2019,Porsche,Cayenne,50019 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,12.5L/100km,10.0L/100km,70999
+2018,Porsche,Cayenne,74875 km,SUV,V6 Cylinder Engine 3.6L,Automatic,AWD,White,Grey,null,4,Gas,14.5L/100km,10.4L/100km,71989
+2022,Porsche,Cayenne,90 km,SUV,8 Cylinder,Sequential,AWD,Chalk,Black,null,4,Gas,15.2L/100km,12.4L/100km,169800
+2021,Porsche,718,9618 km,Convertible,Flat 6 Cylinder Engine,null,RWD,GT Silver Metallic,null,null,null,Gas,14.0L/100km,10.1L/100km,172900
+2019,Porsche,Panamera,39000 km,Hatchback,null,Automatic,AWD,Not Specified,null,null,4 doors,Gasoline,null,null,141999
+2017,Porsche,911,23000 km,Coupe,null,Manual,RWD,Silver,null,null,2 doors,Gasoline,null,null,149000
+2018,Porsche,Macan,52000 km,SUV,6 Cylinder,Automatic,AWD,Black,Charcoal,5,4,Gas,13.7L/100km,10.3L/100km,57800
+2016,Porsche,Cayenne,113000 km,SUV,6 Cylinder,Automatic,AWD,White,Brown,5,4,Gas,14.5L/100km,10.4L/100km,58880
+2014,Porsche,911,81000 km,Convertible,3.8L 6cyl,7 Speed Automatic with auto-shift,AWD,Black,Black,4,2,Gas,null,null,149995
+2016,Porsche,911,22077 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Beige,4,2,Gas,12.9L/100km,9.0L/100km,149995
+2017,Porsche,911,35000 km,Convertible,Flat 6 Cylinder Engine,null,RWD,White,Red,4,2,Gas,null,null,149998
+2019,Porsche,911,29982 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Blue,Black,4,2,Gas,null,null,154888
+2019,Porsche,911,2676 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,318800
+2020,Porsche,911,34183 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,RWD,Black,Red,4,2,Gas,13.1L/100km,9.7L - 10.2L/100km,155000
+2020,Porsche,718,7585 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,Gentian Blue Metallic,null,2,2,Gas,14.3L/100km,10.4L/100km,155995
+2020,Porsche,718,10975 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,RWD,White,null,2,2,Gas,null,null,158888
+2021,Porsche,Cayenne,31589 km,SUV,null,8 Speed Automatic,AWD,Black,null,5,4,Gas,null,null,158888
+2019,Porsche,911,4739 km,Coupe,null,7 Speed Manual,RWD,Silver,Black,4,2,Gas,null,null,159900
+2017,Porsche,911,54909 km,Coupe,3 LITRE,Manual,AWD,Agate Grey Metallic,Black,4,2,Gas,null,null,159999
+2020,Porsche,911,15000 km,Coupe,Flat 6 Cylinder,Automatic,RWD,Agate Grey Metallic,Black,4,2,Gas,13.1L/100km,9.7L - 10.2L/100km,162800
+2019,Porsche,911,32000 km,Coupe,6 Cylinder,Manual,AWD,Agate Grey Metallic,Black,4,2,Gas,null,null,162980
+2017,Porsche,911,29318 km,Sedan,3.0L 6cyl,7 Speed Automatic with auto-shift,RWD,White,Red,4,2,Gas,12.1L - 12.2L/100km,8.3L - 8.5L/100km,168800
+2019,Porsche,Macan,58862 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,55000
+2019,Porsche,911,16924 km,Coupe,370HP 3.0L Flat 6 Cylinder Engine,Manual,RWD,GT Silver Metallic,Black,2,2,Gas,11.8L - 14.6L/100km,8.1L - 9.4L/100km,169888
+2018,Porsche,911,23132 km,Convertible,null,Automatic,AWD,Black,Red,4,2,Gas,null,null,169900
+2020,Porsche,Taycan,13500 km,Sedan,Electric Motor,null,AWD,White,Black,5,4,Electric,null,null,169999
+2014,Porsche,911,31695 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,White,Black,2,2,Gas,14.4L/100km,9.8L/100km,180000
+2020,Porsche,911,26975 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,Lava Orange,Black,4,2,Gas,13.1L/100km,9.7L - 10.2L/100km,192810
+2021,Porsche,911,21897 km,Convertible,Flat 6 Cylinder Engine,null,AWD,Carmine Red,Black,4,2,Gas,12.8L - 12.9L/100km,10.2L/100km,192995
+2021,Porsche,718,1952 km,Coupe,Flat 6 Cylinder Engine,null,RWD,null,null,2,2,Gas,14.0L/100km,10.1L/100km,199995
+2022,Porsche,718,814 km,Coupe,Flat 6 Cylinder Engine,null,RWD,null,null,2,2,Gas,14.0L/100km,10.1L/100km,209995
+2021,Porsche,911,11000 km,Convertible,Flat 6 Cylinder Engine,null,RWD,null,null,4,2,Gas,12.8L - 12.9L/100km,10.2L/100km,219995
+2010,Porsche,911,49236 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Basalt Black Metallic,null,4,2,Gas,11.6L/100km,7.9L - 8.0L/100km,104900
+2021,Porsche,911,9023 km,Coupe,Flat 6 Cylinder Engine,7 Speed Manual,AWD,Carrara White Metallic,Red,4,2,Gas,12.9L - 13.0L/100km,10.2L/100km,224000
+2022,Porsche,911,1024 km,null,null,null,RWD,null,null,4,2,Gas,null,null,239995
+1971,Porsche,911,2300 km,null,null,null,null,Red,null,null,null,null,null,null,248888
+2019,Porsche,911,14665 km,Sedan,3.8L 6cyl,7 Speed Automatic with auto-shift,AWD,Agate Grey Metallic,Black,4,2,Gas,null,null,249900
+2012,Porsche,911,48100 km,Coupe,3.8,null,AWD,White,null,4,2,Gas,null,null,255888
+2022,Porsche,911,1903 km,null,null,7 Speed Manual,AWD,null,null,4,2,Gas,null,null,257995
+2021,Porsche,911,17095 km,null,null,null,null,Red,Black,null,2,Gas,null,null,259500
+2019,Porsche,911,18172 km,Coupe,3.8L Flat 6 Cylinder Engine,Automatic,AWD,Jet Black Metallic,Black,2,2,Gas,null,null,259888
+2023,Porsche,Cayenne,67 km,SUV,4.0L 8cyl,8 Speed Automatic,AWD,Moonlight Blue Metallic,Black,4,4,Gas,15.8L/100km,12.2L/100km,259900
+2021,Porsche,Cayenne,27055 km,SUV,V6 Cylinder Engine,Automatic,null,Jet Black Metallic,null,null,2,Gasoline Hybrid,11.8L/100km,10.6L/100km,108650
+2022,Porsche,911,850 km,Convertible,null,8 Speed Automatic,AWD,Blue,Red,4,2,Gas,null,null,299986
+2019,Porsche,911,14000 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Light Grey,2,2,Gas,16.1L/100km,12.2L/100km,299999
+2022,Porsche,911,1900 km,Coupe,3.6L H6 DOHC 24V TURBO,Automatic,4x4,White,Red,null,2,Gas,null,null,309999
+2022,Porsche,911,2317 km,Sedan,3.8L 6cyl,8 Speed Automatic with auto-shift,AWD,White,Blue,4,2,Gas,null,null,325800
+2022,Porsche,911,1389 km,Coupe,Flat 6 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,2,2,Gas,null,null,329999
+2019,Porsche,911,4178 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,null,null,2,2,Gas,16.1L/100km,12.2L/100km,339995
+2022,Porsche,911,1380 km,Convertible,null,8 Speed Automatic,AWD,Silver,Red,4,2,Gas,null,null,345000
+2019,Porsche,911,6132 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Black,Black,2,2,Gas,16.1L/100km,12.2L/100km,349900
+2022,Porsche,911,965 km,Convertible,null,Automatic,AWD,White,Black,4,2,Gas,null,null,354900
+2021,Porsche,Macan,16904 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Volcano Grey Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,72800
+1996,Porsche,911,34078 km,Coupe,Flat 6 Cylinder Engine,6 Speed Manual,AWD,Polar Silver,null,null,null,Gas,null,null,378888
+2022,Porsche,911,890 km,Coupe,null,null,RWD,null,null,2,2,Gas,null,null,404995
+2019,Porsche,911,1356 km,Convertible,Flat 6 Cylinder Engine,6 Speed Manual,RWD,White,Black,2,2,Gas,17.4L/100km,12.4L/100km,435000
+2019,Porsche,911,125 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,Guards Red,Black,2,2,Gas,15.3L/100km,11.2L/100km,539000
+2010,Porsche,911,6720 km,Coupe,null,6 Speed Manual,RWD,Grey,Black,2,2,Premium Unleaded,null,null,550000
+2018,Porsche,911,2747 km,Sedan,3.8L 6cyl,7 Speed Automatic with auto-shift,RWD,null,null,null,null,Gas,15.7L/100km,11.2L/100km,610888
+2008,Porsche,911,5000 km,Coupe,null,null,null,Yellow,Black,null,null,null,null,null,799900
+2005,Porsche,Carrera,5415 km,null,null,Manual,RWD,Silver,Black,2,2,Gas,null,null,1599900
+2005,Porsche,Carrera,967 km,Convertible,v10,6 Speed Manual,null,Silver,Brown,2,null,Gas,null,null,1875000
+2018,Porsche,Panamera,20558 km,Wagon,8 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,13.4L/100km,10.1L/100km,134800
+2015,Porsche,918,4948 km,Coupe,null,Automatic,AWD,White,Black,2,2,Gasoline Hybrid,null,null,1990000
+1984,Porsche,944,75000 km,Hatchback,4 Cylinder Engine,Manual,RWD,Red,Black,2,2,Gas,null,null,9999
+2006,Porsche,Cayenne,152000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,11999
+2004,Porsche,Cayenne,180500 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,12100
+2011,Porsche,Cayenne,250000 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,18150
+2008,Porsche,Cayenne,82685 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,20900
+2012,Porsche,Cayenne,205400 km,SUV,3.6,Automatic,AWD,Black,Beige,5,5,Gas,null,null,21898
+2011,Porsche,Panamera,165000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,25998
+2014,Porsche,Cayenne,88000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,29900
+2017,Porsche,Macan,87095 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,null,null,5,4,Gas,13.7L/100km,10.3L/100km,40999
+2011,Porsche,Cayenne,140000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,32000
+2017,Porsche,Cayenne,154000 km,SUV,3.6,Automatic,AWD,Black,Black,5,null,Gas,13.9L/100km,9.6L/100km,34995
+2007,Porsche,Cayman,82000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,36000
+2013,Porsche,Boxster,210000 km,Convertible,null,Automatic,RWD,Purple,null,null,4 doors,Gasoline,null,null,37600
+2016,Porsche,Panamera,108100 km,Sedan,3.6,Automatic,RWD,White,Black,4,4,Gas,12.9L - 13.1L/100km,8.4L - 8.7L/100km,38888
+2002,Porsche,911,86041 km,Convertible,3.6L,Manual,RWD,Silver,Black,4,2,Gas,13.1L - 13.8L/100km,9.0L - 10.2L/100km,40999
+2001,Porsche,911,210000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,42500
+1999,Porsche,911,67490 km,Convertible,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,43000
+2017,Porsche,Macan,72000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,43000
+2019,Porsche,Cayenne,46538 km,SUV,2.9L V6 DOHC 24V,Automatic,4x4,Black,Red,null,4,Gas,12.5L/100km,10.0L/100km,78995
+2018,Porsche,Macan,66000 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,45800
+2015,Porsche,Cayenne,55000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Diesel,null,null,48000
+2017,Porsche,Cayenne,45000 km,null,null,Automatic,4X4,Black,null,null,5 doors,Gasoline,null,null,51700
+2005,Porsche,911,72184 km,Coupe,null,6 Speed Manual,RWD,null,null,4,2,Gas,null,null,54995
+2018,Porsche,Macan,31062 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,55550
+2005,Porsche,911,123000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,55900
+2017,Porsche,Macan,80000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,58000
+2017,Porsche,Cayenne,90000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline - Hybrid,null,null,58000
+2010,Porsche,Cayman,51000 km,Coupe,null,Manual,RWD,White,null,null,2 doors,Gasoline,null,null,58998
+2017,Porsche,911,5523 km,Convertible,Flat 6 Cylinder Engine,7 Speed Automatic,AWD,Jet Black Metallic,null,4,2,Gas,null,null,222800
+2017,Porsche,Macan,68000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,59500
+2009,Porsche,911,138965 km,Convertible,null,Manual,RWD,Black,Black,4,2,Gas,null,null,59986
+2014,Porsche,Panamera,82000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,63500
+2020,Porsche,Cayenne,41502 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.5L/100km,10.0L/100km,66999
+2020,Porsche,Macan,18500 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,70500
+2018,Porsche,Cayenne,80000 km,null,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,71900
+2019,Porsche,Cayenne,51500 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,81900
+2018,Porsche,718,23000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,83000
+2018,Porsche,Panamera,75000 km,Sedan,null,Automatic,AWD,null,null,null,null,null,null,null,84998
+2020,Porsche,718,5355 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Guards Red,Black,null,2,Gas,14.3L/100km,10.4L/100km,163895
+2004,Porsche,911,97753 km,Convertible,null,Manual,AWD,Black,null,null,2 doors,Gasoline,null,null,85000
+2018,Porsche,718,36000 km,Coupe,null,Automatic,RWD,Grey,null,null,2 doors,Gasoline,null,null,89799
+2022,Porsche,718,2500 km,null,null,null,null,null,null,null,null,null,null,null,98000
+2007,Porsche,911,66950 km,Coupe,null,Automatic,AWD,White,null,null,2 doors,Gasoline,null,null,99900
+2021,Porsche,Macan,7000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,105000
+2021,Porsche,Cayenne,33000 km,Coupe,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,105000
+2007,Porsche,911T,86500 km,Coupe,null,Manual,AWD,Silver,null,null,2 doors,Gasoline,null,null,108000
+2017,Porsche,911,56465 km,Coupe,null,Automatic,RWD,White,null,null,2 doors,Gasoline,null,null,108999
+1998,Porsche,911,82400 km,Convertible,Flat 6 Cylinder Engine,Manual,RWD,Black,Black,2,2,Gas,13.8L - 14.7L/100km,9.4L - 10.2L/100km,109900
+2017,Porsche,911,40886 km,Coupe,Flat 6 Cylinder Engine,Manual,RWD,Night Blue Metallic,null,4,2,Gas,null,null,139995
+2008,Porsche,911,37800 km,Coupe,null,Manual,RWD,Silver,null,null,2 doors,Gasoline,null,null,115000
+2022,Porsche,Macan,11000 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,118000
+2012,Porsche,911,13500 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,124900
+1988,Porsche,930,89000 km,Convertible,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,125000
+2020,Porsche,Taycan,27899 km,Sedan,Electric Motor,null,AWD,Jet Black Metallic,null,5,4,Electric,null,null,134115
+2016,Porsche,718,52000 km,Coupe,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,135000
+2018,Porsche,Macan,51700 km,SUV,6 Cylinder,Automatic,AWD,White,Red,null,4,Gas,13.8L/100km,10.3L/100km,62800
+2018,Porsche,Macan,81853 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,null,4,Gas,11.6L/100km,9.3L/100km,42800
+2016,Porsche,Macan,54900 km,SUV,V6 Cylinder Engine,Automatic,AWD,Jet Black Metallic,Black,5,4,Gas,13.7L/100km,10.3L/100km,46999
+2019,Porsche,Cayenne,30435 km,SUV,8 Cylinder Engine,Automatic,AWD,Quarzite Grey Metallic,null,null,null,Gas,15.6L/100km,11.8L/100km,115000
+2021,Porsche,911,24565 km,Coupe,Flat 6 Cylinder Engine,null,null,Carmine Red,null,null,null,Gas,13.1L/100km,10.2L/100km,224900
+2017,Porsche,Macan,36000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,65000
+2020,Porsche,911,7500 km,Coupe,null,Automatic,AWD,Silver,null,null,2 doors,Gasoline,null,null,185000
+2019,Porsche,Cayenne,63403 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Grey,5,4,Gas,null,null,65999
+2021,Porsche,Macan,39327 km,SUV,V6 Cylinder Engine,7 Speed Automatic,AWD,Black,Red,5,4,Gas,13.5L/100km,10.5L/100km,87995
+2020,Porsche,Taycan,32998 km,Sedan,Electric Motor,null,AWD,Jet Black Metallic,null,5,4,Electric,null,null,135115
+2015,Porsche,911,67500 km,Convertible,Flat 6 Cylinder Engine,null,AWD,Black,null,4,2,Gas,null,null,135115
+2015,Porsche,911,42689 km,Coupe,Flat 6 Cylinder Engine,7 Speed Automatic,RWD,White,null,4,2,Gas,null,null,135995
+2017,Porsche,911,59454 km,Convertible,Flat 6 Cylinder Engine,null,AWD,Guards Red,null,4,2,Gas,null,null,138115
+2021,Porsche,Macan,18217 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Dolomite Silver Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,74800
+2020,Porsche,911,47000 km,Coupe,null,Automatic,AWD,White,null,null,2 doors,Gasoline,null,null,141000
+2017,Porsche,911,73000 km,Convertible,null,Automatic,AWD,Black,null,null,2 doors,Gasoline,null,null,143000
+2011,Porsche,911,45200 km,Coupe,null,Automatic,AWD,White,null,null,2 doors,Gasoline,null,null,154999
+2016,Porsche,911,20000 km,Coupe,null,Automatic,RWD,Blue,null,null,2 doors,Gasoline,null,null,165000
+2019,Porsche,911,58000 km,Coupe,null,Automatic,RWD,Silver,null,null,2 doors,Gasoline,null,null,169000
+2016,Porsche,911,5135 km,Convertible,3.8L,7 Speed Automatic,AWD,Silver,Tan,4,2,Gas,null,null,169900
+2020,Porsche,911,15482 km,Convertible,Flat 6 Cylinder Engine,8 Speed Automatic,RWD,White,null,4,2,Gas,12.7L - 13.1L/100km,10.2L/100km,169995
+2015,Porsche,911,36153 km,Coupe,3.8 TWIN TURBO,Automatic,RWD,CARRARA WHITE,Black,null,2,Gas,null,null,179900
+2022,Porsche,911,7700 km,Convertible,null,Automatic,RWD,Blue,null,null,2 doors,Gasoline,null,null,185000
+2022,Porsche,Macan,16548 km,SUV,4 Cylinder Engine,7 Speed Automatic,AWD,Papaya Metallic,null,5,4,Gas,12.2L/100km,10.2L/100km,77800
+2022,Porsche,911,15752 km,Coupe,Flat 6 Cylinder Engine,null,AWD,Chalk,null,4,2,Gas,null,null,192995
+2021,Porsche,911,22717 km,Convertible,Flat 6 Cylinder Engine,null,AWD,Carrara White Metallic,null,4,2,Gas,12.8L - 12.9L/100km,10.2L/100km,192995
+2021,Porsche,911,16000 km,Coupe,null,Automatic,AWD,Black,null,null,2 doors,Gasoline,null,null,195000
+2022,Porsche,911,5851 km,Coupe,Flat 6 Cylinder Engine,null,RWD,Gentian Blue Metallic,null,2,2,Gas,15.6L - 16.9L/100km,12.7L - 13.1L/100km,323995
+2022,Porsche,911T,3400 km,Coupe,null,Automatic,AWD,Blue,null,null,2 doors,Gasoline,null,null,339000
+2021,Porsche,911,13000 km,Convertible,null,Automatic,AWD,Black,null,null,2 doors,Gasoline,null,null,348888
+1996,Porsche,911,43148 km,Coupe,Flat 6 Cylinder Engine,Manual,AWD,Silver,Black,null,2,Gas,null,null,349000
+2019,Porsche,Cayenne,58956 km,SUV,null,Automatic,AWD,Black,null,5,4,Gas,null,null,68888

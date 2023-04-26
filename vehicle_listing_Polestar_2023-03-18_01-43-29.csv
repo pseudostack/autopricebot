@@ -1,0 +1,23 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2021,Polestar,1,12000 km,Coupe,4 Cylinder Engine,8 Speed Automatic,AWD,Magnesium Matte,null,4,2,Electric,10.5L/100km,7.6L/100km,170998
+2021,Polestar,Polestar,19399 km,Hatchback,Electric Motor,1 Speed Automatic,null,Thunder,null,null,null,Electric,null,null,61337
+2021,Polestar,Polestar,28382 km,Hatchback,Electric Motor,1 Speed Automatic,null,Moon,null,null,null,Electric,null,null,62695
+2022,Polestar,Polestar,11789 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,null,null,Electric,null,null,66898
+2021,Polestar,Polestar,26098 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,5,4,Electric,null,null,59998
+2022,Polestar,Polestar,16543 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Void,null,5,4,Electric,null,null,60798
+2021,Polestar,Polestar,16398 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,5,4,Electric,null,null,60829
+2021,Polestar,Polestar,13915 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,5,4,Electric,null,null,62510
+2021,Polestar,Polestar,26089 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Midnight,null,5,4,Electric,null,null,63640
+2021,Polestar,Polestar,18960 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Moon,null,5,4,Electric,null,null,63850
+2022,Polestar,2,52 km,Hatchback,ELECTRIC,1 Speed Automatic,AWD,Bronze,Beige,5,4,Electric,null,null,71999
+2022,Polestar,2,56 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Grey,Charcoal,5,4,Electric,null,null,71999
+2022,Polestar,Polestar,11332 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Void,null,5,4,Electric,null,null,75884
+2021,Polestar,Polestar,16398 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,5,4,Electric,null,null,60829
+2021,Polestar,1,12000 km,Coupe,4 Cylinder Engine,8 Speed Automatic,AWD,Magnesium Matte,null,4,2,Electric,10.5L/100km,7.6L/100km,170998
+2023,Polestar,2,800 km,Hatchback,null,Automatic,FWD,Black,null,null,5 doors,Electric,null,null,53500
+2021,Polestar,Polestar,19399 km,Hatchback,Electric Motor,1 Speed Automatic,null,Thunder,null,null,null,Electric,null,null,61337
+2021,Polestar,Polestar,28382 km,Hatchback,Electric Motor,1 Speed Automatic,null,Moon,null,null,null,Electric,null,null,62695
+2022,Polestar,Polestar,11789 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Snow,null,null,null,Electric,null,null,66898
+2023,Polestar,2,100 km,Sedan,408.0hp,Automatic,AWD,Black,Grey,5,4,Electric,null,null,67500
+2023,Polestar,2,100 km,Sedan,408.0hp,Automatic,AWD,Black,Black,6,4,Electric,null,null,69995
+2023,Polestar,2,100 km,Sedan,408.0hp,Automatic,AWD,Blue,Grey,5,4,Electric,null,null,71495

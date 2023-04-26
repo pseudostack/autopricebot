@@ -1,0 +1,4 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2001,Plymouth,Prowler,10320 km,Convertible,V6 Cylinder Engine,4 Speed Automatic,RWD,Dark Blue,Dark Grey,2,2,Gas,13.8L/100km,10.2L/100km,53800
+1966,Plymouth,Sport,37650 km,Coupe,440 V8 engine,3 Speed Automatic,RWD,Black,Black,5,2,Gas,null,null,49900
+1968,Plymouth,Road,25000 km,Coupe,null,Automatic,RWD,Red,null,null,2 doors,null,null,null,60000

@@ -1,0 +1,13 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2011,Scion,tC,218675 km,Coupe,2.5,6 Speed Automatic,FWD,Gray,Grey,null,2,Gas,8.9L - 9.2L/100km,6.3L - 6.4L/100km,9480
+2015,Scion,tC,171416 km,Coupe,2.5,6 Speed Automatic,FWD,Dark Blue,Grey,null,2,Gas,10.2L/100km,7.6L - 7.7L/100km,12480
+2015,Scion,tC,114823 km,Coupe,4 Cylinder Engine,Manual,FWD,Grey,Black,5,2,Gas,10.2L/100km,7.6L - 7.7L/100km,14995
+2011,Scion,xB,323468 km,Sedan,4 Cylinder Engine,4 Speed Automatic,FWD,Black Sand Pearl,null,5,4,Gas,9.5L/100km,7.2L/100km,4490
+2015,Scion,FR-S,131000 km,Coupe,4 Cylinder Engine,Manual,RWD,Raven,Black,4,2,Gas,9.6L - 10.9L/100km,7.0L - 7.9L/100km,16900
+2013,Scion,FR-S,94000 km,Coupe,4 Cylinder Engine,Manual,RWD,Ultramarine,Black,4,2,Gas,8.3L - 9.6L/100km,5.8L - 6.6L/100km,17900
+2016,Scion,tC,89853 km,Hatchback,2.4L L4 DOHC 16V,Automatic,FWD,Blizzard Pearl,Black,4,2,Gas,10.2L/100km,7.6L - 7.7L/100km,18345
+2014,Scion,FR-S,38451 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Argento,null,null,2,Premium Unleaded,8.3L - 9.5L/100km,5.8L - 6.5L/100km,18888
+2013,Scion,FR-S,32316 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,Firestorm,Black,4,2,Gas,8.3L - 9.6L/100km,5.8L - 6.6L/100km,21500
+2016,Scion,tC,98100 km,Coupe,null,Automatic,FWD,Blue,null,null,2 doors,Gasoline,null,null,14600
+2015,Scion,FR-S,68000 km,Coupe,null,Automatic,RWD,White,null,null,2 doors,Gasoline,null,null,20999
+2016,Scion,FR-S,91400 km,Coupe,null,Manual,RWD,Red,null,null,2 doors,Gasoline,null,null,22000

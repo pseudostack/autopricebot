@@ -1,0 +1,70 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2007,Bentley,Continental,69252 km,Sedan,12 Cylinder,Automatic,AWD,Glacier White,Black,null,4,Gas,23.5L/100km,13.8L/100km,44800
+2013,Bentley,Continental,17600 km,Sedan,12 Cylinder,Sequential,AWD,Granite Metallic,Black,null,4,Gas,21.4L/100km,12.4L/100km,99800
+2015,Bentley,Flying,32847 km,Sedan,8 Cylinder,Automatic,AWD,Thunder Metallic,Beige,null,4,Gas,null,null,119800
+2016,Bentley,Continental,59159 km,Coupe,8 Cylinder,Automatic,AWD,Glacier White Solid,Black,4,2,Gas,null,null,126800
+2015,Bentley,Continental,109069 km,Convertible,6.0,8 Speed Automatic,AWD,Orange,Black,4,2,Other,null,null,130888
+2017,Bentley,Bentayga,70777 km,SUV,12 Cylinder,Automatic,AWD,Anthracite Metallic,Beige,null,4,Gas,19.6L/100km,12.4L/100km,159800
+2017,Bentley,Mulsanne,38800 km,Sedan,8 Cylinder Engine,Automatic,null,Black,Brown,5,4,Gas,null,null,237777
+2011,Bentley,Continental,94179 km,Sedan,12 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,4,4,Flexible,null,null,63898
+1991,Bentley,Turbo,114841 km,Sedan,V8,Automatic,null,Black,Grey,5,4,Gas,null,null,19910
+2007,Bentley,Continental,69252 km,Sedan,12 Cylinder,Automatic,AWD,Glacier White,Black,null,4,Gas,23.5L/100km,13.8L/100km,44800
+2006,Bentley,Continental,34112 km,Sedan,W12,Automatic,AWD,Dark Grey,Black,null,4,Gas,21.4L/100km,13.1L/100km,64800
+2012,Bentley,Continental,90000 km,Sedan,W12 - TWIN TURBO,6 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,64985
+2008,Bentley,Continental,114000 km,Coupe,12 Cylinder Engine,Automatic,AWD,Black,Black,4,2,Gas,23.5L/100km,13.8L/100km,66500
+2020,Bentley,Continental,14365 km,Coupe,12 Cylinder Engine,8 Speed Automatic,AWD,Black Crystal,null,null,null,Gas,19.6L/100km,11.8L/100km,349998
+2007,Bentley,Continental,40000 km,Convertible,V12 Cylinder Engine,6 Speed Automatic,AWD,Silver,Black,null,2,Gas,21.4L/100km,13.1L/100km,77999
+2013,Bentley,Continental,95683 km,Convertible,8 Cylinder Engine,Automatic,AWD,Red,Black,4,null,Gas,16.8L/100km,9.8L/100km,95998
+2013,Bentley,Continental,17600 km,Sedan,12 Cylinder,Sequential,AWD,Granite Metallic,Black,null,4,Gas,21.4L/100km,12.4L/100km,99800
+2014,Bentley,Continental,58525 km,Sedan,6.0,Automatic,AWD,Pink,White,5,4,Other,19.6L/100km,11.8L/100km,99998
+2012,Bentley,Continental,77499 km,Coupe,12 Cylinder,Automatic,AWD,Havana Metallic,Beige,null,2,Gas,null,null,109800
+2015,Bentley,Flying,32847 km,Sedan,8 Cylinder,Automatic,AWD,Thunder Metallic,Beige,null,4,Gas,null,null,119800
+2014,Bentley,Continental,57000 km,Convertible,6.0L,Automatic,AWD,Hallmark Metallic,null,4,2,Gas,null,null,119899
+2016,Bentley,Continental,59159 km,Coupe,8 Cylinder,Automatic,AWD,Glacier White Solid,Black,4,2,Gas,null,null,126800
+2015,Bentley,Continental,109069 km,Convertible,6.0,8 Speed Automatic,AWD,Orange,Black,4,2,Other,null,null,130888
+2019,Bentley,Bentayga,86500 km,SUV,8 Cylinder Engine 4.0L,Automatic,AWD,Grey,Brown,null,4,Gas,16.8L/100km,10.2L/100km,175000
+2014,Bentley,Continental,26000 km,Coupe,4.0L,Automatic,AWD,Glacier White,null,4,2,Gas,15.7L/100km,9.8L/100km,138888
+2017,Bentley,Bentayga,78161 km,SUV,6.0,Automatic,AWD,White,Black,5,4,Gas,19.6L/100km,12.4L/100km,158880
+2017,Bentley,Bentayga,70777 km,SUV,12 Cylinder,Automatic,AWD,Anthracite Metallic,Beige,null,4,Gas,19.6L/100km,12.4L/100km,159800
+2018,Bentley,Flying,45222 km,Sedan,12 Cylinder Engine,Automatic,AWD,Black,Cream,4,4,Gas,null,null,179910
+2017,Bentley,Mulsanne,38800 km,Sedan,8 Cylinder Engine,Automatic,null,Black,Brown,5,4,Gas,null,null,237777
+2020,Bentley,Continental,17802 km,Coupe,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Brown,null,null,Gas,14.7L/100km,9.0L/100km,309900
+2020,Bentley,Continental,7000 km,Convertible,4.0L,Automatic,AWD,White,null,4,2,Gas,14.7L/100km,9.0L/100km,333888
+2020,Bentley,Continental,14000 km,Coupe,6.0L,Automatic,AWD,Glacier White,Red,4,2,Gas,19.6L/100km,11.8L/100km,338888
+2022,Bentley,Flying,100 km,Sedan,4.0L,Automatic,AWD,Glacier White,null,5,4,Gas,null,null,378888
+2016,Bentley,Flying,38236 km,Sedan,12 Cylinder Engine,8 Speed Automatic,AWD,White,null,4,4,Flexible,19.6L/100km,11.8L/100km,174998
+2022,Bentley,Bentayga,100 km,SUV,4.0L,Automatic,AWD,Cambrian Grey,Black,5,4,Gas,null,null,409899
+2007,Bentley,Continental,111733 km,Convertible,12 Cylinder Engine,6 Speed Automatic,AWD,Dark Blue,Tan,4,2,Gas,21.4L/100km,13.1L/100km,58888
+2019,Bentley,Bentayga,57500 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,197777
+2005,Bentley,Continental,99542 km,Coupe,12 Cylinder Engine,6 Speed Automatic,AWD,Dark Sapphire,null,4,2,Gas,21.4L/100km,13.1L/100km,49995
+2004,Bentley,Continental,30203 km,Coupe,12 Cylinder Engine,6 Speed Automatic,AWD,null,null,4,2,Gas,21.4L/100km,13.1L/100km,59995
+2009,Bentley,Continental,65611 km,Convertible,6.0,Automatic,AWD,Black,Black,4,2,Gas,23.5L/100km,13.8L/100km,67888
+2004,Bentley,Continental,38900 km,Coupe,6.0L 12cyl DOHC Turbo,6 Speed Automatic,AWD,Beige,null,4,2,Gas,21.4L/100km,13.1L/100km,89999
+2010,Bentley,Continental,64408 km,Coupe,null,null,RWD,Black,Beige,2,2,Flexible,null,null,97500
+2012,Bentley,Continental,50680 km,Coupe,12 Cylinder,Automatic,AWD,White,Black,4,2,Gas,null,null,99800
+2022,Bentley,Bentayga,500 km,SUV,12 Cylinder Engine,8 Speed Automatic,AWD,Glacier White,null,4,4,Gas,19.6L/100km,13.1L/100km,399998
+2013,Bentley,Continental,73000 km,Convertible,8 Cylinder Engine,8 Speed Automatic,AWD,Black,Brown,4,2,Gas,16.8L/100km,9.8L/100km,115988
+2015,Bentley,Flying,82500 km,Sedan,12 Cylinder Engine,8 Speed Automatic,AWD,2T2T - Onyx,null,4,4,Flexible,19.6L/100km,11.8L/100km,144998
+2013,Bentley,Continental,35000 km,Convertible,12 Cylinder Engine,6 Speed Automatic,AWD,Black,Black,4,2,Flexible,null,null,145988
+2015,Bentley,Continental,63897 km,Convertible,8 Cylinder Engine,8 Speed Automatic,AWD,Thunder Metallic,null,4,2,Gas,16.8L/100km,9.8L/100km,169998
+2016,Bentley,Flying,38236 km,Sedan,12 Cylinder Engine,8 Speed Automatic,AWD,White,null,4,4,Flexible,19.6L/100km,11.8L/100km,179998
+2018,Bentley,Bentayga,43650 km,SUV,12 Cylinder Engine,Automatic,AWD,Dark Blue,Cream,5,null,Gas,19.6L/100km,12.4L/100km,187000
+2019,Bentley,Bentayga,54326 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Titan Grey,null,4,4,Gas,16.8L/100km,10.2L/100km,219998
+2018,Bentley,Continental,14964 km,Sedan,N/A,8 Speed Automatic,AWD,Blue,Grey,4,2,Gas,null,null,224800
+2018,Bentley,Bentayga,27287 km,SUV,12 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,null,null,Gas,19.6L/100km,12.4L/100km,239998
+2015,Bentley,Flying,82500 km,Sedan,12 Cylinder Engine,8 Speed Automatic,AWD,2T2T - Onyx,null,4,4,Flexible,19.6L/100km,11.8L/100km,144998
+2020,Bentley,Bentayga,40686 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Dark Sapphire,null,7,4,Gas,16.8L/100km,10.2L/100km,259998
+2020,Bentley,Continental,17505 km,Coupe,8 Cylinder Engine,8 Speed Automatic,AWD,Glacier White,Black,null,null,Gas,14.7L/100km,9.0L/100km,299900
+2020,Bentley,Continental,7950 km,Coupe,null,Automatic,AWD,null,null,4,2,Gas,null,null,315000
+2020,Bentley,Continental,14365 km,Coupe,12 Cylinder Engine,8 Speed Automatic,AWD,Black Crystal,null,null,null,Gas,19.6L/100km,11.8L/100km,349998
+2022,Bentley,Bentayga,500 km,SUV,12 Cylinder Engine,8 Speed Automatic,AWD,Glacier White,null,4,4,Gas,19.6L/100km,13.1L/100km,399998
+2022,Bentley,Continental,12199 km,Coupe,12 Cylinder Engine,8 Speed Automatic,AWD,Hallmark,null,null,null,Gas,19.6L/100km,11.8L/100km,419998
+1997,Bentley,Brooklands,85579 km,Sedan,8 Cylinder Engine,Automatic,RWD,Blue,Brown,null,4,Gas,null,null,24995
+2005,Bentley,Arnage,114000 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,49500
+2007,Bentley,Continental,61589 km,Coupe,null,Automatic,AWD,null,null,4,2,Gas,null,null,54888
+2006,Bentley,Arnage,29475 km,Sedan,8 Cylinder Engine,Automatic,RWD,Sapphire Black,Beige,null,4,Gas,23.5L/100km,16.8L/100km,62900
+2007,Bentley,Continental,125614 km,Convertible,12 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,21.4L/100km,13.1L/100km,72000
+2010,Bentley,Continental,90000 km,null,null,null,null,null,null,null,null,null,null,null,75000
+2013,Bentley,Continental,103150 km,Coupe,4.0,Automatic,AWD,White,Red,null,null,Gas,null,null,99898
+2008,Bentley,Azure,27635 km,Convertible,6.8L,6 Speed Automatic,RWD,Dark Blue,Cream,4,2,Gas,null,null,139900
+2011,Bentley,Continental,94179 km,Sedan,12 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,4,4,Flexible,null,null,63898

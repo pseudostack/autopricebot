@@ -1,0 +1,6 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2010,Suzuki,Boulevard,24413 km,null,2 Cylinder Engine,null,null,Black,null,null,null,Gas,null,null,8980
+2006,Suzuki,Grand,138893 km,SUV,2.7L 6cyl,Automatic,4x4,Pearl Red Metallic,Black,null,4,Gas,12.4L - 13.0L/100km,9.3L - 9.5L/100km,6990
+2011,Suzuki,SX4,169000 km,Hatchback,4 Cylinder Engine,CVT,AWD,Ultramarine Blue Pearl,Black,5,4,Gas,9.0L/100km,6.7L/100km,8995
+2006,Suzuki,Aerio,171000 km,Hatchback,null,Manual,FWD,Black,null,null,4 doors,Gasoline,null,null,3150
+2010,Suzuki,SX4,209000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black,Beige,null,null,Gas,8.0L - 9.0L/100km,6.0L - 6.1L/100km,4995

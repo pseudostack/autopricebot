@@ -1,0 +1,41 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2012,Fiat,500,89384 km,Hatchback,null,Automatic,FWD,White,null,null,2 doors,Gasoline,null,null,8000
+2013,Fiat,500,98158 km,Convertible,4 Cylinder Engine,null,FWD,null,null,4,2,Gas,6.7L - 7.4L/100km,5.2L - 5.7L/100km,12295
+2015,Fiat,500L,117843 km,Hatchback,1.4L 4cyl,6 Speed Automatic,FWD,Nero (Black),Grey,5,4,Gas,null,null,12495
+2016,Fiat,500,78158 km,Hatchback,1.4L 4 Cylinder Engine,Automatic,FWD,Nero Puro (Straight Black),Black,4,2,Gas,null,null,14395
+2014,Fiat,500,76864 km,Convertible,4 Cylinder Engine,Automatic,FWD,Granito Lucente (Granite Crystal),Black,4,2,Gas,null,null,15899
+2012,Fiat,500,122982 km,Hatchback,4 Cylinder Engine,5 Speed Manual,FWD,Bianco (White),Red,4,2,Gas,6.7L/100km,5.1L/100km,16888
+2015,Fiat,500,75116 km,Hatchback,4 Cylinder Engine,null,FWD,null,null,4,2,Gas,null,null,18995
+2012,Fiat,500,89384 km,Hatchback,null,Automatic,FWD,White,null,null,2 doors,Gasoline,null,null,8000
+2013,Fiat,500,131850 km,Coupe,1.4,Automatic,FWD,Green,Black,null,2,Gas,6.4L - 7.4L/100km,4.9L - 5.7L/100km,7500
+2012,Fiat,500,96805 km,Convertible,1.4,5 Speed Manual,FWD,Red,Black,null,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,7995
+2012,Fiat,500,154700 km,Hatchback,4 Cylinder Engine,null,FWD,Nero (Black),Red,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,7999
+2012,Fiat,500,147000 km,Convertible,4 Cylinder Engine,null,FWD,Red,Red,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,8800
+2014,Fiat,500L,148000 km,Wagon,1.4,Manual,FWD,Bianco (White),Grey,5,null,Gas,null,null,8995
+2012,Fiat,500,108595 km,Coupe,1.4,5 Speed Manual,FWD,Red,Black,null,2,Gas,7.8L - 8.7L/100km,6.2L - 6.9L/100km,8995
+2012,Fiat,500,110000 km,Convertible,4 Cylinder Engine,5 Speed Manual,FWD,Nero (Black),Red,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,9800
+2012,Fiat,500,36446 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,10500
+2013,Fiat,500,152000 km,Convertible,4 Cylinder Engine,null,FWD,White,Red,4,2,Gas,6.7L - 7.4L/100km,5.2L - 5.7L/100km,10800
+2012,Fiat,500,76000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Red,Black,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,10900
+2013,Fiat,500,115000 km,Convertible,4 Cylinder Engine,Automatic,FWD,White,Red,4,2,Gas,6.7L - 7.4L/100km,5.2L - 5.7L/100km,10900
+2014,Fiat,500L,139863 km,Wagon,4 Cylinder Engine,Automatic,FWD,Nero (Black),Grey,null,4,Gas,null,null,11850
+2015,Fiat,500,107437 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,null,White,null,null,null,Gas,7.6L/100km,5.9L/100km,11887
+2016,Fiat,500X,155000 km,SUV,4 Cylinder,Automatic,AWD,Nero Cinema (Black),Black,5,4,Gas,null,null,11888
+2012,Fiat,500,46000 km,Convertible,4 Cylinder Engine,Automatic,FWD,Nero (Black),Black,4,2,Gas,6.7L - 7.4L/100km,5.1L - 5.7L/100km,12900
+2014,Fiat,500L,89808 km,Sedan,1.4,Automatic,FWD,Silver,Grey,5,4,Gas,8.0L/100km,6.0L/100km,13995
+2020,Fiat,500X,55263 km,SUV,1.3L 4cyl,9 Speed Automatic,AWD,Nero Cinema (Black),Black,null,2,Premium Unleaded,null,null,28900
+2012,Fiat,500,210000 km,Hatchback,null,Manual,FWD,Red,null,null,2 doors,Gasoline,null,null,3500
+2012,Fiat,500,193000 km,Hatchback,null,Automatic,FWD,Brown,null,null,2 doors,Gasoline,null,null,6500
+1962,Fiat,1100,1 km,Sedan,null,Manual,RWD,Red,null,null,4 doors,Gasoline,null,null,6850
+2012,Fiat,500,174000 km,Hatchback,null,Manual,FWD,Silver,null,null,2 doors,Gasoline,null,null,6995
+2012,Fiat,500,124000 km,Coupe,null,Automatic,FWD,Green,null,null,3 doors,Gasoline,null,null,7000
+2014,Fiat,500,117185 km,Hatchback,null,Automatic,FWD,White,null,null,3 doors,Gasoline,null,null,8500
+2013,Fiat,500,108000 km,Coupe,null,Manual,FWD,Red,null,null,2 doors,Gasoline,null,null,8500
+2014,Fiat,500L,179000 km,Hatchback,1.4,Automatic,FWD,White,Grey,5,5,Gas,null,null,8995
+2014,Fiat,500,186000 km,Wagon,4 Cylinder Engine,null,null,Nero (Black),Black,null,null,Gas,8.0L/100km,6.0L/100km,9500
+2014,Fiat,500L,105051 km,Hatchback,1.4L,Automatic,FWD,White,Grey,5,4,Gas,8.0L/100km,6.0L/100km,10500
+2014,Fiat,500,42576 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,null,null,Gas,6.4L/100km,4.9L/100km,11499
+2016,Fiat,500X,96673 km,Sedan,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline,null,null,12500
+2015,Fiat,500E,79000 km,Hatchback,null,Automatic,FWD,Blue,null,null,2 doors,Electric,null,null,17400
+2015,Fiat,500E,72238 km,Hatchback,null,Automatic,FWD,White,null,null,2 doors,Electric,null,null,18950
+2016,Fiat,500,16000 km,Hatchback,null,Manual,FWD,Yellow,null,null,2 doors,Gasoline,null,null,32000

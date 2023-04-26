@@ -1,0 +1,4 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+1965,Sunbeam,Tiger,999999 km,null,null,null,null,null,null,null,null,null,null,null,92888
+1965,Sunbeam,Alpine,null,Convertible,82 hp, 1.6-liter four-cylinder engine,Automatic,null,Red,Black,2,2,Gas,null,null,12900
+1965,Sunbeam,Tiger,null,Convertible,260 cubic-inch Ford V-8 engine,4 Speed Manual,null,Blue,null,null,2,Gas,null,null,109900

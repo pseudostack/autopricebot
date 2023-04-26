@@ -1,0 +1,35 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2016,Subaru,Impreza,119109 km,Sedan,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,8.5L/100km,6.4L/100km,16887
+2017,Subaru,BRZ,43438 km,Coupe,2.0,6 Speed Manual,RWD,Crystal White Pearl,Black,4,2,Gas,11.1L/100km,8.0L/100km,29888
+2018,Subaru,WRX,83891 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,12.6L/100km,9.6L/100km,30998
+2023,Subaru,Outback,4501 km,SUV,2.5L DOHC,CVT,null,Crystal White Pearl,Black,null,null,Gas,9.2L/100km,7.3L/100km,42898
+2019,Subaru,Impreza,45623 km,Hatchback,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.4L/100km,6.6L/100km,24888
+2018,Subaru,Crosstrek,65167 km,SUV,2.0L 4 Cylinder Engine,Automatic,AWD,Quartz Blue Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,26795
+2018,Subaru,Forester,86394 km,SUV,2.0,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,10.2L/100km,8.6L/100km,30888
+2016,Subaru,Outback,161000 km,Wagon,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,16999
+2015,Subaru,Outback,197823 km,SUV,H-4 cyl,CVT,null,Carbide Grey Metallic,Black,null,null,Gas,9.3L/100km,7.1L/100km,13888
+2016,Subaru,Impreza,119109 km,Sedan,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,8.5L/100km,6.4L/100km,16887
+2017,Subaru,WRX,159826 km,Sedan,4 Cylinder Engine,Manual,AWD,Crystal White Pearl,Black,null,null,Gas,11.3L/100km,8.5L/100km,17995
+2017,Subaru,Legacy,101241 km,Sedan,4 Cylinder Engine,Automatic,null,Blue,Black,null,null,Regular Unleaded,9.3L/100km,7.0L/100km,18995
+2016,Subaru,Forester,84338 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Grey,5,4,Gas,9.6L/100km,7.5L/100km,22590
+2017,Subaru,Impreza,89617 km,Sedan,4 Cylinder Engine,Automatic,AWD,Lithium Red Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,22590
+2017,Subaru,Impreza,89617 km,Sedan,4 Cylinder Engine,Automatic,AWD,Lithium Red Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,22590
+2016,Subaru,Forester,88500 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal White Pearl,Black,5,4,Gas,9.6L/100km,7.5L/100km,22690
+2017,Subaru,Forester,138051 km,SUV,2.5L 4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Black,5,4,Gas,9.2L/100km,7.4L/100km,23695
+2020,Subaru,Impreza,50483 km,Wagon,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,8.4L/100km,6.6L/100km,24590
+2015,Subaru,Forester,52381 km,SUV,4 Cylinder Engine,CVT,AWD,Satin White Pearl,Black,5,4,Gas,10.2L/100km,8.5L/100km,24888
+2016,Subaru,WRX,130000 km,Sedan,2.0,Automatic,AWD,Blue,Black,5,4,Gas,12.5L/100km,9.5L/100km,24990
+2019,Subaru,Impreza,37447 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.4L/100km,6.6L/100km,26385
+2019,Subaru,Outback,96396 km,SUV,4 Cylinder Engine,Automatic,AWD,Cinnamon Brown Pearl,Black,5,4,Gas,9.4L/100km,7.3L/100km,26890
+2020,Subaru,Crosstrek,32295 km,SUV,4 Cylinder Engine,Automatic,null,Blue,Black,null,null,Gas,8.5L/100km,7.0L/100km,26900
+2019,Subaru,Outback,46542 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,9.4L/100km,7.3L/100km,31422
+2018,Subaru,Outback,68406 km,SUV,4 Cylinder Engine,CVT,AWD,Tungsten Metallic,null,5,4,Gas,9.4L/100km,7.3L/100km,28699
+2021,Subaru,Crosstrek,36758 km,SUV,4 Cylinder Engine,Automatic,null,Light Blue,null,null,null,Gas,8.5L/100km,7.0L/100km,28899
+2019,Subaru,WRX,80535 km,Sedan,2.0L 4cyl,CVT,AWD,World Rally Blue Pearl,Black,null,4,Gas,12.6L/100km,9.6L/100km,28995
+2019,Subaru,Crosstrek,87275 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,29385
+2017,Subaru,BRZ,43438 km,Coupe,2.0,6 Speed Manual,RWD,Crystal White Pearl,Black,4,2,Gas,11.1L/100km,8.0L/100km,29888
+2020,Subaru,Impreza,45044 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.4L/100km,6.6L/100km,29985
+2018,Subaru,Forester,84882 km,SUV,4 Cylinder Engine 2.0L,CVT,AWD,null,null,null,4,Gas,10.2L/100km,8.6L/100km,29998
+2021,Subaru,Crosstrek,17482 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.5L/100km,7.0L/100km,30385
+2018,Subaru,WRX,83891 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,12.6L/100km,9.6L/100km,30998
+2019,Subaru,Crosstrek,78598 km,SUV,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.2L/100km,28990

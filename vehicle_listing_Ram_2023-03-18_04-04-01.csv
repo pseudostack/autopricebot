@@ -1,0 +1,130 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2022,Ram,1500,100 km,Truck,8 Cylinder Engine,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,null,4,null,null,null,65990
+2019,Ram,1500,110378 km,Truck,3.6L V6,Automatic,4x4,Black,null,null,null,Gas,14.5L/100km,10.2L/100km,31995
+2022,Ram,1500,58 km,Crew Cab,5.7L 8Cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,5,4,Gas,16.1L/100km,11.0L/100km,67188
+2022,Ram,3500,4000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Diesel,null,null,89900
+2018,Ram,1500,70821 km,Truck,5.7,Automatic,4x4,Black,null,5,4,Gas,16.1L/100km,11.5L/100km,30885
+2019,Ram,1500,111278 km,Crew Cab,3.0L EcoDiesel,Automatic,4x4,Black,Grey,5,4,Diesel,14.5L/100km,10.2L/100km,35875
+2018,Ram,ProMaster,19265 km,Van Regular,2.4L 4 Cylinder,Automatic,FWD,Bright White,Grey,2,4,Gas,11.2L/100km,8.3L/100km,40365
+2022,Ram,1500,4401 km,Crew Cab,3.6L V6,Automatic,4x4,Dark Grey,Light Grey,5,4,Gas,null,null,59885
+2011,Ram,1500,229962 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,Brilliant Black Crystal Pearl,Black,5,4,Gas,15.8L/100km,10.8L/100km,12990
+2013,Ram,1500,202531 km,Truck Crew Cab,5.7,6 Speed Automatic,4x4,Red,Black,null,4,Gas,15.3L - 15.8L/100km,10.5L - 10.8L/100km,15980
+2015,Ram,1500,230221 km,Truck,V6 Cylinder Engine,Automatic,4x4,Blue,null,null,4,Flexible,14.6L - 17.7L/100km,10.1L - 12.7L/100km,18995
+2015,Ram,1500,224236 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,Granite Crystal Metallic,Dark Grey,null,null,Diesel,12.1L - 16.2L/100km,8.8L - 11.5L/100km,19997
+2014,Ram,1500,190744 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,Bright White Clearcoat,Dark Grey,null,null,Diesel,10.6L - 13.0L/100km,7.4L - 8.5L/100km,21077
+2022,Ram,1500,10 km,Truck,3.6L Pentastar VVT V6 w/eTorque,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,null,4,null,null,null,43999
+2016,Ram,1500,203353 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,Max Steel,Dark Grey,null,null,Diesel,12.1L - 14.6L/100km,8.8L - 10.1L/100km,21997
+2017,Ram,1500,154616 km,Truck Crew Cab,3.6,6 Speed Automatic,4x4,Black,Grey,null,4,Other,null,null,24480
+2018,Ram,1500,100177 km,Regular Cab,V6 Cylinder Engine,Automatic,4WD,Black,Black,null,null,Flexible,14.5L - 18.7L/100km,10.2L - 13.3L/100km,26995
+2018,Ram,1500,145400 km,Truck Crew Cab,V-8 cyl,6 Speed Automatic,4WD,White,Grey,null,null,Gas,18.7L/100km,13.3L/100km,26999
+2019,Ram,1500,153153 km,Truck Quad Cab,V-6 cyl,8 Speed Automatic,4x4,White,Dark Grey,null,null,Flexible,14.5L/100km,10.2L/100km,28277
+2020,Ram,1500,115405 km,Truck Regular Cab,V-6 cyl,8 Speed Automatic,4x4,White,Dark Grey,null,null,Gas,14.5L/100km,10.2L/100km,29877
+2014,Ram,2500,144557 km,Minivan,3.6,6 Speed Automatic,FWD,Bright White Clearcoat,Grey,null,3,Gas,null,null,29980
+2017,Ram,1500,65301 km,Truck,8 Cylinder Engine,Automatic,4x4,Grey,Black,6,4,Gas,14.5L - 16.1L/100km,10.2L - 11.5L/100km,31990
+2019,Ram,1500,110378 km,Truck,3.6L V6,Automatic,4x4,Black,null,null,null,Gas,14.5L/100km,10.2L/100km,31995
+2017,Ram,1500,143000 km,Truck,3.0L,Automatic,4WD,Gray,Black,null,null,Diesel,12.3L/100km,8.8L/100km,26500
+2018,Ram,1500,127333 km,Crew Cab,5.7L V8,Automatic,4x4,Red Pearl,null,null,null,Gas,16.1L/100km,11.5L/100km,31995
+2018,Ram,1500,65941 km,Truck Crew Cab,6cyl,6 Speed Automatic,4x4,White,Grey,null,null,Diesel,12.3L - 18.7L/100km,8.8L - 13.3L/100km,31997
+2019,Ram,1500,130070 km,Truck Crew Cab,V-6 cyl,8 Speed Automatic,4x4,Black,null,null,null,Diesel,16.1L/100km,11.5L/100km,32997
+2018,Ram,1500,142130 km,Truck,EcoDiesel 3.0L V6,8 Speed Automatic,4WD,Brilliant Black Crystal Pearl,Black,null,null,Diesel,12.3L - 16.1L/100km,8.8L - 11.5L/100km,34764
+2017,Ram,1500,81352 km,Truck,Intercooled Turbo Diesel V-6 3.0 L/182,Automatic,4x4,Gray,Black,5,4,Diesel,12.3L - 16.1L/100km,8.8L - 11.5L/100km,34949
+2019,Ram,1500,89148 km,Truck,Regular Unleaded V-8 5.7 L/345,Automatic,4x4,White,Black,6,4,Gas,16.1L - 18.7L/100km,11.5L - 13.3L/100km,35259
+2019,Ram,1500,63000 km,Truck,6 Cylinder Engine,Automatic,4x4,Black,Black,6,4,Gas,null,null,35777
+2019,Ram,1500,71071 km,Truck,8 Cylinder Engine,null,4WD,Blue,null,null,null,Gas,16.1L - 18.7L/100km,11.5L - 13.3L/100km,36000
+2020,Ram,1500,71158 km,Truck,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,4WD,Granite Crystal Metallic,Black,null,null,Gas,16.2L/100km,11.6L/100km,37988
+2022,Ram,1500,16150 km,Truck,5.7L 8Cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,5,4,Gas,16.1L/100km,11.0L/100km,59000
+2018,Ram,1500,89267 km,Truck,Regular Unleaded V-8 5.7 L/345,Automatic,4x4,Brilliant Black Crystal Pearl,Black,5,4,Gas,16.1L/100km,11.5L/100km,38887
+2018,Ram,1500,93000 km,Truck,8 Cylinder Engine,8 Speed Automatic,4x4,Flame Red,Black,5,4,Gas,16.1L/100km,11.5L/100km,38990
+2019,Ram,1500,32468 km,Truck,8 Cylinder Engine 5.7L,Automatic,4x4,Blue,Black,null,4,Gas,16.1L - 18.7L/100km,11.5L - 13.3L/100km,39489
+2021,Ram,1500,32088 km,Truck,V6 Cylinder Engine,Automatic,RWD,Blue,null,null,4,Gas,13.9L/100km,9.6L/100km,39995
+2020,Ram,1500,29135 km,Truck,8 Cylinder,Automatic,4x4,Diamond Black Crystal Pearl Coat,Black,null,4,Gas,14.5L - 16.2L/100km,10.2L - 11.6L/100km,40800
+2020,Ram,1500,70900 km,Truck Crew Cab,5.7,Automatic,FWD,Dark Brown,Grey,5,4,Gas,14.5L - 16.2L/100km,10.2L - 11.6L/100km,40950
+2017,Ram,2500,122600 km,Truck Crew Cab,V-8 cyl,6 Speed Automatic,4WD,Blue,Grey,null,null,Gas,null,null,41499
+2019,Ram,ProMaster,214000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,null,3,Gas,null,null,41888
+2019,Ram,1500,103251 km,Truck,Regular Unleaded V-8 5.7 L/345,Automatic,4x4,Diamond Black Crystal Pearl,Black,5,4,Gas,16.1L/100km,11.0L/100km,42994
+2022,Ram,1500,5 km,null,3.6L Pentastar VVT V6 w/eTorque,null,null,Diamond Black Crystal Pearlcoat,Black,null,null,null,null,null,43999
+2018,Ram,1500,131000 km,Truck,6 Cylinder Engine,Automatic,4x4,Brilliant Black Crystal Pearl,Brown,5,4,Diesel,12.3L/100km,8.8L/100km,43777
+2018,Ram,ProMaster,143000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Dark Grey,2,3,Gas,null,null,43777
+2018,Ram,ProMaster,140000 km,Van Extended,3.6L V6 Gasoline,Automatic,FWD,Bright White,null,2,4,Gas,null,null,43777
+2018,Ram,1500,45850 km,Truck,V6 Cylinder Engine,Automatic,4x4,null,null,5,4,Diesel,12.3L - 16.1L/100km,8.8L - 11.5L/100km,44495
+2018,Ram,ProMaster,127000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,null,2,3,Gas,null,null,44777
+2016,Ram,3500,242258 km,Regular Cab,Straight 6 Cylinder Engine,Automatic,4WD,Maroon,Black,5,4,Diesel,null,null,44985
+2019,Ram,1500,97228 km,Truck,8 Cylinder Engine,Automatic,4x4,Diamond Black Crystal Pearl,null,null,4,Gas,16.1L/100km,11.0L/100km,45095
+2022,Ram,1500,3500 km,Truck Quad Cab,V-6 cyl,8 Speed Automatic,4WD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,45499
+2018,Ram,Ram,54200 km,Truck Crew Cab,5.7,Automatic,AWD,Bright Silver Metallic,Brown,null,4,Gas,16.1L/100km,11.5L/100km,45888
+2022,Ram,1500,33042 km,Truck,V6,Automatic,4x4,Diamond Black Crystal Pearlcoat,Grey,null,null,Gas,14.5L/100km,10.2L/100km,44998
+2022,Ram,1500,6000 km,Truck Quad Cab,V-6 cyl,8 Speed Automatic,4WD,Diamond Black Crystal Pearlcoat,Black,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,45988
+2021,Ram,1500,19086 km,Crew Cab,8 Cylinder Engine,Automatic,4WD,Black,null,null,null,Gas,14.5L - 16.2L/100km,10.2L - 11.6L/100km,46886
+2019,Ram,ProMaster,159235 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Bright White,Black,2,4,Gas,null,null,46998
+2022,Ram,1500,16742 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,White,Grey,null,null,Gas,14.5L/100km,10.2L/100km,47377
+2022,Ram,1500,13221 km,Truck Quad Cab,V-6 cyl,8 Speed Automatic,4x4,Bright White,Dark Grey,null,null,Gas/Electric Hybrid,null,null,48377
+2018,Ram,ProMaster,89000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Grey,2,3,Gas,null,null,50888
+2021,Ram,Ram,3272 km,Truck,8 Cylinder Engine,8 Speed Automatic,4x4,Dark Brown,Black,6,4,Gas,14.5L - 16.2L/100km,10.2L - 11.6L/100km,51500
+2023,Ram,1500,1000 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Diamond Black Crystal Pearl,null,null,null,Regular Unleaded,14.5L/100km,10.1L/100km,52232
+2022,Ram,1500,15697 km,Crew Cab,5.7L V8,Automatic,4x4,Flame Red,null,null,null,Gas,16.1L/100km,11.0L/100km,52995
+2017,Ram,1500,99932 km,Truck,HEMI 5.7L V8 Multi Displacement VVT,null,4x4,Brilliant Black Crystal Pearl,Black,null,4,Gas,16.1L - 17.5L/100km,11.5L - 12.7L/100km,33995
+2020,Ram,1500,26528 km,Truck,8 Cylinder Engine,Automatic,4x4,Red Pearl,Black,5,4,Gas,16.1L/100km,11.0L/100km,53195
+2019,Ram,1500,37200 km,Truck,5.7L 8Cyl,8 Speed Automatic,4x4,Bright White,Black,5,4,Gas,16.1L/100km,11.0L/100km,53888
+2020,Ram,Promaster,62722 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Bright White,Black,null,null,Gas,null,null,53900
+2020,Ram,1500,28963 km,Truck,8 Cylinder Engine,Automatic,4x4,Diamond Black Crystal Pearl,Black,null,4,Gas,16.1L/100km,11.0L/100km,53995
+2020,Ram,1500,71201 km,Truck Crew Cab,V-6 cyl,8 Speed Automatic,4x4,Bright White,Brown,null,null,Diesel,16.1L/100km,11.0L/100km,54777
+2019,Ram,ProMaster,62170 km,Van Extended,3.6L V6 Cylinder Engine,Automatic,FWD,Bright White,Black,2,3,Gas,null,null,55595
+2020,Ram,ProMaster,76442 km,Minivan,3.6L V6,Automatic,FWD,Bright White,null,null,null,Gas,null,null,55995
+2021,Ram,ProMaster,36093 km,Minivan,Regular Unleaded V-6 3.6 L/220,Automatic,FWD,Bright White,Black,2,3,Gas,null,null,55998
+2018,Ram,ProMaster,83000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Dark Grey,null,3,3,Gas,null,null,56888
+2022,Ram,1500,7604 km,Crew Cab,Gas/Electric V-8 5.7 L/345,Automatic,4x4,Granite Crystal Metallic,Black,5,4,Gasoline Hybrid,null,null,68904
+2022,Ram,1500,20635 km,Truck,8 Cylinder Engine,Automatic,4WD,Diamond Black Crystal Pearlcoat,null,null,null,Gas,16.1L/100km,11.0L/100km,57495
+2019,Ram,2500,106900 km,Truck Crew Cab,6.7,8 Speed Automatic,4x4,White,Black,5,4,Diesel,null,null,57888
+2020,Ram,Promaster,125000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,null,3,3,Gas,null,null,57988
+2019,Ram,ProMaster,96000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,null,Grey,3,3,Gas,null,null,57988
+2020,Ram,ProMaster,66048 km,Van Extended,V6 Cylinder Engine,Automatic,RWD,Bright White,Black,3,3,Gas,null,null,58394
+2021,Ram,ProMaster,60449 km,Minivan,3.6L 6cyl,6 Speed Automatic,FWD,Black,White,2,4,Gas,null,null,59900
+2020,Ram,ProMaster,68000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,null,3,3,Gas,null,null,59988
+2023,Ram,1500,1000 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Bright White,Black,null,null,Regular Unleaded,14.5L/100km,10.1L/100km,60631
+2021,Ram,Promaster,105000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Dark Grey,3,3,Gas,null,null,60988
+2020,Ram,2500,64676 km,Truck,V8,Automatic,4x4,Grey,Grey,null,null,Gas,null,null,53998
+2020,Ram,ProMaster,64000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,null,3,3,Gas,null,null,60988
+2021,Ram,ProMaster,84000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Dark Grey,2,3,Gas,null,null,62888
+2020,Ram,1500,48121 km,Truck Crew Cab,8cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearl,null,null,null,Gas,16.1L/100km,11.0L/100km,62997
+2021,Ram,ProMaster,74000 km,Van Extended,V6 Cylinder Engine,6 Speed Automatic,FWD,Bright White,Dark Grey,2,3,Gas,null,null,63888
+2021,Ram,2500,69893 km,Truck Crew Cab,V-8 cyl,8 Speed Automatic,4x4,Billet Silver Metallic,Dark Grey,null,null,Gas,null,null,65377
+2020,Ram,2500,68903 km,Truck,6.4L Heavy Duty V8 HEMI w/MDS,null,4WD,Bright White,null,null,null,Gas,null,null,67988
+2021,Ram,1500,32845 km,Truck,8 Cylinder Engine,8 Speed Automatic,4x4,Red Pearl,null,5,4,Gasoline Hybrid,11.1L/100km,8.0L/100km,67995
+2022,Ram,1500,1000 km,Truck,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,Granite Crystal Metallic,null,null,null,Regular Unleaded,16.1L/100km,11.0L/100km,68988
+2021,Ram,2500,7705 km,Truck,6.4L 8 Cylinder Engine,Automatic,4x4,Red,Black,5,4,Gas,null,null,69395
+2022,Ram,1500,11995 km,Crew Cab,3.6L V6 24V VVT,8 Speed Automatic,4x4,Bright White,Black,null,null,Gas,14.5L/100km,10.2L/100km,44995
+2022,Ram,1500,1000 km,Truck,5.7L HEMI VVT V8 w/FuelSaver MDS,8 Speed Automatic,4WD,Diamond Black Crystal Pearlcoat,Black,null,null,Regular Unleaded,16.1L/100km,11.0L/100km,69485
+2021,Ram,2500,56493 km,Crew Cab,Intercooled Turbo Diesel I-6 6.7 L/408,Automatic,4x4,Diamond Black Crystal Pearl,Black,null,4,Diesel,null,null,70348
+2022,Ram,1500,19822 km,Truck,8 Cylinder Engine,8 Speed Automatic,4WD,null,null,null,null,Gas,16.1L/100km,11.0L/100km,71995
+2019,Ram,2500,57763 km,Truck,8 Cylinder Engine,Automatic,4x4,Diamond Black Crystal Pearl,null,5,4,Gas,null,null,71995
+2022,Ram,2500,75493 km,Crew Cab,6.7L I6,Automatic,4x4,Bright White,null,null,null,Diesel,null,null,72995
+2022,Ram,2500,23466 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,White,Dark Grey,null,null,Diesel,null,null,75577
+2022,Ram,1500,19691 km,Crew Cab,HEMI 5.7L V8 Multi Displacement VVT eTorque,null,null,Bright White,Beige,null,null,Regular Unleaded,null,null,78888
+2022,Ram,1500,15383 km,Crew Cab,HEMI 5.7L V8 Multi Displacement VVT,null,null,Ivory Tri-Coat Pearl,Beige,null,null,Regular Unleaded,null,null,78888
+2022,Ram,1500,15307 km,Crew Cab,HEMI 5.7L V8 Multi Displacement VVT eTorque,null,null,Patriot Blue Pearl,Black,null,null,Regular Unleaded,null,null,78888
+2021,Ram,3500,28889 km,Truck,I-6,Automatic,4x4,White,Grey,null,null,Diesel,null,null,79998
+2020,Ram,2500,69027 km,Crew Cab,Intercooled Turbo Diesel I-6 6.7 L/408,Automatic,4x4,Diamond Black Crystal Pearl,Black,null,4,Diesel,null,null,79990
+2021,Ram,1500,8897 km,Truck Crew Cab,V-8 cyl,8 Speed Automatic,null,Billet Silver Metallic,Black,null,null,null,null,null,84999
+2022,Ram,2500,14943 km,Truck Crew Cab,6cyl,8 Speed Automatic,4x4,Red Pearl,Brown,null,null,Diesel,null,null,93577
+2022,Ram,1500,1177 km,Truck,6.2L 8 Cylinder Engine,Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,5,4,Gas,22.4L/100km,16.5L/100km,124995
+2022,Ram,1500,24590 km,Crew Cab,Intercooled Supercharger Premium Unleaded V-8 6.2,Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,null,4,Gas,22.4L/100km,16.5L/100km,127800
+2012,Ram,1500,162515 km,Truck,8 Cylinder Engine,Automatic,4x4,Silver,Grey,6,4,Flexible,15.3L/100km,10.5L/100km,15588
+2014,Ram,1500,197321 km,Truck,V6 Cylinder Engine,Automatic,4x4,Red,null,null,4,Diesel,10.6L - 13.0L/100km,7.4L - 8.5L/100km,19995
+2014,Ram,1500,160578 km,Truck Quad Cab,6cyl,6 Speed Automatic,4x4,Black,Dark Grey,null,null,Flexible,13.0L - 15.8L/100km,8.5L - 10.8L/100km,20677
+2014,Ram,1500,208113 km,Truck,V6 Cylinder Engine,8 Speed Automatic,4x4,Maroon,Grey,5,4,Diesel,10.6L - 14.6L/100km,7.4L - 9.8L/100km,22000
+2022,Ram,1500,22530 km,Truck Crew Cab,V-6 cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,null,null,Diesel,11.1L/100km,8.0L/100km,75999
+2019,Ram,1500,99417 km,Truck,8 Cylinder Engine 5.7L,Automatic,4x4,White,null,null,4,Gas,16.1L - 18.7L/100km,11.5L - 13.3L/100km,38995
+2019,Ram,1500,41432 km,Regular Cab,8 Cylinder Engine,Automatic,4WD,Grey,Black,null,null,Gas,12.2L - 16.1L/100km,9.7L - 11.0L/100km,39900
+2022,Ram,1500,5 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Bright White,null,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,44818
+2022,Ram,1500,5 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Bright White,null,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,44818
+2022,Ram,1500,5 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Bright White,null,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,44818
+2019,Ram,1500,110660 km,Truck,8 Cylinder Engine,Automatic,4x4,Bright White,null,null,4,Gas,16.1L/100km,11.0L/100km,44995
+2022,Ram,1500,0 km,Truck,8 Cylinder Engine,8 Speed Automatic,4x4,Bright White,null,null,4,Gas,14.5L - 16.2L/100km,10.2L - 11.6L/100km,50625
+2022,Ram,1500,30 km,Truck,3.6L Pentastar VVT V6,8 Speed Automatic,4WD,Diamond Black Crystal Pearlcoat,null,null,null,Regular Unleaded,14.5L/100km,10.2L/100km,49063
+2022,Ram,1500,58 km,Crew Cab,5.7L 8Cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,5,4,Gas,16.1L/100km,11.0L/100km,67188
+2022,Ram,1500,75 km,Crew Cab,5.7L 8Cyl,8 Speed Automatic,4x4,Diamond Black Crystal Pearlcoat,Black,5,4,Gas,16.1L/100km,11.0L/100km,67188
+2022,Ram,1500,11531 km,Truck,HEMI 5.7L V8 Multi Displacement VVT,8 Speed Automatic,4WD,Granite Crystal Metallic,Black,null,null,Regular Unleaded,14.5L - 16.2L/100km,10.2L - 11.6L/100km,46998
+2022,Ram,3500,4000 km,Truck,null,Automatic,4X4,White,null,null,4 doors,Diesel,null,null,89900
+2020,Ram,1500,93391 km,Crew Cab,5.7L HEMI V8,Automatic,4x4,Diamond Black Crystal Pearl,Black,5,4,Gas,16.1L/100km,11.0L/100km,60995
+2022,Ram,3500,19456 km,Regular Cab,Straight 6 Cylinder Engine,Automatic,4x4,White,Black,null,4,Diesel,null,null,69980
+2021,Ram,1500,33924 km,Regular Cab,V6 Cylinder Engine,Automatic,4x4,Black,Black,null,4,Gas,14.5L/100km,10.2L/100km,36980

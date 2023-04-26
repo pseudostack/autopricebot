@@ -1,0 +1,1438 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2022,Nissan,Frontier,14735 km,Truck,3.8L 6cyl.,Automatic,4x4,Red Alert,Grey,null,2,Gas,13.7L/100km,10.6L/100km,38999
+2019,Nissan,LEAF,71937 km,Hatchback,Electric,1 Speed Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,27188
+2018,Nissan,Murano,47108 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,28990
+2018,Nissan,LEAF,62331 km,Hatchback,ELECTRIC,Automatic,FWD,Deep Blue Pearl,Black,null,4,Electric,null,null,24998
+2019,Nissan,LEAF,63112 km,Hatchback,0,Automatic,FWD,White,Black,null,4,Electric,null,null,36888
+2022,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Deep Blue Pearl,null,null,null,Gas,13.7L/100km,10.6L/100km,49576
+2020,Nissan,Qashqai,77681 km,SUV,2.0,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.0L/100km,7.7L/100km,28398
+2017,Nissan,Pathfinder,95329 km,SUV,3.5L 6cyl,CVT,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,28888
+2017,Nissan,Sentra,146613 km,Sedan,1.6L 4cyl,CVT,FWD,Gun Metallic,Black,5,4,Gas,8.9L - 9.1L/100km,7.3L/100km,16888
+2013,Nissan,Rogue,146000 km,SUV,2.5,CVT,AWD,Gray,Black,5,4,Gas,9.6L/100km,7.7L/100km,10990
+2017,Nissan,Rogue,189279 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,White,Black,null,4,Gas,9.2L/100km,7.0L/100km,13499
+2014,Nissan,Rogue,144580 km,SUV,4 Cylinder Engine,CVT,AWD,Cayenne Red Metallic,null,null,4,Gas,8.2L/100km,6.2L/100km,14800
+2016,Nissan,Rogue,151398 km,SUV,4 Cylinder Engine,CVT,AWD,Brilliant Silver Metallic,null,null,4,Gas,9.5L/100km,7.4L/100km,15900
+2021,Nissan,Rogue,45443 km,SUV,2.5L I4 16V GDI DOHC,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.2L/100km,7.2L/100km,29950
+2016,Nissan,Rogue,149599 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,null,null,4,Gas,9.5L/100km,7.4L/100km,15900
+2016,Nissan,Rogue,136000 km,SUV,2.5,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,15990
+2019,Nissan,Rogue,209824 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Black,5,null,Regular Unleaded,9.6L/100km,7.5L/100km,16950
+2018,Nissan,Sentra,83100 km,Sedan,1.8L 4-Cylinder DOHC 16V,null,FWD,Graphite Blue Metallic,Charcoal,null,4,Gas,null,null,17995
+2018,Nissan,Altima,135500 km,Sedan,4 Cylinder Engine 2.5L,Automatic,FWD,Storm Blue Metallic,Charcoal,null,4,Gas,8.7L/100km,6.3L/100km,17999
+2016,Nissan,Rogue,142000 km,SUV,2.5L 4cyl,CVT,AWD,White,Black,null,2,Gas,9.5L/100km,7.4L/100km,18399
+2019,Nissan,Sentra,62647 km,Sedan,1.8L 4-Cylinder DOHC 16V,null,FWD,Aspen White Pearl,null,null,4,Gas,null,null,18588
+2019,Nissan,Versa,49040 km,Hatchback,4 Cylinder Engine,CVT,FWD,Gun Metallic,Charcoal,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,18785
+2015,Nissan,Murano,86121 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.2L/100km,18889
+2018,Nissan,Murano,76980 km,Wagon,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,28345
+2016,Nissan,Murano,160001 km,SUV,V6 Cylinder Engine,CVT,AWD,Arctic Blue Metallic,null,null,4,Gas,11.2L/100km,8.3L/100km,18900
+2017,Nissan,Rogue,114054 km,SUV,4 Cylinder Engine,Automatic,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,18990
+2016,Nissan,Juke,56301 km,Wagon,Intercooled Turbo Premium Unleaded I-4 1.6 L/99,CVT,AWD,Super Black,null,5,4,Gas,8.8L/100km,7.5L/100km,19988
+2017,Nissan,Murano,137448 km,SUV,V6 Cylinder Engine,CVT,FWD,Pearl White,Black,5,4,Gas,11.0L/100km,8.3L/100km,19990
+2016,Nissan,Juke,45986 km,Wagon,4 Cylinder Engine,Automatic,AWD,Pearl White,null,null,4,Gas,8.8L/100km,7.5L/100km,20498
+2016,Nissan,Murano,130129 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pacific Sunset Metallic,Beige,5,4,Gas,11.2L/100km,8.3L/100km,20590
+2017,Nissan,Qashqai,67379 km,SUV,4 Cylinder Engine,Automatic,FWD,Caspian Blue Metallic,null,null,null,Gas,8.8L - 10.0L/100km,7.3L - 8.1L/100km,20699
+2017,Nissan,Qashqai,37329 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.1L/100km,7.5L/100km,20990
+2018,Nissan,Qashqai,63498 km,SUV,4 Cylinder Engine,null,FWD,Magnetic Black Metallic,Charcoal,null,null,Gas,8.8L - 10.0L/100km,7.3L - 8.1L/100km,21385
+2021,Nissan,Sentra,21333 km,Sedan,2.0L 4-Cylinder DOHC 16V,Manual,FWD,Fresh Powder,null,5,4,Gas,8.0L - 9.3L/100km,6.0L - 6.3L/100km,22995
+2017,Nissan,Rogue,104379 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White,Black,5,null,Gas,9.6L/100km,7.4L/100km,21895
+2016,Nissan,Maxima,84845 km,Sedan,3.5L V6 DOHC 24V,Automatic,FWD,Super Black Metallic,Black,null,4,Gas,10.9L/100km,7.8L/100km,21985
+2019,Nissan,Rogue,76139 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,Caspian Blue Metallic,Black,null,4,Gas,9.1L/100km,7.1L/100km,21989
+2020,Nissan,Sentra,85139 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Electric Blue Metallic,Charcoal,null,4,Gas,null,null,21989
+2020,Nissan,Kicks,90326 km,Hatchback,1.6L 4-Cylinder DOHC 16V,CVT,FWD,Aspen White Tricoat,Charcoal,null,4,Gas,7.7L/100km,6.6L/100km,21995
+2017,Nissan,Pathfinder,150000 km,SUV,6 Cylinder,Automatic,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,21995
+2008,Nissan,350Z,87981 km,Convertible,V6 Cylinder Engine,6 Speed Manual,RWD,Magnetic Black Pearl,Black,2,2,Gas,12.1L - 12.4L/100km,8.2L - 8.5L/100km,21998
+2018,Nissan,Kicks,64000 km,Hatchback,I-4 cyl,CVT,FWD,Cayenne Red/Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,21999
+2017,Nissan,Rogue,75000 km,SUV,2.5,Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.4L/100km,22180
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2017,Nissan,Altima,28478 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,8.8L/100km,6.0L - 6.5L/100km,22348
+2019,Nissan,Qashqai,57489 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Black Metallic,Charcoal,5,4,Gas,8.6L - 10.1L/100km,7.2L - 8.1L/100km,22385
+2019,Nissan,Rogue,104000 km,SUV,2.5L 4-Cyl Engine,Automatic,FWD,White,Black,5,4,Gas,9.1L/100km,7.1L/100km,22450
+2019,Nissan,Murano,105449 km,SUV,V6 Cylinder Engine 3.5L,Automatic,FWD,Pearl White Pearl Metallic,Grey,null,4,Gas,11.7L/100km,8.3L/100km,22495
+2018,Nissan,Rogue,89132 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.7L/100km,7.4L/100km,22499
+2019,Nissan,Kicks,20200 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White Pearl,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,22988
+2017,Nissan,Murano,91006 km,SUV,V6 Cylinder Engine,CVT,FWD,Gun Metallic,Black,null,null,Gas,11.0L/100km,8.3L/100km,22995
+2020,Nissan,Kicks,53167 km,SUV,4 Cylinder Engine,CVT,FWD,GREY,Black,5,4,Gas,7.7L/100km,6.6L/100km,22995
+2018,Nissan,Rogue,88300 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Black,null,null,Regular Unleaded,9.7L/100km,7.4L/100km,22995
+2023,Nissan,Murano,16380 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,12.0L/100km,8.5L/100km,46995
+2020,Nissan,Kicks,77797 km,SUV,4 Cylinder Engine,Automatic,FWD,Super Black,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,23299
+2018,Nissan,Rogue,116000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,9.7L/100km,7.4L/100km,23450
+2020,Nissan,Kicks,82000 km,SUV,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,23450
+2019,Nissan,Rogue,78356 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Black,null,null,Gas,9.6L/100km,7.5L/100km,23499
+2017,Nissan,Murano,76092 km,SUV,260HP 3.5L V6 Cylinder Engine,Automatic,FWD,Magnetic Black Metallic,null,5,4,Gas,11.0L/100km,8.3L/100km,23588
+2019,Nissan,Qashqai,78993 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Charcoal,5,4,Gas,9.1L/100km,7.6L/100km,23995
+2020,Nissan,Kicks,24770 km,SUV,I-4 cyl,CVT,FWD,Gun Metallic,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,23998
+2018,Nissan,Murano,136000 km,SUV,3.5L V6 DOHC 24V,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,11.2L/100km,8.4L/100km,23998
+2019,Nissan,Rogue,91281 km,SUV,4 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,9.6L/100km,7.5L/100km,24045
+2022,Nissan,Pathfinder,12321 km,SUV,3.5L V6,null,AWD,Gun Metallic,null,null,4,Gas,11.6L/100km,9.2L/100km,48868
+2020,Nissan,Rogue,106000 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,24250
+2020,Nissan,Rogue,114444 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.5L/100km,24489
+2019,Nissan,Rogue,55787 km,SUV,4 Cylinder Engine,CVT,FWD,Caspian Blue Metallic,Black,5,4,Gas,9.1L/100km,7.1L/100km,24498
+2019,Nissan,Altima,91125 km,Sedan,4 Cylinder Engine,Automatic,AWD,Pearl White,null,null,null,Gas,9.3L/100km,6.7L/100km,24790
+2020,Nissan,Qashqai,102000 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.0L/100km,7.7L/100km,24850
+2019,Nissan,Rogue,83000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,24850
+2017,Nissan,Rogue,33167 km,SUV,2.5L 4cyl,CVT,AWD,White,Black,5,4,Gas,9.6L/100km,7.4L/100km,24888
+2021,Nissan,Sentra,53000 km,Sedan,4 Cylinder Engine,CVT,FWD,Scarlet Ember Tintcoat,Black,5,4,Gas,8.0L/100km,6.0L/100km,24950
+2018,Nissan,Pathfinder,80597 km,SUV,V6 Cylinder Engine,Automatic,4x4,White,null,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,24955
+2020,Nissan,Rogue,46911 km,SUV,2.5,Automatic,AWD,White,Beige,5,4,Gas,9.6L/100km,7.5L/100km,35990
+2017,Nissan,Pathfinder,102193 km,SUV,V6 Cylinder Engine,Automatic,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,24990
+2018,Nissan,Pathfinder,91246 km,SUV,3.5L V6 DOHC 24V,Automatic,4x4,White,Black,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,24998
+2016,Nissan,Murano,58271 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,11.2L/100km,8.3L/100km,24998
+2018,Nissan,Rogue,99301 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,White,null,null,4,Gas,9.7L/100km,7.4L/100km,24999
+2021,Nissan,Sentra,30432 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,25349
+2020,Nissan,Sentra,34520 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,null,null,null,Gas,8.2L/100km,6.2L/100km,25394
+2021,Nissan,Sentra,79000 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,Black,5,4,Gas,8.0L/100km,6.0L/100km,25450
+2021,Nissan,Sentra,79000 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,Black,5,4,Gas,8.0L/100km,6.0L/100km,25450
+2021,Nissan,Sentra,79000 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,Black,5,4,Gas,8.0L/100km,6.0L/100km,25450
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2018,Nissan,Rogue,43271 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,25494
+2020,Nissan,Sentra,36074 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,Black,5,4,Gas,8.2L/100km,6.2L/100km,25495
+2019,Nissan,Rogue,68868 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,9.6L/100km,7.5L/100km,25498
+2019,Nissan,Rogue,77266 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,25498
+2020,Nissan,Rogue,97000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.6L/100km,7.5L/100km,25850
+2017,Nissan,Murano,94000 km,SUV,3.5,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,11.2L/100km,8.4L/100km,25888
+2021,Nissan,Sentra,15000 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,Black,5,4,Gas,8.0L/100km,6.0L/100km,25950
+2021,Nissan,Kicks,13991 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,25989
+2019,Nissan,Altima,32504 km,Sedan,4 Cylinder Engine,Automatic,AWD,null,null,null,4,Gas,9.1L/100km,6.5L/100km,25998
+2018,Nissan,LEAF,57158 km,Sedan,Electric Motor,1 Speed Automatic,null,Jade Frost,Black,null,null,Electric,null,null,29796
+2019,Nissan,Rogue,58737 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,9.6L/100km,7.5L/100km,25998
+2020,Nissan,Rogue,89145 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,null,null,Gas,9.6L/100km,7.5L/100km,25998
+2018,Nissan,Rogue,40889 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.7L/100km,7.4L/100km,26300
+2018,Nissan,Rogue,38000 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,26450
+2020,Nissan,Rogue,79000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.6L/100km,7.5L/100km,26450
+2020,Nissan,Rogue,86180 km,SUV,2.5L I4,Automatic,AWD,Silver,Black,null,2,Gas,9.6L/100km,7.5L/100km,26499
+2018,Nissan,Murano,80000 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Beige,5,4,Gas,11.2L/100km,8.4L/100km,26888
+2020,Nissan,Rogue,71670 km,SUV,4 Cylinder Engine,CVT,AWD,Silver,null,5,null,Gas,9.6L/100km,7.5L/100km,26935
+2017,Nissan,Murano,83942 km,Wagon,Regular Unleaded V-6 3.5 L/213,CVT,AWD,Pearl White,null,null,4,Gas,11.2L/100km,8.4L/100km,26990
+2022,Nissan,Armada,15995 km,SUV,5.6L V8,Automatic,4x4,Super Black,null,null,4,Gas,17.5L/100km,12.9L/100km,68688
+2019,Nissan,LEAF,71937 km,Hatchback,Electric,1 Speed Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,27188
+2018,Nissan,Maxima,52973 km,Sedan,V6 Cylinder Engine,CVT,FWD,Deep Blue Pearl,Charcoal,5,4,Gas,11.1L/100km,7.8L/100km,27298
+2018,Nissan,Murano,61315 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,null,4,Gas,11.2L/100km,8.4L/100km,27399
+2020,Nissan,Rogue,28699 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,null,null,4,Gas,9.6L/100km,7.5L/100km,27545
+2019,Nissan,NV200,79122 km,Van Regular,4 Cylinder Engine,Automatic,FWD,Fresh Powder,Grey,null,null,Gas,9.8L/100km,8.8L/100km,27889
+2018,Nissan,Murano,101000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,11.2L/100km,8.4L/100km,27950
+2021,Nissan,Qashqai,84000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,9.0L/100km,7.6L/100km,27950
+2018,Nissan,Pathfinder,57000 km,SUV,3.5,CVT,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,27990
+2017,Nissan,Armada,183978 km,SUV,5.6,Automatic,FWD,Super Black,Black,8,4,Regular Unleaded,17.5L/100km,12.9L/100km,27998
+2018,Nissan,Kicks,70000 km,SUV,I-4 cyl,CVT,FWD,Gun Metallic/Monarch Orange,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25999
+2021,Nissan,Qashqai,21195 km,SUV,4 Cylinder Engine,CVT,AWD,Caspian Blue Metallic,Light Grey,5,4,Gas,9.0L/100km,7.6L/100km,28298
+2020,Nissan,Qashqai,70445 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,9.0L/100km,7.7L/100km,28385
+2020,Nissan,Rogue,28165 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,28590
+2020,Nissan,Qashqai,34419 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Light Grey,null,null,Gas,9.0L/100km,7.7L/100km,28884
+2019,Nissan,Murano,87312 km,SUV,3.5,Automatic,AWD,Cayenne Red Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,28888
+2018,Nissan,Murano,67141 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,null,null,Gas,11.2L/100km,8.4L/100km,28974
+2022,Nissan,Frontier,8501 km,Truck,V6 Cylinder Engine,Automatic,4x4,Glacier White,null,null,4,Gas,13.7L/100km,10.6L/100km,43727
+2018,Nissan,Kicks,64000 km,Hatchback,I-4 cyl,CVT,FWD,Cayenne Red/Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,21999
+2018,Nissan,LEAF,62331 km,Hatchback,ELECTRIC,Automatic,FWD,Deep Blue Pearl,Black,null,4,Electric,null,null,24998
+2018,Nissan,370Z,120457 km,Coupe,V-6 cyl,6 Speed Manual,RWD,Magnetic Black Metallic,Black,2,2,Premium Unleaded,null,null,28899
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Glacier White,null,null,null,Gas,13.5L/100km,10.4L/100km,50914
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56290
+2022,Nissan,Armada,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Super Black,Black,null,null,Gas,17.5L/100km,12.9L/100km,82876
+2017,Nissan,Rogue,153528 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.4L/100km,18888
+2019,Nissan,Murano,95692 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,28998
+2021,Nissan,Kicks,14265 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,7.7L/100km,6.6L/100km,29372
+2018,Nissan,LEAF,40505 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,null,null,4,Electric,null,null,29466
+2018,Nissan,LEAF,43980 km,Hatchback,Electric Motor,1 Speed Automatic,null,Deep Blue Pearl,null,null,null,Electric,null,null,29479
+2019,Nissan,Pathfinder,76256 km,SUV,V6 Cylinder Engine,CVT,4x4,White,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,33999
+2022,Nissan,Rogue,69923 km,SUV,4 Cylinder Engine,Automatic,FWD,Glacier White,null,null,null,Gas,9.0L/100km,7.1L/100km,29889
+2019,Nissan,Altima,47934 km,Sedan,4 Cylinder Engine,Automatic,AWD,Super Black,null,null,null,Gas,9.1L - 9.3L/100km,6.5L - 6.7L/100km,29900
+2019,Nissan,Pathfinder,105000 km,SUV,V6 Cylinder Engine,CVT,4x4,White,Tan,5,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29950
+2021,Nissan,Rogue,39080 km,SUV,4 Cylinder Engine,Automatic,FWD,Glacier White,Charcoal,null,null,Gas,8.9L/100km,7.0L/100km,29988
+2019,Nissan,Murano,87073 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,29989
+2018,Nissan,LEAF,46688 km,Hatchback,Electric Motor,1 Speed Automatic,null,Deep Blue Pearl,null,null,null,Electric,null,null,29998
+2022,Nissan,Kicks,760 km,Hatchback,1.6L 4cyl,CVT,FWD,Blue,Black,5,4,Gas,7.7L/100km,6.6L/100km,29999
+2018,Nissan,Pathfinder,61000 km,SUV,3.5L V6 Cylinder Engine,Automatic,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,30450
+2018,Nissan,LEAF,25528 km,Hatchback,Electric Motor,Automatic,null,Pearl White,Black,null,null,Electric,null,null,30894
+2021,Nissan,NV200,47156 km,Minivan,4 Cylinder Engine,CVT,FWD,Fresh Powder,null,2,4,Gas,9.9L/100km,9.1L/100km,38108
+2019,Nissan,Murano,68312 km,Wagon,V6 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,Beige,null,null,Gas,11.7L/100km,8.5L/100km,30898
+2021,Nissan,Rogue,55513 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,8.9L/100km,7.0L/100km,30994
+2018,Nissan,Pathfinder,102231 km,SUV,V-6 cyl,CVT,4x4,Metallic,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,30998
+2021,Nissan,Rogue,62000 km,SUV,4 Cylinder Engine,CVT,AWD,Glacier White,Black,5,4,Gas,9.2L/100km,7.2L/100km,31450
+2022,Nissan,Altima,12983 km,Sedan,Regular Unleaded I-4 2.5 L/152,CVT,AWD,Glacier White,Black,5,4,Gas,9.1L/100km,6.5L/100km,31498
+2022,Nissan,Altima,15462 km,Sedan,2.5L 4cyl.,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.1L/100km,6.5L/100km,31499
+2019,Nissan,Pathfinder,47625 km,SUV,V-6 cyl,CVT,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,31499
+2020,Nissan,Altima,23476 km,Sedan,4 Cylinder Engine,Automatic,AWD,Deep Blue Pearl,Black,5,4,Gas,9.3L/100km,6.7L/100km,31590
+2019,Nissan,Maxima,68183 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Pearl White,null,null,4,Gas,11.6L/100km,7.9L/100km,31595
+2020,Nissan,Rogue,42559 km,SUV,I-4 cyl,CVT,AWD,Magnetic Black Metallic,Black,null,null,Regular Unleaded,9.6L/100km,7.5L/100km,28998
+2019,Nissan,Pathfinder,123000 km,SUV,V6 Cylinder Engine,Automatic,4x4,White,Black,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,31950
+2019,Nissan,Murano,30862 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Charcoal,null,null,Gas,11.7L/100km,8.5L/100km,31994
+2020,Nissan,Pathfinder,82625 km,SUV,3.5L 6cyl,CVT,4x4,Pearl White,Black,7,4,Gas,12.1L/100km,8.9L/100km,31998
+2021,Nissan,Rogue,18186 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Charcoal,5,4,Gas,9.2L/100km,7.2L/100km,32299
+2020,Nissan,Maxima,69770 km,Sedan,V6 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,11.6L/100km,7.9L/100km,32495
+2020,Nissan,Murano,51425 km,SUV,260HP 3.5L V6 Cylinder Engine,Automatic,AWD,Gun Metallic,null,5,4,Gas,11.7L/100km,8.5L/100km,32588
+2022,Nissan,Altima,11636 km,Sedan,2.5L 4cyl.,Automatic,AWD,Super Black,null,null,4,Gas,9.3L/100km,6.7L/100km,32698
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2021,Nissan,Rogue,85585 km,SUV,4 Cylinder Engine,CVT,AWD,Super Black,null,5,null,Gas,9.2L/100km,7.2L/100km,32995
+2023,Nissan,LEAF,239 km,Hatchback,Electric Motor,Automatic,null,Deep Blue Pearl,Black,5,4,Electric,null,null,40699
+2019,Nissan,Murano,64798 km,SUV,V-6 cyl,CVT,AWD,Magnetic Black Metallic,Charcoal,null,null,Regular Unleaded,11.7L/100km,8.5L/100km,33997
+2018,Nissan,370Z,41573 km,Coupe,V6 Cylinder Engine,6 Speed Manual,RWD,Dark Grey,Orange,2,2,Gas,null,null,34888
+2021,Nissan,Rogue,35237 km,SUV,2.5L I4 F DOHC 16V,Automatic,AWD,Caspian Blue Metallic,Black,null,2,Gas,9.2L/100km,7.2L/100km,34999
+2021,Nissan,Murano,15273 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,12.0L/100km,8.5L/100km,35919
+2021,Nissan,Rogue,39525 km,SUV,I-4 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,35997
+2022,Nissan,Altima,14758 km,Sedan,2.5L 4cyl.,Automatic,AWD,Scarlet Ember Tintcoat,Charcoal,null,4,Gas,9.3L/100km,6.7L/100km,36000
+2021,Nissan,Rogue,51341 km,SUV,4 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Charcoal,null,null,Gas,9.2L/100km,7.2L/100km,36395
+2021,Nissan,Rogue,47800 km,SUV,2.5L 4-Cylinder DOHC 16V,CVT,AWD,Caspian Blue Metallic/Super Black,Tan,null,4,Gas,9.2L/100km,7.2L/100km,36488
+2020,Nissan,Pathfinder,39255 km,SUV,3.5L 6cyl,CVT,4x4,null,null,null,2,Gas,12.1L/100km,8.9L/100km,36990
+2020,Nissan,Kicks,90326 km,Hatchback,1.6L 4-Cylinder DOHC 16V,CVT,FWD,Aspen White Tricoat,Charcoal,null,4,Gas,7.7L/100km,6.6L/100km,21995
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2021,Nissan,Maxima,20700 km,Sedan,V6 Cylinder Engine,CVT,FWD,Carnelian Red Metallic,null,5,4,Gas,11.6L/100km,7.9L/100km,37575
+2020,Nissan,LEAF,23423 km,Hatchback,Electric,1 Speed Automatic,FWD,White,Black,null,2,Electric,null,null,37999
+2021,Nissan,Rogue,48886 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,null,null,null,Gas,9.2L/100km,7.2L/100km,38898
+2021,Nissan,Rogue,42764 km,SUV,I-4 cyl,Automatic,AWD,Pearl White 2-Tone Pearl Metallic,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,38997
+2021,Nissan,Rogue,20218 km,SUV,4 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Tan,null,null,Gas,9.2L/100km,7.2L/100km,39485
+2017,Nissan,Titan,105000 km,Truck,5.0L 8cyl,6 Speed Automatic,4x4,Deep Blue Pearl,Brown,5,4,Diesel,null,null,39988
+2021,Nissan,Rogue,31953 km,SUV,I-4 cyl,CVT,AWD,Caspian Blue 2-Tone Metallic,null,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,39997
+2022,Nissan,Rogue,29457 km,SUV,3 Cylinder Engine,Automatic,AWD,Scarlet Ember Pearl Metallic,Tan,5,4,Gas,8.4L/100km,6.8L/100km,41999
+2017,Nissan,Qashqai,71229 km,SUV,4 Cylinder Engine,CVT,FWD,Gun Metallic,null,5,4,Gas,8.8L - 10.0L/100km,7.3L - 8.1L/100km,21608
+2021,Nissan,Murano,39300 km,Wagon,3.5L 6cyl,CVT,AWD,Grey,Black,5,4,Gas,12.0L/100km,8.5L/100km,42675
+2023,Nissan,Rogue,10995 km,SUV,1.5L DOHC,CVT,AWD,Gun Metallic,Charcoal,null,4,Gas,8.4L/100km,6.8L/100km,42843
+2022,Nissan,Frontier,14000 km,Truck,V6 Cylinder Engine,null,4WD,null,Grey,null,null,Gas,13.7L/100km,10.6L/100km,42887
+2021,Nissan,Murano,26239 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,4,Gas,11.7L/100km,8.5L/100km,43652
+2022,Nissan,Frontier,8501 km,Truck,V6 Cylinder Engine,Automatic,4x4,Glacier White,null,null,4,Gas,13.7L/100km,10.6L/100km,43727
+2022,Nissan,Maxima,11420 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Pearl White,Charcoal,null,null,Gas,11.6L/100km,7.9L/100km,43989
+2023,Nissan,Rogue,19280 km,SUV,3 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Black,5,4,Gas,8.4L/100km,6.8L/100km,44995
+2023,Nissan,Rogue,5860 km,SUV,3 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,8.4L/100km,6.8L/100km,44998
+2022,Nissan,Frontier,16938 km,Truck Crew Cab,V6 Cylinder Engine,9 Speed Automatic,4WD,Super Black,null,null,null,Gas,13.7L/100km,10.6L/100km,45298
+2020,Nissan,Rogue,77792 km,SUV,I-4 cyl,CVT,AWD,Magnetic Black Metallic,Black,5,4,Regular Unleaded,9.6L/100km,7.5L/100km,26395
+2022,Nissan,Murano,15166 km,SUV,V6 Cylinder Engine,CVT,AWD,Scarlet Ember Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,45995
+2022,Nissan,Frontier,16896 km,Truck,3.8L V6,9 Speed Automatic,4x4,Deep Blue Pearl,Grey,null,4,Gas,13.7L/100km,10.6L/100km,48980
+2020,Nissan,Armada,67972 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Hermosa Blue Pearl,Brown,7,4,Gas,17.5L/100km,12.9L/100km,53372
+2019,Nissan,Titan,44500 km,Truck Crew Cab,V-8 cyl,Automatic,4x4,Magnetic Black Metallic,Black,null,null,Diesel,null,null,56997
+2022,Nissan,Armada,15995 km,SUV,5.6L V8,Automatic,4x4,Super Black,null,null,4,Gas,17.5L/100km,12.9L/100km,68688
+2022,Nissan,Armada,18150 km,SUV,8 Cylinder Engine,7 Speed Automatic,4WD,Aspen White TriCoat,Black,null,null,Gas,17.5L/100km,12.9L/100km,68995
+2017,Nissan,GT-R,76055 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Jet Black Pearl,Red,4,2,Gas,null,null,116910
+2017,Nissan,GT-R,35896 km,Coupe,6 Cylinder,Automatic,AWD,Gun Metallic,Black,null,2,Gas,14.5L/100km,10.7L/100km,119800
+2018,Nissan,GT-R,51000 km,Coupe,3.8L,Automatic,AWD,Jet Black Pearl,Red,4,2,Gas,14.5L/100km,10.7L/100km,119888
+2022,Nissan,Murano,15166 km,SUV,V6 Cylinder Engine,CVT,AWD,Scarlet Ember Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,45995
+2014,Nissan,Versa,120973 km,Hatchback,1.6L 4cyl,null,FWD,null,null,null,2,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,8490
+2015,Nissan,Versa,117117 km,Sedan,1.6,5 Speed Manual,FWD,Red Brick Metallic,Grey,null,4,Gas,7.6L - 8.7L/100km,5.9L - 6.5L/100km,11480
+2014,Nissan,Versa,93455 km,Sedan,1.6,Automatic,FWD,Blue,Charcoal,null,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,11980
+2015,Nissan,Versa,53216 km,Hatchback,Regular Unleaded I-4 1.6 L/98,CVT,FWD,Aspen White Pearl,Charcoal,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,12688
+2013,Nissan,Rogue,84441 km,SUV,4 Cylinder Engine,CVT,FWD,Brilliant Silver Metallic,Grey,5,4,Gas,9.0L/100km,7.0L/100km,13988
+2017,Nissan,Sentra,100595 km,Sedan,1.6L L4 DOHC 16V TURBO,6 Speed Manual,FWD,Aspen White Pearl,Black,null,4,Gas,8.9L - 9.1L/100km,7.3L/100km,14998
+2017,Nissan,Sentra,93378 km,Sedan,1.8L L4 SFI DOHC 16V,Automatic,FWD,Gun Metallic,Black,null,4,Gas,null,null,15998
+2016,Nissan,Maxima,165240 km,Sedan,3.5,CVT,FWD,Gun Metallic,Black,5,4,Gas,10.9L/100km,7.8L/100km,16480
+2016,Nissan,Rogue,122000 km,SUV,2.5L DOHC 16-Valve 4-Cyl Engine,Automatic,AWD,Magnetic Black Metallic,Black,7,4,Gas,9.5L/100km,7.4L/100km,16950
+2018,Nissan,Kicks,70000 km,SUV,I-4 cyl,CVT,FWD,Gun Metallic/Monarch Orange,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25999
+2013,Nissan,Murano,92000 km,SUV,3.5,Automatic,AWD,Black,Black,5,4,Gas,11.7L/100km,8.5L/100km,16998
+2015,Nissan,LEAF,56000 km,Hatchback,Electric Motor,Automatic,FWD,White,Black,null,4,Electric,null,null,16999
+2018,Nissan,Versa,48671 km,Hatchback,Regular Unleaded I-4 1.6 L/98,CVT,FWD,Super Black,Charcoal,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,17878
+2017,Nissan,Rogue,134000 km,SUV,2.5,CVT,FWD,Gun Metallic,Black,5,4,Gas,9.2L/100km,7.0L/100km,17990
+2016,Nissan,Rogue,122000 km,SUV,4 Cylinder Engine,CVT,AWD,Cayenne Red Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,18250
+2015,Nissan,Rogue,130621 km,SUV,4 Cylinder Engine,Automatic,AWD,Arctic Blue Metallic,null,5,4,Gas,9.5L/100km,7.4L/100km,18590
+2019,Nissan,Versa,75701 km,Hatchback,4 Cylinder Engine,CVT,FWD,Aspen White Pearl,Charcoal,null,null,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,18698
+2018,Nissan,Sentra,61283 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Charcoal,null,null,Gas,null,null,18989
+2017,Nissan,Altima,104881 km,Sedan,4 Cylinder Engine,Automatic,FWD,Brilliant Silver Metallic,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,18990
+2022,Nissan,Pathfinder,12321 km,SUV,3.5L V6,null,AWD,Gun Metallic,null,null,4,Gas,11.6L/100km,9.2L/100km,48868
+2018,Nissan,Sentra,59642 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen White Pearl,Charcoal,5,4,Gas,null,null,18999
+2019,Nissan,Versa,48267 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Aspen White Pearl,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,19490
+2018,Nissan,Kicks,80840 km,SUV,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,19772
+2017,Nissan,Murano,179900 km,SUV,6 Cylinder,Automatic,AWD,Pearl White,Black,5,4,Gas,11.2L/100km,8.4L/100km,19995
+2017,Nissan,Rogue,124000 km,SUV,4 Cylinder Engine,CVT,4x4,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.4L/100km,20450
+2017,Nissan,Rogue,111188 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,null,null,Gas,9.6L/100km,7.4L/100km,20699
+2019,Nissan,Qashqai,139466 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,null,null,null,Gas,9.1L/100km,7.6L/100km,20999
+2018,Nissan,Rogue,82100 km,SUV,2.5L 4cyl,CVT,FWD,White,Black,null,2,Gas,9.2L/100km,7.0L/100km,22099
+2020,Nissan,Sentra,79000 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,8.0L - 9.4L/100km,6.0L - 6.4L/100km,22450
+2020,Nissan,Rogue,46911 km,SUV,2.5,Automatic,AWD,White,Beige,5,4,Gas,9.6L/100km,7.5L/100km,35990
+2018,Nissan,Maxima,156000 km,Sedan,3.5L V6 Cylinder Engine,Automatic,FWD,Super Black,Black,5,4,Gas,11.1L/100km,7.8L/100km,22450
+2019,Nissan,Sentra,26505 km,Compact,1.8L 4cyl,CVT,FWD,Deep Blue Pearl Metallic,Black,5,4,Gas,null,null,22699
+2020,Nissan,Kicks,94000 km,Hatchback,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,22850
+2019,Nissan,Kicks,9678 km,SUV,4 Cylinder Engine,CVT,FWD,Deep Blue Pearl,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,22998
+2018,Nissan,Rogue,87659 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,9.7L/100km,7.4L/100km,23495
+2019,Nissan,Kicks,69116 km,SUV,4 Cylinder Engine,CVT,FWD,Monarch Orange/Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,23772
+2020,Nissan,Sentra,85139 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Electric Blue Metallic,Charcoal,null,4,Gas,null,null,21989
+2016,Nissan,Rogue,149599 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,null,null,4,Gas,9.5L/100km,7.4L/100km,15900
+2019,Nissan,LEAF,71937 km,Hatchback,Electric,1 Speed Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,27188
+2020,Nissan,Qashqai,34419 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Light Grey,null,null,Gas,9.0L/100km,7.7L/100km,28884
+2018,Nissan,Murano,47108 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,28990
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2018,Nissan,Versa,76892 km,Hatchback,1.6L L4 DOHC 16V,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,15998
+2013,Nissan,Juke,130328 km,null,null,Automatic,FWD,Gold,null,null,5 doors,Gasoline,null,null,10950
+2017,Nissan,Rogue,134346 km,SUV,2.5L 4cyl,6 Speed Automatic,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,15888
+2019,Nissan,Kicks,69116 km,SUV,4 Cylinder Engine,CVT,FWD,Monarch Orange/Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,23772
+2020,Nissan,Sentra,53000 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,Black,5,4,Gas,8.0L/100km,6.0L/100km,23850
+2018,Nissan,Rogue,122743 km,SUV,2.5,CVT,AWD,Magnetic Black Metallic,Black,5,5,Gas,9.7L/100km,7.4L/100km,23888
+2018,Nissan,Rogue,122000 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Tan,5,4,Gas,9.7L/100km,7.4L/100km,23950
+2018,Nissan,Murano,76980 km,Wagon,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,28345
+2017,Nissan,Rogue,100703 km,SUV,I-4 cyl,CVT,AWD,Magnetic Black Metallic,Black,null,null,Regular Unleaded,9.6L/100km,7.4L/100km,23997
+2017,Nissan,Altima,36800 km,Sedan,2.5L 4cyl,CVT,FWD,Super Black,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,23999
+2018,Nissan,Rogue,103630 km,SUV,4 Cylinder Engine,CVT,AWD,White,Charcoal,null,null,Gas,9.7L/100km,7.4L/100km,24200
+2019,Nissan,Rogue,69071 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,Magnetic Black Metallic,Black,null,4,Gas,9.1L/100km,7.1L/100km,24489
+2018,Nissan,Rogue,87747 km,SUV,4 Cylinder Engine,CVT,AWD,Scarlet Ember Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,24495
+2018,Nissan,LEAF,62331 km,Hatchback,ELECTRIC,Automatic,FWD,Deep Blue Pearl,Black,null,4,Electric,null,null,24998
+2021,Nissan,Sentra,88000 km,Sedan,4 Cylinder Engine,CVT,FWD,Aspen White TriCoat,Black,5,4,Gas,8.0L/100km,6.0L/100km,25450
+2020,Nissan,Sentra,44000 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,8.2L/100km,6.2L/100km,25450
+2020,Nissan,Altima,88000 km,Sedan,4 Cylinder Engine,CVT,AWD,Glacier White,Black,5,4,Gas,9.1L/100km,6.5L/100km,25450
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2021,Nissan,Kicks,24751 km,SUV,4 Cylinder Engine 1.6L,Automatic,FWD,Super Black,Charcoal,null,4,Gas,7.7L/100km,6.6L/100km,25499
+2021,Nissan,Sentra,48000 km,Sedan,4 Cylinder Engine,CVT,FWD,Aspen White TriCoat,Black,5,4,Gas,8.0L/100km,6.0L/100km,25950
+2020,Nissan,Altima,79000 km,Sedan,4 Cylinder Engine,CVT,AWD,Glacier White,Black,5,4,Gas,9.0L/100km,6.5L/100km,26450
+2021,Nissan,Sentra,33613 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L/100km,6.0L/100km,26490
+2021,Nissan,Sentra,15646 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,26490
+2018,Nissan,LEAF,85015 km,Hatchback,Electric Motor,1 Speed Automatic,null,Pearl White,Black,null,null,Electric,null,null,26498
+2020,Nissan,Rogue,83507 km,SUV,2.5L I4,Automatic,AWD,Magnetic Black Metallic,Black,null,2,Gas,9.6L/100km,7.5L/100km,26499
+2017,Nissan,Murano,65408 km,SUV,3.5L DOHC 24V V6 -inc: remote engine start,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,11.2L/100km,8.4L/100km,26989
+2021,Nissan,Sentra,33919 km,Sedan,4 Cylinder Engine 2.0L,CVT,FWD,Aspen White TriCoat,Charcoal,null,4,Gas,8.0L/100km,6.0L/100km,26995
+2021,Nissan,Sentra,21333 km,Sedan,2.0L 4-Cylinder DOHC 16V,Manual,FWD,Fresh Powder,null,5,4,Gas,8.0L - 9.3L/100km,6.0L - 6.3L/100km,22995
+2019,Nissan,Rogue,74020 km,SUV,I-4 cyl,CVT,AWD,Glacier White,Black,null,null,Regular Unleaded,9.6L/100km,7.5L/100km,26997
+2022,Nissan,Sentra,22409 km,Sedan,2.0,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L/100km,6.0L/100km,27490
+2021,Nissan,Kicks,29446 km,SUV,1.6,Automatic,FWD,White,Grey,5,4,Gas,7.7L/100km,6.6L/100km,27490
+2021,Nissan,Kicks,28076 km,SUV,1.6,Automatic,FWD,Blue,Grey,5,4,Gas,7.7L/100km,6.6L/100km,27490
+2018,Nissan,LEAF,102000 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,27777
+2019,Nissan,Altima,36967 km,Sedan,I-4 cyl,Automatic,AWD,Super Black,Charcoal,null,null,Regular Unleaded,9.1L/100km,6.5L/100km,27777
+2020,Nissan,Rogue,32230 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,27880
+2018,Nissan,Pathfinder,97421 km,SUV,3.5,CVT,FWD,Dark Grey,Black,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,27980
+2019,Nissan,Rogue,55610 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,null,null,Gas,9.6L/100km,7.5L/100km,28498
+2020,Nissan,Rogue,46911 km,SUV,2.5,Automatic,AWD,White,Beige,5,4,Gas,9.6L/100km,7.5L/100km,35990
+2015,Nissan,Xterra,74346 km,SUV,4.0L 6cyl,5 Speed Automatic,4x4,Cayenne Red Metallic,Dark Grey,5,4,Gas,16.0L/100km,12.0L - 12.3L/100km,28699
+2019,Nissan,Rogue,52800 km,SUV,2.5L 4cyl,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,28777
+2017,Nissan,Murano,73487 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,11.2L/100km,8.4L/100km,28888
+2015,Nissan,Frontier,142600 km,Truck Crew Cab,4.0,Automatic,4x4,White,Black,5,4,Gas,15.7L/100km,11.3L/100km,28985
+2022,Nissan,Qashqai,17500 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.0L/100km,7.5L/100km,28995
+2018,Nissan,Murano,60545 km,SUV,V6 Cylinder Engine,Automatic,AWD,Cayenne Red Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,29795
+2021,Nissan,Kicks,30954 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,29997
+2022,Nissan,Sentra,16507 km,Sedan,I-4 cyl,null,FWD,Mtlc W,null,null,null,Regular Unleaded,8.2L - 9.4L/100km,6.1L - 6.4L/100km,29998
+2018,Nissan,Murano,67113 km,SUV,V-6 cyl,CVT,AWD,null,Black,null,null,Regular Unleaded,11.2L/100km,8.4L/100km,30498
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2021,Nissan,Rogue,39000 km,SUV,4 Cylinder Engine,CVT,AWD,Super Black,Black,5,4,Gas,9.2L/100km,7.2L/100km,32950
+2020,Nissan,Murano,32800 km,SUV,V6 Cylinder Engine,CVT,AWD,Deep Blue Pearl Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,33872
+2019,Nissan,Pathfinder,97830 km,SUV,V-6 cyl,CVT,4x4,Magnetic Black Metallic,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,33898
+2017,Nissan,Titan,132565 km,Truck,8 Cylinder Engine 5.0L,Automatic,4x4,Deep Blue Pearl,Black,null,4,Diesel,null,null,33995
+2021,Nissan,Rogue,59465 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Gas,9.2L/100km,7.2L/100km,34485
+2018,Nissan,Pathfinder,72064 km,SUV,3.5,Automatic,FWD,Dark Grey,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,35490
+2022,Nissan,Rogue,13102 km,SUV,4 Cylinder Engine,CVT,AWD,Glacier White,null,5,4,Gas,9.2L/100km,7.2L/100km,36360
+2022,Nissan,Altima,7543 km,Sedan,I-4 cyl,Automatic,AWD,Gun Metallic,Charcoal,null,null,Regular Unleaded,9.3L/100km,6.7L/100km,36399
+2021,Nissan,Rogue,26021 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue 2-Tone Metallic,Tan,null,2,Gas,9.2L/100km,7.2L/100km,38495
+2019,Nissan,Kicks,151225 km,SUV,1.6L 4cyl,CVT,FWD,Monarch Orange/Super Black,Black,5,2,Gas,7.7L/100km,6.6L/100km,18753
+2022,Nissan,Rogue,4025 km,SUV,3 Cylinder Engine,CVT,AWD,Caspian Blue Metallic,Charcoal,5,4,Gas,8.4L/100km,6.7L/100km,38998
+2021,Nissan,Rogue,23005 km,SUV,I-4 cyl,CVT,AWD,Metallic,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,40997
+2020,Nissan,Murano,15199 km,SUV,V6 Cylinder Engine,CVT,AWD,Deep Blue Pearl Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,42288
+2022,Nissan,Murano,10065 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black,null,null,null,Gas,12.0L/100km,8.5L/100km,45899
+2022,Nissan,Maxima,516 km,Sedan,3.5L 6cyl,CVT,FWD,Deep Blue Pearl,Black,5,4,Premium Unleaded,11.6L/100km,7.9L/100km,46399
+2021,Nissan,Murano,8051 km,SUV,3.5L V6 DOHC 24V,CVT,AWD,Pearl White Pearl Metallic,null,null,2,Gas,12.0L/100km,8.5L/100km,51999
+2021,Nissan,Armada,26532 km,SUV,8 Cylinder Engine,Automatic,AWD,Super Black,Black,8,4,Gas,17.5L/100km,12.9L/100km,61995
+2008,Nissan,Versa,196942 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gray,Charcoal,null,4,Gas,7.5L - 8.5L/100km,6.0L - 6.3L/100km,3800
+2014,Nissan,Sentra,112000 km,Sedan,1.8L 4cyl,6 Speed Manual,FWD,Super Black,Black,null,2,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,10599
+2021,Nissan,Sentra,20206 km,Sedan,2.0L I4 16V MPFI DOHC,Automatic,FWD,Aspen White TriCoat/Super Black,Black,null,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,27898
+2016,Nissan,Sentra,141541 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,12990
+2015,Nissan,Rogue,181514 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Black,7,null,Regular Unleaded,9.5L/100km,7.4L/100km,16450
+2016,Nissan,Rogue,180213 km,SUV,4 Cylinder Engine 2.5L,CVT,AWD,Gun Metallic,null,null,4,Gas,9.5L/100km,7.4L/100km,17995
+2017,Nissan,Sentra,126015 km,Sedan,1.6L L4 DOHC 16V TURBO,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,8.9L - 9.1L/100km,7.3L/100km,17998
+2019,Nissan,Micra,88436 km,Hatchback,I-4 cyl,Automatic,FWD,Super Black,Charcoal,null,null,Regular Unleaded,8.7L - 9.0L/100km,6.8L/100km,17999
+2016,Nissan,Rogue,97678 km,SUV,4 Cylinder Engine,CVT,FWD,Glacier White,Black,5,4,Gas,9.1L/100km,7.1L/100km,18590
+2016,Nissan,Rogue,135000 km,SUV,2.5,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,18880
+2015,Nissan,Pathfinder,133972 km,SUV,3.5L 6cyl,CVT,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,19399
+2018,Nissan,Altima,159488 km,Sedan,2.5,Automatic,FWD,Gun Metallic,Black,null,4,Gas,8.7L/100km,6.3L/100km,19980
+2018,Nissan,LEAF,57158 km,Sedan,Electric Motor,1 Speed Automatic,null,Jade Frost,Black,null,null,Electric,null,null,29796
+2018,Nissan,Sentra,47534 km,Sedan,1.8L L4 SFI DOHC 16V,Automatic,FWD,Super Black,null,null,4,Gas,null,null,19999
+2018,Nissan,Sentra,54892 km,Sedan,1.8L L4 SFI DOHC 16V,Manual,FWD,Super Black,null,null,2,Gas,null,null,19999
+2017,Nissan,Qashqai,79609 km,SUV,I-4 cyl,null,FWD,Metallic,Charcoal,null,null,Regular Unleaded,8.8L - 10.0L/100km,7.3L - 8.1L/100km,20997
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Fresh Powder,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,20998
+2019,Nissan,Sentra,86893 km,Sedan,I-4 cyl,null,FWD,Super Black,Charcoal,null,null,Regular Unleaded,null,null,20999
+2018,Nissan,Sentra,50537 km,Sedan,1.8L L4 SFI DOHC 16V,Manual,FWD,Super Black,null,null,2,Gas,null,null,20999
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Boulder Grey Pearl,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,21298
+2018,Nissan,Altima,125000 km,Sedan,2.5,Automatic,FWD,White,Black,null,4,Gas,8.7L/100km,6.3L/100km,21488
+2018,Nissan,Sentra,18479 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,null,null,22872
+2021,Nissan,Rogue,45443 km,SUV,2.5L I4 16V GDI DOHC,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.2L/100km,7.2L/100km,29950
+2019,Nissan,Kicks,45908 km,SUV,4 Cylinder Engine 1.6L,Automatic,FWD,Blue,Charcoal,null,4,Gas,7.7L/100km,6.6L/100km,22989
+2020,Nissan,Sentra,111948 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,null,null,4,Gas,8.0L/100km,6.0L/100km,23354
+2015,Nissan,Pathfinder,89134 km,SUV,V6 Cylinder Engine,CVT,4x4,Gun Metallic,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,23990
+2019,Nissan,Kicks,86951 km,SUV,I-4 cyl,CVT,FWD,Fresh Powder,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,23997
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,23998
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,null,FWD,Super Black,Charcoal,null,null,Regular Unleaded,8.0L - 9.2L/100km,6.0L - 6.2L/100km,24098
+2018,Nissan,Rogue,102188 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.7L/100km,7.4L/100km,24498
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Electric Blue Metallic,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,24987
+2017,Nissan,Rogue,28307 km,SUV,I-4 cyl,CVT,FWD,Metallic,Black,null,null,Regular Unleaded,9.2L/100km,7.0L/100km,24997
+2018,Nissan,Kicks,70000 km,SUV,I-4 cyl,CVT,FWD,Gun Metallic/Monarch Orange,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25999
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Boulder Grey Pearl,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25152
+2023,Nissan,Sentra,23 km,Sedan,I-4 cyl,CVT,FWD,E,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25248
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25428
+2019,Nissan,Rogue,55640 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,White,Black,null,4,Gas,9.1L/100km,7.1L/100km,25489
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25498
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,Metallic,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25633
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,Metallic,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25633
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,Aspen White TriCoat,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25798
+2023,Nissan,Sentra,23 km,Sedan,I-4 cyl,CVT,FWD,Aspen White TriCoat,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,25798
+2020,Nissan,Rogue,114444 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.5L/100km,24489
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,W B,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,25953
+2016,Nissan,Pathfinder,72100 km,SUV,3.5L V6 DOHC,CVT,FWD,Magnetic Black Metallic,Charcoal,null,4,Gas,11.9L/100km,8.6L/100km,25995
+2019,Nissan,Sentra,45892 km,Sedan,I-4 cyl,null,FWD,Metallic,Charcoal,null,null,Regular Unleaded,null,null,25997
+2018,Nissan,Rogue,84662 km,SUV,2.5,Automatic,AWD,Dark Blue,Black,5,4,Gas,9.7L/100km,7.4L/100km,26888
+2020,Nissan,Kicks,20400 km,Hatchback,1.6L 4cyl,CVT,FWD,White,Black,5,4,Gas,7.7L/100km,6.6L/100km,26999
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,Aspen White TriCoat,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,27697
+2018,Nissan,Rogue,40889 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.7L/100km,7.4L/100km,26300
+2018,Nissan,Rogue,89132 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.7L/100km,7.4L/100km,22499
+2020,Nissan,Qashqai,34419 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Light Grey,null,null,Gas,9.0L/100km,7.7L/100km,28884
+2021,Nissan,Murano,26239 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,4,Gas,11.7L/100km,8.5L/100km,43652
+2018,Nissan,Versa,76892 km,Hatchback,1.6L L4 DOHC 16V,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,15998
+1994,Nissan,Skyline,180000 km,Coupe,null,Manual,RWD,Silver,null,null,null,Gasoline,null,null,33500
+2018,Nissan,Titan,163438 km,Truck,5.6L 8cyl,7 Speed Automatic,4x4,White,Brown,5,4,Gas,15.2L - 15.9L/100km,11.1L - 11.9L/100km,34888
+2017,Nissan,Versa,112809 km,Hatchback,1.6L 4cyl,CVT,FWD,Gun Metallic,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,12888
+2015,Nissan,Micra,121221 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Fresh Powder,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,13888
+2023,Nissan,Qashqai,110 km,SUV,I-4 cyl,CVT,FWD,Magnetic Black Metallic,Charcoal,null,null,Regular Unleaded,8.6L/100km,7.3L/100km,27728
+2023,Nissan,Qashqai,50 km,SUV,I-4 cyl,CVT,FWD,Metallic,Charcoal,null,null,Regular Unleaded,8.6L/100km,7.3L/100km,27728
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,27852
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,27852
+2023,Nissan,Rogue,10995 km,SUV,1.5L DOHC,CVT,AWD,Gun Metallic,Charcoal,null,4,Gas,8.4L/100km,6.8L/100km,42843
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Blue Metallic,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,27987
+2019,Nissan,Rogue,65494 km,SUV,2.5L L4 DOHC 16V,CVT,AWD,Caspian Blue Metallic,Grey,null,2,Gas,9.6L/100km,7.5L/100km,27999
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Gray Pearl,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,28152
+2023,Nissan,Kicks,23 km,SUV,I-4 cyl,CVT,FWD,Gray Pearl,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,28152
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,28652
+2023,Nissan,Sentra,23 km,Sedan,I-4 cyl,CVT,FWD,Electric Blue Metallic,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,28832
+2018,Nissan,370Z,120457 km,Coupe,V-6 cyl,6 Speed Manual,RWD,Magnetic Black Metallic,Black,2,2,Premium Unleaded,null,null,28899
+2021,Nissan,Sentra,24917 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,null,5,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,28907
+2019,Nissan,Qashqai,68438 km,SUV,4 Cylinder Engine 2.0L,CVT,AWD,Gun Metallic,null,null,4,Gas,9.1L/100km,7.6L/100km,28995
+2020,Nissan,Rogue,114444 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.5L/100km,24489
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,CVT,FWD,E,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,28997
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,null,null,null,Gas,7.7L/100km,6.6L/100km,29510
+2020,Nissan,Rogue,91063 km,SUV,4 Cylinder Engine 2.5L,CVT,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.5L/100km,29888
+2019,Nissan,LEAF,72603 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,30595
+2023,Nissan,Qashqai,0 km,SUV,I-4 cyl,CVT,AWD,Glacier White,Charcoal,null,null,Regular Unleaded,9.0L/100km,7.5L/100km,30922
+2022,Nissan,Sentra,2800 km,Sedan,2.0,Automatic,FWD,Grey,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30990
+2022,Nissan,Sentra,6977 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30990
+2023,Nissan,Kicks,0 km,SUV,I-4 cyl,CVT,FWD,Grey/Super Black,Charcoal,null,null,Regular Unleaded,7.7L/100km,6.6L/100km,31147
+2023,Nissan,Sentra,0 km,Sedan,I-4 cyl,null,FWD,Super Black,null,null,null,Regular Unleaded,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31897
+2019,Nissan,Kicks,151225 km,SUV,1.6L 4cyl,CVT,FWD,Monarch Orange/Super Black,Black,5,2,Gas,7.7L/100km,6.6L/100km,18753
+2023,Nissan,Rogue,22 km,SUV,I-4 cyl,CVT,FWD,Metallic,Charcoal,null,null,Regular Unleaded,9.0L/100km,7.1L/100km,32703
+2023,Nissan,Rogue,23 km,SUV,I-4 cyl,CVT,AWD,Metallic,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,32883
+2018,Nissan,LEAF,54000 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Super Black,Black,5,4,Electric,null,null,32995
+2020,Nissan,Rogue,22946 km,SUV,I-4 cyl,CVT,AWD,Glacier White,Black,null,null,Regular Unleaded,9.6L/100km,7.5L/100km,33997
+2023,Nissan,Rogue,0 km,SUV,I-4 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,36317
+2023,Nissan,Rogue,0 km,SUV,I-4 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,36667
+2019,Nissan,LEAF,63112 km,Hatchback,0,Automatic,FWD,White,Black,null,4,Electric,null,null,36888
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,38968
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,38968
+2021,Nissan,Sentra,20206 km,Sedan,2.0L I4 16V MPFI DOHC,Automatic,FWD,Aspen White TriCoat/Super Black,Black,null,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,27898
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,38968
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,BL,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,39103
+2021,Nissan,Rogue,89892 km,SUV,I-4 cyl,CVT,AWD,Super Black,null,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,39999
+2020,Nissan,370Z,10912 km,Coupe,Premium Unleaded V-6 3.7 L/226,Automatic,RWD,Magnetic Black Metallic,Charcoal,2,2,Gas,null,null,40588
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,BL,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,40652
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Super Black,null,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,42817
+2023,Nissan,Rogue,23 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,43167
+2023,Nissan,Murano,23 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,43968
+2023,Nissan,Murano,23 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,43968
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2023,Nissan,Murano,5298 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,44750
+2023,Nissan,Rogue,23 km,SUV,I-3 cyl,CVT,AWD,Silver Metallic,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,45597
+2023,Nissan,Murano,23 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,45867
+2023,Nissan,Murano,23 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,45867
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Metallic,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,45903
+2023,Nissan,Pathfinder,23 km,SUV,V-6 cyl,null,4x4,Super Black,Charcoal,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,45998
+2023,Nissan,Frontier,22 km,Truck King Cab,V-6 cyl,9 Speed Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,13.5L/100km,10.4L/100km,46593
+2023,Nissan,LEAF,584 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,47495
+2023,Nissan,Rogue,23 km,SUV,I-3 cyl,CVT,AWD,Metallic,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,47802
+2018,Nissan,LEAF,57158 km,Sedan,Electric Motor,1 Speed Automatic,null,Jade Frost,Black,null,null,Electric,null,null,29796
+2023,Nissan,Rogue,0 km,SUV,I-3 cyl,CVT,AWD,Grey Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,48462
+2022,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Gun Metallic,null,null,null,Gas,13.7L/100km,10.6L/100km,49410
+2022,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Deep Blue Pearl,null,null,null,Gas,13.7L/100km,10.6L/100km,49576
+2022,Nissan,Frontier,90 km,Crew Cab,V6 Cylinder Engine,Automatic,4x4,Cardinal Red Metallic TriCoat,Grey,5,4,Gas,13.7L/100km,10.6L/100km,49576
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Glacier White,null,null,null,Gas,13.5L/100km,10.4L/100km,50914
+2023,Nissan,Murano,22 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,51317
+2023,Nissan,Frontier,22 km,Truck Crew Cab,V-6 cyl,9 Speed Automatic,4x4,Super Black,Charcoal,null,null,Regular Unleaded,13.5L/100km,10.4L/100km,55048
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56290
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,null,null,null,Gas,11.6L/100km,9.2L/100km,56540
+2023,Nissan,Pathfinder,23 km,SUV,V-6 cyl,null,4x4,Super Black,Charcoal,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,57157
+2023,Nissan,Pathfinder,23 km,SUV,V-6 cyl,null,4x4,Pearl White TriCoat,null,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,57457
+2023,Nissan,Pathfinder,23 km,SUV,V-6 cyl,null,4x4,Pearl White TriCoat,Charcoal,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,57457
+2023,Nissan,Ariya,31 km,SUV,Electric Motor,1 Speed Automatic,FWD,B,Charcoal,null,null,Electric,null,null,70042
+2022,Nissan,Armada,22 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Gun Metallic,null,null,null,Regular Unleaded,17.5L/100km,12.9L/100km,76228
+2023,Nissan,Armada,22 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Aspen White TriCoat,null,null,null,Regular Unleaded,17.5L/100km,12.9L/100km,82393
+2022,Nissan,Armada,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Super Black,Black,null,null,Gas,17.5L/100km,12.9L/100km,82876
+2010,Nissan,Sentra,211952 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,null,Charcoal,null,4,Gas,7.5L - 8.4L/100km,5.8L - 6.4L/100km,5299
+2017,Nissan,Altima,104881 km,Sedan,4 Cylinder Engine,Automatic,FWD,Brilliant Silver Metallic,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,18990
+2010,Nissan,Sentra,181257 km,Sedan,4 Cylinder Engine 2.0L,null,FWD,Aspen White,null,null,4,Gas,7.5L - 8.4L/100km,5.8L - 6.4L/100km,7888
+2011,Nissan,Rogue,151513 km,SUV,4 Cylinder Engine,Automatic,AWD,Airtech Blue,Black,null,null,Gas,9.3L/100km,7.7L/100km,7900
+2004,Nissan,Quest,280464 km,Minivan,3.5,5 Speed Automatic,FWD,Green Tea Metallic,Beige,null,4,Gas,12.4L - 13.3L/100km,8.2L - 8.6L/100km,7980
+2015,Nissan,Altima,236621 km,Sedan,4 Cylinder Engine 2.5L,Automatic,FWD,Brilliant Silver Metallic,Charcoal,null,4,Gas,8.7L/100km,6.2L/100km,7999
+2008,Nissan,Titan,334729 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,Galaxy Black Metallic,Black,5,4,Gas,18.0L/100km,12.2L/100km,8888
+2017,Nissan,Versa,205000 km,Hatchback,1.6,Automatic,FWD,White,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,8999
+2015,Nissan,Sentra,165252 km,Sedan,1.8,Automatic,FWD,Silver,Grey,null,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,11780
+2015,Nissan,Rogue,224673 km,SUV,2.5,CVT,AWD,Brilliant Silver Metallic,Grey,null,4,Gas,9.5L/100km,7.4L/100km,12980
+2015,Nissan,Versa,136431 km,Hatchback,4 Cylinder Engine 1.6L,null,FWD,Magnetic Grey Metallic,null,null,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,14995
+2018,Nissan,Armada,70711 km,SUV,5.6,Automatic,4x4,Pearl White,null,7,4,Gas,17.5L/100km,12.8L/100km,49990
+2018,Nissan,Versa,76892 km,Hatchback,1.6L L4 DOHC 16V,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,15998
+2017,Nissan,Juke,168035 km,SUV,1.6,CVT,AWD,Pearl White,Grey,null,4,Gas,9.0L/100km,7.8L/100km,16480
+2015,Nissan,Juke,107623 km,Wagon,Intercooled Turbo Premium Unleaded I-4 1.6 L/99,CVT,AWD,Pearl White,Red,5,4,Gas,8.8L/100km,7.5L/100km,16888
+2018,Nissan,Rogue,169000 km,SUV,2.5,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,16990
+2017,Nissan,Sentra,88093 km,Sedan,I-4 cyl,null,FWD,null,Charcoal,null,null,Regular Unleaded,null,null,16997
+2015,Nissan,Rogue,139005 km,SUV,I-4 cyl,CVT,AWD,Arctic Blue Metallic,null,null,null,Gas,9.5L/100km,7.4L/100km,17995
+2017,Nissan,Versa,45629 km,Hatchback,4 Cylinder Engine 1.6L,Automatic,FWD,Red,Charcoal,null,5,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,19489
+2018,Nissan,Sentra,62070 km,Sedan,1.8L L4 SFI DOHC 16V,Manual,FWD,Super Black,null,null,2,Gas,null,null,19999
+2018,Nissan,Rogue,101811 km,SUV,4 Cylinder Engine,CVT,FWD,Gun Metallic,Black,null,4,Gas,9.2L/100km,7.0L/100km,22395
+2022,Nissan,Murano,15166 km,SUV,V6 Cylinder Engine,CVT,AWD,Scarlet Ember Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,45995
+2011,Nissan,370Z,123134 km,Coupe,V6 Cylinder Engine 3.7L,Manual,RWD,Magnetic Black Metallic,null,null,2,Gas,null,null,22904
+2019,Nissan,Rogue,80414 km,SUV,2.5,CVT,AWD,Caspian Blue Metallic,Grey,null,4,Gas,9.6L/100km,7.5L/100km,24480
+2017,Nissan,Rogue,101999 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.4L/100km,24489
+2018,Nissan,Rogue,97750 km,SUV,2.5L 4-Cylinder DOHC 16V,CVT,AWD,Gun Metallic,null,null,4,Gas,null,null,24980
+2018,Nissan,Altima,23465 km,Sedan,2.5,Automatic,FWD,Gun Metallic,Dark Grey,null,4,Gas,8.7L/100km,6.3L/100km,25888
+2019,Nissan,Rogue,52814 km,SUV,4 Cylinder Engine,Automatic,FWD,Magnetic Black Metallic,null,null,4,Gas,9.1L/100km,7.1L/100km,26542
+2021,Nissan,Altima,10000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.1L/100km,6.5L/100km,28167
+2019,Nissan,Rogue,82000 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,28450
+2018,Nissan,Rogue,87067 km,SUV,4 Cylinder Engine,CVT,FWD,null,Black,null,null,Gas,9.2L/100km,7.0L/100km,29995
+2018,Nissan,Rogue,92111 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,24608
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,Super Black,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30990
+2023,Nissan,Kicks,100 km,SUV,1.6,Automatic,FWD,Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,30990
+2023,Nissan,Kicks,100 km,SUV,1.6,Automatic,FWD,Grey,Black,5,4,Gas,7.7L/100km,6.6L/100km,30990
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31990
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31990
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31990
+2018,Nissan,LEAF,35101 km,Sedan,: 110kW AC Synchronous Electric Motor,1 Speed Automatic,null,null,null,null,null,Electric,null,null,33979
+2020,Nissan,Qashqai,34419 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Light Grey,null,null,Gas,9.0L/100km,7.7L/100km,28884
+2022,Nissan,Altima,7543 km,Sedan,I-4 cyl,Automatic,AWD,Gun Metallic,Charcoal,null,null,Regular Unleaded,9.3L/100km,6.7L/100km,36399
+2021,Nissan,Sentra,24917 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,null,5,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,28907
+2018,Nissan,Versa,76892 km,Hatchback,1.6L L4 DOHC 16V,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,15998
+2013,Nissan,Juke,130328 km,null,null,Automatic,FWD,Gold,null,null,5 doors,Gasoline,null,null,10950
+1994,Nissan,Skyline,180000 km,Coupe,null,Manual,RWD,Silver,null,null,null,Gasoline,null,null,33500
+2018,Nissan,Qashqai,102807 km,SUV,2.0,Automatic,AWD,White,Black,null,4,Gas,9.0L/100km,7.5L/100km,22998
+2018,Nissan,Versa,161175 km,Hatchback,1.6L 4cyl,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,11888
+2023,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,32990
+2023,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,32990
+2023,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,White,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,32990
+2018,Nissan,LEAF,35101 km,Sedan,: 110kW AC Synchronous Electric Motor,1 Speed Automatic,null,null,null,null,null,Electric,null,null,33979
+2023,Nissan,GT-R,99 km,Coupe,3.8L Twin Turbo V6 - 600 hp,Automatic,null,Pearl White TriCoat,null,null,null,Premium Unleaded,14.7L/100km,10.7L/100km,292998
+2023,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,Super Black,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,33990
+2020,Nissan,Rogue,22813 km,SUV,Regular Unleaded I-4 2.5 L/152,CVT,AWD,Gun Metallic,Brown,5,4,Gas,9.6L/100km,7.5L/100km,34376
+2020,Nissan,Rogue,40904 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,null,Gas,9.6L/100km,7.5L/100km,35799
+2023,Nissan,LEAF,239 km,Hatchback,Electric Motor,Automatic,null,Deep Blue Pearl,Black,5,4,Electric,null,null,40699
+2018,Nissan,370Z,32600 km,Convertible,V6 Cylinder Engine,6 Speed Manual,RWD,Red,Black,2,2,Gas,13.0L - 13.6L/100km,9.7L/100km,45777
+2023,Nissan,Murano,16380 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,12.0L/100km,8.5L/100km,46995
+2023,Nissan,LEAF,105 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Scarlet Ember Metallic,Black,5,4,Electric,null,null,46999
+2023,Nissan,Pathfinder,10505 km,SUV,V6 Cylinder Engine,Automatic,4x4,Pearl White TriCoat,null,null,4,Gas,11.6L/100km,9.2L/100km,54166
+2023,Nissan,Pathfinder,1277 km,SUV,V6 Cylinder Engine,9 Speed Automatic,AWD,Super Black,null,null,null,Gas,11.6L/100km,9.2L/100km,56998
+2015,Nissan,Murano,86121 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.2L/100km,18889
+2023,Nissan,Pathfinder,92 km,SUV,3.5,Automatic,FWD,Super Black,Black,8,4,Gas,11.6L/100km,9.2L/100km,57990
+2012,Nissan,GT-R,43300 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Jet Black,Black,4,2,Gas,13.0L/100km,9.3L/100km,114777
+2014,Nissan,GT-R,26700 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Gun Metallic,Black,4,2,Gas,12.9L/100km,9.2L/100km,124777
+2021,Nissan,GT-R,6000 km,Coupe,3.8L,Automatic,AWD,Pearl White TriCoat,Red,4,2,Gas,14.4L/100km,10.9L/100km,169788
+2021,Nissan,GT-R,14000 km,Coupe,3.8L,Automatic,AWD,Jet Black Pearl,Black,4,2,Gas,14.4L/100km,10.9L/100km,169788
+2007,Nissan,Frontier,294000 km,Truck,V6 Cylinder Engine,5 Speed Automatic,4x4,Super Black,Black,4,2,Gas,13.8L - 14.9L/100km,10.4L - 10.6L/100km,4994
+2014,Nissan,Altima,283000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gun Metallic,Black,5,4,Regular Unleaded,7.5L/100km,5.1L/100km,6949
+2009,Nissan,Altima,109512 km,Sedan,175HP 2.5L 4 Cylinder Engine,Automatic,FWD,Niagara Grey Me,null,null,4,Gas,8.9L/100km,6.1L - 6.3L/100km,7988
+2013,Nissan,Juke,130328 km,null,null,Automatic,FWD,Gold,null,null,5 doors,Gasoline,null,null,10950
+2022,Nissan,Pathfinder,39307 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,White,Black,7,4,Gas,11.6L/100km,9.2L/100km,51497
+2016,Nissan,Rogue,190000 km,SUV,null,Automatic,AWD,Black,Black,5,4,Gas,null,null,14500
+2014,Nissan,LEAF,97332 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Electric,null,null,16900
+2017,Nissan,Micra,62499 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,FWD,Fresh Powder,Charcoal,5,4,Gas,8.7L - 8.9L/100km,6.8L/100km,17872
+2014,Nissan,Pathfinder,91884 km,SUV,3.5,Automatic,AWD,Red,Charcoal,null,null,Gas,null,null,17900
+2019,Nissan,Versa,75150 km,Hatchback,1.6L 4-Cylinder DOHC 16V,CVT,FWD,Aspen White Pearl,Charcoal,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,17988
+2017,Nissan,Rogue,77585 km,null,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,24000
+2020,Nissan,Murano,88039 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,11.7L/100km,8.5L/100km,25471
+2018,Nissan,Pathfinder,144879 km,SUV,V6 Cylinder Engine 3.5L,CVT,4x4,White,null,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,25888
+2019,Nissan,Rogue,63446 km,SUV,2.5,Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,28490
+2018,Nissan,Rogue,86208 km,SUV,Regular Unleaded I-4 2.5 L/152,CVT,AWD,null,null,5,4,Gas,9.7L/100km,7.4L/100km,22425
+2023,Nissan,Sentra,300 km,Sedan,2.0,CVT,FWD,Aspen White TriCoat,Black,5,4,Gas,8.0L/100km,6.0L/100km,28990
+1986,Nissan,300ZX,81065 km,Hatchback,Unknown,null,null,Blue,null,null,null,Gas,null,null,29999
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,Super Black,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30990
+2023,Nissan,Kicks,100 km,SUV,1.6,Automatic,FWD,Super Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,30990
+2022,Nissan,Sentra,100 km,Sedan,2.0,Automatic,FWD,Super Black,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30990
+2022,Nissan,Sentra,499 km,Sedan,2.0,Automatic,FWD,Grey,Black,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31990
+1994,Nissan,Skyline,180000 km,Coupe,null,Manual,RWD,Silver,null,null,null,Gasoline,null,null,33500
+2022,Nissan,Rogue,17700 km,SUV,2.5L 4-Cylinder DOHC 16V,CVT,AWD,Gun Metallic,Charcoal,null,4,Gas,9.2L/100km,7.2L/100km,35995
+2022,Nissan,Frontier,14735 km,Truck,3.8L 6cyl.,Automatic,4x4,Red Alert,Grey,null,2,Gas,13.7L/100km,10.6L/100km,38999
+2018,Nissan,Murano,61315 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,null,4,Gas,11.2L/100km,8.4L/100km,27399
+2008,Nissan,Rogue,196624 km,SUV,4 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,9.1L/100km,7.2L/100km,8388
+2015,Nissan,Sentra,173460 km,Sedan,4 Cylinder Engine 1.8L,null,FWD,Blue,Charcoal,null,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,12995
+2012,Nissan,NV,299815 km,Minivan,8 Cylinder Engine,Automatic,RWD,Nordic White,Black,2,null,Regular Unleaded,null,null,22888
+2019,Nissan,LEAF,72477 km,Hatchback,Electric Motor,Automatic,null,Gun Metallic,null,5,null,Electric,null,null,29985
+2023,Nissan,Pathfinder,9810 km,SUV,3.5L 6cyl.,Automatic,4x4,Pearl White TriCoat,Charcoal,null,5,Gas,11.6L/100km,9.2L/100km,52998
+2009,Nissan,Murano,260000 km,SUV,V6 Cylinder Engine,CVT,AWD,Super Black,Black,5,4,Gas,11.8L/100km,8.7L/100km,4995
+2018,Nissan,Micra,154000 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,FWD,null,null,5,4,Gas,8.7L - 9.0L/100km,6.8L/100km,9900
+2014,Nissan,Pathfinder,245599 km,SUV,V6 Cylinder Engine,CVT,4x4,Cayenne Red Metallic,Black,7,4,Gas,10.9L/100km,7.8L/100km,10388
+2014,Nissan,Rogue,149000 km,SUV,2.5,Automatic,FWD,Moonlight White Pearl,Grey,5,null,Regular Unleaded,7.9L/100km,6.0L/100km,12495
+2020,Nissan,Kicks,20400 km,Hatchback,1.6L 4cyl,CVT,FWD,White,Black,5,4,Gas,7.7L/100km,6.6L/100km,26999
+2015,Nissan,Rogue,179000 km,SUV,4 Cylinder Engine,CVT,FWD,Pearl White,Black,5,4,Gas,9.2L/100km,7.2L/100km,12995
+2015,Nissan,Pathfinder,192000 km,SUV,V6 Cylinder Engine,CVT,4WD,Gun Metallic,Grey,null,null,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,13500
+2014,Nissan,Rogue,125982 km,SUV,2.5,Automatic,FWD,Brilliant Silver Metallic,Black,null,4,Gas,7.9L/100km,6.0L/100km,13995
+2014,Nissan,Pathfinder,153000 km,SUV,V6 Cylinder Engine,CVT,4x4,Moonlight White Pearl,Black,7,4,Gas,10.9L/100km,7.8L/100km,13995
+2015,Nissan,Rogue,129500 km,SUV,4 Cylinder,Automatic,AWD,Pearl White,Black,5,4,Gas,9.5L/100km,7.4L/100km,14888
+2015,Nissan,Pathfinder,154000 km,SUV,3.5,Automatic,4WD,Magnetic Black Metallic,Black,7,null,Regular Unleaded,12.1L - 12.7L/100km,8.9L - 9.0L/100km,14995
+2015,Nissan,LEAF,103670 km,Hatchback,Electric,1 Speed Automatic,FWD,null,null,null,4,Electric,null,null,14999
+2017,Nissan,Altima,99696 km,Sedan,4 Cylinder,Automatic,FWD,Super Black,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,15750
+2016,Nissan,Rogue,133000 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey,Black,7,4,Gas,9.5L/100km,7.4L/100km,15880
+2019,Nissan,Murano,105449 km,SUV,V6 Cylinder Engine 3.5L,Automatic,FWD,Pearl White Pearl Metallic,Grey,null,4,Gas,11.7L/100km,8.3L/100km,22495
+2017,Nissan,Micra,27580 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,null,null,null,null,Gas,8.7L - 8.9L/100km,6.8L/100km,15888
+2016,Nissan,Murano,197560 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,11.2L/100km,8.3L/100km,16888
+2015,Nissan,Rogue,79980 km,SUV,4 Cylinder Engine,Automatic,FWD,Pearl White,Black,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,16995
+2017,Nissan,Rogue,120388 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,17750
+2017,Nissan,Rogue,133800 km,SUV,2.5,Automatic,AWD,White,Grey,5,4,Gas,9.6L/100km,7.4L/100km,17800
+2015,Nissan,Altima,70500 km,Sedan,3.5,Automatic,FWD,Gun Metallic,Black,5,4,Gas,10.3L/100km,7.4L/100km,17888
+2016,Nissan,Rogue,140781 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Grey,5,4,Gas,9.5L/100km,7.4L/100km,17895
+2017,Nissan,Rogue,142080 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Black,null,4,Gas,9.6L/100km,7.4L/100km,17990
+2016,Nissan,Rogue,118758 km,SUV,4 Cylinder Engine,CVT,AWD,Arctic Blue Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,17990
+2022,Nissan,Sentra,20646 km,Sedan,2.0L DOHC 16V 4-Cylinder,Automatic,FWD,White,Charcoal,5,null,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,27500
+2019,Nissan,Sentra,84000 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,Grey,5,4,Gas,null,null,17995
+2016,Nissan,Pathfinder,144668 km,SUV,3.5,Automatic,AWD,Pearl White,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,17998
+2017,Nissan,Pathfinder,161221 km,SUV,3.5L 6cyl,CVT,4x4,Caspian Blue Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,18887
+2017,Nissan,LEAF,66000 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,Dark Grey,Black,5,4,Electric,null,null,18888
+2017,Nissan,Murano,163784 km,Wagon,V6 Cylinder Engine,CVT,AWD,Pearl White,Black,null,4,Gas,11.2L/100km,8.4L/100km,18980
+2017,Nissan,Rogue,125500 km,SUV,2.5,CVT,AWD,White,Black,null,4,Gas,9.6L/100km,7.4L/100km,18995
+2019,Nissan,Rogue,174000 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,18995
+2019,Nissan,Sentra,71518 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gun Metallic,Black,5,4,Gas,null,null,19450
+2017,Nissan,Rogue,105028 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.4L/100km,19888
+2022,Nissan,Frontier,16896 km,Truck,3.8L V6,9 Speed Automatic,4x4,Deep Blue Pearl,Grey,null,4,Gas,13.7L/100km,10.6L/100km,48980
+2017,Nissan,Altima,39415 km,Sedan,4 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,19988
+2019,Nissan,Rogue,150000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,19990
+2019,Nissan,Rogue,146538 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Black Metallic,Black,5,4,Gas,9.1L/100km,7.1L/100km,19990
+2015,Nissan,Murano,134000 km,SUV,V6 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,11.2L/100km,8.3L/100km,19995
+2016,Nissan,Maxima,119044 km,Sedan,3.5L V6 DOHC 24V,CVT,FWD,Gun Metallic,Charcoal,5,4,Gas,10.9L/100km,7.8L/100km,19999
+2018,Nissan,Rogue,113098 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,20500
+2019,Nissan,Qashqai,105961 km,SUV,2.0,Automatic,AWD,White,Black,null,4,Gas,9.1L/100km,7.6L/100km,20598
+2017,Nissan,Rogue,119298 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,7,4,Gas,null,null,20688
+2018,Nissan,Sentra,16700 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,null,4,Gas,null,null,20895
+2019,Nissan,Titan,44500 km,Truck Crew Cab,V-8 cyl,Automatic,4x4,Magnetic Black Metallic,Black,null,null,Diesel,null,null,56997
+2016,Nissan,Pathfinder,118000 km,SUV,V6 Cylinder Engine,CVT,4x4,null,null,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,20995
+2019,Nissan,Sentra,23942 km,Compact,1.8L 4cyl,CVT,FWD,null,null,5,4,Gas,null,null,21888
+2018,Nissan,Altima,35140 km,Sedan,2.5L 4cyl,CVT,FWD,White,Black,5,4,Gas,8.7L/100km,6.3L/100km,21991
+2018,Nissan,Altima,10782 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gun Metallic,Black,null,null,Regular Unleaded,8.7L/100km,6.3L/100km,21995
+2019,Nissan,Rogue,117810 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,5,Gas,9.6L/100km,7.5L/100km,22491
+2018,Nissan,Rogue,97972 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.7L/100km,7.4L/100km,22495
+2021,Nissan,Versa,13971 km,Compact,1.6L 4cyl,CVT,FWD,null,null,null,null,Gas,7.4L/100km,5.9L/100km,22888
+2018,Nissan,Frontier,150000 km,Truck,V6 Cylinder Engine,5 Speed Automatic,4x4,Brilliant Silver Metallic,Grey,4,4,Gas,15.1L - 15.8L/100km,11.5L/100km,22888
+2017,Nissan,Rogue,76208 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.4L/100km,22888
+2023,Nissan,LEAF,105 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Scarlet Ember Metallic,Black,5,4,Electric,null,null,46999
+2018,Nissan,Frontier,34774 km,Truck Extended Cab,2.5,Automatic,RWD,Brilliant Silver Metallic,Charcoal,4,4,Gas,13.6L/100km,10.7L/100km,22985
+2015,Nissan,Frontier,121919 km,Truck,V6 Cylinder Engine,5 Speed Automatic,4x4,Blue,Black,4,4,Gas,14.7L - 15.7L/100km,11.2L/100km,22995
+2017,Nissan,Pathfinder,86565 km,SUV,3.5,CVT,4x4,Magnetic Black Metallic,null,null,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,22995
+2017,Nissan,Pathfinder,114701 km,SUV,3.5,Automatic,AWD,White,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,22998
+2018,Nissan,Rogue,68595 km,SUV,2.5,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.7L/100km,7.4L/100km,22998
+2018,Nissan,LEAF,122858 km,Hatchback,Electric Motor,Automatic,null,Super Black,Black,null,null,Electric,null,null,22999
+2022,Nissan,Altima,14758 km,Sedan,2.5L 4cyl.,Automatic,AWD,Scarlet Ember Tintcoat,Charcoal,null,4,Gas,9.3L/100km,6.7L/100km,36000
+2022,Nissan,Kicks,760 km,Hatchback,1.6L 4cyl,CVT,FWD,Blue,Black,5,4,Gas,7.7L/100km,6.6L/100km,29999
+2022,Nissan,Frontier,16938 km,Truck Crew Cab,V6 Cylinder Engine,9 Speed Automatic,4WD,Super Black,null,null,null,Gas,13.7L/100km,10.6L/100km,45298
+2018,Nissan,370Z,120457 km,Coupe,V-6 cyl,6 Speed Manual,RWD,Magnetic Black Metallic,Black,2,2,Premium Unleaded,null,null,28899
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,null,null,null,Gas,7.7L/100km,6.6L/100km,29510
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56290
+2018,Nissan,Rogue,97214 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,23250
+2018,Nissan,Versa,161175 km,Hatchback,1.6L 4cyl,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,11888
+2016,Nissan,Murano,108300 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Beige,5,4,Gas,11.2L/100km,8.3L/100km,22999
+2018,Nissan,Rogue,97214 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,23250
+2019,Nissan,Qashqai,33915 km,SUV,2.0L 4cyl,CVT,FWD,null,null,5,4,Gas,8.6L - 10.1L/100km,7.2L - 8.1L/100km,23288
+2019,Nissan,Qashqai,30741 km,Hatchback,2.0L 4cyl,CVT,FWD,null,null,null,null,Gas,8.6L - 10.1L/100km,7.2L - 8.1L/100km,23588
+2022,Nissan,Pathfinder,12321 km,SUV,3.5L V6,null,AWD,Gun Metallic,null,null,4,Gas,11.6L/100km,9.2L/100km,48868
+2019,Nissan,Rogue,57061 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,9.1L/100km,7.1L/100km,23888
+2018,Nissan,Rogue,95037 km,SUV,4 Cylinder Engine,CVT,AWD,White,Beige,5,4,Gas,9.7L/100km,7.4L/100km,23990
+2018,Nissan,Murano,113850 km,Wagon,3.5L 6cyl,CVT,AWD,Pearl White,Black,5,5,Gas,null,null,23991
+2020,Nissan,Qashqai,79603 km,Hatchback,2.0L 4cyl,CVT,AWD,Dark Grey,Black,5,5,Gas,9.0L/100km,7.7L/100km,23991
+2018,Nissan,Murano,88011 km,SUV,3.5,CVT,AWD,Magnetic Black Metallic,Black,null,4,Gas,11.2L/100km,8.4L/100km,23995
+2017,Nissan,Pathfinder,132572 km,SUV,V6 Cylinder Engine,CVT,4x4,Cayenne Red Metallic,Black,7,4,Gas,null,null,23995
+2018,Nissan,Rogue,78712 km,SUV,2.5L 4cyl,CVT,AWD,Scarlet Ember Metallic,Black,5,5,Gas,9.7L/100km,7.4L/100km,24077
+2019,Nissan,Rogue,43678 km,SUV,2.5,Automatic,AWD,White,Black,null,4,Gas,9.6L/100km,7.5L/100km,24798
+2020,Nissan,Qashqai,90512 km,SUV,2.0,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.0L/100km,7.7L/100km,24888
+2018,Nissan,Murano,76980 km,Wagon,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,28345
+2017,Nissan,Frontier,153409 km,Truck Crew Cab,4.0L 6cyl,Automatic,4x4,Magnetic Black Metallic,Grey,5,4,Gas,15.8L/100km,11.5L/100km,24888
+2017,Nissan,Murano,130250 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Beige,5,4,Gas,11.2L/100km,8.4L/100km,24995
+2014,Nissan,Frontier,61359 km,Truck,V6 Cylinder Engine,5 Speed Automatic,4x4,Brilliant Silver Metallic,Grey,4,4,Gas,13.2L - 14.1L/100km,9.3L - 9.5L/100km,24995
+2020,Nissan,Rogue,110112 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,24999
+2019,Nissan,Qashqai,28844 km,Hatchback,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.1L/100km,7.6L/100km,25888
+2017,Nissan,Rogue,52595 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.4L/100km,25888
+2018,Nissan,Rogue,22869 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,9.2L/100km,7.0L/100km,25888
+2020,Nissan,Rogue,35162 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,9.1L/100km,7.1L/100km,25888
+2018,Nissan,Qashqai,47849 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.0L/100km,7.5L/100km,25888
+2021,Nissan,Rogue,45443 km,SUV,2.5L I4 16V GDI DOHC,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.2L/100km,7.2L/100km,29950
+2020,Nissan,Qashqai,25370 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.0L/100km,7.7L/100km,25888
+2018,Nissan,Qashqai,24710 km,SUV,2.0L 4cyl,CVT,AWD,null,null,5,4,Gas,9.0L/100km,7.5L/100km,25888
+2017,Nissan,Frontier,99700 km,Crew Cab,4.0L V6 24V MPFI DOHC,Automatic,4x4,Brilliant Silver Metallic,Charcoal,5,4,Gas,15.8L/100km,11.5L/100km,25910
+2020,Nissan,Rogue,99262 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.6L/100km,7.5L/100km,25988
+2018,Nissan,Rogue,47612 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,5,Gas,9.7L/100km,7.4L/100km,25991
+2021,Nissan,Sentra,30867 km,Sedan,4 Cylinder Engine,CVT,FWD,White,null,null,null,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,26488
+2018,Nissan,Pathfinder,109225 km,SUV,3.5L 6cyl,CVT,4x4,Magnetic Black Metallic,Black,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,26588
+2019,Nissan,Altima,38910 km,Sedan,2.5L 4cyl,CVT,AWD,Deep Blue Pearl,Black,5,4,Gas,9.1L/100km,6.5L/100km,26991
+2019,Nissan,Qashqai,65969 km,Hatchback,2.0L 4cyl,CVT,AWD,White,Black,5,5,Gas,9.1L/100km,7.6L/100km,26991
+2021,Nissan,Sentra,21333 km,Sedan,2.0L 4-Cylinder DOHC 16V,Manual,FWD,Fresh Powder,null,5,4,Gas,8.0L - 9.3L/100km,6.0L - 6.3L/100km,22995
+2020,Nissan,Rogue,92062 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,27397
+2018,Nissan,Maxima,74456 km,Sedan,3.5L 6cyl,CVT,FWD,Pearl White,Black,5,4,Premium Unleaded,11.1L/100km,7.8L/100km,27491
+2018,Nissan,Pathfinder,78988 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Black,7,null,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,27850
+2020,Nissan,Rogue,80169 km,SUV,2.5,Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,27888
+2019,Nissan,Rogue,26675 km,SUV,2.5,Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,27888
+2021,Nissan,Altima,36592 km,Sedan,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.1L/100km,6.5L/100km,27888
+2019,Nissan,Murano,72549 km,Wagon,3.5L 6cyl,CVT,AWD,Pearl White Pearl Metallic,Black,5,5,Gas,11.7L/100km,8.5L/100km,27991
+2020,Nissan,Qashqai,77681 km,SUV,2.0,Automatic,AWD,Magnetic Black Metallic,Black,null,4,Gas,9.0L/100km,7.7L/100km,28398
+2020,Nissan,Rogue,43736 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.6L/100km,7.5L/100km,28488
+2020,Nissan,Murano,30910 km,SUV,3.5L V6 24V MPFI DOHC,Automatic,AWD,Pearl White,Charcoal,null,4,Gas,11.7L/100km,8.5L/100km,39898
+2018,Nissan,Murano,69907 km,Wagon,3.5L 6cyl,CVT,AWD,Gun Metallic,Black,5,5,Gas,11.2L/100km,8.4L/100km,28491
+2019,Nissan,Murano,71060 km,SUV,V6 Cylinder Engine,Automatic,AWD,Cayenne Red Metallic,null,null,null,Gas,11.7L/100km,8.5L/100km,28499
+2020,Nissan,Murano,104049 km,SUV,3.5,Automatic,AWD,Super Black Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,28888
+2017,Nissan,Pathfinder,95329 km,SUV,3.5L 6cyl,CVT,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,28888
+2018,Nissan,Pathfinder,91567 km,SUV,3.5L 6cyl,CVT,4x4,White,White,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,28991
+2020,Nissan,Rogue,59000 km,SUV,4 Cylinder Engine,CVT,AWD,white,Black,5,4,Gas,9.6L/100km,7.5L/100km,28995
+2019,Nissan,Pathfinder,94087 km,SUV,V6 Cylinder Engine,Automatic,4WD,Scarlet Ember Pearl,Charcoal,null,null,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29450
+2020,Nissan,Murano,108585 km,SUV,3.5,Automatic,AWD,Super Black Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,29888
+2019,Nissan,Pathfinder,89518 km,SUV,V6 Cylinder Engine,Automatic,4x4,Magnetic Black Metallic,null,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29900
+2023,Nissan,Murano,16380 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,Black,5,4,Gas,12.0L/100km,8.5L/100km,46995
+2019,Nissan,LEAF,48000 km,Hatchback,Electric Motor,Automatic,FWD,Super Black,Black,5,null,Electric,null,null,29900
+2020,Nissan,Maxima,25558 km,Sedan,V6 Cylinder Engine,CVT,FWD,Super Black Metallic,Black,null,null,Gas,11.6L/100km,7.9L/100km,29995
+2018,Nissan,Pathfinder,92096 km,SUV,3.5,CVT,FWD,White,Beige,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29995
+2017,Nissan,Frontier,99001 km,Truck,V6 Cylinder Engine,5 Speed Automatic,4x4,Brilliant Silver Metallic,Grey,5,4,Gas,15.8L/100km,11.5L/100km,29995
+2021,Nissan,Rogue,38623 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,8.9L/100km,7.0L/100km,30888
+2020,Nissan,Murano,99265 km,SUV,V6 Cylinder Engine,CVT,AWD,Super Black Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,31397
+2018,Nissan,Pathfinder,64523 km,SUV,V6 Cylinder Engine,CVT,4WD,Magnetic Black Metallic,null,null,null,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32490
+2017,Nissan,Armada,99022 km,SUV,5.6L 8cyl,Automatic,4x4,Hermosa Blue,Black,8,4,Gas,17.5L/100km,12.9L/100km,32990
+2018,Nissan,Titan,154082 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,White,Black,5,4,Gas,15.2L - 15.9L/100km,11.1L - 11.9L/100km,33990
+2019,Nissan,Sentra,67223 km,Sedan,I-4 cyl,null,FWD,Gun Metallic,Charcoal,null,null,Regular Unleaded,null,null,22963
+2021,Nissan,Altima,10515 km,Sedan,2.5,Automatic,AWD,Pearl White TriCoat,Black,5,4,Gas,9.3L/100km,6.7L/100km,33990
+2018,Nissan,Titan,163438 km,Truck,5.6L 8cyl,7 Speed Automatic,4x4,White,Brown,5,4,Gas,15.2L - 15.9L/100km,11.1L - 11.9L/100km,34888
+2019,Nissan,370Z,15600 km,Coupe,V6 Cylinder Engine,Automatic,RWD,Gun Metallic,null,4,2,Gas,null,null,34895
+2019,Nissan,Pathfinder,42657 km,SUV,3.5L 6cyl,CVT,4x4,White,Black,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,35491
+2022,Nissan,Altima,18800 km,Sedan,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.3L/100km,6.7L/100km,35588
+2018,Nissan,Titan,67682 km,Regular Cab,5.6L V8 DOHC 32V,Automatic,4x4,Gun Metallic,Black,5,4,Gas,15.2L - 15.9L/100km,11.1L - 11.9L/100km,36287
+2021,Nissan,Rogue,12458 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.2L/100km,7.2L/100km,37888
+2020,Nissan,Murano,19056 km,Wagon,3.5L 6cyl,CVT,AWD,null,null,null,null,Gas,11.7L/100km,8.5L/100km,38888
+2017,Nissan,Armada,58800 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,null,null,null,null,Gas,17.5L/100km,12.9L/100km,39888
+2019,Nissan,Kicks,151225 km,SUV,1.6L 4cyl,CVT,FWD,Monarch Orange/Super Black,Black,5,2,Gas,7.7L/100km,6.6L/100km,18753
+2018,Nissan,Armada,64442 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,null,null,null,null,Gas,17.5L/100km,12.8L/100km,39888
+2020,Nissan,Murano,46234 km,Wagon,3.5L 6cyl,CVT,AWD,Super Black Metallic,Black,5,5,Gas,11.7L/100km,8.5L/100km,39991
+2018,Nissan,Armada,78893 km,SUV,5.6L 8cyl,7 Speed Automatic,4x4,Pearl White,Black,5,4,Gas,17.5L/100km,12.8L/100km,40888
+2016,Nissan,Titan,85478 km,Regular Cab,8 Cylinder Engine,Automatic,4WD,Gun Metallic,Black,null,null,Diesel,null,null,41999
+2022,Nissan,Rogue,13531 km,SUV,1.5L 3cyl,CVT,AWD,null,null,null,null,Gas,8.4L/100km,6.8L/100km,44888
+2018,Nissan,370Z,38000 km,Coupe,V-6 cyl,6 Speed Manual,null,Red,Black,null,null,Gas,null,null,47900
+2012,Nissan,GT-R,59807 km,Coupe,3.8,Automatic,AWD,Solid Red,Black,4,2,Gas,13.0L/100km,9.3L/100km,87888
+2016,Nissan,GT-R,85000 km,Coupe,3.8L 6cyl,6 Speed Automatic with auto-shift,AWD,Pearl White,Black,4,2,Gas,null,null,92995
+2017,Nissan,GT-R,39341 km,Coupe,V6 Cylinder Engine,Automatic,AWD,Pearl White,Black,4,2,Gas,14.5L/100km,10.7L/100km,119900
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2014,Nissan,Versa,112928 km,Hatchback,4 Cylinder Engine,CVT,FWD,Brilliant Silver Metallic,Black,5,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,8999
+2015,Nissan,Sentra,142149 km,Sedan,1.8L I4 130HP 128FT. LBS.,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,9990
+2016,Nissan,Sentra,171550 km,Sedan,4 Cylinder Engine,CVT,FWD,Blue,White,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,10150
+2014,Nissan,Rogue,216000 km,SUV,4 Cylinder Engine,CVT,AWD,Super Black,Grey,7,4,Gas,8.2L/100km,6.2L/100km,10500
+2015,Nissan,Rogue,166246 km,SUV,2.5L 4cyl,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,10888
+2016,Nissan,Sentra,165000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,10900
+2015,Nissan,Rogue,267000 km,SUV,4 Cylinder Engine,Automatic,AWD,Super Black,Black,7,4,Gas,9.5L/100km,7.4L/100km,10900
+2014,Nissan,Sentra,97133 km,Sedan,1.8L I4 130HP 128FT. LBS.,Automatic,FWD,Grey,Grey,5,4,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,10990
+2014,Nissan,Sentra,68000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,null,4,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,11495
+2021,Nissan,Sentra,20206 km,Sedan,2.0L I4 16V MPFI DOHC,Automatic,FWD,Aspen White TriCoat/Super Black,Black,null,4,Gas,8.2L - 9.4L/100km,6.2L - 6.5L/100km,27898
+2013,Nissan,Xterra,223000 km,SUV,V6 Cylinder Engine,Automatic,4x4,Brilliant Silver Metallic,Dark Grey,5,4,Gas,13.7L - 14.5L/100km,10.1L - 10.5L/100km,11850
+2014,Nissan,Pathfinder,212755 km,SUV,3.5L,Automatic,4x4,Black,Black,7,4,Gas,10.9L/100km,7.8L/100km,11950
+2016,Nissan,Altima,188618 km,Sedan,2.5L I4 182HP 180FT. LBS.,Automatic,FWD,White,Black,null,4,Gas,8.7L - 8.9L/100km,6.0L - 6.3L/100km,11990
+2017,Nissan,Altima,197683 km,Sedan,2.5L I4 182HP 180FT. LBS.,CVT,FWD,White,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,11990
+2017,Nissan,Versa,112809 km,Hatchback,1.6L 4cyl,CVT,FWD,Gun Metallic,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,12888
+2013,Nissan,Rogue,143371 km,SUV,2.5,Automatic,AWD,Blue,Black,5,4,Gas,9.6L/100km,7.7L/100km,13580
+2015,Nissan,Rogue,190800 km,SUV,2.5,Automatic,AWD,Pearl White,Black,7,4,Gas,9.5L/100km,7.4L/100km,13900
+2013,Nissan,Rogue,119933 km,SUV,4 Cylinder,Automatic,AWD,Graphite Blue,Grey,4,4,Gas,9.6L/100km,7.7L/100km,13990
+2015,Nissan,Pathfinder,181000 km,SUV,V6 Cylinder Engine,Automatic,4x4,Brown,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,13995
+2018,Nissan,LEAF,57158 km,Sedan,Electric Motor,1 Speed Automatic,null,Jade Frost,Black,null,null,Electric,null,null,29796
+2015,Nissan,Rogue,198210 km,SUV,2.5,CVT,AWD,Gun Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,13995
+2014,Nissan,Pathfinder,186000 km,SUV,3.5,Automatic,4x4,Black,Black,7,4,Gas,10.9L/100km,7.8L/100km,14000
+2018,Nissan,Versa,99978 km,Hatchback,4 Cylinder Engine,Automatic,FWD,BLACK,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,14789
+2015,Nissan,Pathfinder,198871 km,SUV,3.5L,Automatic,4x4,Black,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,14950
+2015,Nissan,Rogue,143000 km,SUV,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,4,Gas,9.2L/100km,7.2L/100km,14950
+2014,Nissan,Pathfinder,150800 km,SUV,V6 Cylinder Engine,Automatic,AWD,Grey,Black,7,5,Gas,10.9L/100km,7.8L/100km,14990
+2018,Nissan,Rogue,40889 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.7L/100km,7.4L/100km,26300
+2016,Nissan,Rogue,149599 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,null,null,4,Gas,9.5L/100km,7.4L/100km,15900
+2020,Nissan,Qashqai,34419 km,SUV,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,Light Grey,null,null,Gas,9.0L/100km,7.7L/100km,28884
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2008,Nissan,Versa,196942 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gray,Charcoal,null,4,Gas,7.5L - 8.5L/100km,6.0L - 6.3L/100km,3800
+2019,Nissan,Kicks,45908 km,SUV,4 Cylinder Engine 1.6L,Automatic,FWD,Blue,Charcoal,null,4,Gas,7.7L/100km,6.6L/100km,22989
+2022,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Gun Metallic,null,null,null,Gas,13.7L/100km,10.6L/100km,49410
+2018,Nissan,Versa,76892 km,Hatchback,1.6L L4 DOHC 16V,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,15998
+2013,Nissan,Juke,130328 km,null,null,Automatic,FWD,Gold,null,null,5 doors,Gasoline,null,null,10950
+2017,Nissan,Sentra,113650 km,Sedan,1.8L,Automatic,FWD,Grey,Black,null,4,Gas,null,null,14990
+2016,Nissan,Rogue,179084 km,SUV,2.5,CVT,AWD,Brilliant Silver Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,14995
+2016,Nissan,Rogue,139893 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.5L/100km,7.4L/100km,15888
+2017,Nissan,Rogue,134346 km,SUV,2.5L 4cyl,6 Speed Automatic,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,15888
+2018,Nissan,Murano,89874 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,28133
+2015,Nissan,Juke,62700 km,SUV,4 Cylinder Engine,Automatic,FWD,Red,Black,5,4,Gas,8.4L - 8.5L/100km,6.9L - 7.2L/100km,15950
+2018,Nissan,Sentra,90065 km,Sedan,1.8L 4cyl,CVT,FWD,Gun Metallic,null,null,2,Gas,null,null,15988
+2015,Nissan,Altima,36103 km,Sedan,2.5 L,Automatic,FWD,Silver,Grey,5,4,Gas,8.7L/100km,6.2L/100km,16500
+2017,Nissan,Sentra,146613 km,Sedan,1.6L 4cyl,CVT,FWD,Gun Metallic,Black,5,4,Gas,8.9L - 9.1L/100km,7.3L/100km,16888
+2015,Nissan,Murano,178000 km,SUV,V6 Cylinder Engine,CVT,FWD,Arctic Blue Metallic,Black,5,4,Gas,11.0L/100km,8.2L/100km,16999
+2015,Nissan,Rogue,78395 km,SUV,4 Cylinder Engine,Automatic,FWD,Pearl White,Black,5,4,Gas,9.2L/100km,7.2L/100km,17395
+2018,Nissan,Sentra,97782 km,Sedan,1.8,Automatic,FWD,Graphite Blue Metallic,Charcoal,null,4,Gas,null,null,17598
+2019,Nissan,Sentra,158620 km,Sedan,1.8L 4cyl,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,null,null,17888
+2018,Nissan,Rogue,86369 km,SUV,4 Cylinder Engine,Automatic,FWD,Not Specified,null,null,null,Gas,9.2L/100km,7.0L/100km,17900
+2021,Nissan,Rogue,31953 km,SUV,I-4 cyl,CVT,AWD,Caspian Blue 2-Tone Metallic,null,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,39997
+2014,Nissan,Murano,108359 km,SUV,3.5L 6cyl,CVT,AWD,Graphite Blue Metallic,Black,null,4,Gas,11.7L/100km,8.5L/100km,17990
+2014,Nissan,Rogue,116828 km,SUV,4 Cylinder Engine,CVT,AWD,Moonlight White Pearl,null,5,4,Gas,8.2L/100km,6.2L/100km,17990
+2016,Nissan,Rogue,118000 km,SUV,2.5L 170.0hp,Automatic,AWD,Red,null,null,4,Gas,9.5L/100km,7.4L/100km,17990
+2016,Nissan,Rogue,138085 km,SUV,2.5L 4cyl,CVT,AWD,White,Black,null,2,Gas,9.5L/100km,7.4L/100km,17990
+2017,Nissan,Rogue,153528 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.4L/100km,18888
+2019,Nissan,Sentra,122945 km,Sedan,4 Cylinder Engine,Automatic,FWD,Scarlet Ember,Black,5,4,Gas,null,null,18895
+2016,Nissan,Maxima,153000 km,Sedan,V6 Cylinder Engine,CVT,FWD,Super Black Metallic,Tan,5,4,Gas,10.9L/100km,7.8L/100km,18995
+2016,Nissan,Maxima,143718 km,Sedan,V6 Cylinder Engine,Automatic,FWD,White,Beige,5,4,Gas,10.9L/100km,7.8L/100km,19695
+2017,Nissan,Rogue,99060 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,9.6L/100km,7.4L/100km,19990
+2018,Nissan,LEAF,40505 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,null,null,4,Electric,null,null,29466
+2019,Nissan,Rogue,79998 km,SUV,4 Cylinder Engine,Automatic,FWD,Magnetic Black Metallic,Black,5,null,Gas,9.1L/100km,7.1L/100km,20490
+2015,Nissan,Frontier,147150 km,Truck King Cab,4.0L,Automatic,RWD,Silver,Grey,4,4,Gas,14.8L/100km,10.3L/100km,20499
+2017,Nissan,Rogue,125050 km,SUV,170HP 2.5L 4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.6L/100km,7.4L/100km,20690
+2019,Nissan,Rogue,117915 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,20888
+2017,Nissan,Rogue,126000 km,SUV,2.4L,Automatic,AWD,White,Black,null,4,Gas,9.6L/100km,7.4L/100km,20999
+2018,Nissan,Rogue,82168 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,21750
+2018,Nissan,Qashqai,76383 km,Hatchback,2.0L 4cyl,CVT,AWD,Magnetic Black Metallic,null,null,2,Gas,9.0L/100km,7.5L/100km,21988
+2019,Nissan,Rogue,63976 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,null,4,Gas,9.6L/100km,7.5L/100km,22499
+2020,Nissan,Kicks,18868 km,Hatchback,4 Cylinder Engine,CVT,FWD,Fresh Powder,Black,null,null,Gas,7.7L/100km,6.6L/100km,22500
+2018,Nissan,LEAF,81375 km,Hatchback,ELECTRIC,Automatic,FWD,White,Black,5,4,Electric,null,null,28400
+2018,Nissan,Murano,100666 km,SUV,V6 Cylinder Engine,Automatic,FWD,Pearl White,null,null,null,Gas,11.0L/100km,8.3L/100km,22703
+2017,Nissan,Rogue,100125 km,SUV,2.5,CVT,AWD,Gun Metallic,Black,7,4,Gas,9.6L/100km,7.4L/100km,22777
+2017,Nissan,Rogue,74060 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.4L/100km,22888
+2018,Nissan,Qashqai,51538 km,SUV,2.0L 4cyl,CVT,AWD,Magnetic Black Metallic,null,null,2,Gas,9.0L/100km,7.5L/100km,22988
+2018,Nissan,Rogue,105688 km,SUV,2.5L 4cyl,CVT,AWD,Gun Metallic,null,null,2,Gas,9.7L/100km,7.4L/100km,22988
+2020,Nissan,Sentra,9789 km,Sedan,2.0L 4cyl,CVT,FWD,Fresh Powder,Black,5,4,Gas,8.0L - 9.4L/100km,6.0L - 6.4L/100km,22991
+2012,Nissan,Titan,122343 km,Truck,8 Cylinder Engine,5 Speed Automatic,4x4,Galaxy Xirallic Metallic,Black,5,4,Gas,17.7L/100km,12.1L/100km,22995
+2018,Nissan,Qashqai,102807 km,SUV,2.0,Automatic,AWD,White,Black,null,4,Gas,9.0L/100km,7.5L/100km,22998
+2019,Nissan,Kicks,23400 km,SUV,1.6L,Automatic,FWD,Black,Black,5,4,Gas,7.7L/100km,6.6L/100km,22999
+2018,Nissan,LEAF,69350 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,29608
+2017,Nissan,Rogue,87002 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.4L/100km,23588
+2019,Nissan,Kicks,37000 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,7.7L/100km,6.6L/100km,23880
+2018,Nissan,Maxima,125025 km,Sedan,V6 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,11.1L/100km,7.8L/100km,23995
+2018,Nissan,Rogue,85821 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Black Metallic,Black,5,4,Gas,9.2L/100km,7.0L/100km,23995
+2018,Nissan,Rogue,103334 km,SUV,2.5,Automatic,AWD,Grey,Black,null,4,Gas,9.7L/100km,7.4L/100km,23998
+2019,Nissan,Rogue,64887 km,SUV,2.5L,Automatic,FWD,Black,Black,5,4,Gas,9.1L/100km,7.1L/100km,23999
+2019,Nissan,Qashqai,60265 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.1L/100km,7.6L/100km,24888
+2017,Nissan,Murano,59000 km,SUV,3.5L,Automatic,AWD,White,Beige,5,4,Gas,11.2L/100km,8.4L/100km,24988
+2018,Nissan,LEAF,106566 km,Hatchback,Electric Motor,1 Speed Automatic,null,Gun Metallic,null,null,null,Electric,null,null,24990
+2018,Nissan,Rogue,86208 km,SUV,Regular Unleaded I-4 2.5 L/152,CVT,AWD,null,null,5,4,Gas,9.7L/100km,7.4L/100km,22425
+2020,Nissan,Rogue,119000 km,SUV,2.5,Automatic,AWD,White,Black,5,4,Gas,9.6L/100km,7.5L/100km,24995
+2020,Nissan,NV200,129000 km,Minivan,2.0L,Automatic,FWD,white,null,2,4,Gas,9.8L/100km,8.8L/100km,25495
+2017,Nissan,Pathfinder,100628 km,SUV,V6 Cylinder Engine,CVT,4WD,Magnetic Black Metallic,null,null,null,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,25791
+2019,Nissan,Qashqai,44165 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.1L/100km,7.6L/100km,25888
+2020,Nissan,Rogue,40574 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,9.1L/100km,7.1L/100km,25888
+2018,Nissan,Rogue,42544 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.7L/100km,7.4L/100km,25888
+2020,Nissan,Kicks,20811 km,Hatchback,1.6L 4cyl,CVT,FWD,Blue,null,null,2,Gas,7.7L/100km,6.6L/100km,25988
+2020,Nissan,Rogue,34231 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,null,4,Gas,9.6L/100km,7.5L/100km,25999
+2017,Nissan,Murano,98600 km,SUV,3.5,Automatic,AWD,White,Beige,5,4,Gas,11.2L/100km,8.4L/100km,26500
+2018,Nissan,370Z,120457 km,Coupe,V-6 cyl,6 Speed Manual,RWD,Magnetic Black Metallic,Black,2,2,Premium Unleaded,null,null,28899
+2020,Nissan,Rogue,77887 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,9.6L/100km,7.5L/100km,26888
+2017,Nissan,Murano,84000 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Pearl White,Black,5,null,Regular Unleaded,11.2L/100km,8.4L/100km,26888
+2019,Nissan,Qashqai,84205 km,Hatchback,4 Cylinder Engine,Automatic,AWD,White,Black,5,null,Gas,9.1L/100km,7.6L/100km,26888
+2017,Nissan,Murano,96256 km,Wagon,3.5L 6cyl,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,11.2L/100km,8.4L/100km,26990
+2019,Nissan,Rogue,75255 km,SUV,2.5L 4cyl,CVT,AWD,Caspian Blue Metallic,Black,5,5,Gas,9.6L/100km,7.5L/100km,26991
+2020,Nissan,Rogue,36990 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,null,Gas,9.6L/100km,7.5L/100km,27563
+2018,Nissan,Murano,79028 km,SUV,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,null,null,Gas,11.2L/100km,8.4L/100km,27569
+2020,Nissan,Qashqai,25134 km,Hatchback,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.0L/100km,7.7L/100km,27888
+2020,Nissan,Murano,98617 km,SUV,3.5,Automatic,AWD,Super Black Metallic,Black,null,4,Gas,11.7L/100km,8.5L/100km,27998
+2018,Nissan,Versa,26192 km,Sedan,4 Cylinder Engine,null,FWD,null,null,null,null,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,18388
+2020,Nissan,Murano,103523 km,SUV,3.5,Automatic,AWD,Cayenne Red Metallic,Black,5,4,Gas,11.7L/100km,8.5L/100km,27998
+2016,Nissan,Titan,187800 km,Truck Crew Cab,5.6,Automatic,4x4,Black,Orange,5,4,Gas,null,null,27998
+2018,Nissan,LEAF,51483 km,Hatchback,Electric,1 Speed Automatic,FWD,Deep Blue Pearl,Black,5,5,Electric,null,null,28491
+2019,Nissan,Rogue,38791 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.5L/100km,28888
+2020,Nissan,Rogue,84300 km,SUV,2.5,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,28888
+2017,Nissan,Pathfinder,119047 km,SUV,3.5,Automatic,4x4,Black,Black,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,28900
+2020,Nissan,Murano,87744 km,SUV,3.5,Automatic,AWD,Super Black Metallic,Black,null,4,Gas,11.7L/100km,8.5L/100km,28998
+2021,Nissan,Qashqai,15732 km,Hatchback,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.0L/100km,7.6L/100km,29588
+2020,Nissan,Rogue,57000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.6L/100km,7.5L/100km,29900
+2022,Nissan,Frontier,14735 km,Truck,3.8L 6cyl.,Automatic,4x4,Red Alert,Grey,null,2,Gas,13.7L/100km,10.6L/100km,38999
+2015,Nissan,Armada,131732 km,SUV,8 Cylinder Engine,5 Speed Automatic,4x4,Gun Metallic,Black,7,4,Gas,19.2L/100km,13.4L/100km,29987
+2019,Nissan,Frontier,88300 km,Truck Long Crew Cab,4.0L,Automatic,4x4,Black,Grey,5,4,Gas,15.8L/100km,11.5L/100km,29999
+2019,Nissan,Altima,33715 km,Sedan,2.5L 4cyl,CVT,AWD,Scarlet Ember,Black,5,4,Gas,9.1L - 9.3L/100km,6.5L - 6.7L/100km,30491
+2019,Nissan,Rogue,16063 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gas,9.6L/100km,7.5L/100km,32888
+2019,Nissan,LEAF,58179 km,Hatchback,Electric Motor,Automatic,FWD,White,Black,5,null,Electric,null,null,33980
+2021,Nissan,Rogue,30130 km,SUV,4 Cylinder Engine,Automatic,AWD,Super Black,null,null,null,Gas,9.2L/100km,7.2L/100km,35888
+2021,Nissan,Rogue,28952 km,SUV,2.5L 4cyl,CVT,AWD,White,null,null,2,Gas,9.2L/100km,7.2L/100km,37988
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Gray,null,null,null,Gas,8.4L/100km,6.8L/100km,41328
+2018,Nissan,Armada,81000 km,SUV,5.6,Automatic,4x4,Black,Black,8,4,Gas,17.5L/100km,12.8L/100km,41950
+2015,Nissan,Murano,86121 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.2L/100km,18889
+2022,Nissan,Rogue,4233 km,SUV,1.5L 3cyl,CVT,AWD,Super Black,null,null,2,Gas,8.4L/100km,6.8L/100km,45988
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Glacier White,null,null,null,Gas,13.5L/100km,10.4L/100km,47598
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,53298
+2023,Nissan,Pathfinder,160 km,SUV,V6 Cylinder Engine,Automatic,4x4,Pearl White TriCoat,null,8,4,Gas,11.6L/100km,9.2L/100km,53298
+2023,Nissan,Armada,8000 km,SUV,8 Cylinder Engine,Automatic,4WD,Gun Metallic,null,null,null,Gas,17.5L/100km,12.9L/100km,79133
+2022,Nissan,Armada,50 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Coulis Red Pearl,Brown,7,4,Gas,17.5L/100km,12.9L/100km,84320
+2008,Nissan,Rogue,250000 km,SUV,4 Cylinder Engine,CVT,FWD,Silver Ice Metallic,Grey,5,4,Gas,9.1L/100km,7.2L/100km,4700
+2006,Nissan,Sentra,79000 km,Sedan,4 CYL,Manual,FWD,Green,Black,5,4,Gas,8.4L/100km,6.1L - 6.3L/100km,4995
+2011,Nissan,Sentra,185000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue Onyx,Black,5,4,Gas,7.6L - 8.5L/100km,5.7L - 6.5L/100km,6350
+2019,Nissan,LEAF,52080 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,White,Charcoal,5,4,Electric,null,null,29497
+2013,Nissan,Altima,263245 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black,Black,null,4,Gas,8.7L/100km,6.0L/100km,6885
+2012,Nissan,Altima,196553 km,Sedan,4 CYL,Automatic,FWD,Ebony,Grey,5,4,Gas,8.7L - 8.8L/100km,6.0L - 6.2L/100km,6990
+2014,Nissan,Versa,174675 km,Hatchback,1.6L I4 109HP 107FT. LBS.,Automatic,FWD,Aspen White Pearl,Black,null,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,7990
+2012,Nissan,Altima,197132 km,Sedan,2.5L I4 175HP 180FT. LBS.,Automatic,FWD,Ebony,Black,null,4,Gas,8.7L - 8.8L/100km,6.0L - 6.2L/100km,7990
+2014,Nissan,Sentra,128575 km,Sedan,1.8,null,FWD,Blue,Grey,null,4,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,8990
+2013,Nissan,Sentra,141927 km,Sedan,4 CYL,Automatic,FWD,Aspen White Pearl,Black,5,4,Gas,6.6L - 7.5L/100km,4.9L - 5.5L/100km,8990
+2020,Nissan,Sentra,85139 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Electric Blue Metallic,Charcoal,null,4,Gas,null,null,21989
+2018,Nissan,Murano,60545 km,SUV,V6 Cylinder Engine,Automatic,AWD,Cayenne Red Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,29795
+2022,Nissan,Altima,7543 km,Sedan,I-4 cyl,Automatic,AWD,Gun Metallic,Charcoal,null,null,Regular Unleaded,9.3L/100km,6.7L/100km,36399
+2014,Nissan,LEAF,97332 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Electric,null,null,16900
+2017,Nissan,Rogue,120388 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,17750
+2018,Nissan,Rogue,113098 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,20500
+2019,Nissan,Pathfinder,89518 km,SUV,V6 Cylinder Engine,Automatic,4x4,Magnetic Black Metallic,null,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29900
+2016,Nissan,Micra,125120 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Super Black,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,11888
+2016,Nissan,Sentra,139000 km,Sedan,4 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,14500
+2015,Nissan,Altima,210272 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,8.7L/100km,6.2L/100km,8995
+2016,Nissan,Versa,145517 km,Hatchback,1.6L 4cyl,5 Speed Automatic,FWD,Aspen White Pearl,Black,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,8999
+2015,Nissan,Micra,164298 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Fresh Powder,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,9888
+2014,Nissan,Sentra,126950 km,Sedan,1.8L I4 130HP 128FT. LBS.,Automatic,FWD,Grey,Black,null,4,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,9990
+2019,Nissan,LEAF,52080 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,White,Charcoal,5,4,Electric,null,null,29497
+2014,Nissan,Versa,97624 km,Hatchback,1.6L I4 109HP 107FT. LBS.,Automatic,FWD,Blue,Black,null,5,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,9990
+2014,Nissan,Altima,194755 km,Sedan,2.5L I4 182HP 180FT. LBS.,Automatic,FWD,Super Black,Black,null,4,Gas,7.5L/100km,5.1L/100km,9990
+2015,Nissan,Micra,130950 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,FWD,Brilliant Silver Metallic,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,9999
+2015,Nissan,Micra,146000 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,FWD,Red Alert,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,10300
+2015,Nissan,Sentra,102489 km,Sedan,1.8L I4 130HP 128FT. LBS.,Automatic,FWD,Silver,Grey,null,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,10990
+2013,Nissan,Juke,128837 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,8.0L/100km,6.6L/100km,10990
+2011,Nissan,Rogue,145546 km,SUV,2.4L,Automatic,AWD,Black,Black,5,4,Regular Unleaded,9.3L/100km,7.7L/100km,10995
+2014,Nissan,Rogue,226740 km,SUV,2.5,CVT,AWD,Super Black,Beige,5,4,Gas,9.4L/100km,7.4L/100km,10995
+2018,Nissan,Versa,161175 km,Hatchback,1.6L 4cyl,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,11888
+2015,Nissan,Murano,86121 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.2L/100km,18889
+2016,Nissan,Micra,125120 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Super Black,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,11888
+2014,Nissan,Altima,139800 km,Sedan,2.5,Automatic,FWD,Super Black,Black,null,4,Gas,7.5L/100km,5.1L/100km,11995
+2015,Nissan,Rogue,181290 km,SUV,2.5L,Automatic,AWD,Black,Black,5,4,Gas,9.5L/100km,7.4L/100km,12450
+2018,Nissan,Versa,151857 km,Hatchback,1.6L 4cyl,CVT,FWD,Super Black,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,12888
+2018,Nissan,Versa,156856 km,Hatchback,1.6L 4cyl,CVT,FWD,Super Black,Black,5,4,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,12888
+2016,Nissan,Versa,139984 km,Hatchback,1.6L 4cyl,6 Speed Automatic,FWD,Super Black,Black,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,12888
+2014,Nissan,Rogue,168659 km,SUV,2.5,Automatic,FWD,Black,Black,5,4,Gas,7.9L/100km,6.0L/100km,12995
+2016,Nissan,Micra,85547 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Gun Metallic,Black,5,5,Gas,8.6L - 8.8L/100km,6.6L/100km,13188
+2017,Nissan,Altima,193000 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,13800
+2021,Nissan,Rogue,31953 km,SUV,I-4 cyl,CVT,AWD,Caspian Blue 2-Tone Metallic,null,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,39997
+2013,Nissan,Pathfinder,181600 km,SUV,3.5,Automatic,4x4,Arctic Blue Metallic,Black,7,4,Gas,null,null,13800
+2015,Nissan,Versa,91780 km,Hatchback,1.6L 4cyl,CVT,FWD,null,null,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,13888
+2015,Nissan,Rogue,183103 km,SUV,4 Cylinder Engine,CVT,FWD,Brilliant Silver Metallic,Black,5,4,Gas,9.2L/100km,7.2L/100km,13995
+2014,Nissan,Maxima,129000 km,Sedan,V6 Cylinder Engine,CVT,FWD,Brilliant Silver Metallic,Black,5,4,Gas,10.9L/100km,7.7L/100km,13995
+2016,Nissan,Altima,177000 km,Sedan,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,8.7L - 8.9L/100km,6.0L - 6.3L/100km,14477
+2016,Nissan,Sentra,139000 km,Sedan,4 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,14500
+2013,Nissan,Rogue,122670 km,SUV,2.5,Automatic,AWD,Graphite Blue,Black,5,5,Gas,9.6L/100km,7.7L/100km,14900
+2018,Nissan,Sentra,173182 km,Sedan,1.8L 4 Cylinder Engine,Automatic,FWD,Scarlet Ember,Grey,null,4,Gas,null,null,14975
+2015,Nissan,Versa,105731 km,Hatchback,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,14995
+2018,Nissan,Rogue,86208 km,SUV,Regular Unleaded I-4 2.5 L/152,CVT,AWD,null,null,5,4,Gas,9.7L/100km,7.4L/100km,22425
+2018,Nissan,Sentra,147823 km,Sedan,1.8L 4cyl,CVT,FWD,Super Black,Black,5,4,Gas,null,null,15888
+2014,Nissan,Rogue,139000 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Grey,5,4,Gas,8.2L/100km,6.2L/100km,15950
+2014,Nissan,Pathfinder,167030 km,SUV,3.5L V6 DOHC,CVT,4x4,Moonlight White Pearl,null,null,4,Gas,10.9L/100km,7.8L/100km,15987
+2016,Nissan,Altima,165000 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,8.7L - 8.9L/100km,6.0L - 6.3L/100km,16000
+2015,Nissan,Rogue,187071 km,SUV,2.5L 4cyl,CVT,AWD,Arctic Blue Metallic,Black,null,4,Gas,9.5L/100km,7.4L/100km,16498
+2016,Nissan,Rogue,181866 km,SUV,2.5L 4cyl,CVT,AWD,Magnetic Black Metallic,Black,5,5,Gas,9.5L/100km,7.4L/100km,16588
+2016,Nissan,Altima,130000 km,Sedan,2.5,Automatic,FWD,White,Black,5,null,Gas,8.7L - 8.9L/100km,6.0L - 6.3L/100km,16888
+2017,Nissan,Altima,129275 km,Sedan,2.5L 4cyl,CVT,FWD,Brilliant Silver Metallic,Black,5,4,Gas,8.8L/100km,6.0L - 6.5L/100km,16888
+2017,Nissan,Sentra,113711 km,Sedan,1.8L 4cyl,CVT,FWD,Super Black,Black,5,4,Gas,null,null,16991
+2018,Nissan,Murano,61315 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,null,null,4,Gas,11.2L/100km,8.4L/100km,27399
+2013,Nissan,Pathfinder,140735 km,SUV,3.5L 6cyl,CVT,FWD,Arctic Blue Metallic,Tan,null,4,Gas,null,null,16998
+2015,Nissan,Rogue,99856 km,SUV,2.5,Automatic,AWD,Black,Black,5,4,Gas,9.5L/100km,7.4L/100km,18499
+2017,Nissan,Qashqai,142000 km,SUV,2,Automatic,AWD,null,null,null,null,Gas,9.1L/100km,7.5L/100km,18499
+2017,Nissan,Sentra,110100 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,5,null,Regular Unleaded,null,null,18888
+2018,Nissan,Qashqai,91483 km,SUV,4 Cylinder Engine,6 Speed Manual,FWD,Gun Metallic,Black,null,null,Gas,8.8L - 10.0L/100km,7.3L - 8.1L/100km,19990
+2017,Nissan,Sentra,80556 km,Sedan,1.8L 4cyl,Automatic,FWD,Aspen White Pearl,Black,5,4,Gas,null,null,19990
+2018,Nissan,Sentra,53853 km,Sedan,4 Cylinder Engine,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,null,null,19995
+2014,Nissan,Xterra,99474 km,SUV,4,Automatic,4x4,White,Black,5,4,Gas,13.6L - 14.4L/100km,10.1L/100km,21000
+2020,Nissan,Sentra,68621 km,Compact,2.0L 4cyl,CVT,FWD,null,null,null,null,Gas,8.0L - 9.4L/100km,6.0L - 6.4L/100km,21888
+2021,Nissan,Rogue,20218 km,SUV,4 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Tan,null,null,Gas,9.2L/100km,7.2L/100km,39485
+2016,Nissan,Rogue,78918 km,SUV,4 Cylinder Engine,CVT,FWD,Glacier White,Black,5,4,Gas,9.1L/100km,7.1L/100km,21995
+2017,Nissan,Rogue,60749 km,SUV,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,9.2L/100km,7.0L/100km,22888
+2017,Nissan,Pathfinder,152000 km,SUV,V6 Cylinder Engine,CVT,4x4,Gun Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,22995
+2019,Nissan,Kicks,106403 km,Hatchback,4 Cylinder Engine,CVT,FWD,Cayenne Red/Super Black,null,5,4,Gas,7.7L/100km,6.6L/100km,22999
+2023,Nissan,Kicks,150 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,null,null,4,Gas,7.7L/100km,6.6L/100km,23088
+2019,Nissan,Kicks,71158 km,Hatchback,1.6L 4cyl,CVT,FWD,White,Black,5,5,Gas,7.7L/100km,6.6L/100km,23491
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,24310
+2023,Nissan,Sentra,25 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,8.0L - 9.2L/100km,6.0L - 6.2L/100km,24846
+2021,Nissan,Kicks,48056 km,Hatchback,1.6L 4cyl,CVT,FWD,null,null,null,null,Gas,7.7L/100km,6.6L/100km,24888
+2023,Nissan,GT-R,99 km,Coupe,3.8L Twin Turbo V6 - 600 hp,Automatic,null,Pearl White TriCoat,null,null,null,Premium Unleaded,14.7L/100km,10.7L/100km,292998
+2023,Nissan,Sentra,25 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun,Charcoal,5,4,Gas,8.0L - 9.2L/100km,6.0L - 6.2L/100km,24981
+2023,Nissan,Sentra,150 km,Sedan,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,null,null,4,Gas,8.0L/100km,6.0L/100km,25633
+2023,Nissan,Kicks,50 km,SUV,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,26574
+2023,Nissan,Kicks,50 km,SUV,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,26574
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,26670
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,26720
+2023,Nissan,Sentra,150 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,null,null,4,Gas,8.0L/100km,6.0L/100km,26798
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,26854
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,26854
+2018,Nissan,370Z,120457 km,Coupe,V-6 cyl,6 Speed Manual,RWD,Magnetic Black Metallic,Black,2,2,Premium Unleaded,null,null,28899
+2023,Nissan,Sentra,150 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,4,Gas,8.0L/100km,6.0L/100km,26933
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,Automatic,FWD,Scarlet Ember Tintcoat,null,null,4,Gas,8.0L/100km,6.0L/100km,27098
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27419
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,27474
+2023,Nissan,Kicks,50 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Gray,null,null,4,Gas,7.7L/100km,6.6L/100km,27548
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27554
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27554
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Aspen White TriCoat,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27719
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Scarlet Ember Tintcoat,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27719
+2018,Nissan,LEAF,69350 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,29608
+2019,Nissan,Qashqai,68720 km,Hatchback,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,9.1L/100km,7.6L/100km,27888
+2018,Nissan,Murano,35876 km,Wagon,3.5L 6cyl,CVT,FWD,null,null,null,null,Gas,null,null,27888
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun,Charcoal,5,4,Gas,8.0L/100km,6.0L/100km,27970
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Super Black,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,27974
+2023,Nissan,Kicks,50 km,SUV,4 Cylinder Engine,CVT,FWD,Monarch Orange Metallic/Super Black,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,28004
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,28110
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,28154
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,7.7L/100km,6.6L/100km,28274
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,28320
+2020,Nissan,Murano,59618 km,SUV,Regular Unleaded V-6 3.5 L/213,CVT,AWD,null,null,5,4,Gas,11.7L/100km,8.5L/100km,31100
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,28320
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Scarlet Ember Tintcoat,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,28320
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Scarlet Ember Tintcoat,Charcoal,null,null,Gas,8.0L/100km,6.0L/100km,28320
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Black Metallic,Charcoal,5,4,Gas,8.6L/100km,7.3L/100km,28539
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,FWD,Gun Metallic,Charcoal,5,4,Gas,8.6L/100km,7.3L/100km,28539
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Gun Metallic,Charcoal,null,null,Gas,8.6L/100km,7.3L/100km,28950
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Magnetic Black Metallic,Charcoal,null,null,Gas,8.6L/100km,7.3L/100km,28950
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Magnetic Black Metallic,Charcoal,null,null,Gas,8.6L/100km,7.3L/100km,28950
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Caspian Blue Metallic,null,null,null,Gas,8.6L/100km,7.3L/100km,28950
+2021,Nissan,Rogue,42764 km,SUV,I-4 cyl,Automatic,AWD,Pearl White 2-Tone Pearl Metallic,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,38997
+2023,Nissan,Qashqai,10 km,SUV,4 Cylinder Engine,CVT,FWD,Caspian Blue Metallic,null,5,4,Gas,8.6L/100km,7.3L/100km,28995
+2023,Nissan,Sentra,10 km,Sedan,4 Cylinder Engine,CVT,FWD,Electric Blue,null,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,29070
+2023,Nissan,Kicks,50 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Monarch Orange Metallic/Super Black,null,null,4,Gas,7.7L/100km,6.6L/100km,29083
+2023,Nissan,Kicks,150 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Scarlet Ember Tintcoat/Super Black,null,null,4,Gas,7.7L/100km,6.6L/100km,29083
+2023,Nissan,Kicks,50 km,SUV,4 Cylinder Engine,CVT,FWD,Electric Blue Metallic,null,5,4,Gas,7.7L/100km,6.6L/100km,29209
+2023,Nissan,Qashqai,150 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.0L/100km,7.5L/100km,29418
+2018,Nissan,Rogue,40889 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.7L/100km,7.4L/100km,26300
+2022,Nissan,Kicks,760 km,Hatchback,1.6L 4cyl,CVT,FWD,Blue,Black,5,4,Gas,7.7L/100km,6.6L/100km,29999
+2022,Nissan,Altima,15462 km,Sedan,2.5L 4cyl.,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.1L/100km,6.5L/100km,31499
+2023,Nissan,Rogue,19280 km,SUV,3 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Black,5,4,Gas,8.4L/100km,6.8L/100km,44995
+2019,Nissan,Rogue,55640 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,White,Black,null,4,Gas,9.1L/100km,7.1L/100km,25489
+2014,Nissan,GT-R,26700 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Gun Metallic,Black,4,2,Gas,12.9L/100km,9.2L/100km,124777
+2014,Nissan,LEAF,97332 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Electric,null,null,16900
+2023,Nissan,Pathfinder,9810 km,SUV,3.5L 6cyl.,Automatic,4x4,Pearl White TriCoat,Charcoal,null,5,Gas,11.6L/100km,9.2L/100km,52998
+2018,Nissan,Rogue,113098 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,20500
+2023,Nissan,Qashqai,150 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,4,Gas,9.0L/100km,7.5L/100km,29418
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,null,null,null,Gas,7.7L/100km,6.6L/100km,29724
+2023,Nissan,Kicks,50 km,SUV,4 Cylinder Engine,CVT,FWD,Aspen White TriCoat/Super Black,null,5,4,Gas,7.7L/100km,6.6L/100km,29869
+2023,Nissan,Kicks,90 km,SUV,4 Cylinder Engine,Automatic,FWD,Aspen White TriCoat,null,null,null,Gas,7.7L/100km,6.6L/100km,29974
+2023,Nissan,Rogue,19280 km,SUV,3 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Black,5,4,Gas,8.4L/100km,6.8L/100km,44995
+2019,Nissan,Murano,74328 km,Wagon,V6 Cylinder Engine,CVT,AWD,Deep Blue Pearl Metallic,Black,null,null,Gas,11.7L/100km,8.5L/100km,29995
+2023,Nissan,Sentra,19 km,Sedan,I-4 cyl,CVT,FWD,Electric Blue Metallic,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,29996
+2023,Nissan,Sentra,14 km,Sedan,I-4 cyl,CVT,FWD,Electric Blue Metallic,Charcoal,null,null,Regular Unleaded,8.0L/100km,6.0L/100km,30014
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Charcoal,5,4,Gas,9.0L/100km,7.5L/100km,30039
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Charcoal,5,4,Gas,9.0L/100km,7.5L/100km,30039
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Caspian Blue Metallic,null,5,4,Gas,9.0L/100km,7.5L/100km,30039
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Charcoal,5,4,Gas,9.0L/100km,7.5L/100km,30039
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Charcoal,null,null,Gas,9.0L/100km,7.5L/100km,30450
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Caspian Blue Metallic,null,null,null,Gas,9.0L/100km,7.5L/100km,30450
+2019,Nissan,Micra,6177 km,Hatchback,1.6L 4-Cylinder DOHC 16V,Manual,FWD,Magnetic Grey Metallic,Grey,5,4,Gas,8.7L - 9.0L/100km,6.8L/100km,15890
+2023,Nissan,Sentra,50 km,Sedan,4 Cylinder Engine,CVT,FWD,Gun Metallic,null,5,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,30754
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,null,null,null,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31220
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Electric Blue Metallic,null,null,null,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,31354
+2018,Nissan,LEAF,45164 km,Hatchback,Electric,1 Speed Automatic,FWD,White,Black,6,5,Electric,null,null,31888
+2018,Nissan,LEAF,53585 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,White,Black,5,4,Electric,null,null,31987
+2023,Nissan,Sentra,90 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aspen WhiteTriCoat/Super Black,null,null,null,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,32014
+2023,Nissan,Sentra,8 km,Sedan,I-4 cyl,null,FWD,Gun Metallic/Super Black,null,null,null,Regular Unleaded,8.2L - 9.4L/100km,6.1L - 6.4L/100km,32191
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,Charcoal,5,4,Gas,9.0L/100km,7.5L/100km,33204
+2023,Nissan,Qashqai,90 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Charcoal,null,null,Gas,9.0L/100km,7.5L/100km,33450
+2022,Nissan,Frontier,14735 km,Truck,3.8L 6cyl.,Automatic,4x4,Red Alert,Grey,null,2,Gas,13.7L/100km,10.6L/100km,38999
+2023,Nissan,Rogue,25 km,SUV,4 Cylinder Engine,CVT,FWD,Gun,Charcoal,5,4,Gas,9.0L/100km,7.1L/100km,33451
+2020,Nissan,Rogue,33876 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.1L/100km,7.1L/100km,33880
+2019,Nissan,LEAF,63643 km,Sedan,Electric Motor,Automatic,FWD,White,Black,5,4,Electric,null,null,33995
+2023,Nissan,Rogue,150 km,SUV,4 Cylinder Engine,Automatic,AWD,Scarlet Ember Pearl Metallic,null,null,4,Gas,9.2L/100km,7.2L/100km,35068
+2023,Nissan,Rogue,85 km,SUV,4 Cylinder Engine,CVT,AWD,Super Black,Charcoal,5,4,Gas,9.2L/100km,7.2L/100km,35805
+2023,Nissan,Rogue,90 km,SUV,4 Cylinder Engine,CVT,AWD,Gun,Charcoal,5,4,Gas,9.2L/100km,7.2L/100km,35940
+2021,Nissan,Rogue,48167 km,SUV,2.5L 4cyl,CVT,AWD,Grey,null,null,2,Gas,9.2L/100km,7.2L/100km,35988
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,null,5,4,Gas,9.0L/100km,7.5L/100km,36354
+2023,Nissan,Rogue,3888 km,SUV,I-4 cyl,CVT,AWD,Glacier White,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,37481
+2018,Nissan,Rogue,49204 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Black Metallic,Black,5,4,Gas,9.7L/100km,7.4L/100km,28657
+2022,Nissan,Qashqai,33 km,SUV,I-4 cyl,CVT,AWD,KAD-1-Gun Metallic,null,null,null,Regular Unleaded,9.0L/100km,7.5L/100km,37906
+2023,Nissan,Rogue,15 km,SUV,I-4 cyl,CVT,AWD,Gun,Charcoal,null,null,Regular Unleaded,9.2L/100km,7.2L/100km,37984
+2023,Nissan,Qashqai,50 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Charcoal,5,4,Gas,9.0L/100km,7.5L/100km,38189
+2023,Nissan,Altima,14 km,Sedan,I-4 cyl,CVT,AWD,Pearl White TriCoat,null,null,null,Gas,9.3L/100km,6.7L/100km,39234
+2023,Nissan,Altima,10 km,Sedan,4 Cylinder Engine,CVT,AWD,Super Black,null,5,4,Gas,9.3L/100km,6.7L/100km,40786
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Super Black,null,null,4,Gas,8.4L/100km,6.7L - 6.8L/100km,41268
+2023,Nissan,Rogue,151 km,SUV,3 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,8.4L/100km,6.7L - 6.8L/100km,42258
+2018,Nissan,Titan,62652 km,Truck,5.6L 8cyl,7 Speed Automatic,4x4,null,null,null,null,Gas,15.2L - 15.9L/100km,11.1L - 11.9L/100km,42588
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Blue,null,null,4,Gas,8.4L/100km,6.8L/100km,43998
+2018,Nissan,Versa,26192 km,Sedan,4 Cylinder Engine,null,FWD,null,null,null,null,Gas,7.6L - 8.6L/100km,6.2L - 6.6L/100km,18388
+2023,Nissan,Frontier,199 km,Truck,3.8L 6cyl.,Automatic,4x4,Gun Metallic,Grey,null,2,Gas,13.5L/100km,10.4L/100km,44094
+2022,Nissan,Murano,25 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,44101
+2023,Nissan,Rogue,50 km,SUV,3 Cylinder Engine,CVT,AWD,Super Black,null,5,4,Gas,8.4L/100km,6.8L/100km,44185
+2023,Nissan,Rogue,50 km,SUV,3 Cylinder Engine,Automatic,AWD,Blue,null,null,4,Gas,8.4L/100km,6.8L/100km,44193
+2023,Nissan,Rogue,25 km,SUV,3 Cylinder Engine,CVT,AWD,Scarlet Ember Pearl Metallic,null,5,4,Gas,8.4L/100km,6.8L/100km,44261
+2023,Nissan,Rogue,25 km,SUV,3 Cylinder Engine,CVT,AWD,Pearl White Pearl,null,5,4,Gas,8.4L/100km,6.8L/100km,44416
+2023,Nissan,Rogue,121 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.7L - 6.8L/100km,44448
+2023,Nissan,LEAF,10587 km,Hatchback,Electric Motor,1 Speed Automatic,FWD,null,null,5,4,Electric,null,null,44999
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Caspian Blue 2-Tone Metallic,null,null,null,Gas,8.4L/100km,6.8L/100km,45414
+2020,Nissan,Murano,34499 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,37499
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Super Black,null,null,4,Gas,8.4L/100km,6.8L/100km,45963
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Scarlet Ember Pearl Metallic,null,null,4,Gas,8.4L/100km,6.8L/100km,46068
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Gray,null,null,4,Gas,8.4L/100km,6.8L/100km,46098
+2023,Nissan,Rogue,10 km,SUV,3 Cylinder Engine,CVT,AWD,Gun,null,5,4,Gas,8.4L/100km,6.8L/100km,46259
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Blue,null,null,4,Gas,8.4L/100km,6.8L/100km,46398
+2023,Nissan,Rogue,150 km,SUV,3 Cylinder Engine,Automatic,AWD,Blue,null,null,4,Gas,8.4L/100km,6.8L/100km,46398
+2023,Nissan,Rogue,13 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,46580
+2023,Nissan,Rogue,17 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,46580
+2023,Nissan,Rogue,14 km,SUV,I-3 cyl,CVT,AWD,Champagne Silver,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,46714
+2018,Nissan,LEAF,81375 km,Hatchback,ELECTRIC,Automatic,FWD,White,Black,5,4,Electric,null,null,28400
+2023,Nissan,Rogue,10 km,SUV,3 Cylinder Engine,CVT,AWD,Super Black,null,5,4,Gas,8.4L/100km,6.8L/100km,47000
+2023,Nissan,Rogue,75 km,SUV,3 Cylinder Engine,CVT,AWD,Scarlet Ember Pearl Metallic,null,5,4,Gas,8.4L/100km,6.8L/100km,47105
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,Grey,4,4,Gas,13.5L/100km,10.4L/100km,47214
+2023,Nissan,Rogue,13 km,SUV,I-3 cyl,CVT,AWD,Boulder Grey 2-Tone Pearl Metallic,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,47226
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,null,Gas,8.4L/100km,6.8L/100km,47320
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Scarlet Ember Pearl Metallic,null,null,null,Gas,8.4L/100km,6.8L/100km,47484
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,CVT,AWD,Super Black,null,5,4,Gas,12.0L/100km,8.5L/100km,47739
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Champagne Silver 2-Tone Metallic,null,null,null,Gas,8.4L/100km,6.8L/100km,47814
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,Automatic,AWD,Champagne Silver 2-Tone Metallic,null,null,null,Gas,8.4L/100km,6.8L/100km,47814
+2019,Nissan,Sentra,42277 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Charcoal,5,4,Gas,null,null,20608
+2022,Nissan,Frontier,15989 km,Truck,3.8L 6cyl.,Automatic,4x4,Gun Metallic,Grey,null,4,Gas,13.7L/100km,10.6L/100km,47999
+2023,Nissan,Murano,25 km,SUV,V6 Cylinder Engine,CVT,AWD,Deep Ocean Blue Metallic,null,5,4,Gas,12.0L/100km,8.5L/100km,48001
+2023,Nissan,Rogue,90 km,SUV,3 Cylinder Engine,CVT,AWD,Gun,null,5,4,Gas,8.4L/100km,6.8L/100km,48065
+2023,Nissan,Frontier,50 km,Truck King Cab,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,Charcoal,4,4,Gas,13.5L/100km,10.4L/100km,48460
+2023,Nissan,Murano,150 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,4,Gas,12.0L/100km,8.5L/100km,48618
+2023,Nissan,Murano,150 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Gray,null,null,4,Gas,12.0L/100km,8.5L/100km,48618
+2023,Nissan,Pathfinder,25 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Gun,Charcoal,8,4,Gas,11.6L/100km,9.2L/100km,48901
+2023,Nissan,Rogue,41 km,SUV,I-3 cyl,CVT,AWD,Super Black,null,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,48918
+2023,Nissan,Murano,50 km,SUV,V6 Cylinder Engine,CVT,AWD,Super Black,null,5,4,Gas,12.0L/100km,8.5L/100km,48939
+2023,Nissan,LEAF,105 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Scarlet Ember Metallic,Black,5,4,Electric,null,null,46999
+2023,Nissan,Rogue,12 km,SUV,I-3 cyl,CVT,AWD,Super Black,Charcoal,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,48979
+2023,Nissan,Maxima,150 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Pearl White TriCoat,null,null,4,Gas,11.6L/100km,7.9L/100km,49045
+2023,Nissan,Rogue,10 km,SUV,I-3 cyl,CVT,AWD,Pearl White Pearl,null,null,null,Regular Unleaded,8.4L/100km,6.8L/100km,49131
+2023,Nissan,Murano,50 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,null,5,4,Gas,12.0L/100km,8.5L/100km,49239
+2023,Nissan,Murano,50 km,SUV,V6 Cylinder Engine,CVT,AWD,Boulder Grey Pearl Metallic,null,5,4,Gas,12.0L/100km,8.5L/100km,49239
+2023,Nissan,Murano,25 km,SUV,V6 Cylinder Engine,CVT,AWD,Boulder Grey Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,49366
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gun Metallic,Charcoal,null,null,Gas,11.6L/100km,9.2L/100km,49374
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,null,5,4,Gas,12.0L/100km,8.5L/100km,49482
+2023,Nissan,Murano,199 km,SUV,3.5L 6cyl.,Automatic,AWD,Pearl White Pearl Metallic,Grey,null,5,Gas,12.0L/100km,8.5L/100km,49484
+2017,Nissan,Qashqai,71229 km,SUV,4 Cylinder Engine,CVT,FWD,Gun Metallic,null,5,4,Gas,8.8L - 10.0L/100km,7.3L - 8.1L/100km,21608
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,CVT,AWD,Pearl White Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,49655
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,CVT,AWD,Boulder Grey Pearl Metallic,Charcoal,5,4,Gas,12.0L/100km,8.5L/100km,49655
+2023,Nissan,Frontier,150 km,Truck,V6 Cylinder Engine,Automatic,4x4,Super Black,null,null,4,Gas,13.5L/100km,10.4L/100km,49693
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,Charcoal,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,null,5,4,Gas,13.5L/100km,10.4L/100km,50314
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,null,5,4,Gas,13.5L/100km,10.4L/100km,50314
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,null,5,4,Gas,13.5L/100km,10.4L/100km,50314
+2023,Nissan,Murano,150 km,Wagon,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,4,Gas,12.0L/100km,8.5L/100km,50418
+2018,Nissan,LEAF,40505 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,null,null,4,Electric,null,null,29466
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Gun Metallic,Dark Grey,5,4,Gas,13.5L/100km,10.4L/100km,50449
+2023,Nissan,Frontier,150 km,Truck,V6 Cylinder Engine,Automatic,4x4,Glacier White,null,null,4,Gas,13.5L/100km,10.4L/100km,50693
+2023,Nissan,Murano,13 km,SUV,V-6 cyl,CVT,AWD,Super Black,null,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,51399
+2023,Nissan,Frontier,25 km,Truck Crew Cab,V6 Cylinder Engine,9 Speed Automatic,4x4,Super Black,Charcoal,5,4,Gas,13.5L/100km,10.4L/100km,51441
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Gun Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,51474
+2023,Nissan,Murano,43 km,SUV,V-6 cyl,CVT,AWD,Pearl White Pearl Metallic,null,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,51681
+2020,Nissan,Sentra,85139 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Electric Blue Metallic,Charcoal,null,4,Gas,null,null,21989
+2019,Nissan,Murano,105449 km,SUV,V6 Cylinder Engine 3.5L,Automatic,FWD,Pearl White Pearl Metallic,Grey,null,4,Gas,11.7L/100km,8.3L/100km,22495
+2019,Nissan,Altima,91125 km,Sedan,4 Cylinder Engine,Automatic,AWD,Pearl White,null,null,null,Gas,9.3L/100km,6.7L/100km,24790
+2022,Nissan,Kicks,760 km,Hatchback,1.6L 4cyl,CVT,FWD,Blue,Black,5,4,Gas,7.7L/100km,6.6L/100km,29999
+2023,Nissan,Murano,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White Pearl Metallic,null,null,null,Gas,12.0L/100km,8.5L/100km,49840
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Glacier White,null,null,null,Gas,13.5L/100km,10.4L/100km,50914
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56290
+2017,Nissan,Rogue,120388 km,SUV,4 Cylinder Engine,CVT,FWD,White,Black,5,4,Gas,9.2L/100km,7.0L/100km,17750
+2015,Nissan,LEAF,70181 km,Hatchback,Electric Motor,Automatic,FWD,White,Grey,null,4,Electric,null,null,15598
+2023,Nissan,Frontier,10 km,Truck Crew Cab,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,null,5,4,Gas,13.9L/100km,10.7L/100km,52630
+2023,Nissan,Maxima,24 km,Sedan,V-6 cyl,CVT,FWD,Pearl White TriCoat,Beige,null,null,Premium Unleaded,11.6L/100km,7.9L/100km,53236
+2023,Nissan,Murano,17 km,SUV,V-6 cyl,CVT,AWD,Boulder Grey Pearl Metallic,Charcoal,null,null,Regular Unleaded,12.0L/100km,8.5L/100km,53499
+2023,Nissan,Frontier,50 km,Truck,V6 Cylinder Engine,9 Speed Automatic,4x4,Glacier White,null,5,4,Gas,13.9L/100km,10.7L/100km,54214
+2022,Nissan,Altima,14758 km,Sedan,2.5L 4cyl.,Automatic,AWD,Scarlet Ember Tintcoat,Charcoal,null,4,Gas,9.3L/100km,6.7L/100km,36000
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Gun Metallic,null,null,null,Gas,13.9L/100km,10.7L/100km,54950
+2023,Nissan,Pathfinder,150 km,SUV,V6 Cylinder Engine,Automatic,4x4,Obsidian Green Pearl,null,null,4,Gas,11.6L/100km,9.2L/100km,55318
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Baja Storm/Super Black Metallic,Charcoal,8,4,Gas,11.6L - 11.9L/100km,9.2L - 10.0L/100km,55589
+2023,Nissan,Pathfinder,150 km,SUV,V6 Cylinder Engine,Automatic,4x4,Pearl White TriCoat,null,null,4,Gas,11.6L/100km,9.2L/100km,55638
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Pearl White TriCoat,null,8,4,Gas,11.6L/100km,9.2L/100km,55939
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Obsidian Green Pearl,null,8,4,Gas,11.6L/100km,9.2L/100km,55939
+2023,Nissan,Pathfinder,25 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Pearl White TriCoat,Light Grey,8,4,Gas,11.6L/100km,9.2L/100km,56066
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Pearl White TriCoat,null,8,4,Gas,11.6L/100km,9.2L/100km,56259
+2023,Nissan,Frontier,18 km,Truck Crew Cab,V-6 cyl,null,4x4,Glacier White,null,null,null,Regular Unleaded,13.9L/100km,10.7L/100km,56530
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,null,null,null,Gas,11.6L/100km,9.2L/100km,56540
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Scarlet Ember Tintcoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56540
+2023,Nissan,Pathfinder,10 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Pearl White TriCoat,Charcoal,8,4,Gas,11.6L/100km,9.2L/100km,56595
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56780
+2023,Nissan,Pathfinder,150 km,SUV,V6 Cylinder Engine,Automatic,4x4,Boulder Grey Pearl Metallic,null,null,4,Gas,11.6L/100km,9.2L/100km,57638
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Super Black,null,8,4,Gas,11.6L/100km,9.2L/100km,57879
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Boulder Grey Pearl Metallic,null,8,4,Gas,11.6L/100km,9.2L/100km,57939
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Pearl White TriCoat,null,8,4,Gas,11.6L/100km,9.2L/100km,57939
+2023,Nissan,Pathfinder,13 km,SUV,V-6 cyl,null,4x4,Super Black,Charcoal,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,58099
+2018,Nissan,LEAF,69350 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,29608
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Obsidian Green Pearl,null,null,null,Gas,11.6L/100km,9.2L/100km,58540
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,null,null,null,Gas,11.6L/100km,9.2L/100km,58540
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,null,null,null,Gas,11.6L/100km,9.2L/100km,58540
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Scarlet Ember Tintcoat,Charcoal,8,4,Gas,11.6L/100km,9.2L/100km,58724
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey Pearl Metallic,null,null,null,Gas,11.6L/100km,9.2L/100km,58860
+2023,Nissan,Pathfinder,150 km,SUV,V6 Cylinder Engine,Automatic,4x4,Gray,null,null,4,Gas,11.6L/100km,9.2L/100km,59968
+2023,Nissan,Pathfinder,15 km,SUV,V-6 cyl,null,4x4,Scarlet Ember Tintcoat,null,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,60381
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,60540
+2023,Nissan,Pathfinder,50 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Boulder Grey/Super Black,null,7,4,Gas,11.6L/100km,9.2L/100km,60589
+2018,Nissan,LEAF,43876 km,Compact,Electric Motor,Automatic,FWD,White,Black,null,4,Electric,null,null,29699
+2023,Nissan,Pathfinder,25 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,Scarlet Ember Tintcoat/Super Black,Charcoal,7,4,Gas,11.6L/100km,9.2L/100km,60716
+2023,Nissan,Pathfinder,11550 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat/Super Black,null,null,null,Gas,11.6L/100km,9.2L/100km,60726
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Boulder Grey/Super Black,null,null,null,Gas,11.6L/100km,9.2L/100km,61190
+2023,Nissan,Pathfinder,12 km,SUV,V-6 cyl,null,4x4,Pearl White TriCoat,null,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,62399
+2023,Nissan,Pathfinder,14 km,SUV,V-6 cyl,null,4x4,Boulder Grey/Super Black,Charcoal,null,null,Regular Unleaded,11.6L/100km,9.2L/100km,63049
+2023,Nissan,Ariya,90 km,SUV,Electric Motor,1 Speed Automatic,FWD,Boulder Grey Pearl/Black Diamond Pearl,null,5,4,Electric,null,null,64340
+2023,Nissan,Ariya,50 km,SUV,Electric Motor,1 Speed Automatic,FWD,Black Diamond Pearl,null,5,4,Electric,null,null,67814
+2023,Nissan,Armada,150 km,SUV,8 Cylinder Engine,Automatic,4x4,Gun Metallic,null,null,4,Gas,17.5L/100km,12.9L/100km,76478
+2023,Nissan,Armada,90 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Coulis Red Pearl,Black,7,4,Gas,17.5L/100km,12.9L/100km,83430
+2017,Nissan,LEAF,66217 km,Hatchback,Electric Motor,Automatic,null,Silver,null,null,null,Electric,null,null,18998
+2023,Nissan,Armada,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Hermosa Blue Pearl,Black,null,null,Gas,17.5L/100km,12.9L/100km,83630
+2023,Nissan,Armada,50 km,SUV,8 Cylinder Engine,7 Speed Automatic,4x4,Hermosa Blue Pearl,Black,7,4,Gas,17.5L/100km,12.9L/100km,83964
+2022,Nissan,Armada,18 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Coulis Red Pearl,null,null,null,Regular Unleaded,17.5L/100km,12.9L/100km,84456
+2023,Nissan,Armada,18 km,SUV,V-8 cyl,7 Speed Automatic,4x4,Gun,Black,null,null,Regular Unleaded,17.5L/100km,12.9L/100km,86559
+2023,Nissan,GT-R,99 km,Coupe,3.8L Twin Turbo V6 - 600 hp,Automatic,null,Pearl White TriCoat,null,null,null,Premium Unleaded,14.7L/100km,10.7L/100km,292998
+2008,Nissan,Versa,258553 km,Sedan,4 Cylinder Engine,null,FWD,Brilliant Silver Metallic,null,null,4,Gas,7.5L - 8.5L/100km,6.0L - 6.3L/100km,3990
+2011,Nissan,Sentra,280406 km,Sedan,2.0L I4 140HP 147FT. LBS.,Automatic,FWD,Brilliant Silver,Grey,null,4,Gas,7.6L - 8.5L/100km,5.7L - 6.5L/100km,4990
+2005,Nissan,Altima,163000 km,Sedan,4 Cylinder Engine,4 Speed Automatic,FWD,Gold,Beige,5,4,Gas,9.8L - 10.0L/100km,6.9L - 7.3L/100km,5995
+2012,Nissan,Altima,222400 km,Sedan,2.5,null,FWD,Not Specified,null,5,4,Gas,8.7L - 8.8L/100km,6.0L - 6.2L/100km,5999
+2016,Nissan,LEAF,79638 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,14999
+2011,Nissan,Rogue,171000 km,SUV,4 Cylinder Engine,CVT,FWD,Grey,Black,5,4,Gas,9.0L/100km,7.0L/100km,6900
+2014,Nissan,Versa,206012 km,Hatchback,1.6L I4 109HP 107FT. LBS.,Automatic,FWD,Super Black,Black,null,5,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,6990
+2008,Nissan,Altima,114551 km,Sedan,4 CYL,Automatic,FWD,Radiant Silver Metallic,Grey,5,4,Gas,8.9L/100km,6.1L - 6.3L/100km,6990
+2013,Nissan,Rogue,263530 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,9.6L/100km,7.7L/100km,7495
+2010,Nissan,Rogue,189590 km,SUV,4 Cylinder Engine,CVT,FWD,Silver Ice Metallic,Black,5,4,Gas,9.2L/100km,7.3L/100km,8499
+2015,Nissan,Versa,171429 km,Hatchback,1.6L,Automatic,FWD,White,Grey,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,8500
+2008,Nissan,Titan,290000 km,Truck,8 Cylinder Engine,Automatic,4x4,Galaxy Black Metallic,Grey,6,2,Gas,18.0L/100km,12.2L/100km,8800
+2013,Nissan,Sentra,127145 km,Sedan,1.8L I4 130HP 128FT. LBS.,Automatic,FWD,Grey,Grey,null,4,Gas,6.6L - 7.5L/100km,4.9L - 5.5L/100km,8990
+2015,Nissan,Versa,216000 km,Hatchback,4 Cylinder Engine,CVT,FWD,Dark Grey,Black,5,4,Gas,7.6L - 8.7L/100km,5.9L - 6.5L/100km,8999
+2018,Nissan,Murano,76980 km,Wagon,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,28345
+2015,Nissan,Micra,138972 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Fresh Powder,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,9888
+2015,Nissan,Versa,159260 km,Hatchback,1.6L 4cyl,CVT,FWD,Aspen White Pearl,Black,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,9888
+2013,Nissan,Sentra,130253 km,Sedan,1.8L,Automatic,FWD,null,null,null,null,Gas,6.6L - 7.5L/100km,4.9L - 5.5L/100km,9900
+2013,Nissan,Rogue,189800 km,SUV,4 Cylinder Engine,Automatic,AWD,Brilliant Silver,Black,5,4,Gas,10.7L/100km,8.7L/100km,9995
+2016,Nissan,Sentra,198128 km,Sedan,1.8,Automatic,FWD,Super Black,Black,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,10995
+2013,Nissan,Sentra,109215 km,Sedan,4 Cylinder,Automatic,FWD,Brilliant Silver Metallic,Grey,4,4,Gas,6.6L - 7.5L/100km,4.9L - 5.5L/100km,11800
+2015,Nissan,Sentra,135539 km,Sedan,1.8,Automatic,FWD,Aspen White Pearl,Grey,null,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,11998
+2012,Nissan,Altima,150901 km,Coupe,6 Cylinder,Automatic,FWD,Black,Black,5,2,Gas,10.2L - 11.4L/100km,7.3L/100km,11999
+2012,Nissan,Maxima,96000 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Winter Frost Pearl,Black,5,4,Gas,10.9L/100km,7.7L/100km,12900
+2018,Nissan,Murano,89874 km,SUV,V6 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,11.2L/100km,8.4L/100km,28133
+2015,Nissan,Sentra,94502 km,Sedan,1.8,Automatic,FWD,Aspen White Pearl,Black,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,12995
+2017,Nissan,Sentra,199690 km,Sedan,4 Cylinder Engine,Automatic,FWD,Super Black,Black,5,4,Gas,null,null,12995
+2012,Nissan,Murano,153204 km,null,null,Automatic,null,Black,Grey,null,null,null,null,null,12999
+2014,Nissan,Rogue,154501 km,SUV,2.5,CVT,AWD,Super Black,Black,5,4,Gas,8.2L/100km,6.2L/100km,13995
+2011,Nissan,Xterra,203004 km,SUV,4.0V6,Automatic,4x4,Super Black,Black,5,null,Gas,13.7L - 14.5L/100km,10.1L - 10.5L/100km,13995
+2016,Nissan,Versa,94129 km,Hatchback,4 Cylinder Engine,CVT,FWD,Aspen White Pearl,Grey,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,14880
+2013,Nissan,Altima,85702 km,Sedan,2.5L 4cyl,CVT,FWD,null,null,null,null,Gas,8.7L/100km,6.0L/100km,14888
+2016,Nissan,Maxima,210125 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Super Black Metallic,Black,5,4,Gas,10.9L/100km,7.8L/100km,14995
+2014,Nissan,Altima,110517 km,Sedan,2.5,Automatic,FWD,Grey,Beige,5,4,Gas,7.5L/100km,5.1L/100km,15580
+2023,Nissan,Rogue,10995 km,SUV,1.5L DOHC,CVT,AWD,Gun Metallic,Charcoal,null,4,Gas,8.4L/100km,6.8L/100km,42843
+2015,Nissan,LEAF,70181 km,Hatchback,Electric Motor,Automatic,FWD,White,Grey,null,4,Electric,null,null,15598
+2014,Nissan,Altima,81250 km,Sedan,2.5,Automatic,FWD,Black,Black,5,4,Gas,7.5L/100km,5.1L/100km,15990
+2016,Nissan,LEAF,88137 km,Sedan,Electric Motor,Automatic,FWD,Gun Metallic,Black,null,4,Electric,null,null,15995
+2016,Nissan,LEAF,81170 km,Hatchback,Electric Motor,Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,16998
+2017,Nissan,Rogue,123813 km,SUV,2.5,Automatic,FWD,Gun Metallic,Black,null,4,Gas,9.2L/100km,7.0L/100km,17995
+2015,Nissan,LEAF,53360 km,Hatchback,Electric Motor,Automatic,FWD,Morningsky Blue Metallic,Black,5,4,Electric,null,null,19995
+2017,Nissan,Maxima,86080 km,Sedan,3.5,CVT,FWD,Gun Metallic,null,null,4,Gas,11.1L/100km,7.8L/100km,20995
+2017,Nissan,Murano,129025 km,SUV,6 Cylinder,Automatic,AWD,Pearl White,Black,5,4,Gas,11.2L/100km,8.4L/100km,22958
+2019,Nissan,Qashqai,97271 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,null,null,null,Gas,9.1L/100km,7.6L/100km,24209
+2020,Nissan,Rogue,77792 km,SUV,I-4 cyl,CVT,AWD,Magnetic Black Metallic,Black,5,4,Regular Unleaded,9.6L/100km,7.5L/100km,26395
+2016,Nissan,Maxima,89102 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Pearl White,Black,5,4,Gas,10.9L/100km,7.8L/100km,24990
+2016,Nissan,Maxima,24791 km,Sedan,3.5L 6cyl,CVT,FWD,null,null,null,null,Gas,10.9L/100km,7.8L/100km,25888
+2017,Nissan,Frontier,39587 km,Truck,V6 Cylinder Engine,5 Speed Automatic,RWD,Gun Metallic,Grey,4,4,Gas,14.8L/100km,10.6L/100km,25990
+2023,Nissan,Kicks,199 km,SUV,1.6L 4cyl.,Automatic,FWD,Aspen White TriCoat,Charcoal,null,5,Gas,7.7L/100km,6.6L/100km,27119
+2022,Nissan,Sentra,14000 km,Sedan,4 Cylinder Engine,CVT,FWD,Scarlet Ember Tintcoat,Black,5,4,Gas,8.0L/100km,6.0L/100km,27995
+2023,Nissan,Sentra,199 km,Sedan,2L 4cyl.,Automatic,FWD,Super Black,null,null,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,28764
+2023,Nissan,Sentra,199 km,Sedan,2L 4cyl.,Automatic,FWD,Gun Metallic/Super Black,null,null,4,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,29394
+2020,Nissan,Rogue,85768 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,null,5,4,Gas,9.6L/100km,7.5L/100km,29999
+2021,Nissan,Rogue,43500 km,SUV,2.5L 4cyl,CVT,FWD,Scarlet Ember Pearl Metallic,null,null,2,Gas,8.9L/100km,7.0L/100km,30588
+2020,Nissan,Pathfinder,119665 km,SUV,V6 Cylinder Engine,CVT,4x4,Pearl White,Charcoal,7,4,Gas,12.1L/100km,8.9L/100km,32108
+2020,Nissan,Rogue,41691 km,SUV,4 Cylinder Engine,Automatic,AWD,Gun Metallic,Orange,5,null,Gas,9.6L/100km,7.5L/100km,30980
+2019,Nissan,LEAF,80000 km,Hatchback,NA,Automatic,FWD,White,Black,5,4,Electric,null,null,31850
+2001,Nissan,Silvia,132000 km,Coupe,SR20DET,Manual,RWD,Blue,Red,4,2,Gas,null,null,34888
+2020,Nissan,LEAF,12401 km,Sedan,0,Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,35888
+2020,Nissan,Rogue,11300 km,SUV,2.5,Automatic,AWD,Caspian Blue Metallic,Black,5,4,Gas,9.6L/100km,7.5L/100km,39899
+2023,Nissan,Murano,199 km,SUV,3.5L 6cyl.,Automatic,AWD,Boulder Grey Pearl Metallic,Grey,null,5,Gas,12.0L/100km,8.5L/100km,48284
+2022,Nissan,Frontier,8501 km,Truck,V6 Cylinder Engine,Automatic,4x4,Glacier White,null,null,4,Gas,13.7L/100km,10.6L/100km,43727
+2020,Nissan,Maxima,69770 km,Sedan,V6 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,11.6L/100km,7.9L/100km,32495
+2018,Nissan,LEAF,85015 km,Hatchback,Electric Motor,1 Speed Automatic,null,Pearl White,Black,null,null,Electric,null,null,26498
+2023,Nissan,Frontier,90 km,Truck,V6 Cylinder Engine,Automatic,4WD,Glacier White,null,null,null,Gas,13.5L/100km,10.4L/100km,50914
+2023,Nissan,Pathfinder,90 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pearl White TriCoat,null,null,null,Gas,11.6L/100km,9.2L/100km,56290
+2022,Nissan,Armada,90 km,SUV,8 Cylinder Engine,Automatic,4WD,Super Black,Black,null,null,Gas,17.5L/100km,12.9L/100km,82876
+2014,Nissan,GT-R,26700 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Gun Metallic,Black,4,2,Gas,12.9L/100km,9.2L/100km,124777
+2017,Nissan,Pathfinder,95329 km,SUV,3.5L 6cyl,CVT,4x4,Magnetic Black Metallic,Black,7,4,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,28888
+2019,Nissan,Pathfinder,89518 km,SUV,V6 Cylinder Engine,Automatic,4x4,Magnetic Black Metallic,null,7,5,Gas,12.1L - 12.4L/100km,8.9L - 9.2L/100km,29900
+2023,Nissan,Pathfinder,199 km,SUV,3.5L 6cyl.,Automatic,4x4,Super Black,Charcoal,null,5,Gas,11.6L/100km,9.2L/100km,48884
+2023,Nissan,Maxima,199 km,Sedan,3.5L 6cyl.,Automatic,FWD,Pearl White TriCoat,Charcoal,null,4,Gas,11.6L/100km,7.9L/100km,51021
+2023,Nissan,Frontier,25 km,Truck,3.8L 6cyl.,Automatic,4x4,Super Black,null,null,4,Gas,13.9L/100km,10.7L/100km,52459
+2023,Nissan,Pathfinder,199 km,SUV,3.5L 6cyl.,Automatic,4x4,Scarlet Ember Tintcoat,Charcoal,null,5,Gas,11.6L/100km,9.2L/100km,56184
+2022,Nissan,Sentra,20646 km,Sedan,2.0L DOHC 16V 4-Cylinder,Automatic,FWD,White,Charcoal,5,null,Gas,8.2L - 9.4L/100km,6.1L - 6.4L/100km,27500
+2023,Nissan,Pathfinder,199 km,SUV,3.5L 6cyl.,Automatic,4x4,Pearl White TriCoat,Charcoal,null,5,Gas,11.6L/100km,9.2L/100km,56184
+2023,Nissan,Armada,199 km,SUV,5.6L 8cyl.,Automatic,4x4,Coulis Red Pearl,Brown,null,5,Gas,17.5L/100km,12.9L/100km,84509
+2017,Nissan,GT-R,17000 km,null,null,null,null,null,null,null,null,null,null,null,229900
+2016,Nissan,Micra,104373 km,Hatchback,1.6L 4cyl,5 Speed Automatic,FWD,Super Black,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,10888
+2009,Nissan,Rogue,216000 km,null,null,null,null,null,null,null,null,null,null,null,1500
+2005,Nissan,Sentra,278500 km,Sedan,null,Automatic,FWD,Beige,null,null,4 doors,Gasoline,null,null,1500
+2008,Nissan,Altima,323000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,2200
+2007,Nissan,Altima,218000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,2300
+2000,Nissan,Frontier,220000 km,Truck,null,Automatic,4X4,Yellow,null,null,4 doors,Gasoline,null,null,2500
+2020,Nissan,Kicks,20400 km,Hatchback,1.6L 4cyl,CVT,FWD,White,Black,5,4,Gas,7.7L/100km,6.6L/100km,26999
+2000,Nissan,Frontier,220000 km,Truck,null,Automatic,4X4,Yellow,null,null,4 doors,Gasoline,null,null,2700
+2008,Nissan,Altima,193000 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,3000
+2008,Nissan,Altima,180000 km,Sedan,null,Automatic,RWD,Grey,null,null,4 doors,Gasoline,null,null,3000
+2011,Nissan,Rogue,181000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,3500
+2010,Nissan,Altima,287000 km,Sedan,2.5,Automatic,FWD,Grey,Black,5,4,Gas,null,null,3500
+2006,Nissan,Murano,220000 km,SUV,3.5,Automatic,AWD,Not Specified,null,5,5,Gas,null,null,3888
+2011,Nissan,Juke,237013 km,Wagon,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,4000
+2010,Nissan,Sentra,250000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,4500
+2012,Nissan,Altima,222567 km,null,null,null,null,null,null,null,null,null,null,null,4500
+2019,Nissan,Murano,89704 km,SUV,V6 Cylinder Engine,CVT,AWD,Magnetic Black Metallic,Charcoal,5,4,Gas,11.7L/100km,8.5L/100km,27108
+2009,Nissan,Versa,88000 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,4900
+2015,Nissan,Micra,null,Hatchback,1.6,Manual,FWD,Black,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,4995
+2007,Nissan,Murano,235000 km,SUV,3.5L,Automatic,AWD,White,Taupe,5,5,Gas,null,null,4995
+2002,Nissan,Altima,65000 km,Sedan,null,null,FWD,Silver,null,null,4 doors,Gasoline,null,null,5000
+2010,Nissan,Versa,120567 km,Sedan,null,Automatic,null,null,null,null,5 doors,Gasoline,null,null,5200
+2009,Nissan,Altima,157821 km,null,null,null,null,Grey,Black,null,null,null,null,null,5499
+2011,Nissan,Versa,157000 km,Hatchback,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,5500
+2012,Nissan,Sentra,183000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,5500
+2016,Nissan,Sentra,228000 km,Sedan,4 Cylinder Engine,CVT,FWD,Super Black,Grey,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,5500
+2020,Nissan,Qashqai,73545 km,SUV,2.0L I4 16V GDI DOHC,Automatic,AWD,Magnetic Black Metallic,Charcoal,null,4,Gas,9.0L/100km,7.7L/100km,28950
+2008,Nissan,Altima,207000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,5800
+2012,Nissan,Sentra,246190 km,Sedan,2.0L I4 140HP 147FT. LBS.,Automatic,FWD,Black,Beige,null,4,Gas,7.6L - 8.5L/100km,5.7L - 6.5L/100km,5990
+2009,Nissan,Maxima,228798 km,Sedan,3.5L V6 290HP 261FT. LBS.,Automatic,FWD,Grey,Black,null,4,Gas,10.8L/100km,7.7L/100km,5990
+2007,Nissan,Pathfinder,1 km,SUV,V6 Cylinder Engine,Automatic,4WD,Gray,null,null,4,Gas,15.3L/100km,10.4L/100km,5990
+2004,Nissan,Sentra,81000 km,null,null,Automatic,null,null,null,null,null,null,null,null,6000
+2009,Nissan,Altima,158364 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,6000
+2009,Nissan,Rogue,198000 km,null,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,6200
+2010,Nissan,Murano,258000 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Beige,null,null,Gas,11.8L/100km,8.7L/100km,6495
+2004,Nissan,Sentra,80000 km,Sedan,null,Automatic,FWD,Red,null,null,4 doors,null,null,null,6500
+2022,Nissan,Armada,15995 km,SUV,5.6L V8,Automatic,4x4,Super Black,null,null,4,Gas,17.5L/100km,12.9L/100km,68688
+2010,Nissan,Rogue,170000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,6500
+2009,Nissan,Altima,168000 km,Sedan,4 Cylinder Engine,CVT,FWD,Burgundy,Beige,5,4,Gas,8.9L/100km,6.1L - 6.3L/100km,6500
+2010,Nissan,Murano,229000 km,SUV,null,Automatic,AWD,White,Tan,5,5,Gas,null,null,6795
+2003,Nissan,Xterra,255000 km,null,null,Automatic,4X4,Silver,null,null,4 doors,Gasoline,null,null,6800
+2005,Nissan,Altima,163000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,6950
+2012,Nissan,Versa,114669 km,null,null,null,FWD,Red,Charcoal,null,null,null,null,null,6991
+2009,Nissan,Sentra,205550 km,Sedan,4 Cylinder Engine,CVT,FWD,Gray,Black,5,4,Gas,7.7L - 8.4L/100km,5.8L - 6.4L/100km,6995
+2016,Nissan,Versa,180000 km,Hatchback,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,6999
+2011,Nissan,Altima,178404 km,Sedan,null,Automatic,FWD,Not Specified,null,null,4 doors,Gasoline,null,null,7000
+2019,Nissan,Kicks,19828 km,Hatchback,1.6L 4-Cylinder DOHC 16V,CVT,FWD,Monarch Orange/Super Black,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,22995
+2011,Nissan,SENTRA,181000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,7300
+2009,Nissan,cube,104000 km,Hatchback,null,Automatic,FWD,Grey,null,null,5,Gas,null,null,7500
+2010,Nissan,Murano,221947 km,null,null,Automatic,null,White,null,null,4 doors,Gasoline,null,null,7500
+2009,Nissan,Murano,192737 km,SUV,3.5L,Automatic,null,null,null,null,null,null,null,null,7900
+2011,Nissan,Rogue,180000 km,SUV,4 Cylinder Engine,Automatic,FWD,Purple,null,null,null,Gas,9.0L/100km,7.0L/100km,7900
+2006,Nissan,Xterra,186002 km,SUV,4.0,Automatic,4WD,Dark Grey,Light Grey,5,4,Gas,14.0L - 15.0L/100km,10.4L/100km,7995
+2014,Nissan,Versa,222819 km,Hatchback,4 Cylinder Engine,CVT,FWD,Aspen White Pearl,Grey,5,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,7995
+2008,Nissan,Xterra,225000 km,SUV,V6 Cylinder Engine,null,4WD,null,null,null,null,Gas,13.5L - 14.6L/100km,10.1L - 10.2L/100km,7995
+2011,Nissan,Rogue,173613 km,SUV,2.5,Automatic,FWD,White,Black,5,4,Gas,9.0L/100km,7.0L/100km,7995
+2017,Nissan,Murano,127225 km,Wagon,3.5L 6cyl,CVT,AWD,Brilliant Silver Metallic,Black,null,2,Gas,11.2L/100km,8.4L/100km,22373
+2014,Nissan,Versa,164000 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,8000
+2015,Nissan,Frontier,356000 km,Truck,null,Automatic,4X4,Black,null,null,2 doors,Gasoline,null,null,8000
+2015,Nissan,Versa,191500 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,8000
+2015,Nissan,Rogue,197400 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,8400
+2011,Nissan,Xterra,243229 km,SUV,4L,Automatic,4WD,null,null,null,null,Gas,13.7L - 14.5L/100km,10.1L - 10.5L/100km,8690
+2014,Nissan,Rogue,null,SUV,null,Automatic,AWD,Grey,Black,5,4,Gas,null,null,8800
+2015,Nissan,Micra,204561 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,8888
+2015,Nissan,Sentra,125748 km,Sedan,1.8,Automatic,FWD,Black,Black,4,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,8900
+2013,Nissan,Sentra,127000 km,Sedan,1.8,CVT,FWD,Red,Grey,5,4,Regular Unleaded,null,null,8995
+2022,Nissan,Pathfinder,39307 km,SUV,V6 Cylinder Engine,9 Speed Automatic,4x4,White,Black,7,4,Gas,11.6L/100km,9.2L/100km,51497
+2013,Nissan,Sentra,140000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,8999
+2014,Nissan,Versa,107000 km,Hatchback,null,Automatic,FWD,null,null,null,null,null,null,null,9000
+2015,Nissan,Micra,109500 km,Hatchback,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,9000
+2015,Nissan,Sentra,166100 km,Sedan,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,9000
+2013,Nissan,Sentra,130000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,9300
+2013,Nissan,Rogue,200000 km,SUV,4 Cylinder Engine,CVT,FWD,Brilliant Silver Metallic,Black,5,4,Gas,9.0L/100km,7.0L/100km,9300
+2012,Nissan,Rogue,165602 km,SUV,4 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,9.0L/100km,7.0L/100km,9500
+2014,Nissan,Versa,183000 km,Hatchback,4 Cylinder Engine,CVT,FWD,Super Black,Black,5,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,9500
+2009,Nissan,Sentra,67000 km,Sedan,4 Cylinder Engine,CVT,FWD,Blue,Grey,5,4,Gas,7.7L - 8.4L/100km,5.8L - 6.4L/100km,9500
+2021,Nissan,Kicks,12742 km,SUV,1.6L DOHC 16V 4-Cylinder,CVT,FWD,Boulder Gray Pearl,Charcoal,5,4,Gas,7.7L/100km,6.6L/100km,27800
+2007,Nissan,Xterra,282 km,null,null,Manual,4X4,Black,null,null,4 doors,Gasoline,null,null,9900
+2007,Nissan,Xterra,280 km,null,null,Manual,4X4,Black,null,null,4 doors,Gasoline,null,null,9900
+2011,Nissan,Rogue,150000 km,SUV,2.5,Automatic,AWD,Black,Black,5,4,Gas,9.3L/100km,7.7L/100km,9990
+2014,Nissan,Versa,141297 km,Sedan,4 Cylinder Engine,null,FWD,Blue,null,null,4,Gas,6.1L - 7.4L/100km,4.8L - 5.4L/100km,9995
+2015,Nissan,Rogue,196450 km,SUV,2.5,CVT,AWD,Brilliant Silver Metallic,Black,null,4,Gas,9.5L/100km,7.4L/100km,9995
+2016,Nissan,Altima,224308 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,8.7L - 8.9L/100km,6.0L - 6.3L/100km,9995
+1999,Nissan,Pathfinder,220000 km,null,null,Automatic,null,Beige,null,null,4 doors,Gasoline,null,null,10000
+2014,Nissan,Rogue,218000 km,null,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,10000
+2011,Nissan,Juke,142100 km,Wagon,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline,null,null,10000
+2020,Nissan,Rogue,46911 km,SUV,2.5,Automatic,AWD,White,Beige,5,4,Gas,9.6L/100km,7.5L/100km,35990
+2013,Nissan,Sentra,128000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,10350
+2013,Nissan,Rogue,168000 km,SUV,4 Cylinder Engine,Automatic,FWD,Black,Black,5,4,Gas,9.0L/100km,7.0L/100km,10450
+2013,Nissan,Pathfinder,232000 km,null,null,null,null,null,null,null,null,null,null,null,10500
+2015,Nissan,Micra,100700 km,Hatchback,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,10800
+2015,Nissan,Sentra,152150 km,Sedan,1.8,Automatic,null,White,Black,5,4,Gas,null,null,10898
+2015,Nissan,Altima,189950 km,Sedan,2.5,Automatic,null,Silver,Black,null,null,Gas,null,null,10898
+2016,Nissan,Rogue,202002 km,SUV,null,Automatic,AWD,Grey,Dark Grey,5,5,Gas,null,null,10900
+2012,Nissan,Rogue,190000 km,SUV,null,Automatic,AWD,Not Specified,null,null,null,Gas,null,null,10995
+2012,Nissan,Rogue,190000 km,SUV,null,Automatic,AWD,Not Specified,Black,5,null,Gas,null,null,10995
+2020,Nissan,Altima,23476 km,Sedan,4 Cylinder Engine,Automatic,AWD,Deep Blue Pearl,Black,5,4,Gas,9.3L/100km,6.7L/100km,31590
+2015,Nissan,Rogue,231000 km,SUV,null,null,null,Not Specified,null,null,5,null,null,null,10995
+2014,Nissan,Sentra,74800 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,10999
+2015,Nissan,Sentra,145000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,null,null,null,11200
+2011,Nissan,Pathfinder,169000 km,SUV,4.0,Automatic,4x4,Grey,Grey,7,4,Gas,14.9L/100km,10.3L/100km,11490
+2013,Nissan,Altima,157000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,11500
+2022,Nissan,Altima,11636 km,Sedan,2.5L 4cyl.,Automatic,AWD,Super Black,null,null,4,Gas,9.3L/100km,6.7L/100km,32698
+2022,Nissan,Altima,15462 km,Sedan,2.5L 4cyl.,Automatic,AWD,Glacier White,Charcoal,null,4,Gas,9.1L/100km,6.5L/100km,31499
+2023,Nissan,Rogue,19280 km,SUV,3 Cylinder Engine,CVT,AWD,Caspian Blue 2-Tone Metallic,Black,5,4,Gas,8.4L/100km,6.8L/100km,44995
+2018,Nissan,LEAF,85015 km,Hatchback,Electric Motor,1 Speed Automatic,null,Pearl White,Black,null,null,Electric,null,null,26498
+2022,Nissan,Frontier,90 km,Crew Cab,V6 Cylinder Engine,Automatic,4x4,Cardinal Red Metallic TriCoat,Grey,5,4,Gas,13.7L/100km,10.6L/100km,49576
+2014,Nissan,GT-R,26700 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Gun Metallic,Black,4,2,Gas,12.9L/100km,9.2L/100km,124777
+2014,Nissan,LEAF,97332 km,Hatchback,null,Automatic,FWD,White,null,null,5 doors,Electric,null,null,16900
+2016,Nissan,Versa,139984 km,Hatchback,1.6L 4cyl,6 Speed Automatic,FWD,Super Black,Black,5,4,Gas,7.5L - 8.6L/100km,6.0L - 6.5L/100km,12888
+2016,Nissan,Sentra,139000 km,Sedan,4 Cylinder Engine,CVT,FWD,null,null,5,4,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,14500
+2014,Nissan,Juke,179565 km,SUV,1.6,Automatic,FWD,null,null,null,null,Gas,null,null,11900
+2014,Nissan,Rogue,175000 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,12000
+2015,Nissan,Altima,126393 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,12000
+2013,Nissan,Rogue,140000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,12500
+2020,Nissan,Pathfinder,119665 km,SUV,V6 Cylinder Engine,CVT,4x4,Pearl White,Charcoal,7,4,Gas,12.1L/100km,8.9L/100km,32108
+2016,Nissan,Altima,171000 km,Sedan,null,Automatic,null,Grey,null,null,4 doors,Gasoline,null,null,12500
+2015,Nissan,Micra,79335 km,Hatchback,null,Automatic,FWD,Red,null,null,4 doors,Gasoline,null,null,12500
+2012,Nissan,Altima,104000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,12800
+2013,Nissan,Juke,78000 km,SUV,null,Automatic,AWD,White,Dark Grey,5,5,Gas,null,null,12895
+2016,Nissan,Sentra,111781 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,12900
+2014,Nissan,Sentra,141640 km,Sedan,4 Cylinder Engine,Automatic,FWD,Gray,Black,null,4,Gas,6.6L - 7.5L/100km,5.0L - 5.5L/100km,12995
+2015,Nissan,Pathfinder,190715 km,SUV,3.5,Automatic,AWD,White,Grey,7,5,Gas,null,null,12995
+2014,Nissan,Rogue,212562 km,SUV,2.5,CVT,AWD,Dark Grey,Black,5,4,Gas,8.2L/100km,6.2L/100km,12995
+2016,Nissan,Pathfinder,171172 km,SUV,V6 Cylinder Engine,CVT,4x4,Gun Metallic,Black,7,4,Gas,12.1L - 12.7L/100km,8.9L - 9.0L/100km,12999
+2018,Nissan,LEAF,69350 km,Sedan,Electric Motor,1 Speed Automatic,FWD,Pearl White,Black,5,4,Electric,null,null,29608
+2015,Nissan,Sentra,93000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,13000
+2015,Nissan,Rogue,187500 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,13088
+2015,Nissan,Micra,121221 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Fresh Powder,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,13888
+2017,Nissan,Micra,53650 km,Hatchback,null,Automatic,FWD,Red,null,null,4 doors,Gasoline,null,null,13900
+2017,Nissan,Micra,93879 km,null,null,null,FWD,Black,Charcoal,null,null,null,null,null,13991
+2013,Nissan,Pathfinder,155667 km,null,null,Automatic,4x4,Black,Black,null,null,null,null,null,13991
+2017,Nissan,Altima,167000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,14000
+2018,Nissan,Sentra,152100 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,14700
+2017,Nissan,Sentra,108690 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,14800
+2018,Nissan,Murano,76980 km,Wagon,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.3L/100km,28345
+2017,Nissan,Sentra,114222 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,14888
+2017,Nissan,Frontier,280000 km,Crew Cab,4.0L,Automatic,4x4,Black,Grey,5,4,Gas,15.8L/100km,11.5L/100km,14995
+2014,Nissan,Pathfinder,186000 km,SUV,3.5L,Automatic,4x4,Black,Black,null,null,Gas,null,null,14999
+2016,Nissan,Juke,140 km,null,null,Automatic,null,Black,null,null,4 doors,Gasoline,null,null,15000
+2017,Nissan,Rogue,196117 km,null,null,Automatic,AWD,Beige,null,null,4 doors,Gasoline,null,null,15700
+2013,Nissan,LEAF,113131 km,Hatchback,Electric Motor,Automatic,FWD,Metallic Slate,Black,5,5,Electric,null,null,15800
+2014,Nissan,Pathfinder,129986 km,SUV,null,Automatic,AWD,Black,Black,null,4,Gas,null,null,15988
+2016,Nissan,Murano,null,SUV,3.5L 6-Cyl,Automatic,AWD,Black,Black,5,4,Gas,11.2L/100km,8.3L/100km,15995
+2017,Nissan,Rogue,204742 km,SUV,2.5,Automatic,AWD,Gun Metallic,Black,null,4,Gas,9.6L/100km,7.4L/100km,15995
+2019,Nissan,Maxima,44533 km,Sedan,V6 Cylinder Engine,CVT,AWD,Pearl White,Black,5,4,Gas,11.6L/100km,7.9L/100km,31977
+2015,Nissan,Rogue,159900 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,9.5L/100km,7.4L/100km,15995
+2004,Nissan,350Z,140000 km,Coupe,null,Manual,RWD,Green,null,null,2 doors,Gasoline,null,null,16000
+2015,Nissan,Rogue,98000 km,null,null,Automatic,RWD,Black,null,null,4 doors,Gasoline,null,null,16800
+2016,Nissan,Juke,140 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,16950
+2012,Nissan,Altima,110000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,16999
+2017,Nissan,Sentra,112000 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,17000
+2016,Nissan,LEAF,57000 km,Hatchback,null,Automatic,FWD,Black,null,null,5 doors,Electric,null,null,17500
+2018,Nissan,Versa,79250 km,Hatchback,null,Automatic,FWD,Orange,null,null,4 doors,null,null,null,17500
+2020,Nissan,Kicks,92940 km,SUV,4 Cylinder Engine,CVT,FWD,Deep Blue Pearl,Black,5,4,Gas,7.7L/100km,6.6L/100km,17880
+2018,Nissan,LEAF,43876 km,Compact,Electric Motor,Automatic,FWD,White,Black,null,4,Electric,null,null,29699
+2019,Nissan,Micra,33244 km,Hatchback,1.6L,Automatic,FWD,Red,Black,null,4,Gas,8.7L - 9.0L/100km,6.8L/100km,17995
+2016,Nissan,Rogue,129097 km,SUV,null,null,AWD,White,Black,5,5,null,null,null,17999
+2015,Nissan,Murano,107000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,18500
+2016,Nissan,Rogue,98500 km,null,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,19500
+1990,Nissan,240SX,154786 km,Hatchback,4 Cylinder Engine,null,null,Black,Grey,5,2,Gas,null,null,19995
+2017,Nissan,Rogue,65200 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,20000
+2018,Nissan,Rogue,102222 km,null,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,20750
+2019,Nissan,Kicks,88000 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,20800
+2019,Nissan,Kicks,86400 km,SUV,1.6,Automatic,FWD,Dark Blue,Black,5,5,Gas,null,null,21000
+2023,Nissan,Rogue,10995 km,SUV,1.5L DOHC,CVT,AWD,Gun Metallic,Charcoal,null,4,Gas,8.4L/100km,6.8L/100km,42843
+2017,Nissan,Rogue,90400 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,21000
+2015,Nissan,Frontier,1854445 km,Truck,null,Automatic,4x4,White,Grey,null,null,null,null,null,21291
+2010,Nissan,370Z,160679 km,Coupe,null,Manual,RWD,Grey,null,null,2 doors,Gasoline,null,null,21500
+2018,Nissan,Murano,99000 km,null,null,Automatic,null,Black,null,null,5 doors,Gasoline,null,null,21900
+2015,Nissan,Murano,85443 km,null,null,Automatic,AWD,Brown,Charcoal,null,null,null,null,null,21991
+2018,Nissan,Rogue,48211 km,null,null,Automatic,FWD,Black,Charcoal,null,null,null,null,null,21991
+2010,Nissan,370Z,97000 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,21999
+2015,Nissan,Murano,87000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,22000
+2018,Nissan,Qashqai,69689 km,null,null,Automatic,AWD,White,Charcoal,null,null,null,null,null,22491
+2022,Nissan,Altima,14758 km,Sedan,2.5L 4cyl.,Automatic,AWD,Scarlet Ember Tintcoat,Charcoal,null,4,Gas,9.3L/100km,6.7L/100km,36000
+2018,Nissan,Rogue,58000 km,null,null,Automatic,FWD,Black,Charcoal,null,null,null,null,null,22991
+2018,Nissan,Qashqai,15332 km,null,null,null,FWD,Black,Charcoal,null,null,null,null,null,22991
+2019,Nissan,Kicks,14553 km,null,null,Automatic,FWD,Black,Charcoal,null,null,null,null,null,23291
+2020,Nissan,NV200,54510 km,Minivan,4 Cylinder Engine,Automatic,FWD,White,Black,null,4,Gas,9.8L/100km,8.8L/100km,23935
+2021,Nissan,Sentra,23000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,23999
+2018,Nissan,LEAF,82000 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Electric,null,null,24500
+2018,Nissan,LEAF,82220 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Electric,null,null,24500
+2020,Nissan,Qashqai,90511 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,24887
+2019,Nissan,Rogue,85000 km,null,null,Automatic,FWD,Grey,Grey,null,null,null,null,null,24991
+2015,Nissan,Murano,86121 km,SUV,V6 Cylinder Engine,Automatic,FWD,Gun Metallic,null,null,null,Gas,11.0L/100km,8.2L/100km,18889
+2021,Nissan,Kicks,52000 km,null,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,24999
+2019,Nissan,Altima,34000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,25500
+2020,Nissan,Rogue,50200 km,null,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,26000
+2019,Nissan,Rogue,72000 km,SUV,2.5,Automatic,AWD,Grey,Grey,null,4,Gas,9.6L/100km,7.5L/100km,26555
+2022,Nissan,Kicks,20000 km,null,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,27000
+2020,Nissan,Rogue,4400 km,SUV,4 Cylinder Engine,CVT,AWD,Gun Metallic,Black,null,null,Gas,9.6L/100km,7.5L/100km,27900
+2018,Nissan,LEAF,90449 km,Sedan,null,Automatic,FWD,White,null,null,5 doors,Electric,null,null,28500
+2020,Nissan,Rogue,null,SUV,4 Cylinder Engine,CVT,FWD,Caspian Blue Metallic,Black,5,4,Gas,9.1L/100km,7.1L/100km,28995
+2019,Nissan,Rogue,27094 km,null,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,29000
+2019,Nissan,Pathfinder,83468 km,SUV,V-6 cyl,Automatic,4x4,Glacier White,Charcoal,null,null,Regular Unleaded,12.1L - 12.4L/100km,8.9L - 9.2L/100km,32899
+2019,Nissan,Frontier,86149 km,Truck,null,Automatic,FWD,Black,null,null,4 doors,null,null,null,29500
+2020,Nissan,Rogue,17155 km,null,null,Automatic,FWD,White,Charcoal,null,null,null,null,null,29991
+2020,Nissan,Rogue,40597 km,null,null,Automatic,AWD,Grey,Charcoal,null,null,null,null,null,29991
+2020,Nissan,Murano,65553 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,31989
+2020,Nissan,Rogue,46113 km,null,null,Automatic,AWD,Blue,Charcoal,null,null,null,null,null,31991
+2020,Nissan,Rogue,46000 km,null,null,Automatic,AWD,White,Black,null,null,null,null,null,31991
+2019,Nissan,Rogue,39245 km,null,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,33000
+2017,Nissan,Rogue,179260 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,33600
+2017,Nissan,Rogue,176000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,33700
+2021,Nissan,LEAF,14435 km,Hatchback,Electric,Automatic,FWD,Gun Metallic,null,5,4,Electric,null,null,41995
+2019,Nissan,Frontier,33789 km,Truck,null,Automatic,4x4,Grey,Charcoal,null,null,null,null,null,36991
+2021,Nissan,Rogue,18000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,36999
+2019,Nissan,Murano,42398 km,null,null,Automatic,AWD,Blue,Charcoal,null,null,null,null,null,37991
+2022,Nissan,Pathfinder,15 km,null,null,Automatic,4x4,Charcoal,Black,null,null,null,null,null,57668
+1996,Nissan,300,100000 km,Coupe,null,Manual,RWD,Green,null,null,2 doors,Gasoline,null,null,65000
+2015,Nissan,GT-R,73000 km,Coupe,null,null,AWD,Blue,null,null,2 doors,Gasoline,null,null,110000
+2016,Nissan,Sentra,234000 km,Sedan,I-4 cyl,Automatic,FWD,Super Black,Charcoal,null,null,Gas,8.0L - 8.9L/100km,6.1L - 6.6L/100km,10900
+2009,Nissan,Versa,241636 km,Hatchback,1.8L I4 122HP 127FT. LBS.,Automatic,FWD,Red Alert Metallic,Black,null,5,Gas,7.3L - 8.5L/100km,5.8L - 6.3L/100km,3990
+2008,Nissan,Sentra,129984 km,Sedan,4 CYL,Automatic,FWD,BURGUBNDY,Grey,5,4,Gas,8.2L - 8.3L/100km,6.0L - 6.4L/100km,5990
+2016,Nissan,LEAF,79638 km,Hatchback,Electric Motor,Automatic,FWD,Gun Metallic,Black,5,4,Electric,null,null,14999
+2015,Nissan,Micra,108269 km,Hatchback,1.6L 4cyl,4 Speed Automatic,FWD,Super Black,Black,5,4,Gas,8.6L - 8.8L/100km,6.6L/100km,10888
+2015,Nissan,Micra,61936 km,Hatchback,1.6 L Inline4,Automatic,FWD,Brilliant Silver Metallic,null,5,4,Regular Unleaded,8.6L - 8.8L/100km,6.6L/100km,15495
+2017,Nissan,Frontier,122542 km,Truck Extended Cab,2.5,5 Speed Automatic,RWD,Magnetic Black Metallic,Charcoal,null,4,Gas,13.5L/100km,10.5L/100km,16995
+2019,Nissan,NV200,null,Minivan,4 Cylinder Engine,CVT,FWD,Fresh Powder,Black,2,4,Gas,9.8L/100km,8.8L/100km,27995

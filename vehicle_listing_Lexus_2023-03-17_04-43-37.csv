@@ -1,0 +1,943 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Lexus,RX,78151 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,6,4,Gas,13.1L/100km,9.4L/100km,44888
+2020,Lexus,UX,51188 km,SUV,4 Cylinder Engine,CVT,AWD,BLUE,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,37895
+2020,Lexus,UX,63000 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40750
+2022,Lexus,ES,7245 km,Sedan,I-4 cyl,Automatic,FWD,Caviar,Black,null,null,Regular Unleaded,5.5L/100km,5.2L/100km,55900
+2022,Lexus,RX,25511 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,66888
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2020,Lexus,IS,29890 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,null,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2023,Lexus,NX,180 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,2,Premium Unleaded,null,null,58235
+2017,Lexus,RX,82461 km,SUV,3.5L 6-Cylinder SMPI DOHC 24V,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,38999
+2012,Lexus,RX,118600 km,SUV,3.5,Automatic,AWD,Tungsten Pearl,Grey,5,4,Gas,11.8L/100km,8.3L/100km,20488
+2015,Lexus,RX,210000 km,SUV,6 Cylinder,Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,20995
+2015,Lexus,RX,155000 km,SUV,6 Cylinder,Automatic,AWD,White,Black,5,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,23999
+2013,Lexus,RX,147541 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Silver Lining Metallic,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,23999
+2021,Lexus,RX,0 km,SUV,Regular Unleaded V-6 3.5 L/211,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,61588
+2015,Lexus,IS,74204 km,Sedan,Premium Unleaded V-6 2.5 L/152,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,11.8L/100km,8.7L/100km,24998
+2016,Lexus,NX,128966 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,25288
+2017,Lexus,IS,116464 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Tan,Black,null,null,Gas,12.6L/100km,9.2L/100km,25995
+2016,Lexus,NX,105687 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,null,Gas,null,null,26995
+2017,Lexus,NX,104938 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,27790
+2016,Lexus,NX,103548 km,SUV,4 Cylinder,Automatic,AWD,Ultra White,Black,null,4,Gas,10.6L/100km,8.4L/100km,29800
+2017,Lexus,IS,44740 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Redline,null,null,2,Premium Unleaded,12.6L/100km,9.2L/100km,31490
+2018,Lexus,IS,86395 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Beige,null,4,Gas,12.6L/100km,9.2L/100km,31588
+2019,Lexus,NX,82391 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Black,null,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,31888
+2020,Lexus,NX,36719 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,38490
+2018,Lexus,NX,107000 km,SUV,4 Cylinder,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.6L/100km,8.5L/100km,31999
+2019,Lexus,NX,57213 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,32388
+2019,Lexus,NX,65707 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,null,Gas,10.7L/100km,8.5L/100km,32888
+2019,Lexus,NX,59508 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,BLACK,Black,5,4,Gas,10.7L/100km,8.5L/100km,33488
+2019,Lexus,NX,66069 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,33990
+2018,Lexus,IS,72125 km,Sedan,V-6 cyl,Automatic,AWD,Black,null,null,null,Premium Unleaded,12.3L/100km,9.1L/100km,33999
+2019,Lexus,NX,75557 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,34390
+2018,Lexus,IS,74111 km,Sedan,V6 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,12.3L/100km,9.1L/100km,34490
+2019,Lexus,NX,65728 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,10.7L/100km,8.5L/100km,34785
+2021,Lexus,RX,39947 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Caviar,Beige,5,4,Gas,12.2L/100km,9.0L/100km,54888
+2016,Lexus,RX,150000 km,SUV,3.5L,Automatic,AWD,Satin Cashmere Metallic,null,5,4,Gas,12.2L/100km,8.9L/100km,34888
+2019,Lexus,NX,46053 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,34996
+2019,Lexus,IS,34333 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Red,5,4,Gas,12.3L/100km,9.1L/100km,35890
+2020,Lexus,NX,68316 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Nebula Grey Pearl,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,36590
+2019,Lexus,NX,38884 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,10.7L/100km,8.5L/100km,36795
+2019,Lexus,NX,65453 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,36888
+2020,Lexus,NX,32851 km,SUV,I-4 cyl,Automatic,AWD,Nebula Grey Pearl,null,null,null,Premium Unleaded,10.7L/100km,8.4L/100km,36900
+2019,Lexus,UX,65579 km,SUV,2.0L 4cyl,CVT,AWD,Nebula Grey Pearl,Black,null,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,36995
+2020,Lexus,NX,49286 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,37290
+2022,Lexus,ES,30330 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,FWD,null,Black,null,4,Gas,10.7L/100km,7.3L/100km,52995
+2019,Lexus,NX,70748 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Black,null,4,Gas,10.7L/100km,8.5L/100km,37495
+2019,Lexus,IS,18905 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Silver,Black,5,4,Gas,12.3L/100km,9.1L/100km,37554
+2020,Lexus,NX,59896 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,BLACK,Black,5,4,Gas,10.7L/100km,8.4L/100km,37887
+2020,Lexus,NX,55590 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.7L/100km,8.4L/100km,37888
+2019,Lexus,NX,52719 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,BLACK,Black,5,4,Gas,10.7L/100km,8.5L/100km,37888
+2020,Lexus,UX,51188 km,SUV,4 Cylinder Engine,CVT,AWD,BLUE,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,37895
+2020,Lexus,NX,46084 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Black,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,37990
+2020,Lexus,NX,22595 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,38290
+2020,Lexus,NX,47809 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,38588
+2023,Lexus,UX,2500 km,SUV,4,CVT,AWD,Iridium,null,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,59995
+2020,Lexus,NX,37085 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,38588
+2019,Lexus,IS,33907 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Black,5,4,Gas,12.3L/100km,9.1L/100km,38888
+2020,Lexus,NX,48151 km,SUV,2.0,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,38888
+2019,Lexus,NX,21945 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,39800
+2019,Lexus,RX,97500 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,39888
+2020,Lexus,NX,52428 km,SUV,2.0,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.4L/100km,39888
+2020,Lexus,NX,41316 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.4L/100km,39988
+2020,Lexus,NX,67584 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,39990
+2018,Lexus,RX,106882 km,SUV,3.5L,Automatic,AWD,Caviar,Brown,7,4,Gas,13.1L/100km,9.4L/100km,39995
+2022,Lexus,NX,8100 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.4 L/146,Automatic,AWD,Cloudburst Grey,null,5,4,Gas,null,null,56988
+2020,Lexus,NX,33450 km,SUV,I-4 cyl,Automatic,AWD,White,Red,null,null,Premium Unleaded,10.7L/100km,8.5L/100km,39998
+2019,Lexus,NX,29200 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Black,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,39999
+2016,Lexus,GX,139000 km,SUV,8 Cylinder,Automatic,4x4,Starfire Pearl,Black,7,4,Gas,15.7L/100km,11.7L/100km,39999
+2020,Lexus,UX,25262 km,SUV,2.0L 4cyl,CVT,AWD,null,null,null,2,Gasoline Hybrid,5.7L/100km,6.2L/100km,40290
+2020,Lexus,NX,33250 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,8.4L/100km,40588
+2020,Lexus,UX,63000 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40750
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2020,Lexus,NX,47219 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Premium Unleaded,10.7L/100km,8.5L/100km,41189
+2021,Lexus,NX,40268 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Red,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,41788
+2015,Lexus,RX,94536 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Nightfall Mica,Brown,5,4,Gas,12.2L/100km,8.9L/100km,35288
+2020,Lexus,NX,61617 km,SUV,2.0,6 Speed Automatic,AWD,Nebula Grey Pearl,Brown,5,4,Gas,10.7L/100km,8.5L/100km,41888
+2018,Lexus,IS,36491 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.6L/100km,9.2L/100km,41888
+2020,Lexus,NX,20653 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,null,null,Gas,10.7L/100km,8.4L/100km,41995
+2018,Lexus,RX,74278 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,null,null,4,Gas,12.2L/100km,9.0L/100km,41995
+2021,Lexus,NX,24351 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Black,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,42290
+2018,Lexus,RX,47582 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Bronze,Beige,5,4,Gas,12.2L/100km,9.0L/100km,42788
+2020,Lexus,UX,26697 km,SUV,4 Cylinder Engine,CVT,AWD,WHITE,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,42888
+2021,Lexus,NX,11679 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,null,Gas,10.7L/100km,8.5L/100km,43500
+2019,Lexus,IS,40286 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.3L/100km,9.1L/100km,43510
+2019,Lexus,IS,56000 km,Sedan,3.5,Automatic,AWD,Black,Red,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2020,Lexus,NX,32700 km,SUV,2.0,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,43888
+2021,Lexus,NX,66269 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,43989
+2021,Lexus,NX,45389 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Red,null,4,Gas,10.7L/100km,8.5L/100km,44495
+2019,Lexus,RX,44594 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nightfall Mica,Black,null,4,Gas,12.2L/100km,9.0L/100km,44588
+2018,Lexus,RX,78151 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,6,4,Gas,13.1L/100km,9.4L/100km,44888
+2022,Lexus,NX,11000 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,Black,null,null,Regular Unleaded,9.4L/100km,7.4L/100km,44900
+2020,Lexus,RX,76373 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,null,4,Gas,12.2L/100km,9.0L/100km,44995
+2020,Lexus,RX,28489 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,9.0L/100km,45788
+2020,Lexus,NX,15853 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Nebula Grey Pearl,Red,null,4,Gas,10.7L/100km,8.5L/100km,45995
+2018,Lexus,IS,86395 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Beige,null,4,Gas,12.6L/100km,9.2L/100km,31588
+2021,Lexus,IS,1000 km,Sedan,3.5L,Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,46888
+2020,Lexus,RX,66986 km,SUV,Regular Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,46990
+2021,Lexus,NX,26082 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Caviar,Red,null,4,Gas,10.7L/100km,8.5L/100km,46995
+2020,Lexus,RX,63854 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,46995
+2019,Lexus,NX,27979 km,SUV,2.5L 4cyl,CVT,AWD,Blue Vortex Metallic,Black,null,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,46995
+2020,Lexus,NX,43479 km,SUV,2.5L 4cyl,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,46995
+2019,Lexus,RX,63412 km,SUV,3.5L,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,46995
+2020,Lexus,RX,29948 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,null,null,2,Gas,12.2L/100km,9.0L/100km,47290
+2021,Lexus,RX,52086 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,47388
+2021,Lexus,UX,24707 km,SUV,2,Automatic,AWD,Black,Black,5,4,Gasoline Hybrid,null,null,45900
+2021,Lexus,NX,20083 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,47588
+2019,Lexus,RX,46843 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,BLACK,Black,5,4,Gas,12.2L/100km,9.0L/100km,47888
+2021,Lexus,NX,22793 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Red,5,4,Gas,10.7L/100km,8.5L/100km,47888
+2017,Lexus,RX,53214 km,SUV,V6 Cylinder Engine,CVT,AWD,WHITE,Brown,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,47888
+2020,Lexus,RX,69584 km,SUV,3.5L,Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,47888
+2021,Lexus,RX,49867 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,48388
+2020,Lexus,RX,44852 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,9.0L/100km,48588
+2021,Lexus,IS,19749 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,12.2L/100km,9.0L/100km,48800
+2021,Lexus,IS,26584 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,48888
+2020,Lexus,RX,39080 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,null,Gas,13.1L/100km,9.4L/100km,52900
+2020,Lexus,RX,27450 km,SUV,3.5L 6-Cylinder DOHC,Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,48988
+2020,Lexus,RX,48108 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,null,null,2,Gas,12.2L/100km,9.0L/100km,48990
+2020,Lexus,RX,73398 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,null,null,2,Gas,12.4L/100km,9.0L/100km,48990
+2020,Lexus,RX,37636 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,null,4,Gas,12.2L/100km,9.0L/100km,48995
+2020,Lexus,RX,57100 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,49239
+2020,Lexus,RX,48732 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,BLACK,Black,5,4,Gas,12.2L/100km,9.0L/100km,49888
+2021,Lexus,UX,42038 km,SUV,4 Cylinder Engine,CVT,AWD,BLACK,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,45688
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2023,Lexus,NX,1153 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Red,null,2,Premium Unleaded,null,null,60885
+2022,Lexus,RX,25511 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,66888
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2022,Lexus,RC,9251 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Cloudburst Grey,Black,4,2,Gas,12.2L/100km,9.0L/100km,57888
+2018,Lexus,LS,45444 km,Sedan,3.5L 6 Cyl,Automatic,AWD,Black,Black,5,4,Gas,13.0L/100km,8.7L/100km,73888
+2008,Lexus,SC,297100 km,Convertible,8 Cylinder Engine,Automatic,null,null,null,null,null,Gas,12.9L/100km,8.8L/100km,18995
+2020,Lexus,RX,36598 km,SUV,V-6 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Regular Unleaded,12.2L/100km,9.0L/100km,45900
+2020,Lexus,RX,32624 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,12.2L/100km,9.0L/100km,49888
+2023,Lexus,NX,3422 km,null,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,null,null,Caviar,null,null,null,Gas,null,null,49888
+2021,Lexus,RX,34675 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,null,2,Gas,12.2L/100km,9.0L/100km,49990
+2021,Lexus,ES,44614 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,7.2L/100km,49999
+2022,Lexus,NX,9700 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.4 L/146,Automatic,AWD,Ultra White,null,5,4,Gas,10.7L/100km,8.4L/100km,58988
+2023,Lexus,NX,760 km,SUV,2.5L 4cyl,8 Speed Automatic,AWD,Caviar,Black,null,2,Gas,9.4L/100km,7.4L/100km,50225
+2023,Lexus,NX,2500 km,SUV,2.5L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Gas,9.4L/100km,7.4L/100km,50285
+2021,Lexus,NX,6462 km,SUV,4 Cylinder Engine,Automatic,AWD,Atomic Silver,null,null,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,50564
+2022,Lexus,IS,3579 km,Sedan,V6 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,12.2L/100km,9.0L/100km,50812
+2021,Lexus,NX,8066 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White Pearl,null,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,51916
+2020,Lexus,RX,35168 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Red,null,4,Gas,12.2L/100km,9.0L/100km,51995
+2017,Lexus,GX,45029 km,SUV,8 Cylinder Engine,Automatic,4WD,Starfire Pearl,null,null,null,Gas,16.0L/100km,12.9L/100km,52021
+2021,Lexus,RX,22023 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Atomic Silver,null,null,2,Gas,12.2L/100km,9.0L/100km,52490
+2023,Lexus,ES,4142 km,Sedan,2.5L 4cyl,8 Speed Automatic,AWD,Caviar,Black,null,2,Gas,9.5L/100km,7.0L/100km,52795
+2019,Lexus,NX,73958 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,35995
+2019,Lexus,RX,119167 km,SUV,3.5L 6cyl,CVT,AWD,Atomic Silver,Black,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,52888
+2021,Lexus,RX,24406 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Beige,5,4,Gas,12.2L/100km,9.0L/100km,52995
+2021,Lexus,IS,33630 km,Sedan,V-6 cyl,6 Speed Automatic,AWD,Ultra White,White,null,null,Premium Unleaded,12.2L/100km,9.0L/100km,53500
+2021,Lexus,ES,34598 km,Sedan,2.5L 4cyl,CVT,FWD,Caviar,Brown,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,53888
+2021,Lexus,IS,17761 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Ultrasonic Blue Mica 2.0,null,null,2,Premium Unleaded,12.2L/100km,9.0L/100km,53890
+2020,Lexus,RX,38679 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,WHITE,Black,5,4,Gas,12.2L/100km,9.0L/100km,54500
+2021,Lexus,RX,33933 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,54888
+2021,Lexus,RX,11207 km,SUV,3.5L V6 DOHC 24V,Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,54999
+2023,Lexus,ES,874 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,White,Black,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,55295
+2020,Lexus,NX,63252 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,null,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,44498
+2022,Lexus,NX,26712 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Black,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,55785
+2022,Lexus,ES,7245 km,Sedan,I-4 cyl,Automatic,FWD,Caviar,Black,null,null,Regular Unleaded,5.5L/100km,5.2L/100km,55900
+2022,Lexus,RX,14545 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,null,null,null,4,Gas,12.2L/100km,9.0L/100km,56499
+2022,Lexus,RX,20503 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,WHITE,Beige,5,4,Gas,12.2L/100km,9.0L/100km,56888
+2022,Lexus,ES,7513 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,Ultrasonic Blue Mica 2.0,null,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,56990
+2021,Lexus,RX,21037 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,null,null,2,Gas,12.2L/100km,9.0L/100km,57290
+2021,Lexus,RX,10105 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,57588
+2022,Lexus,RX,60000 km,SUV,3.5L,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,57880
+2020,Lexus,RX,50228 km,SUV,3.5L 6cyl,CVT,AWD,Black,Black,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,57888
+2019,Lexus,RX,44594 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nightfall Mica,Black,null,4,Gas,12.2L/100km,9.0L/100km,44588
+2022,Lexus,NX,4172 km,SUV,2.5L 4cyl,CVT,AWD,Atomic Silver,null,null,2,Gasoline Hybrid,5.7L/100km,6.4L/100km,57990
+2023,Lexus,NX,1532 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Red,null,2,Premium Unleaded,null,null,58235
+2022,Lexus,RX,11165 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,null,null,null,2,Gas,12.2L/100km,9.0L/100km,58888
+2021,Lexus,RX,27024 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Black,5,4,Gas,12.2L/100km,9.0L/100km,58988
+2022,Lexus,RX,8308 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,null,null,2,Gas,12.2L/100km,9.0L/100km,59488
+2021,Lexus,RX,11524 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,null,2,Gas,12.2L/100km,9.0L/100km,59590
+2022,Lexus,RX,18768 km,SUV,V-6 cyl,Automatic,AWD,Atomic Silver,null,null,null,Regular Unleaded,12.2L/100km,9.0L/100km,59900
+2018,Lexus,LS,67969 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,13.0L/100km,8.7L/100km,59910
+2023,Lexus,NX,1153 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Red,null,2,Premium Unleaded,null,null,60885
+2023,Lexus,RX,9949 km,SUV,4,Automatic,AWD,Eminent White Pearl,null,5,4,Gas,11.2L/100km,8.4L/100km,73995
+2022,Lexus,NX,8825 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nori Green Pearl,null,null,2,Premium Unleaded,null,null,61290
+2023,Lexus,NX,7000 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Caviar,Black,null,2,Premium Unleaded,null,null,62525
+2023,Lexus,NX,2322 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Premium Unleaded,null,null,62585
+2022,Lexus,RC,13280 km,Sedan,Engine: 3.5L DOHC V6 Direct Injection w/VVT-i -inc,6 Speed Automatic,AWD,Ultra White,Black,null,null,Gas,12.2L/100km,9.0L/100km,62888
+2023,Lexus,NX,2160 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,2,Premium Unleaded,null,null,63025
+2023,Lexus,NX,3900 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Red,null,2,Premium Unleaded,null,null,63025
+2023,Lexus,NX,1688 km,null,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Beige,null,2,Premium Unleaded,null,null,63025
+2022,Lexus,RX,13973 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Brown,6,4,Gas,13.1L/100km,9.4L/100km,63995
+2022,Lexus,RX,19200 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Red,null,4,Gas,12.2L/100km,9.0L/100km,63995
+2017,Lexus,GX,45029 km,SUV,8 Cylinder Engine,Automatic,4WD,Starfire Pearl,null,null,null,Gas,16.0L/100km,12.9L/100km,52021
+2022,Lexus,RX,19477 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,null,2,Gas,12.2L/100km,9.0L/100km,64590
+2022,Lexus,NX,1948 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,WHITE,Black,5,4,Gas,null,null,64800
+2023,Lexus,RX,4500 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,65585
+2018,Lexus,GX,31789 km,SUV,8 Cylinder Engine,Automatic,4x4,Starfire Pearl,Black,7,4,Gas,16.0L/100km,12.9L/100km,65995
+2023,Lexus,RX,3700 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,66025
+2022,Lexus,RX,1195 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,4,Gas,12.2L/100km,9.0L/100km,66255
+2022,Lexus,RX,11300 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,66500
+2022,Lexus,RX,22869 km,SUV,3.5L 6cyl,CVT,AWD,Atomic Silver,null,null,2,Gasoline Hybrid,7.5L/100km,8.4L/100km,66888
+2022,Lexus,RX,25511 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,66888
+2019,Lexus,UX,29104 km,SUV,4 Cylinder Engine 2.0L,CVT,AWD,Atomic Silver,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,42695
+2022,Lexus,RC,7459 km,Coupe,3.5L 6cyl,6 Speed Automatic,AWD,Ultrasonic Blue Mica 2.0,Black,null,2,Premium Unleaded,12.2L/100km,9.0L/100km,66975
+2023,Lexus,RX,9500 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Caviar,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68125
+2023,Lexus,RX,5107 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68625
+2023,Lexus,RX,4264 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2023,Lexus,RX,1900 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2023,Lexus,RX,2000 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2023,Lexus,RX,1669 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2022,Lexus,RX,11135 km,SUV,3.5L 6cyl,CVT,AWD,White,Orange,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,69588
+2021,Lexus,GX,26495 km,SUV,4.6L 8cyl,6 Speed Automatic,4x4,Atomic Silver,Red,null,4,Gas,16.2L/100km,12.3L/100km,70495
+2022,Lexus,NX,11000 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,Black,null,null,Regular Unleaded,9.4L/100km,7.4L/100km,44900
+2022,Lexus,IS,2214 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Incognito,Black,5,4,Gas,14.1L/100km,9.3L/100km,75995
+2022,Lexus,RX,3500 km,SUV,V-6 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,7.5L/100km,8.4L/100km,78650
+2023,Lexus,GX,3000 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Eminent White Pearl,Grey,7,4,Gas,16.2L/100km,12.3L/100km,88888
+2018,Lexus,LC,38867 km,Coupe,6 Cylinder,Automatic,RWD,Caviar,null,null,2,Gasoline Hybrid,8.9L/100km,7.0L/100km,93800
+2021,Lexus,LC,7995 km,Convertible,8 Cylinder Engine,10 Speed Automatic,RWD,Infrared,Beige,4,2,Gas,16.0L/100km,9.5L/100km,121995
+2010,Lexus,RX,202750 km,SUV,3.5,Automatic,AWD,Tungsten Pearl,Black,5,4,Gas,11.6L/100km,8.2L/100km,14488
+2007,Lexus,RX,139551 km,SUV,V6 Cylinder Engine,CVT,4x4,Silver,Black,5,4,Gasoline Hybrid,7.7L/100km,8.3L/100km,14888
+2011,Lexus,RX,181800 km,SUV,3.5,Automatic,AWD,Gray,Black,null,4,Gas,11.6L/100km,8.1L/100km,14950
+2011,Lexus,RX,243698 km,SUV,V6 Cylinder Engine,CVT,AWD,Tungsten Pearl,Black,5,4,Gasoline Hybrid,6.7L/100km,7.2L/100km,15900
+2022,Lexus,RX,18768 km,SUV,V-6 cyl,Automatic,AWD,Atomic Silver,null,null,null,Regular Unleaded,12.2L/100km,9.0L/100km,59900
+2011,Lexus,RX,149175 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,Starfire Pearl,null,null,2,Premium Unleaded,11.6L/100km,8.1L/100km,15990
+2016,Lexus,IS,165670 km,Sedan,3.5L,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.6L/100km,9.2L/100km,21995
+2017,Lexus,ES,207194 km,Sedan,3.5L,Automatic,FWD,Beige,Beige,5,4,Gas,11.4L/100km,7.7L/100km,22888
+2013,Lexus,RX,158589 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Starfire Pearl,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,23888
+2013,Lexus,RX,135000 km,SUV,V6 Cylinder Engine,CVT,AWD,Starfire Pearl,Tan,5,4,Gasoline Hybrid,null,null,25777
+2016,Lexus,IS,113700 km,Sedan,3.5,Automatic,AWD,Ultrasonic Blue Mica 2.0,Black,5,4,Gas,12.6L/100km,9.2L/100km,26888
+2016,Lexus,ES,103868 km,Sedan,V-6 cyl,Automatic,FWD,Caviar,Tan,null,null,Regular Unleaded,11.4L/100km,7.6L/100km,26995
+2017,Lexus,IS,101000 km,Sedan,3.5L V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.6L/100km,9.2L/100km,28950
+2016,Lexus,NX,107000 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,10.6L/100km,8.4L/100km,29995
+2022,Lexus,RX,18148 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Caviar,Cream,5,4,Gas,12.2L/100km,9.0L/100km,57990
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2014,Lexus,RX,124863 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,White,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,31500
+2015,Lexus,RX,125528 km,SUV,V6 Cylinder Engine,null,AWD,Starlight Black Mica,Black,5,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,31995
+2017,Lexus,IS,109675 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Red,5,4,Gas,12.6L/100km,9.2L/100km,33890
+2016,Lexus,RX,123000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Red,5,4,Gas,12.2L/100km,8.9L/100km,34777
+2019,Lexus,UX,72428 km,SUV,Regular Unleaded I-4 2.0 L/121,CVT,FWD,Nebula Grey Pearl,Black,5,4,Gas,8.0L/100km,6.3L/100km,34998
+2014,Lexus,GX,176236 km,SUV,4.6,Automatic,FWD,Burgundy,Beige,8,4,Gas,14.1L/100km,10.0L/100km,34998
+2018,Lexus,NX,62000 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.6L/100km,8.5L/100km,35850
+2019,Lexus,NX,54372 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Black,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,36990
+2019,Lexus,NX,38884 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,10.7L/100km,8.5L/100km,36795
+2017,Lexus,RX,132740 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,36995
+2016,Lexus,RX,107049 km,SUV,V6 Cylinder Engine,Automatic,AWD,Ultra White,Black,null,null,Gas,12.2L/100km,8.9L/100km,37900
+2020,Lexus,IS,21722 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,12.3L/100km,9.1L/100km,37990
+2017,Lexus,RX,101465 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,null,null,2,Gas,12.2L/100km,9.0L/100km,38290
+2020,Lexus,UX,50653 km,SUV,2.0L 4cyl,CVT,AWD,Atomic Silver,null,null,2,Gasoline Hybrid,5.7L/100km,6.2L/100km,38590
+2018,Lexus,NX,26066 km,SUV,4 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,10.6L/100km,8.5L/100km,38985
+2022,Lexus,RX,15500 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,64887
+2020,Lexus,UX,63000 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40750
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2022,Lexus,ES,7245 km,Sedan,I-4 cyl,Automatic,FWD,Caviar,Black,null,null,Regular Unleaded,5.5L/100km,5.2L/100km,55900
+2023,Lexus,NX,2160 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,2,Premium Unleaded,null,null,63025
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2022,Lexus,GX,3844 km,SUV,Premium Unleaded V-8 4.6 L/281,Automatic,4x4,Black,Grey,7,4,Gas,16.2L/100km,12.3L/100km,91998
+2016,Lexus,ES,64739 km,Sedan,4 Cylinder Engine,CVT,FWD,Caviar,Black,5,4,Gasoline Hybrid,5.8L/100km,6.1L/100km,32995
+2020,Lexus,RX,68001 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,47898
+2018,Lexus,NX,26066 km,SUV,4 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,10.6L/100km,8.5L/100km,38985
+2019,Lexus,UX,55098 km,SUV,4 Cylinder Engine,CVT,AWD,BLACK,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,39688
+2017,Lexus,IS,15500 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Black,Black,null,4,Gas,12.6L/100km,9.2L/100km,39995
+2019,Lexus,NX,49695 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,39999
+2022,Lexus,RX,10777 km,SUV,V6 Cylinder Engine 3.5L,CVT,AWD,White,Black,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,65995
+2019,Lexus,UX,55081 km,SUV,I-4 cyl,CVT,AWD,Celestial Blue,Black,null,null,Regular Unleaded,5.7L/100km,6.2L/100km,40500
+2018,Lexus,RC,54901 km,Coupe,3.5L 6cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,13.1L/100km,9.8L/100km,40590
+2019,Lexus,NX,48305 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Black,5,4,Gas,10.7L/100km,8.5L/100km,41500
+2016,Lexus,RX,66598 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nightfall Mica,null,null,null,Gas,12.2L/100km,8.9L/100km,41800
+2014,Lexus,GX,113793 km,SUV,4.6L 8cyl,6 Speed Automatic,4x4,Starfire Pearl,Brown,null,4,Gas,14.1L/100km,10.0L/100km,41995
+2020,Lexus,UX,46361 km,SUV,4 Cylinder Engine,CVT,AWD,WHITE,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,41995
+2019,Lexus,NX,45328 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Black,5,4,Gas,10.7L/100km,8.5L/100km,42222
+2020,Lexus,UX,35494 km,SUV,4 Cylinder Engine,CVT,AWD,Blue,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,42887
+2020,Lexus,NX,23268 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,42888
+2019,Lexus,NX,21945 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,39800
+2018,Lexus,RX,93998 km,SUV,3.5L,Automatic,AWD,Black,Beige,5,4,Gas,12.2L/100km,9.0L/100km,42888
+2019,Lexus,UX,14615 km,SUV,2.0L 4cyl,CVT,AWD,White,null,null,2,Gasoline Hybrid,5.7L/100km,6.2L/100km,42990
+2020,Lexus,NX,41444 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,42990
+2020,Lexus,IS,29890 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,null,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2020,Lexus,UX,57764 km,SUV,4 Cylinder Engine,CVT,AWD,WHITE,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,43996
+2016,Lexus,GX,121107 km,SUV,4.6L 8cyl,6 Speed Automatic,4x4,Nebula Grey Pearl,Black,5,4,Premium Unleaded,15.7L/100km,11.7L/100km,44500
+2019,Lexus,RX,98756 km,SUV,3.5L,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,44995
+2020,Lexus,UX,22781 km,SUV,2.0L 4cyl,CVT,AWD,Blue,Grey,null,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,44995
+2019,Lexus,ES,60828 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,WHITE,Black,5,4,Gas,null,null,45239
+2022,Lexus,NX,9758 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,59950
+2021,Lexus,UX,42038 km,SUV,4 Cylinder Engine,CVT,AWD,BLACK,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,45688
+2021,Lexus,NX,32295 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,Red,null,4,Gas,10.7L/100km,8.5L/100km,45995
+2019,Lexus,RC,43500 km,Coupe,V6 Cylinder Engine,Automatic,AWD,White,Red,4,2,Gas,13.1L/100km,9.8L/100km,45999
+2021,Lexus,UX,15952 km,SUV,4 Cylinder Engine,CVT,AWD,Nebula Grey Pearl,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,46500
+2020,Lexus,NX,14044 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.4L/100km,46888
+2020,Lexus,NX,13339 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Red,5,4,Gas,10.7L/100km,8.4L/100km,47500
+2018,Lexus,GS,46092 km,Sedan,V-6 cyl,6 Speed Automatic,AWD,Smoky Granite Mica,null,null,null,Gas,12.5L/100km,9.2L/100km,48888
+2021,Lexus,IS,22596 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,48888
+2021,Lexus,IS,24686 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,SILVER,Black,5,4,Gas,12.2L/100km,9.0L/100km,51456
+2018,Lexus,RX,33724 km,SUV,Moteur V6 3.5L,CVT,4x4,Charcoal,Black,null,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,51491
+2021,Lexus,ES,30056 km,Sedan,2.5L 4cyl,8 Speed Automatic,AWD,Matador Red Mica,null,null,2,Premium Unleaded,9.5L/100km,7.0L/100km,52290
+2020,Lexus,RX,66553 km,SUV,3.5,Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,52888
+2021,Lexus,NX,3650 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Red,null,4,Gas,10.7L/100km,8.5L/100km,52995
+2023,Lexus,ES,4071 km,Sedan,2.5L 4cyl,8 Speed Automatic,AWD,Eminent White Pearl,null,null,2,Gas,9.5L/100km,7.0L/100km,53325
+2023,Lexus,ES,8000 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,White,null,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,53325
+2021,Lexus,RX,26763 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,null,null,4,Gas,12.2L/100km,9.0L/100km,54546
+2021,Lexus,ES,18952 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,7.2L/100km,54995
+2021,Lexus,ES,26668 km,Sedan,2.5L 4cyl,CVT,FWD,Eminent White Pearl,Tan,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,55399
+2023,Lexus,ES,12827 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,Cloudburst Grey,Black,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,56990
+2019,Lexus,NX,37238 km,SUV,2.5L,Automatic,AWD,Atomic Silver,null,5,4,Gas,10.7L/100km,8.5L/100km,37410
+2022,Lexus,RC,9251 km,Coupe,V6 Cylinder Engine,6 Speed Automatic,AWD,Cloudburst Grey,Black,4,2,Gas,12.2L/100km,9.0L/100km,57888
+2023,Lexus,NX,3615 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Red,null,2,Premium Unleaded,null,null,60825
+2021,Lexus,RX,63002 km,SUV,3.5L 6cyl,CVT,AWD,White,Brown,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,60888
+2022,Lexus,ES,14937 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,Caviar,Black,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,61000
+2021,Lexus,RX,14672 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,null,null,Gas,12.2L/100km,9.0L/100km,62900
+2022,Lexus,RX,26591 km,SUV,V-6 cyl,Automatic,AWD,Caviar,Red,null,null,Regular Unleaded,12.2L/100km,9.0L/100km,63500
+2018,Lexus,LS,61600 km,Sedan,3.5L 6cyl,10 Speed Automatic,AWD,White,Black,null,4,Gas,13.0L/100km,8.7L/100km,63995
+2023,Lexus,NX,4850 km,null,2.4L 4cyl,8 Speed Automatic,AWD,White,Red,null,2,Premium Unleaded,null,null,64225
+2022,Lexus,RX,15500 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,64887
+2022,Lexus,RX,3500 km,SUV,V-6 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,7.5L/100km,8.4L/100km,78650
+2021,Lexus,RX,23015 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Black,6,4,Gas,13.1L/100km,9.4L/100km,65900
+2022,Lexus,NX,1324 km,SUV,E: 2.4L 4-CYLINDER TURBOCHG W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,65988
+2023,Lexus,RX,2279 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,66025
+2022,Lexus,RX,6914 km,SUV,Engine: 3.5L 6-Cylinder DOHC VVT-i -inc: sequentia,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,12.2L/100km,9.0L/100km,66888
+2022,Lexus,RX,6121 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,null,4,Gas,12.2L/100km,9.0L/100km,66995
+2020,Lexus,RX,13083 km,SUV,V6 Cylinder Engine,CVT,AWD,Atomic Silver,Black,5,4,Gasoline Hybrid,7.8L/100km,8.4L/100km,67888
+2022,Lexus,RX,12208 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,null,5,4,Gas,12.2L/100km,9.0L/100km,68450
+2022,Lexus,RX,6583 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nori Green Pearl,null,null,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,68532
+2023,Lexus,RX,4619 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68625
+2020,Lexus,RX,27452 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,2,Gas,13.1L/100km,9.4L/100km,54980
+2022,Lexus,RX,30350 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Black,6,4,Gas,13.1L/100km,9.4L/100km,68888
+2022,Lexus,RX,29898 km,SUV,3.5L 6cyl,CVT,AWD,White,Beige,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,69888
+2022,Lexus,IS,4500 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Caviar,Red,5,4,Gas,14.1L/100km,9.3L/100km,79998
+2022,Lexus,GX,11935 km,SUV,8 Cylinder Engine,Automatic,4x4,Caviar,Black,7,4,Gas,16.2L/100km,12.3L/100km,85594
+2023,Lexus,RX,5464 km,SUV,Engine: 2.4L Turbo 4-Cylinder In-Line w/VVT-i,6 Speed Automatic,AWD,Ultra White,Red,5,4,Gasoline Hybrid,8.7L/100km,8.4L/100km,87888
+2022,Lexus,GX,3844 km,SUV,Premium Unleaded V-8 4.6 L/281,Automatic,4x4,Black,Grey,7,4,Gas,16.2L/100km,12.3L/100km,91998
+2006,Lexus,GS,267500 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Matador Red Mica,Charcoal,5,4,Gas,11.1L/100km,7.8L/100km,6999
+2008,Lexus,GS,319662 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Starfire Pearl,Black,5,4,Gas,11.6L/100km,8.0L/100km,8888
+2006,Lexus,RX,185241 km,SUV,3.3L 6cyl,5 Speed Automatic,AWD,Black Onyx,Black,null,4,Gas,12.8L/100km,9.0L/100km,8995
+2022,Lexus,NX,10448 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,null,null,55888
+2014,Lexus,ES,197000 km,Sedan,6 Cylinder,Automatic,FWD,Starfire Pearl,Black,5,4,Gas,9.9L/100km,6.4L/100km,15995
+2010,Lexus,RX,184487 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Tungsten Pearl,Black,5,4,Gas,11.6L/100km,8.2L/100km,17500
+2012,Lexus,RX,202000 km,SUV,6 Cylinder,Automatic,AWD,Starfire Pearl,Beige,5,4,Gas,11.8L/100km,8.3L/100km,17999
+2011,Lexus,RX,168481 km,SUV,V6 Cylinder Engine,Automatic,AWD,Matador Red Mica,Beige,5,4,Gas,11.6L/100km,8.1L/100km,18888
+2011,Lexus,RX,216010 km,SUV,V6 Cylinder Engine,CVT,AWD,Starfire Pearl,Black,5,4,Gasoline Hybrid,6.7L/100km,7.2L/100km,18888
+2012,Lexus,RX,190000 km,SUV,6 Cylinder,Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,11.8L/100km,8.3L/100km,18995
+2014,Lexus,IS,199000 km,Sedan,6 Cylinder,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.4L/100km,7.3L/100km,18995
+2011,Lexus,RX,170863 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Starfire Pearl,Black,5,4,Gas,11.6L/100km,8.1L/100km,19388
+2010,Lexus,RX,134777 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,11.6L/100km,8.2L/100km,20888
+2007,Lexus,SC,85692 km,Sedan,4.3L 8cyl,6 Speed Automatic,RWD,Mercury Metallic,null,null,null,Gas,12.8L/100km,8.7L/100km,36990
+2010,Lexus,RX,137369 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Obsidian,Black,5,4,Gas,11.6L/100km,8.2L/100km,20992
+2016,Lexus,IS,194100 km,Sedan,3.5,Automatic,AWD,Grey,Red,5,4,Gas,12.6L/100km,9.2L/100km,23580
+2010,Lexus,GX,176000 km,SUV,8 Cylinder,Automatic,AWD,Tungsten Pearl,Black,7,4,Gas,14.1L/100km,9.8L/100km,23995
+2012,Lexus,RX,105085 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,BEIGE,Beige,5,4,Gas,11.8L/100km,8.3L/100km,24750
+2013,Lexus,RX,106152 km,SUV,3.5L,Automatic,AWD,Grey,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,24888
+2015,Lexus,ES,138000 km,Sedan,6 Cylinder,Automatic,FWD,Nebula Grey Pearl,Black,5,4,Gas,11.3L/100km,7.5L/100km,24995
+2014,Lexus,ES,83996 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,FWD,Starlight Black Mica,null,5,4,Gas,9.9L/100km,6.4L/100km,27500
+2016,Lexus,NX,141937 km,SUV,2.0L-TURBO,Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.6L/100km,8.4L/100km,29995
+2015,Lexus,NX,103000 km,SUV,4 Cylinder,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.6L - 10.8L/100km,8.4L - 8.8L/100km,29995
+2018,Lexus,LC,38867 km,Coupe,6 Cylinder,Automatic,RWD,Caviar,null,null,2,Gasoline Hybrid,8.9L/100km,7.0L/100km,93800
+2014,Lexus,IS,77500 km,Sedan,V-6 cyl,6 Speed Automatic,AWD,Silver Lining Metallic,null,null,null,Premium Unleaded,10.4L/100km,7.3L/100km,29998
+2017,Lexus,ES,150494 km,Sedan,2.5L 4cyl,CVT,FWD,Nebula Grey Pearl,null,null,2,Gasoline Hybrid,5.8L/100km,6.1L/100km,30990
+2016,Lexus,NX,56717 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.6L/100km,8.4L/100km,32790
+2016,Lexus,ES,64739 km,Sedan,4 Cylinder Engine,CVT,FWD,Caviar,Black,5,4,Gasoline Hybrid,5.8L/100km,6.1L/100km,32995
+2019,Lexus,IS,63714 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Silver,null,5,4,Premium Unleaded,12.3L/100km,9.1L/100km,34888
+2018,Lexus,IS,88356 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,White,Beige,null,4,Gas,12.6L/100km,9.2L/100km,37995
+2019,Lexus,UX,45882 km,SUV,4 Cylinder Engine,CVT,AWD,Cadmium Orange,White,null,null,Gasoline Hybrid,5.7L/100km,6.2L/100km,42888
+2019,Lexus,NX,38989 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,44990
+2019,Lexus,IS,19534 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,White,Black,null,4,Gas,12.3L/100km,9.1L/100km,44995
+2021,Lexus,NX,28532 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Charcoal,Red,5,4,Gas,10.7L/100km,8.5L/100km,45888
+2020,Lexus,UX,45000 km,SUV,2.0L 4cyl,CVT,AWD,White,Red,null,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,45995
+2020,Lexus,NX,45621 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Red,5,4,Gas,10.7L/100km,8.5L/100km,46888
+2018,Lexus,RX,67272 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.2L/100km,9.0L/100km,46888
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2020,Lexus,RX,57100 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,49239
+2016,Lexus,RX,150000 km,SUV,3.5L,Automatic,AWD,Satin Cashmere Metallic,null,5,4,Gas,12.2L/100km,8.9L/100km,34888
+2019,Lexus,NX,46053 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,34996
+2020,Lexus,NX,59896 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,BLACK,Black,5,4,Gas,10.7L/100km,8.4L/100km,37887
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2020,Lexus,NX,47219 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Premium Unleaded,10.7L/100km,8.5L/100km,41189
+2023,Lexus,NX,4850 km,null,2.4L 4cyl,8 Speed Automatic,AWD,White,Red,null,2,Premium Unleaded,null,null,64225
+2011,Lexus,RX,221712 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,15995
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Red,5,4,Gas,11.2L/100km,8.4L/100km,67035
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,5,4,Gas,9.4L/100km,7.4L/100km,50155
+2020,Lexus,NX,36719 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,38490
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,null,null,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,Automatic,AWD,Atomic Silver,Black,null,null,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,9.4L/100km,7.4L/100km,50155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,9.4L/100km,7.4L/100km,50155
+2017,Lexus,GX,106511 km,SUV,8 Cylinder Engine,Automatic,4x4,Starfire Pearl,Black,7,4,Gas,15.7L/100km,11.7L/100km,52888
+2019,Lexus,RX,104000 km,SUV,3.5,CVT,AWD,White,Red,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,54888
+2023,Lexus,IS,0 km,Sedan,Engine: Direct Injection 3.5L DOHC V6 w/VVT-i,6 Speed Automatic,AWD,Infrared,null,null,null,Gas,12.2L/100km,9.0L/100km,55245
+2020,Lexus,RX,19167 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Atomic Silver,null,null,2,Gas,12.2L/100km,9.0L/100km,56990
+2021,Lexus,RX,39947 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Caviar,Beige,5,4,Gas,12.2L/100km,9.0L/100km,54888
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,5,4,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,null,null,61195
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,null,null,61195
+2015,Lexus,RX,94536 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Nightfall Mica,Brown,5,4,Gas,12.2L/100km,8.9L/100km,35288
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,null,null,61195
+2023,Lexus,ES,0 km,Sedan,Engine: 3.5L V6 32-Valve DOHC -inc: Acoustic Contr,8 Speed Automatic,FWD,Sunlit Green,null,null,null,Gas,10.7L/100km,7.3L/100km,63455
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,63595
+2021,Lexus,RX,22400 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,63888
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Cloudburst Grey,null,null,null,Gas,null,null,64095
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Ultra White,Black,null,null,Gas,11.2L/100km,8.4L/100km,65955
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,11.2L/100km,8.4L/100km,65955
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,Red,null,null,Gas,10.5L/100km,8.3L/100km,67455
+2021,Lexus,RX,33673 km,SUV,V6 Cylinder Engine,CVT,AWD,WHITE,Red,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,67995
+2021,Lexus,RX,0 km,SUV,Regular Unleaded V-6 3.5 L/211,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,61588
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Iridium,null,null,null,Gas,11.2L/100km,8.4L/100km,68555
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Copper Crest,null,null,null,Gas,11.2L/100km,8.4L/100km,68705
+2022,Lexus,RX,14251 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,70500
+2018,Lexus,LS,45444 km,Sedan,3.5L 6 Cyl,Automatic,AWD,Black,Black,5,4,Gas,13.0L/100km,8.7L/100km,73888
+2023,Lexus,IS,0 km,Sedan,Engine: Direct Injection 5.0L DOHC V8 w/VVT-i,8 Speed Automatic,RWD,Atomic Silver,Black,null,null,Gas,14.1L/100km,9.3L/100km,76655
+2022,Lexus,RC,0 km,Sedan,null,null,null,05C1 Flare Yellow,Black,null,null,null,null,null,101345
+2013,Lexus,RX,148000 km,SUV,3.5L,Automatic,AWD,Starfire Pearl,Beige,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,26888
+2006,Lexus,ES,208488 km,Sedan,3.3L 6cyl,5 Speed Automatic,FWD,Silver,Black,null,4,Gas,11.5L/100km,7.3L/100km,7995
+2004,Lexus,RX,272526 km,SUV,3.3L 6cyl,5 Speed Automatic,AWD,Beige,Beige,null,4,Gas,12.8L/100km,9.0L/100km,7995
+2018,Lexus,IS,86395 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Beige,null,4,Gas,12.6L/100km,9.2L/100km,31588
+2005,Lexus,RX,161000 km,SUV,3.3,Automatic,4x4,null,null,5,4,Gas,12.8L/100km,9.0L/100km,11480
+2013,Lexus,CT,187959 km,Hatchback,4 Cylinder Engine,CVT,FWD,Matador Red Mica,Black,5,4,Gasoline Hybrid,4.5L/100km,4.8L/100km,18490
+2010,Lexus,RX,162010 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,11.6L/100km,8.2L/100km,18990
+2013,Lexus,RX,193000 km,SUV,6 Cylinder,Automatic,AWD,Silver Lining Metallic,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,20995
+2013,Lexus,ES,161336 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,FWD,Starfire Pearl,Black,5,4,Gas,10.9L/100km,7.2L/100km,21500
+2013,Lexus,ES,121069 km,Sedan,3.5L,Automatic,FWD,Starfire Pearl,Black,5,4,Gas,10.9L/100km,7.2L/100km,21888
+2013,Lexus,RX,138000 km,SUV,6 Cylinder,Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,22499
+2013,Lexus,IS,112062 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Starfire Pearl,Beige,5,4,Gas,10.5L/100km,7.4L/100km,22790
+2014,Lexus,RX,194389 km,SUV,V6 Cylinder Engine,Automatic,AWD,Burgundy,Beige,5,4,Gas,13.1L/100km,9.0L - 9.8L/100km,23888
+2022,Lexus,NX,10448 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,null,null,55888
+2015,Lexus,RX,170161 km,SUV,3.5,6 Speed Automatic,AWD,Nebula Grey Pearl,Brown,null,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,24980
+2014,Lexus,IS,110600 km,Sedan,2.5,Automatic,AWD,Black,Brown,null,4,Gas,10.4L/100km,7.3L/100km,24995
+2017,Lexus,IS,179939 km,Sedan,3.5,Automatic,AWD,White,Black,null,4,Gas,12.6L/100km,9.2L/100km,25980
+2004,Lexus,SC,63366 km,Convertible,8 Cylinder Engine,5 Speed Automatic,RWD,Millenium Silver Metallic,Black,4,2,Gas,13.3L/100km,9.3L/100km,34900
+2020,Lexus,UX,36338 km,SUV,2.0L 4cyl,CVT,AWD,White,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,36888
+2020,Lexus,NX,23542 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.7L/100km,8.5L/100km,37888
+2018,Lexus,RX,65000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Eminent White Pearl,Black,7,4,Gas,13.1L/100km,9.4L/100km,41887
+2021,Lexus,NX,34144 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Eminent White Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,44788
+2023,Lexus,UX,200 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,47785
+2022,Lexus,ES,30330 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,FWD,null,Black,null,4,Gas,10.7L/100km,7.3L/100km,52995
+2020,Lexus,RX,63476 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Black,Brown,null,4,Gas,12.2L/100km,9.0L/100km,49995
+2023,Lexus,NX,3 km,SUV,2.5L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Gas,9.4L/100km,7.4L/100km,50285
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Gas,9.4L/100km,7.4L/100km,50655
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Gas,9.4L/100km,7.4L/100km,50655
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,8 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Gas,9.4L/100km,7.4L/100km,50655
+2023,Lexus,UX,12 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,null,null,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,51590
+2023,Lexus,ES,36 km,Sedan,2.5,CVT,FWD,White,Brown,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,56888
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,57545
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,Red,null,null,Gas,null,null,57575
+2019,Lexus,NX,37238 km,SUV,2.5L,Automatic,AWD,Atomic Silver,null,5,4,Gas,10.7L/100km,8.5L/100km,37410
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,10.5L/100km,8.3L/100km,58155
+2023,Lexus,NX,0 km,SUV,Engine: 2.5L 4-Cylinder DOHC 16-Valve w/VVT-iE,CVT,AWD,Grecian Water,Black,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,58605
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,Red,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,60695
+2023,Lexus,NX,4 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Premium Unleaded,null,null,60825
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Nebula Grey Pearl,null,null,null,Gas,11.2L/100km,8.4L/100km,60855
+2023,Lexus,NX,14 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Premium Unleaded,null,null,60885
+2020,Lexus,RX,27452 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,2,Gas,13.1L/100km,9.4L/100km,54980
+2023,Lexus,NX,100 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Red,null,2,Premium Unleaded,null,null,60885
+2023,Lexus,NX,0 km,SUV,E: 2.4L 4 CYLINDER TURBOCHG W/VVT-I,8 Speed Automatic,AWD,Ultra White,Red,null,null,Gas,null,null,61195
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Ultra White,Red,null,null,Gas,null,null,61255
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Ultra White,Red,null,null,Gas,null,null,61255
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Eminent White Pearl,null,null,null,Gas,11.2L/100km,8.4L/100km,61355
+2023,Lexus,NX,96 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Red,null,2,Premium Unleaded,null,null,61385
+2023,Lexus,NX,300 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Premium Unleaded,null,null,62585
+2023,Lexus,IS,0 km,Sedan,Engine: Direct Injection 3.5L DOHC V6 w/VVT-i,6 Speed Automatic,AWD,Ultra White,Red,5,4,Gas,12.2L/100km,9.0L/100km,62855
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,63595
+2022,Lexus,NX,9758 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,59950
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Caviar,null,null,null,Gas,null,null,63595
+2023,Lexus,NX,490 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Caviar,Red,null,2,Premium Unleaded,10.5L/100km,8.3L/100km,63785
+2023,Lexus,NX,308 km,SUV,4 Cylinder Engine,Automatic,AWD,Eminent White Pearl,null,null,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,64888
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,11.2L/100km,8.4L/100km,65955
+2023,Lexus,RX,600 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,66085
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,Automatic,AWD,Redline,Black,null,null,Gas,10.5L/100km,8.3L/100km,67655
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Atomic Silver,null,null,null,Gas,null,null,67655
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Nightfall Mica,null,null,null,Gas,11.2L/100km,8.4L/100km,68055
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,Automatic,AWD,Nebula Grey Pearl,Black,5,5,Gas,11.2L/100km,8.4L/100km,68055
+2022,Lexus,RX,3500 km,SUV,V-6 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,7.5L/100km,8.4L/100km,78650
+2023,Lexus,NX,0 km,SUV,ENGINE: 2.4L 4-CYLINDER TURBOCHARGED W/VVT-I,8 Speed Automatic,AWD,Cloudburst Grey,null,null,null,Gas,null,null,68095
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,null,5,4,Gas,11.2L/100km,8.4L/100km,68495
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Iridium,Black,null,null,Gas,11.2L/100km,8.4L/100km,68555
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Iridium,Black,null,null,Gas,11.2L/100km,8.4L/100km,68555
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L 4 Cyl DOHC 16V w/VVT-iE,8 Speed Automatic,AWD,Iridium,null,null,null,Gas,11.2L/100km,8.4L/100km,68555
+2023,Lexus,RX,2961 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68625
+2021,Lexus,IS,22596 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,48888
+2019,Lexus,NX,75557 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,34390
+2019,Lexus,IS,18905 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Silver,Black,5,4,Gas,12.3L/100km,9.1L/100km,37554
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2020,Lexus,RX,57100 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,49239
+2022,Lexus,RX,11300 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,66500
+2019,Lexus,RC,43500 km,Coupe,V6 Cylinder Engine,Automatic,AWD,White,Red,4,2,Gas,13.1L/100km,9.8L/100km,45999
+2021,Lexus,NX,34144 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Eminent White Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,44788
+2023,Lexus,ES,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Iridium,Beige,5,4,Gas,10.7L/100km,7.3L/100km,64935
+2023,Lexus,RX,2961 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,White,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68625
+2023,Lexus,RX,421 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2023,Lexus,RX,475 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,68685
+2018,Lexus,LS,45800 km,Sedan,V6 Cylinder Engine,10 Speed Automatic,AWD,Black,Red,5,4,Gas,13.0L/100km,8.7L/100km,70777
+2022,Lexus,NX,9758 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,59950
+2023,Lexus,RX,1725 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,null,2,Premium Unleaded,11.2L/100km,8.4L/100km,76985
+2023,Lexus,RX,0 km,SUV,Engine: 2.4L Turbo 4-Cylinder In-Line w/VVT-i,6 Speed Automatic,AWD,Iridium,null,null,null,Gasoline Hybrid,8.7L/100km,8.4L/100km,82505
+2018,Lexus,LC,29700 km,Coupe,8 Cylinder Engine,10 Speed Automatic,RWD,Smoky Granite Mica,Tan,4,2,Gas,14.7L/100km,9.2L/100km,87777
+2019,Lexus,RC,7800 km,Coupe,8 Cylinder Engine,8 Speed Automatic,RWD,Matte Nebula Grey,Blue,4,2,Gas,15.2L/100km,9.5L/100km,89777
+2020,Lexus,GS,8200 km,Sedan,5.0L 8cyl,8 Speed Automatic,RWD,Ultrasonic Blue Mica 2.0,Red,null,4,Gas,14.9L/100km,9.7L/100km,89995
+2022,Lexus,LC,4500 km,Convertible,null,10 Speed Automatic,RWD,null,null,4,2,Gas,null,null,134888
+2009,Lexus,RX,217734 km,SUV,3.5,Automatic,FWD,Classic Silver Metallic,Black,null,4,Gas,12.4L/100km,9.0L/100km,11980
+2013,Lexus,ES,257782 km,Sedan,3.5,6 Speed Automatic,FWD,Fire Agate Pearl,Beige,null,4,Gas,10.9L/100km,7.2L/100km,14980
+2015,Lexus,CT,253000 km,Hatchback,4 Cylinder,Automatic,FWD,White,Red,5,4,Gasoline Hybrid,5.5L/100km,5.9L/100km,14995
+2019,Lexus,NX,37238 km,SUV,2.5L,Automatic,AWD,Atomic Silver,null,5,4,Gas,10.7L/100km,8.5L/100km,37410
+2011,Lexus,RX,221712 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,15995
+2008,Lexus,SC,297100 km,Convertible,8 Cylinder Engine,Automatic,null,null,null,null,null,Gas,12.9L/100km,8.8L/100km,18995
+2013,Lexus,RX,124524 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,22995
+2012,Lexus,GX,193000 km,SUV,8 Cylinder,Automatic,4x4,Starfire Pearl,Black,7,4,Gas,14.1L/100km,9.8L/100km,25999
+2010,Lexus,LS,233275 km,Sedan,8 Cylinder Engine,CVT,AWD,Mercury Metallic,Black,5,4,Gasoline Hybrid,10.6L/100km,9.1L/100km,31888
+2020,Lexus,RX,36598 km,SUV,V-6 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Regular Unleaded,12.2L/100km,9.0L/100km,45900
+2020,Lexus,NX,37885 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,null,4,Gas,10.7L/100km,8.5L/100km,47995
+2023,Lexus,NX,180 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,2,Premium Unleaded,null,null,58235
+2009,Lexus,IS,215598 km,Sedan,3.5L 6cyl,6 Speed Automatic,RWD,Obsidian,null,null,2,Premium Unleaded,10.9L/100km,7.8L/100km,11890
+2020,Lexus,RX,27452 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,2,Gas,13.1L/100km,9.4L/100km,54980
+2019,Lexus,NX,41538 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Black,null,null,2,Premium Unleaded,10.7L/100km,8.5L/100km,36888
+2021,Lexus,ES,64244 km,Sedan,2.5L 4cyl,CVT,FWD,Caviar,null,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,46888
+2023,Lexus,RX,0 km,null,Engine: 2.5L 4 Cyl DOHC 16V w/VVT-iE,null,null,Caviar,null,null,null,Gas,null,null,67995
+2022,Lexus,RX,0 km,SUV,Engine: 3.5L 6-Cylinder DOHC VVT-i -inc: sequentia,8 Speed Automatic,AWD,Ultra White,null,null,null,Gas,12.2L/100km,9.0L/100km,69145
+2007,Lexus,RX,216150 km,SUV,3.5L 6cyl,5 Speed Automatic,AWD,Savannah Metallic,Tan,null,4,Premium Unleaded,12.4L/100km,9.0L/100km,6990
+2010,Lexus,RX,333000 km,SUV,V6 Cylinder Engine,CVT,AWD,Aurora White Pearl,Black,5,4,Gasoline Hybrid,6.6L/100km,7.2L/100km,10900
+2013,Lexus,RX,159000 km,SUV,3.5,Automatic,AWD,Starfire Pearl,Brown,5,null,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,19995
+2017,Lexus,NX,105000 km,SUV,2,Automatic,AWD,Nebula Grey Pearl,Black,5,null,Gas,10.7L/100km,8.5L/100km,25995
+2015,Lexus,NX,124480 km,SUV,2.0,Automatic,AWD,Eminent White,Black,5,4,Gas,10.6L/100km,8.4L/100km,26488
+2019,Lexus,RX,94088 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,44580
+2015,Lexus,NX,164388 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Brown,5,null,Gasoline Hybrid,7.1L/100km,7.7L/100km,27898
+2017,Lexus,IS,58436 km,Sedan,3.5,6 Speed Automatic,AWD,Black,Red,null,4,Gas,12.6L/100km,9.2L/100km,27995
+2016,Lexus,NX,92000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,10.6L/100km,8.4L/100km,29900
+2016,Lexus,NX,179887 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Brown,5,null,Gasoline Hybrid,7.1L/100km,7.7L/100km,29998
+2016,Lexus,NX,80897 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,null,null,null,Gas,10.6L/100km,8.4L/100km,30799
+2019,Lexus,IS,84000 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Redline,Black,5,null,Gas,12.3L/100km,9.1L/100km,31880
+2019,Lexus,NX,67268 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,null,null,Gas,10.7L/100km,8.5L/100km,32993
+2019,Lexus,IS,40173 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White,Black,5,4,Gas,12.3L/100km,9.1L/100km,33388
+2019,Lexus,IS,70142 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,null,null,null,null,Gas,12.3L/100km,9.1L/100km,33888
+2019,Lexus,NX,21945 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,39800
+2017,Lexus,IS,41000 km,Sedan,3.5,6 Speed Automatic,AWD,Nebula Grey Pearl,Red,null,4,Gas,12.6L/100km,9.2L/100km,33995
+2019,Lexus,NX,56986 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,5,Premium Unleaded,10.7L/100km,8.5L/100km,34997
+2019,Lexus,IS,73000 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Silver,Red,5,4,Gas,12.3L/100km,9.1L/100km,35880
+2016,Lexus,GS,87672 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Premium Unleaded,12.4L/100km,9.0L/100km,35888
+2019,Lexus,NX,70748 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,35995
+2017,Lexus,RX,87000 km,SUV,6 Cylinder,Automatic,AWD,White,Black,4,4,Gas,12.2L/100km,9.0L/100km,36888
+2019,Lexus,NX,66871 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,WHITE,Black,5,4,Gas,10.7L/100km,8.5L/100km,36995
+2019,Lexus,UX,65579 km,SUV,4 Cylinder Engine,CVT,AWD,Nebula Grey Pearl,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,36995
+2016,Lexus,LS,110777 km,Sedan,4.6,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,15.2L/100km,10.2L/100km,37777
+2022,Lexus,RX,3500 km,SUV,V-6 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,7.5L/100km,8.4L/100km,78650
+2017,Lexus,RX,62264 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.2L/100km,9.0L/100km,38172
+2019,Lexus,NX,53000 km,SUV,4 Cylinder,6 Speed Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,10.7L/100km,8.5L/100km,38878
+2017,Lexus,IS,15500 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Black,Black,5,4,Gas,12.6L/100km,9.2L/100km,38995
+2020,Lexus,NX,24911 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,null,null,null,Gas,10.7L/100km,8.5L/100km,39490
+2019,Lexus,ES,55879 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Dark Blue,Black,5,4,Gas,null,null,39888
+2020,Lexus,NX,28880 km,SUV,2.0,Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.4L/100km,39888
+2018,Lexus,NX,81841 km,SUV,4 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,null,Gasoline Hybrid,7.2L/100km,7.9L/100km,39990
+2022,Lexus,UX,49138 km,SUV,2.0,CVT,AWD,Black,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,39995
+2014,Lexus,GX,113793 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Starfire Pearl,Brown,7,4,Gas,14.1L/100km,10.0L/100km,39995
+2022,Lexus,NX,10448 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,null,null,55888
+2018,Lexus,RX,67269 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.2L/100km,9.0L/100km,40688
+2020,Lexus,UX,40200 km,SUV,2.0,Automatic,AWD,White,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40770
+2020,Lexus,NX,31000 km,SUV,4 Cylinder,Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,41878
+2020,Lexus,UX,24425 km,SUV,2.0L 4cyl,CVT,AWD,Black,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,41997
+2018,Lexus,RX,60000 km,SUV,V-6 cyl,8 Speed Automatic,AWD,Black,Black,null,null,Gas,12.2L/100km,9.0L/100km,42900
+2018,Lexus,RX,46000 km,SUV,V-6 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Gas,13.1L/100km,9.4L/100km,42900
+2021,Lexus,NX,45389 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,42995
+2019,Lexus,IS,56000 km,Sedan,3.5,Automatic,AWD,Black,Red,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2020,Lexus,NX,13467 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,44900
+2018,Lexus,LC,38867 km,Coupe,6 Cylinder,Automatic,RWD,Caviar,null,null,2,Gasoline Hybrid,8.9L/100km,7.0L/100km,93800
+2020,Lexus,RX,76373 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,44995
+2020,Lexus,NX,15853 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,10.7L/100km,8.5L/100km,44995
+2019,Lexus,NX,27979 km,SUV,4 Cylinder Engine,CVT,AWD,Blue Vortex Metallic,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,44995
+2020,Lexus,NX,43479 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,45995
+2020,Lexus,NX,16029 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,46966
+2021,Lexus,NX,26082 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Caviar,Red,5,4,Gas,10.7L/100km,8.5L/100km,46995
+2020,Lexus,RX,63854 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,46995
+2022,Lexus,ES,37000 km,Sedan,4 Cylinder,Automatic,AWD,White,Black,5,4,Gas,9.5L/100km,7.0L/100km,47878
+2020,Lexus,NX,15365 km,SUV,2.5L 4cyl,CVT,AWD,null,null,null,null,Gasoline Hybrid,7.2L/100km,7.9L/100km,47888
+2007,Lexus,SC,85692 km,Sedan,4.3L 8cyl,6 Speed Automatic,RWD,Mercury Metallic,null,null,null,Gas,12.8L/100km,8.7L/100km,36990
+2020,Lexus,RX,68001 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,47898
+2018,Lexus,RX,95000 km,SUV,V6 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,47900
+2020,Lexus,RX,37636 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,12.2L/100km,9.0L/100km,48895
+2020,Lexus,RX,47542 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,null,null,null,Gas,12.2L/100km,9.0L/100km,48990
+2018,Lexus,RX,52777 km,SUV,V6 Cylinder Engine,CVT,AWD,Eminent White Pearl,Black,null,null,Gasoline Hybrid,null,null,48993
+2020,Lexus,RX,44389 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Nebula Grey Pearl,null,null,2,Gas,12.2L/100km,9.0L/100km,49990
+2020,Lexus,RX,63476 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Brown,5,4,Gas,12.2L/100km,9.0L/100km,49995
+2017,Lexus,GX,64761 km,SUV,4.6L 8cyl,6 Speed Automatic,4x4,Starfire Pearl,Brown,8,5,Premium Unleaded,16.0L/100km,12.9L/100km,51388
+2018,Lexus,RX,48883 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Red,5,null,Gasoline Hybrid,7.5L/100km,8.4L/100km,51888
+2018,Lexus,IS,86395 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Beige,null,4,Gas,12.6L/100km,9.2L/100km,31588
+2020,Lexus,RX,35168 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.2L/100km,9.0L/100km,51895
+2020,Lexus,RX,33000 km,SUV,V-6 cyl,8 Speed Automatic,AWD,White,Black,null,null,Gas,12.2L/100km,9.0L/100km,51900
+2021,Lexus,RX,16200 km,SUV,3.5,8 Speed Automatic,AWD,Caviar,Brown,5,4,Gas,12.2L/100km,9.0L/100km,53990
+2021,Lexus,ES,36061 km,Sedan,2.5L 4cyl,CVT,FWD,Atomic Silver,Black,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,54188
+2020,Lexus,RX,38000 km,SUV,6 Cylinder,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gasoline Hybrid,7.6L/100km,8.4L/100km,54888
+2019,Lexus,RX,55860 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Red,5,null,Gasoline Hybrid,7.5L/100km,8.4L/100km,54990
+2019,Lexus,RX,47194 km,SUV,V6 Cylinder Engine,CVT,AWD,Black,Black,5,null,Gasoline Hybrid,7.5L/100km,8.4L/100km,55990
+2022,Lexus,ES,10495 km,Sedan,2.5,Automatic,FWD,Eminent White Pearl,Black,5,4,Gasoline Hybrid,5.5L/100km,5.2L/100km,56985
+2021,Lexus,RX,30835 km,SUV,V6 Cylinder Engine,CVT,AWD,Brown,null,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,56990
+2022,Lexus,IS,4510 km,Sedan,5.0L DOHC,8 Speed Automatic,RWD,Silver,Black,null,4,Gas,14.1L/100km,9.3L/100km,79998
+2021,Lexus,RX,9000 km,SUV,V-6 cyl,8 Speed Automatic,AWD,Eminent White Pearl,Red,null,null,Gas,12.2L/100km,9.0L/100km,57900
+2021,Lexus,RX,11999 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Gold,Black,5,4,Gas,12.2L/100km,9.0L/100km,58998
+2021,Lexus,RX,54832 km,SUV,V6 Cylinder Engine,CVT,AWD,Caviar,Red,5,null,Gasoline Hybrid,7.5L/100km,8.4L/100km,59880
+2022,Lexus,RX,10456 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,White,Black,5,5,Gas,12.2L/100km,9.0L/100km,60468
+2018,Lexus,LS,61600 km,Sedan,V6 Cylinder Engine,10 Speed Automatic,AWD,White,Black,5,4,Gas,13.0L/100km,8.7L/100km,60995
+2021,Lexus,RX,24200 km,SUV,3.5L V6 DOHC 24V,Automatic,4x4,Caviar,Red,null,4,Gas,12.2L/100km,9.0L/100km,63000
+2021,Lexus,UX,42038 km,SUV,4 Cylinder Engine,CVT,AWD,BLACK,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,45688
+2020,Lexus,UX,63000 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40750
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2021,Lexus,ES,44614 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,7.2L/100km,49999
+2019,Lexus,UX,55098 km,SUV,4 Cylinder Engine,CVT,AWD,BLACK,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,39688
+2019,Lexus,UX,55081 km,SUV,I-4 cyl,CVT,AWD,Celestial Blue,Black,null,null,Regular Unleaded,5.7L/100km,6.2L/100km,40500
+2020,Lexus,IS,29890 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,null,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2022,Lexus,ES,14937 km,Sedan,3.5L 6cyl,8 Speed Automatic,FWD,Caviar,Black,null,2,Premium Unleaded,10.7L/100km,7.3L/100km,61000
+2011,Lexus,RX,221712 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,15995
+2021,Lexus,RX,24200 km,SUV,3.5L V6 DOHC 24V,Automatic,4x4,Caviar,Red,null,4,Gas,12.2L/100km,9.0L/100km,63000
+2022,Lexus,RX,19200 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,White,Red,5,4,Gas,12.2L/100km,9.0L/100km,63995
+2022,Lexus,RX,6121 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,65595
+2022,Lexus,RX,14450 km,SUV,3.5,Automatic,AWD,Caviar,Red,5,4,Gas,12.2L/100km,9.0L/100km,65888
+2018,Lexus,IS,86395 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Beige,null,4,Gas,12.6L/100km,9.2L/100km,31588
+2023,Lexus,IS,4420 km,Sedan,5.0L 8cyl,8 Speed Automatic,RWD,Silver,Grey,5,4,Premium Unleaded,14.1L/100km,9.3L/100km,77888
+2020,Lexus,GS,8200 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Ultrasonic Blue Mica 2.0,Red,5,4,Gas,14.9L/100km,9.7L/100km,89995
+2008,Lexus,RX,156075 km,SUV,3.5,Automatic,4x4,Black Onyx,Dark Grey,null,4,Gas,12.4L/100km,9.0L/100km,12999
+2010,Lexus,RX,170000 km,SUV,6 CYLINDER,Automatic,AWD,White,Beige,null,4,Gas,11.6L/100km,8.2L/100km,13800
+2009,Lexus,RX,151401 km,SUV,3.5L 6cyl,5 Speed Automatic,AWD,Breakwater Blue Metallic,Tan,null,2,Premium Unleaded,12.4L/100km,9.0L/100km,13990
+2013,Lexus,ES,133510 km,Sedan,3.5 L,Automatic,FWD,Black,Black,5,4,Gas,10.9L/100km,7.2L/100km,15988
+2013,Lexus,ES,157000 km,Sedan,V-6 cyl,6 Speed Automatic,FWD,Starfire Pearl,Black,null,null,Gas,10.9L/100km,7.2L/100km,16950
+2013,Lexus,GS,163000 km,Sedan,3.5,Automatic,AWD,Starfire Pearl,Black,5,null,Gas,11.4L/100km,7.8L/100km,19995
+2012,Lexus,RX,160000 km,SUV,V6 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gasoline Hybrid,6.7L/100km,7.2L/100km,22980
+2019,Lexus,RX,94088 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.2L/100km,9.0L/100km,44580
+2015,Lexus,RX,180000 km,SUV,V-6 cyl,6 Speed Automatic,AWD,Starfire Pearl,Black,null,null,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,23950
+2015,Lexus,NX,163700 km,SUV,2.0,Automatic,AWD,Nebula Grey Pearl,Black,null,4,Gas,10.6L/100km,8.4L/100km,23995
+2015,Lexus,IS,107755 km,Sedan,2.5L,null,null,null,null,null,null,null,null,null,23999
+2015,Lexus,ES,65000 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,FWD,null,null,5,4,Gas,11.3L/100km,7.5L/100km,25950
+2015,Lexus,RX,144879 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,25995
+2013,Lexus,RX,128230 km,SUV,3.5,Automatic,AWD,Deep Sea Mica,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,26488
+2014,Lexus,RX,119000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,26888
+2017,Lexus,ES,112400 km,Sedan,3.5,Automatic,FWD,Grey,Black,5,4,Gas,11.4L/100km,7.7L/100km,26995
+2014,Lexus,RX,121310 km,SUV,3.5,6 Speed Automatic,AWD,Nebula Grey Pearl,Brown,5,4,Gas,11.2L - 11.8L/100km,7.7L - 8.3L/100km,27488
+2020,Lexus,RX,27452 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,2,Gas,13.1L/100km,9.4L/100km,54980
+2015,Lexus,NX,128088 km,SUV,2.0,6 Speed Automatic,AWD,Black,Black,5,4,Gas,10.6L/100km,8.4L/100km,27495
+2015,Lexus,NX,93166 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.6L - 10.8L/100km,8.4L - 8.8L/100km,27793
+2017,Lexus,IS,101856 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.6L/100km,9.2L/100km,28495
+2015,Lexus,RX,107000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Starlight Black Mica,Black,5,4,Gas,12.7L - 13.3L/100km,9.1L - 9.8L/100km,28900
+2016,Lexus,IS,86000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,12.6L/100km,9.2L/100km,28995
+2017,Lexus,ES,87974 km,Sedan,2.5,Automatic,FWD,Nightfall Mica,Black,5,4,Gasoline Hybrid,5.8L/100km,6.1L/100km,31888
+2017,Lexus,IS,67739 km,Sedan,3.5,Automatic,AWD,Atomic Silver,Red,5,4,Gas,12.6L/100km,9.2L/100km,32485
+2017,Lexus,NX,84000 km,SUV,4 Cylinder,Automatic,AWD,Black,Black,5,4,Gas,10.7L/100km,8.5L/100km,32888
+2017,Lexus,IS,49564 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,Black,Brown,5,4,Premium Unleaded,12.6L/100km,9.2L/100km,32991
+2022,Lexus,NX,10448 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,null,null,55888
+2019,Lexus,NX,123994 km,SUV,2.0L,6 Speed Automatic,AWD,Maroon,Black,5,5,Gas,10.7L/100km,8.5L/100km,33498
+2017,Lexus,NX,73736 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.7L/100km,8.5L/100km,34900
+2019,Lexus,UX,84133 km,SUV,4 Cylinder Engine,CVT,FWD,Black,Red,null,4,Gas,8.0L/100km,6.3L/100km,34980
+2019,Lexus,UX,98868 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Red,5,null,Gasoline Hybrid,5.7L/100km,6.2L/100km,35988
+2018,Lexus,IS,45993 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,null,4,Gas,12.3L/100km,9.1L/100km,35999
+2018,Lexus,NX,83920 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.6L/100km,8.5L/100km,36988
+2017,Lexus,RX,132740 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,36995
+2019,Lexus,IS,73229 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,12.3L/100km,9.1L/100km,37880
+2017,Lexus,RX,82461 km,SUV,3.5L 6-Cylinder SMPI DOHC 24V,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,38999
+2019,Lexus,NX,37238 km,SUV,2.5L,Automatic,AWD,Atomic Silver,null,5,4,Gas,10.7L/100km,8.5L/100km,37410
+2019,Lexus,NX,67142 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,null,4,Gas,10.7L/100km,8.5L/100km,39999
+2017,Lexus,RX,150317 km,SUV,V6 Cylinder Engine,CVT,AWD,White,null,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,40990
+2019,Lexus,UX,29739 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40998
+2017,Lexus,RX,38555 km,SUV,3.5L 6cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,2,Gas,12.2L/100km,9.0L/100km,42634
+2020,Lexus,NX,41764 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,42898
+2019,Lexus,RX,53354 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,null,5,4,Gas,12.2L/100km,9.0L/100km,42990
+2018,Lexus,RX,35513 km,SUV,3.5-liter,8 Speed Automatic with auto-shift,AWD,Dark Grey,Black,5,4,Gas,12.2L/100km,9.0L/100km,43498
+2020,Lexus,UX,45000 km,SUV,4 Cylinder Engine,CVT,AWD,White,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,43995
+2020,Lexus,UX,22781 km,SUV,4 Cylinder Engine,CVT,AWD,Blue,Light Grey,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,44195
+2022,Lexus,NX,9758 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,59950
+2018,Lexus,RX,75435 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,45898
+2021,Lexus,NX,32295 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,45995
+2021,Lexus,NX,16955 km,SUV,4 Cylinder Engine,Automatic,AWD,Not Specified,null,null,4,Gas,10.7L/100km,8.5L/100km,46500
+2021,Lexus,IS,28028 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,12.2L/100km,9.0L/100km,49880
+2023,Lexus,ES,0 km,Sedan,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.5L/100km,7.0L/100km,50235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2015,Lexus,RX,94536 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Nightfall Mica,Brown,5,4,Gas,12.2L/100km,8.9L/100km,35288
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,9.4L/100km,7.4L/100km,51235
+2021,Lexus,NX,3650 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.7L/100km,8.5L/100km,51895
+2023,Lexus,IS,0 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Grecian Water,Beige,5,4,Gas,12.2L/100km,9.0L/100km,52785
+2023,Lexus,ES,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Caviar,Black,5,4,Gas,10.7L/100km,7.3L/100km,55935
+2023,Lexus,IS,0 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Iridium,Red,5,4,Gas,12.2L/100km,9.0L/100km,56335
+2023,Lexus,ES,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Ultra White,Black,5,4,Gas,10.7L/100km,7.3L/100km,56335
+2019,Lexus,NX,21945 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,10.7L/100km,8.5L/100km,39800
+2023,Lexus,IS,null,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Eminent White Pearl,Beige,5,4,Gas,12.2L/100km,9.0L/100km,57935
+2023,Lexus,IS,null,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Eminent White Pearl,Red,5,4,Gas,12.2L/100km,9.0L/100km,57935
+2023,Lexus,IS,0 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,Eminent White Pearl,Tan,5,4,Gas,12.2L/100km,9.0L/100km,57935
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,null,null,58685
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Tan,5,4,Gas,null,null,58685
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,null,null,58685
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,null,null,58685
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.5L/100km,8.3L/100km,59235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.5L/100km,8.3L/100km,59235
+2020,Lexus,RX,39080 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,null,Gas,13.1L/100km,9.4L/100km,52900
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.5L/100km,8.3L/100km,59235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.5L/100km,8.3L/100km,59235
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Beige,5,4,Gas,10.5L/100km,8.3L/100km,59235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.5L/100km,8.3L/100km,59725
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Red,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Beige,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2022,Lexus,IS,4510 km,Sedan,5.0L DOHC,8 Speed Automatic,RWD,Silver,Black,null,4,Gas,14.1L/100km,9.3L/100km,79998
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Red,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Red,5,4,Gas,10.5L/100km,8.3L/100km,59735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,59775
+2018,Lexus,RX,66627 km,SUV,V6 Cylinder Engine,Automatic,AWD,Eminent White Pearl,Brown,6,4,Gas,null,null,59999
+2019,Lexus,GX,55684 km,SUV,4.6L 8cyl,6 Speed Automatic,4x4,Starfire Pearl,Black,7,5,Premium Unleaded,16.0L/100km,12.9L/100km,60588
+2022,Lexus,ES,9458 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Iridium,null,5,4,Gas,10.7L/100km,7.3L/100km,60785
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,null,null,61835
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,null,null,61835
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,null,null,61835
+2021,Lexus,RX,0 km,SUV,Regular Unleaded V-6 3.5 L/211,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,61588
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,null,null,61835
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,null,null,61835
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,null,null,61835
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,5,4,Gas,11.2L/100km,8.4L/100km,61935
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Beige,5,4,Gas,11.2L/100km,8.4L/100km,61935
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Nebula Grey Pearl,Black,5,4,Gas,11.2L/100km,8.4L/100km,61935
+2018,Lexus,RX,78151 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Black,6,4,Gas,13.1L/100km,9.4L/100km,44888
+2019,Lexus,NX,75557 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,34390
+2020,Lexus,UX,51188 km,SUV,4 Cylinder Engine,CVT,AWD,BLUE,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,37895
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2020,Lexus,IS,29890 km,Sedan,Premium Unleaded V-6 3.5 L/211,Automatic,AWD,Nebula Grey Pearl,null,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2019,Lexus,RC,43500 km,Coupe,V6 Cylinder Engine,Automatic,AWD,White,Red,4,2,Gas,13.1L/100km,9.8L/100km,45999
+2023,Lexus,NX,180 km,SUV,2.4L 4cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,2,Premium Unleaded,null,null,58235
+2017,Lexus,RX,82461 km,SUV,3.5L 6-Cylinder SMPI DOHC 24V,Automatic,AWD,Atomic Silver,Black,5,4,Gas,12.2L/100km,9.0L/100km,38999
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Red,5,4,Gas,null,null,62335
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,null,null,62335
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,62435
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Black,5,4,Gas,11.2L/100km,8.4L/100km,62435
+2007,Lexus,SC,85692 km,Sedan,4.3L 8cyl,6 Speed Automatic,RWD,Mercury Metallic,null,null,null,Gas,12.8L/100km,8.7L/100km,36990
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,62435
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,62475
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Black,5,4,Gas,11.2L/100km,8.4L/100km,62475
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,10.5L/100km,8.3L/100km,63535
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.5L/100km,8.3L/100km,63535
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Black,5,4,Gas,10.5L/100km,8.3L/100km,64035
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.5L/100km,8.3L/100km,64735
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,10.5L/100km,8.3L/100km,64735
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.5L/100km,8.3L/100km,64735
+2019,Lexus,NX,61793 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Atomic Silver,null,null,null,Gas,10.7L/100km,8.5L/100km,34958
+2023,Lexus,ES,0 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Iridium,Beige,5,4,Gas,10.7L/100km,7.3L/100km,64935
+2023,Lexus,ES,null,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Cloudburst Grey,Black,5,4,Gas,10.7L/100km,7.3L/100km,65035
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,65235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Black,5,4,Gas,10.5L/100km,8.3L/100km,65235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Black,5,4,Gas,10.5L/100km,8.3L/100km,65235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultra White,Red,5,4,Gas,10.5L/100km,8.3L/100km,65235
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ultrasonic Blue Mica 2.0,Red,5,4,Gas,10.5L/100km,8.3L/100km,65385
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,67035
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Red,5,4,Gas,11.2L/100km,8.4L/100km,67035
+2019,Lexus,IS,56000 km,Sedan,3.5,Automatic,AWD,Black,Red,5,4,Gas,12.3L/100km,9.1L/100km,43950
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,null,null,Gas,11.2L/100km,8.4L/100km,67035
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Red,5,4,Gas,11.2L/100km,8.4L/100km,67035
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Atomic Silver,Red,5,4,Gas,null,null,68735
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Cloudburst Grey,Red,5,4,Gas,10.5L/100km,8.3L/100km,69035
+2023,Lexus,NX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Eminent White Pearl,Red,5,4,Gas,null,null,69035
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,White,5,4,Gas,11.2L/100km,8.4L/100km,69132
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,69635
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,69635
+2023,Lexus,RX,0 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Iridium,Black,5,4,Gas,11.2L/100km,8.4L/100km,69635
+2022,Lexus,NX,9758 km,SUV,4 Cylinder Engine,CVT,AWD,Caviar,Red,5,4,Gasoline Hybrid,5.7L/100km,6.4L/100km,59950
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Copper Crest,Black,5,4,Gas,11.2L/100km,8.4L/100km,69785
+2023,Lexus,RX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Copper Crest,Black,5,4,Gas,11.2L/100km,8.4L/100km,69785
+2017,Lexus,LX,54720 km,SUV,8 Cylinder Engine,8 Speed Automatic,4x4,Starfire Pearl,Cream,8,4,Gas,18.2L/100km,13.0L/100km,84995
+2023,Lexus,LS,0 km,Sedan,V6 Cylinder Engine,10 Speed Automatic,AWD,Caviar,Black,5,4,Gas,null,null,127819
+2006,Lexus,RX,185241 km,SUV,V6 Cylinder Engine,5 Speed Automatic,4x4,Black Onyx,Black,5,4,Gas,12.8L/100km,9.0L/100km,8995
+2008,Lexus,GS,223500 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Mercury Metallic,Grey,5,4,Gas,11.6L/100km,8.0L/100km,9999
+2006,Lexus,RX,168631 km,SUV,3,Automatic,AWD,Silver,Black,5,5,Gas,7.5L/100km,8.1L/100km,11995
+2010,Lexus,RX,330000 km,SUV,V6 Cylinder Engine,Automatic,AWD,Matador Red Mica,Black,5,4,Gasoline Hybrid,6.6L/100km,7.2L/100km,12800
+2010,Lexus,ES,148966 km,Sedan,3.5L 6cyl,6 Speed Automatic,FWD,Grey,Black,null,4,Premium Unleaded,10.9L/100km,7.2L/100km,14999
+2022,Lexus,NX,11000 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,Black,null,null,Regular Unleaded,9.4L/100km,7.4L/100km,44900
+2013,Lexus,ES,217715 km,Sedan,6 Cylinder,Automatic,FWD,Starfire Pearl,Black,5,4,Gas,10.9L/100km,7.2L/100km,15800
+2010,Lexus,RX,200900 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Silver,Black,5,4,Gas,null,null,16200
+2012,Lexus,RX,204600 km,SUV,3.5,Automatic,AWD,Starfire Pearl,Beige,5,4,Gas,11.8L/100km,8.3L/100km,16900
+2010,Lexus,RX,183503 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,11.6L/100km,8.2L/100km,16995
+2012,Lexus,RX,157000 km,SUV,3.5,Automatic,AWD,Starfire Pearl,Beige,null,null,Gas,11.8L/100km,8.3L/100km,17995
+2016,Lexus,IS,138000 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,black,Red,5,4,Gas,12.6L/100km,9.2L/100km,28995
+2016,Lexus,NX,79725 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,10.6L - 10.8L/100km,8.4L - 8.8L/100km,31995
+2019,Lexus,NX,132502 km,SUV,2.0,6 Speed Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,10.7L/100km,8.5L/100km,36888
+2016,Lexus,GS,87000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Black,5,null,Gas,12.4L/100km,9.0L/100km,37888
+2019,Lexus,RX,44594 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nightfall Mica,Black,null,4,Gas,12.2L/100km,9.0L/100km,44588
+2017,Lexus,NX,66226 km,SUV,2.0,Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,37888
+2016,Lexus,RX,98253 km,SUV,3.5,Automatic,AWD,Silver Lining,Black,5,5,Gas,12.2L/100km,8.9L/100km,37900
+2016,Lexus,RX,132832 km,SUV,V6 Cylinder Engine,Automatic,AWD,Nebula Grey Pearl,Brown,5,4,Gas,12.2L/100km,8.9L/100km,37990
+2018,Lexus,IS,88356 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White,Beige,5,4,Gas,12.6L/100km,9.2L/100km,37995
+2019,Lexus,IS,46105 km,Sedan,3.5L 6cyl,6 Speed Automatic,AWD,null,null,null,null,Gas,12.3L/100km,9.1L/100km,39888
+2019,Lexus,IS,19534 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White,Black,5,4,Gas,12.3L/100km,9.1L/100km,44995
+2019,Lexus,NX,48800 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,10.7L/100km,8.5L/100km,46880
+2023,Lexus,ES,90 km,Sedan,V-6 cyl,Automatic,FWD,Cloudburst Grey,Black,null,null,Premium Unleaded,10.7L/100km,7.3L/100km,54989
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,null,Premium Unleaded,null,null,58695
+2022,Lexus,NX,8100 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.4 L/146,Automatic,AWD,Cloudburst Grey,null,5,4,Gas,null,null,56988
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Cloudburst Grey,Black,null,null,Premium Unleaded,null,null,59040
+2018,Lexus,GX,63223 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Starfire Pearl,Blue,7,4,Gas,16.0L/100km,12.9L/100km,59780
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Cloudburst Grey,null,null,null,Premium Unleaded,null,null,60244
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,null,null,null,Premium Unleaded,null,null,60795
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,null,null,null,Premium Unleaded,null,null,60915
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Ultra White,null,null,null,Premium Unleaded,null,null,61355
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,10.5L/100km,8.3L/100km,62555
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,10.5L/100km,8.3L/100km,62555
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Cloudburst Grey,null,null,null,Premium Unleaded,null,null,62995
+2019,Lexus,UX,55081 km,SUV,I-4 cyl,CVT,AWD,Celestial Blue,Black,null,null,Regular Unleaded,5.7L/100km,6.2L/100km,40500
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Atomic Silver,Black,null,null,Premium Unleaded,null,null,63755
+2023,Lexus,RX,1 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White Pearl,Black,5,4,Gasoline Hybrid,6.3L/100km,6.8L/100km,63813
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,null,null,null,Premium Unleaded,null,null,64100
+2023,Lexus,NX,0 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Ultra White,null,null,null,Premium Unleaded,10.5L/100km,8.3L/100km,64255
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Premium Unleaded,6.3L/100km,6.8L/100km,64649
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Ultra White,null,null,null,Premium Unleaded,10.5L/100km,8.3L/100km,65449
+2023,Lexus,NX,90 km,SUV,I-4 cyl,8 Speed Automatic,AWD,Caviar,null,null,null,Premium Unleaded,10.5L/100km,8.3L/100km,65449
+2023,Lexus,NX,90 km,SUV,I-4 cyl,CVT,AWD,Eminent White Pearl,null,null,null,Premium Unleaded,5.7L/100km,6.4L/100km,65749
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Iridium,Black,null,null,Premium Unleaded,11.2L/100km,8.4L/100km,68595
+2015,Lexus,RX,94536 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,Nightfall Mica,Brown,5,4,Gas,12.2L/100km,8.9L/100km,35288
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,11.2L/100km,8.4L/100km,69849
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Premium Unleaded,11.2L/100km,8.4L/100km,70349
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Caviar,null,null,null,Premium Unleaded,11.2L/100km,8.4L/100km,70595
+2023,Lexus,RX,1 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White Pearl,Black,5,4,Gasoline Hybrid,6.3L/100km,6.8L/100km,71013
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Premium Unleaded,6.3L/100km,6.8L/100km,71849
+2023,Lexus,RX,9 km,SUV,I-4 cyl,Automatic,AWD,Eminent White Pearl,Black,null,null,Premium Unleaded,6.3L/100km,6.8L/100km,71849
+2023,Lexus,RX,1 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White Pearl,Black,5,4,Gasoline Hybrid,6.3L/100km,6.8L/100km,74813
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Caviar,Black,null,null,Premium Unleaded,6.3L/100km,6.8L/100km,75149
+2023,Lexus,RX,1 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White Pearl,Black,5,4,Gasoline Hybrid,6.3L/100km,6.8L/100km,79313
+2019,Lexus,NX,38884 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,null,4,Gas,10.7L/100km,8.5L/100km,36795
+2021,Lexus,GX,20900 km,SUV,4.6,6 Speed Automatic,4x4,Black,Black,7,5,Gas,16.2L/100km,12.3L/100km,83988
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Caviar,null,null,null,Premium Unleaded,8.7L/100km,8.4L/100km,87905
+2023,Lexus,RX,90 km,SUV,I-4 cyl,Automatic,AWD,Copper Crest,Black,null,null,Premium Unleaded,8.7L/100km,8.4L/100km,90249
+2008,Lexus,ES,360768 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,10.9L/100km,7.2L/100km,5995
+2004,Lexus,RX,272526 km,SUV,V6 Cylinder Engine,5 Speed Automatic,4x4,Beige,Beige,5,4,Gas,12.8L/100km,9.0L/100km,6995
+2006,Lexus,ES,208488 km,Sedan,V6 Cylinder Engine,5 Speed Automatic,FWD,Silver,Black,5,4,Gas,11.5L/100km,7.3L/100km,7995
+2009,Lexus,ES,164472 km,Sedan,3.5L,Automatic,FWD,Grey,Black,5,4,Gas,10.9L/100km,7.2L/100km,9988
+2010,Lexus,RX,289000 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Beige,Beige,5,4,Gas,11.6L/100km,8.2L/100km,12900
+2002,Lexus,SC,227882 km,Convertible,4.3,Automatic,RWD,Millennium Silver Metallic,Black,null,2,Gas,13.1L/100km,9.3L/100km,13995
+2020,Lexus,NX,93437 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,White,Black,5,4,Gas,10.7L/100km,8.5L/100km,36188
+2010,Lexus,ES,147000 km,Sedan,V6 Cylinder Engine,Automatic,FWD,Not Specified,null,5,4,Gas,10.9L/100km,7.2L/100km,14900
+2009,Lexus,RX,151312 km,SUV,3.5L 6cyl,Automatic,4x4,White,Tan,5,4,Gas,null,null,15888
+2013,Lexus,GS,265110 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Gray,Black,5,4,Gas,11.4L/100km,7.8L/100km,15995
+2010,Lexus,IS,130000 km,Sedan,V6 Cylinder Engine,Manual,RWD,Obsidian,Black,null,4,Gas,9.8L - 11.6L/100km,6.7L - 7.6L/100km,16900
+2011,Lexus,CT,128610 km,Sedan,1.8,CVT,FWD,Fire Agate Pearl,Black,5,4,Gasoline Hybrid,4.5L/100km,4.8L/100km,19999
+2013,Lexus,GX,142600 km,SUV,8 Cylinder Engine,Automatic,4x4,Starfire Pearl,Beige,7,4,Gas,14.1L/100km,9.8L/100km,32999
+2022,Lexus,RX,14545 km,SUV,V6 Cylinder Engine 3.5L,Automatic,AWD,null,null,null,4,Gas,12.2L/100km,9.0L/100km,56499
+2016,Lexus,NX,103548 km,SUV,4 Cylinder,Automatic,AWD,Ultra White,Black,null,4,Gas,10.6L/100km,8.4L/100km,29800
+2020,Lexus,UX,63000 km,SUV,Gas/Electric I-4 2.0 L/121,CVT,AWD,Eminent White Pearl,Red,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40750
+2018,Lexus,NX,73000 km,SUV,4 Cylinder Engine,CVT,AWD,Eminent White,Black,5,4,Gasoline Hybrid,7.2L/100km,7.9L/100km,40999
+2022,Lexus,ES,7245 km,Sedan,I-4 cyl,Automatic,FWD,Caviar,Black,null,null,Regular Unleaded,5.5L/100km,5.2L/100km,55900
+2022,Lexus,IS,2214 km,Sedan,8 Cylinder Engine,8 Speed Automatic,RWD,Incognito,Black,5,4,Gas,14.1L/100km,9.3L/100km,75995
+2016,Lexus,NX,98765 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Premium Unleaded,10.6L/100km,8.4L/100km,31288
+2019,Lexus,RC,43500 km,Coupe,V6 Cylinder Engine,Automatic,AWD,White,Red,4,2,Gas,13.1L/100km,9.8L/100km,45999
+2020,Lexus,NX,41764 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,42898
+2011,Lexus,CT,128610 km,Sedan,1.8,CVT,FWD,Fire Agate Pearl,Black,5,4,Gasoline Hybrid,4.5L/100km,4.8L/100km,19999
+2013,Lexus,GX,142600 km,SUV,8 Cylinder Engine,Automatic,4x4,Starfire Pearl,Beige,7,4,Gas,14.1L/100km,9.8L/100km,32999
+2019,Lexus,NX,63000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Ultra White,null,null,null,Gas,10.7L/100km,8.5L/100km,43705
+2019,Lexus,NX,26073 km,SUV,2.0,Automatic,AWD,Nebula Grey Pearl,Red,5,4,Gas,10.7L/100km,8.5L/100km,43888
+2020,Lexus,NX,72453 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,White,Red,5,4,Gas,10.7L/100km,8.5L/100km,39888
+2020,Lexus,NX,37885 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Atomic Silver,Black,5,4,Gas,10.7L/100km,8.5L/100km,47995
+2019,Lexus,ES,1997 km,Sedan,I4 2.5L,Automatic,FWD,Eminent White Pearl,Black,null,null,Gasoline Hybrid,null,null,52468
+2022,Lexus,NX,796 km,SUV,null,CVT,AWD,null,null,5,4,Gasoline Hybrid,null,null,56995
+2019,Lexus,NX,1139 km,SUV,I4 2.5L,Automatic,AWD,Eminent White Pearl,Black,null,null,Gasoline Hybrid,7.2L/100km,7.9L/100km,64062
+2022,Lexus,RX,0 km,SUV,V-6 cyl,Automatic,AWD,Eminent White Pearl,null,null,null,Regular Unleaded,13.1L/100km,9.4L/100km,77795
+2002,Lexus,ES,191000 km,Sedan,null,Automatic,FWD,null,null,null,4 doors,Gasoline,null,null,4500
+2007,Lexus,RX,234000 km,null,null,Automatic,null,null,null,null,null,null,null,null,7000
+1991,Lexus,LS,203250 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,7800
+2003,Lexus,IS,258760 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,8999
+2022,Lexus,RX,10777 km,SUV,V6 Cylinder Engine 3.5L,CVT,AWD,White,Black,5,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,65995
+2008,Lexus,GS,232000 km,Sedan,null,Automatic,AWD,null,null,null,null,null,null,null,9500
+2007,Lexus,ES,200000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,9500
+2007,Lexus,IS,269000 km,Sedan,null,Automatic,RWD,Blue,null,null,4 doors,Gasoline,null,null,9800
+2010,Lexus,IS,211000 km,Sedan,null,Automatic,null,Blue,null,null,4,null,null,null,9990
+2007,Lexus,IS,137500 km,Sedan,null,Automatic,AWD,Not Specified,null,null,4,null,null,null,9990
+2009,Lexus,LS,267017 km,Sedan,4.6L V8 357HP 344FT. LBS.,Automatic,AWD,Obsidian,Black,null,4,Gas,14.7L/100km,10.2L/100km,9990
+2008,Lexus,IS,228731 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Dark Grey,Black,5,4,Gas,10.5L/100km,7.6L/100km,9999
+2007,Lexus,ES,179000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,9999
+2009,Lexus,IS,191388 km,Sedan,2.5L,Automatic,AWD,Black,White,5,4,Premium Unleaded,10.5L/100km,7.6L/100km,12498
+2017,Lexus,GX,45029 km,SUV,8 Cylinder Engine,Automatic,4WD,Starfire Pearl,null,null,null,Gas,16.0L/100km,12.9L/100km,52021
+2011,Lexus,CT,166000 km,Hatchback,4 Cylinder Engine,CVT,FWD,Obsidian,Black,5,4,Gasoline Hybrid,4.5L/100km,4.8L/100km,13900
+2008,Lexus,RX,313100 km,null,null,Automatic,4X4,Red,null,null,5 doors,Gasoline - Hybrid,null,null,13900
+2012,Lexus,IS,11748747 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,14000
+2012,Lexus,CT,173000 km,Hatchback,null,Automatic,null,Silver,null,null,4 doors,Gasoline - Hybrid,null,null,14999
+2014,Lexus,ES,900000 km,Sedan,null,Automatic,null,Black,null,null,4 doors,Gasoline - Hybrid,null,null,15000
+2013,Lexus,CT,248000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Ultrasonic Blue Mica,Black,5,4,Gasoline Hybrid,4.5L/100km,4.8L/100km,15900
+2013,Lexus,CT,182000 km,Hatchback,null,Automatic,FWD,Silver,null,null,5 doors,Gasoline - Hybrid,null,null,16000
+2011,Lexus,GS,157000 km,Sedan,null,Automatic,RWD,White,null,null,5 doors,Gasoline - Hybrid,null,null,16500
+2013,Lexus,GS,200000 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Gasoline,null,null,17000
+2019,Lexus,NX,13081 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,5,4,Gas,10.7L/100km,8.5L/100km,40037
+2008,Lexus,RX,95014 km,null,null,null,AWD,null,null,null,null,null,null,null,18000
+2016,Lexus,CT,239000 km,Hatchback,null,Automatic,FWD,Grey,null,null,5 doors,Gasoline - Hybrid,null,null,18488
+2012,Lexus,RX,156000 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,18500
+2005,Lexus,SC,218000 km,Convertible,4.3L,Automatic,RWD,White,Beige,4,2,Gas,null,null,18888
+2010,Lexus,RX,177000 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,19500
+2007,Lexus,GX,251748 km,SUV,8 Cylinder Engine,5 Speed Automatic,4x4,Silver,Beige,8,4,Gas,15.3L/100km,11.4L/100km,20000
+2013,Lexus,RX,162254 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,21500
+2015,Lexus,IS,165105 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,21900
+2015,Lexus,NX,129800 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,21999
+2018,Lexus,RX,33724 km,SUV,Moteur V6 3.5L,CVT,4x4,Charcoal,Black,null,4,Gasoline Hybrid,7.5L/100km,8.4L/100km,51491
+2002,Lexus,IS,69000 km,Sedan,null,Manual,RWD,White,null,null,4 doors,null,null,null,22800
+2015,Lexus,IS,166115 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,23500
+2014,Lexus,ES,139000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,24499
+2017,Lexus,IS,78000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,25500
+2016,Lexus,ES,183000 km,Sedan,3.5 L,Automatic,FWD,White,Black,5,4,Gasoline Hybrid,5.8L/100km,6.1L/100km,26995
+2015,Lexus,NX,77000 km,null,null,Automatic,AWD,Brown,null,null,4 doors,Gasoline,null,null,28500
+2015,Lexus,GS,135567 km,Sedan,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,28990
+2017,Lexus,IS,98000 km,null,null,null,null,null,null,null,null,null,null,null,29000
+2016,Lexus,NX,125036 km,null,null,null,null,Grey,null,null,4 doors,null,null,null,29900
+2022,Lexus,NX,9700 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.4 L/146,Automatic,AWD,Ultra White,null,5,4,Gas,10.7L/100km,8.4L/100km,58988
+2004,Lexus,SC,79714 km,Convertible,4.3,Automatic,RWD,Silver,Black,4,2,Gas,13.3L/100km,9.3L/100km,29900
+2018,Lexus,NX,159850 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline - Hybrid,null,null,35800
+2017,Lexus,NX,79000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,35999
+2017,Lexus,RX,87377 km,null,null,Automatic,AWD,Red,null,null,4 doors,Gasoline,null,null,39900
+2020,Lexus,NX,38200 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,40000
+2019,Lexus,NX,45500 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,40500
+2017,Lexus,RX,67000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,40500
+2018,Lexus,RX,65710 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,40900
+2017,Lexus,RX,58000 km,SUV,null,null,null,Not Specified,null,null,null,null,null,null,43888
+2022,Lexus,ES,7245 km,Sedan,I-4 cyl,Automatic,FWD,Caviar,Black,null,null,Regular Unleaded,5.5L/100km,5.2L/100km,55900
+2020,Lexus,NX,22160 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,44888
+2019,Lexus,NX,16400 km,null,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,44900
+2012,Lexus,IS,127000 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Gasoline,null,null,44999
+2015,Lexus,IS,45500 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,45000
+2019,Lexus,RX,83500 km,null,null,Automatic,4X4,Grey,null,null,4 doors,Gasoline,null,null,45000
+2014,Lexus,GX,69999 km,Sedan,null,Automatic,4X4,Black,null,null,5 doors,Gasoline,null,null,48000
+2019,Lexus,RX,26000 km,null,null,Automatic,null,Silver,null,null,4 doors,Gasoline,null,null,48000
+2020,Lexus,ES,38000 km,Sedan,6,Automatic,FWD,Not Specified,null,null,5,Gasoline Hybrid,5.5L/100km,5.2L/100km,48988
+2014,Lexus,LX,110000 km,null,null,Automatic,4X4,Grey,null,null,4 doors,Gasoline,null,null,49500
+2021,Lexus,UX,24707 km,SUV,2,Automatic,AWD,Black,Black,5,4,Gasoline Hybrid,null,null,45900
+2020,Lexus,NX,36147 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline - Hybrid,null,null,49995
+2020,Lexus,RX,27500 km,null,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,54500
+2013,Lexus,IS,70786 km,Sedan,8 Cylinder Engine,Automatic,RWD,White,Black,null,4,Gas,13.0L/100km,8.5L/100km,54995
+2018,Lexus,LS,111000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,58000
+2023,Lexus,ES,25000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline - Hybrid,null,null,58000
+2022,Lexus,RX,9400 km,null,null,Automatic,AWD,Silver,null,null,5 doors,Gasoline,null,null,58999
+2023,Lexus,NX,3500 km,null,null,null,null,null,null,null,null,null,null,null,63850
+2023,Lexus,NX,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Caviar,Red,5,4,Gas,10.5L/100km,8.3L/100km,64735
+2023,Lexus,NX,27 km,null,null,null,null,null,null,null,null,null,null,null,65000
+2020,Lexus,RX,39080 km,SUV,V6 Cylinder Engine,Automatic,AWD,Caviar,null,null,null,Gas,13.1L/100km,9.4L/100km,52900
+2018,Lexus,LS,51000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,65000
+2022,Lexus,NX,7500 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline - Hybrid,null,null,69900
+2022,Lexus,NX,7500 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline - Hybrid,null,null,74500
+2020,Lexus,GX,23000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,74900
+2023,Lexus,RX,45 km,null,null,Automatic,AWD,Black,null,null,5 doors,Gasoline,null,null,79000
+2022,Lexus,LC,4500 km,Convertible,null,Automatic,RWD,Green,null,null,2 doors,Gasoline,null,null,134888
+2023,Lexus,LX,40 km,null,null,Automatic,4X4,Black,null,null,4 doors,Gasoline,null,null,199000
+2018,Lexus,RX,52752 km,SUV,3.5L V6 295HP 267FT. LBS.,8 Speed Automatic,AWD,Atomic Silver,Black,null,4,Gas,12.2L/100km,9.0L/100km,41990

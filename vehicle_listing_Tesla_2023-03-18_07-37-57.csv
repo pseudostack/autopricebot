@@ -1,0 +1,350 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Tesla,Model,106870 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,RWD,Gray,null,null,null,Electric,null,null,43988
+2020,Tesla,Model,86603 km,Sedan,Dual Electric Motor,1 Speed Automatic,null,Dark Grey,Black,null,null,Electric,null,null,52395
+2019,Tesla,Model,52800 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,Black,5,4,Electric,null,null,69777
+2020,Tesla,Model,79000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,60000
+2018,Tesla,Model,46000 km,Sedan,null,null,AWD,Black,null,null,4 doors,Electric,null,null,89000
+2021,Tesla,Model,7250 km,Sedan,null,Automatic,AWD,Blue,null,null,5 doors,Electric,null,null,160000
+2022,Tesla,Model,100 km,null,null,null,AWD,White,null,null,5 doors,Electric,null,null,164250
+2021,Tesla,Model,24534 km,Sedan,Electric Motor,Automatic,null,Grey,White,null,null,Electric,null,null,51995
+2022,Tesla,Model,3732 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,54995
+2019,Tesla,Model,70160 km,Sedan,Electric Motor,Automatic,RWD,Solid Black,Black,null,4,Electric,null,null,40989
+2019,Tesla,Model,53575 km,Sedan,Electric Motor,Automatic,RWD,Red Multi-Coat,Black,5,null,Electric,null,null,42998
+2019,Tesla,Model,107082 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Midnight Silver Metallic,null,null,null,Electric,null,null,43595
+2018,Tesla,Model,106870 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,RWD,Gray,null,null,null,Electric,null,null,43988
+2022,Tesla,Model,null,null,null,null,null,White,Black,5,4,Electric,null,null,64990
+2019,Tesla,Model,61033 km,Sedan,Electric,Automatic,RWD,Deep Blue Metallic,null,null,null,Electric,null,null,44495
+2020,Tesla,Model,18079 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,5,null,Electric,null,null,44998
+2020,Tesla,Model,65790 km,Sedan,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,null,null,4,Electric,null,null,46000
+2015,Tesla,Model,121553 km,Hatchback,Electric Motor,Automatic,AWD,Red Multi-Coat,Black,5,null,Electric,null,null,46910
+2020,Tesla,Model,46288 km,Sedan,Electric Motor,Automatic,RWD,Deep Blue Metallic,null,null,4,Electric,null,null,48777
+2021,Tesla,Model,41506 km,Sedan,Electric,1 Speed Automatic,RWD,Grey,Black,null,null,Electric,null,null,48995
+2021,Tesla,Model,30315 km,Sedan,Electric Motor,1 Speed Automatic,null,Grey,null,null,null,Electric,null,null,49348
+2020,Tesla,Model,32107 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Dark Grey,White,5,4,Electric,null,null,49888
+2022,Tesla,Model,15005 km,Sedan,Electric Motor,Automatic,RWD,null,null,null,4,Electric,null,null,49998
+2022,Tesla,Model,16430 km,Sedan,Electric,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,54995
+2022,Tesla,Model,7289 km,Sedan,Electric Motor,Automatic,RWD,Grey,Black,5,null,Electric,null,null,50998
+2020,Tesla,Model,86603 km,Sedan,Dual Electric Motor,1 Speed Automatic,null,Dark Grey,Black,null,null,Electric,null,null,52395
+2021,Tesla,Model,14057 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,52395
+2015,Tesla,Model,118909 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Gray Metallic,Black,5,4,Electric,null,null,52888
+2020,Tesla,Model,46200 km,Sedan,Electric Motor,Automatic,AWD,HITE,null,5,4,Electric,null,null,53495
+2016,Tesla,Model,109076 km,Hatchback,Electric Motor,Automatic,AWD,Black,Black,5,4,Electric,null,null,53910
+2018,Tesla,Model,56000 km,Sedan,Electric Motor,Automatic,AWD,Black,Black,5,4,Electric,null,null,56990
+2020,Tesla,Model,118784 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,57500
+2017,Tesla,Model,138000 km,Hatchback,N/A,Automatic,AWD,Black,null,null,2,Electric,null,null,57711
+2022,Tesla,Model,4200 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,129900
+2021,Tesla,Model,69753 km,Sedan,Electric Motor,Automatic,null,Solid Black,Black,null,null,Electric,null,null,58900
+2020,Tesla,Model,15521 km,Sedan,Electric Motor,Automatic,AWD,null,null,null,4,Electric,null,null,59600
+2022,Tesla,Model,8676 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Grey,null,5,4,Electric,null,null,61985
+2021,Tesla,Model,61228 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Grey,Black,5,4,Electric,null,null,61990
+2021,Tesla,Model,7860 km,Sedan,Electric,1 Speed Automatic,AWD,Deep Blue Metallic,Black,null,2,Electric,null,null,62980
+2022,Tesla,Model,90 km,Sedan,Electric,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,62990
+2020,Tesla,Model,47500 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,66755
+2016,Tesla,Model,137888 km,Wagon,Electric ZEV,Automatic,AWD,Blue,Beige,null,4,Electric,null,null,67790
+2022,Tesla,Model,26451 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,68910
+2022,Tesla,Model,15005 km,Sedan,Electric Motor,Automatic,RWD,null,null,null,4,Electric,null,null,49998
+2021,Tesla,Model,13241 km,SUV,Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,5,4,Electric,null,null,68985
+2019,Tesla,Model,52800 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,Black,5,4,Electric,null,null,69777
+2022,Tesla,Model,2117 km,Sedan,Dual Electric Motor,1 Speed Automatic,null,Dark Grey,Black,null,null,Electric,null,null,69858
+2016,Tesla,Model,81094 km,SUV,Electric Motor,Automatic,AWD,White,Black,7,4,Electric,null,null,69888
+2018,Tesla,Model,122513 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,7,4,Electric,null,null,69910
+2020,Tesla,Model,39469 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,69950
+2022,Tesla,Model,10302 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,Black,5,4,Electric,null,null,69999
+2022,Tesla,Model,7566 km,Sedan,Electric Motor,1 Speed Automatic,AWD,GRAY,Black,5,4,Electric,null,null,69999
+2021,Tesla,Model,11680 km,Sedan,Electric Motor,Automatic,AWD,Deep Blue Metallic,Black,null,4,Electric,null,null,70335
+2021,Tesla,Model,26277 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,55000
+2022,Tesla,Model,118 km,Sedan,Dual Electric Motor,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,70995
+2021,Tesla,Model,21820 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,null,4,Electric,null,null,72245
+2021,Tesla,Model,38845 km,SUV,Electric,Automatic,AWD,Gray,Black,null,4,Electric,null,null,72800
+2016,Tesla,Model,98097 km,SUV,Electric,Automatic,AWD,White,Black,7,null,Electric,null,null,72910
+2022,Tesla,Model,90 km,Sedan,Electric Motor,Automatic,null,Solid Black,null,null,null,Electric,null,null,73995
+2022,Tesla,Model,42895 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,74950
+2022,Tesla,Model,22388 km,SUV,Electric Motor,1 Speed Automatic,null,Gray,null,null,null,Electric,null,null,74976
+2022,Tesla,Model,17613 km,SUV,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,White,7,4,Electric,null,null,75015
+2017,Tesla,Model,122000 km,SUV,Electric Motor,Automatic,AWD,Grey,Beige,5,4,Electric,null,null,75899
+2015,Tesla,Model,69810 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Black,Black,null,4,Electric,null,null,51000
+2017,Tesla,Model,136398 km,SUV,Electric Motor,Automatic,AWD,Silver,Black,5,null,Electric,null,null,75998
+2022,Tesla,Model,25000 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,76000
+2021,Tesla,Model,14099 km,SUV,Electric Motor,1 Speed Automatic,null,Pearl White Multi-Coat,Dark Grey,null,null,Electric,null,null,76577
+2017,Tesla,Model,73560 km,SUV,Electric Motor,Automatic,AWD,Red Multi-Coat,Black,5,4,Electric,null,null,76688
+2018,Tesla,Model,88200 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Black,Black,5,4,Electric,null,null,77777
+2016,Tesla,Model,76584 km,SUV,Electric,Automatic,AWD,Black Solid,null,null,4,Electric,null,null,77800
+2018,Tesla,Model,77738 km,Sedan,Electric Motor,Automatic,AWD,Black,Black,5,5,Electric,null,null,77888
+2022,Tesla,Model,7938 km,SUV,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,77888
+2022,Tesla,Model,8888 km,SUV,Electric,Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,77950
+2022,Tesla,Model,17613 km,SUV,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,White,7,4,Electric,null,null,75015
+2022,Tesla,Model,10116 km,SUV,ELECTRIC,1 Speed Automatic,null,Midnight Silver Metallic,null,null,2,Electric,null,null,77999
+2022,Tesla,Model,10150 km,SUV,Electric Motor,Automatic,AWD,Deep Blue Metallic,White,null,4,Electric,null,null,78950
+2018,Tesla,Model,182380 km,SUV,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,Tan,7,4,Electric,null,null,79888
+2022,Tesla,Model,1639 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,79950
+2022,Tesla,Model,6100 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,79950
+2016,Tesla,Model,71400 km,SUV,Electric,1 Speed Automatic,AWD,Silver,Cream,6,4,Electric,null,null,81777
+2018,Tesla,Model,46201 km,SUV,Electric Motor,Automatic,AWD,Black,Black,5,5,Electric,null,null,83888
+2022,Tesla,Model,25 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,85024
+2022,Tesla,Model,25 km,SUV,0,Automatic,AWD,Pearl White Multi-Coat,White,7,4,Electric,null,null,85888
+2021,Tesla,Model,7795 km,Sedan,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,null,5,4,Electric,null,null,51888
+2018,Tesla,Model,38200 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,87777
+2017,Tesla,Model,45000 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,6,4,Electric,null,null,88888
+2016,Tesla,Model,46500 km,SUV,Electric,1 Speed Automatic,AWD,Red,Black,7,4,Electric,null,null,89777
+2022,Tesla,Model,90 km,SUV,Electric Motor,Automatic,AWD,null,null,7,4,Electric,null,null,95995
+2019,Tesla,Model,55800 km,SUV,Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,7,4,Electric,null,null,97777
+2019,Tesla,Model,55688 km,SUV,Electric Motor,Automatic,AWD,Gray,Black,null,null,Electric,null,null,98500
+2022,Tesla,Model,30 km,SUV,Electric Motor,Automatic,null,null,null,null,null,Electric,null,null,102995
+2019,Tesla,Model,40000 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,7,4,Electric,null,null,108888
+2017,Tesla,Model,75005 km,SUV,Electric,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,109800
+2019,Tesla,Model,66088 km,SUV,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,White,6,4,Electric,null,null,87950
+2020,Tesla,Model,59338 km,SUV,Electric Motor,Automatic,AWD,Grey,White,5,4,Electric,null,null,115910
+2019,Tesla,Model,65700 km,SUV,Electric Motor,Automatic,AWD,null,null,6,4,Electric,null,null,124995
+2020,Tesla,Model,62904 km,SUV,Electric Motor,Automatic,AWD,Solid Black,Black,6,4,Electric,null,null,129910
+2021,Tesla,Model,472 km,Sedan,Electric,Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,139994
+2022,Tesla,Model,130 km,SUV,0,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,145769
+2022,Tesla,Model,12296 km,SUV,Electric Motor,Automatic,null,Pearl White Multi-Coat,White,7,null,Electric,null,null,147655
+2022,Tesla,Model,36500 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,148888
+2021,Tesla,Model,16862 km,Sedan,Electric,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,149000
+2022,Tesla,Model,14177 km,SUV,Electric Motor,1 Speed Automatic,null,Solid Black,Cream,null,null,Electric,null,null,152995
+2022,Tesla,Model,142 km,SUV,0.0L,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,77995
+2022,Tesla,Model,16868 km,SUV,Electric Motor,1 Speed Automatic,null,null,null,null,null,Electric,null,null,169888
+2022,Tesla,Model,50 km,SUV,Electric Motor,CVT,AWD,Solid Black,Black,6,4,Electric,null,null,189999
+2015,Tesla,Model,91196 km,Hatchback,Electric Motor,Automatic,AWD,Black,Grey,5,null,Electric,null,null,33998
+2015,Tesla,Model,118000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,35000
+2020,Tesla,Model,63835 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,2,Electric,null,null,41999
+2020,Tesla,Model,45189 km,Sedan,Electric,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,42887
+2019,Tesla,Model,88219 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Pearl White Multi-Coat,Black,null,null,Electric,null,null,45999
+2022,Tesla,Model,20776 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,RWD,Solid Black,null,null,null,Electric,null,null,50997
+2020,Tesla,Model,79000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,60000
+2017,Tesla,Model,73560 km,SUV,Electric Motor,Automatic,AWD,Red Multi-Coat,Black,5,4,Electric,null,null,76688
+2021,Tesla,Model,32000 km,SUV,Electric Motor,Automatic,null,Pearl White Multi-Coat,null,null,null,Electric,null,null,64999
+2017,Tesla,Model,72540 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Electric,null,null,70000
+2022,Tesla,Model,6371 km,SUV,Electric Motor,1 Speed Automatic,AWD,Midnight Silver Metallic,Black,7,4,Electric,null,null,74995
+2017,Tesla,Model,76000 km,null,null,Automatic,AWD,Black,null,null,5 doors,Electric,null,null,76000
+2022,Tesla,Model,16557 km,SUV,Electric,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,77888
+2022,Tesla,Model,29 km,Sedan,Electric Motor,CVT,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,78888
+2018,Tesla,Model,106870 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,RWD,Gray,null,null,null,Electric,null,null,43988
+2018,Tesla,Model,88200 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Black,Black,5,4,Electric,null,null,77777
+2022,Tesla,Model,10116 km,SUV,ELECTRIC,1 Speed Automatic,null,Midnight Silver Metallic,null,null,2,Electric,null,null,77999
+2022,Tesla,Model,25 km,SUV,0,Automatic,AWD,Pearl White Multi-Coat,White,7,4,Electric,null,null,85888
+2019,Tesla,Model,55800 km,SUV,Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,7,4,Electric,null,null,97777
+2015,Tesla,Model,118000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,35000
+2020,Tesla,Model,79000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,60000
+2019,Tesla,Model,74358 km,null,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,79000
+2021,Tesla,Model,24534 km,Sedan,Electric Motor,Automatic,null,Grey,White,null,null,Electric,null,null,51995
+2019,Tesla,Model,74358 km,null,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,79000
+2018,Tesla,Model,46000 km,Sedan,null,null,AWD,Black,null,null,4 doors,Electric,null,null,89000
+2021,Tesla,Model,7250 km,Sedan,null,Automatic,AWD,Blue,null,null,5 doors,Electric,null,null,160000
+2014,Tesla,Model,145385 km,Sedan,Electric Motor,Automatic,RWD,Black,Black,null,4,Electric,null,null,31995
+2015,Tesla,Model,69810 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Black,Black,null,4,Electric,null,null,51000
+2014,Tesla,Model,70279 km,Sedan,Electric Motor,Automatic,RWD,Grey Metallic,Black,null,4,Electric,null,null,34900
+2019,Tesla,Model,82000 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,38995
+2020,Tesla,Model,97910 km,Sedan,Electric Motor,Automatic,RWD,Solid Black,Black,5,null,Electric,null,null,39980
+2019,Tesla,Model,51922 km,Sedan,Electric Motor,Automatic,RWD,Solid Black,Black,null,4,Electric,null,null,39995
+2013,Tesla,Model,190000 km,null,null,null,null,null,null,null,null,null,null,null,39995
+2016,Tesla,Model,353450 km,Sedan,ELECTRIC,null,AWD,Red,Tan,5,4,Electric,null,null,39999
+2019,Tesla,Model,79931 km,Sedan,Electric Motor,CVT,RWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,40980
+2019,Tesla,Model,106000 km,Sedan,Electric Motor,Automatic,RWD,Gray,Black,5,4,Electric,null,null,41888
+2020,Tesla,Model,47000 km,Sedan,Electric Motor,Automatic,RWD,Deep Blue Metallic,Black,5,null,Electric,null,null,42490
+2021,Tesla,Model,7795 km,Sedan,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,null,5,4,Electric,null,null,51888
+2021,Tesla,Model,87988 km,Sedan,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,Black,5,null,Electric,null,null,42888
+2020,Tesla,Model,79887 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,5,null,Electric,null,null,46980
+2018,Tesla,Model,86229 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,46995
+2019,Tesla,Model,65774 km,Sedan,Electric,1 Speed Automatic,RWD,Solid Black,null,5,4,Electric,null,null,47160
+2020,Tesla,Model,44601 km,Sedan,Electric,1 Speed Automatic,RWD,Solid Black,Black,5,4,Electric,null,null,47800
+2016,Tesla,Model,78000 km,Sedan,Electric Motor,Automatic,AWD,Blue,Tan,5,4,Electric,null,null,47888
+2019,Tesla,Model,91544 km,Sedan,Electric Motor,1 Speed Automatic,RWD,null,null,5,4,Electric,null,null,48995
+2021,Tesla,Model,22467 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Grey,White,5,4,Electric,null,null,49950
+2022,Tesla,Model,13200 km,Sedan,Electric Motor,Automatic,AWD,Deep Blue Metallic,Black,5,4,Electric,null,null,49985
+2022,Tesla,Model,4200 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,129900
+2021,Tesla,Model,25842 km,Sedan,Electric Motor,Automatic,null,Grey,Black,null,null,Electric,null,null,49995
+2021,Tesla,Model,24534 km,Sedan,Electric Motor,Automatic,null,Grey,White,null,null,Electric,null,null,51995
+2019,Tesla,Model,27000 km,Sedan,Electric Motor,Automatic,RWD,Solid Black,Black,5,4,Electric,null,null,52999
+2022,Tesla,Model,67 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,54895
+2019,Tesla,Model,53960 km,Sedan,10-Cylinder Electric ZEV,1 Speed Automatic,AWD,Solid Black,Black,null,4,Electric,null,null,54987
+2022,Tesla,Model,8578 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,54995
+2022,Tesla,Model,3732 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,54995
+2020,Tesla,Model,50000 km,Sedan,1,CVT,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,55900
+2016,Tesla,Model,133908 km,Hatchback,Electric Motor,null,AWD,Black,Black,5,4,Electric,null,null,56888
+2021,Tesla,Model,26277 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,55000
+2023,Tesla,Model,3471 km,Sedan,Electric,Automatic,RWD,Grey,Black,5,4,Electric,null,null,57998
+2021,Tesla,Model,22879 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,58995
+2022,Tesla,Model,3094 km,Sedan,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,Black,null,null,Electric,null,null,58999
+2019,Tesla,Model,56746 km,Sedan,Electric Motor,Automatic,RWD,null,null,5,4,Electric,null,null,59480
+2019,Tesla,Model,61000 km,Sedan,Electric Motor,CVT,RWD,Grey,Black,null,null,Electric,null,null,59900
+2016,Tesla,Model,156809 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Brown,Tan,6,4,Electric,null,null,59999
+2021,Tesla,Model,32000 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,7,4,Electric,null,null,61995
+2021,Tesla,Model,26000 km,SUV,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,62878
+2021,Tesla,Model,29175 km,SUV,Electric,1 Speed Automatic,null,null,null,null,2,Electric,null,null,62900
+2019,Tesla,Model,66088 km,SUV,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,White,6,4,Electric,null,null,87950
+2022,Tesla,Model,36510 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,63836
+2020,Tesla,Model,31024 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,63880
+2022,Tesla,Model,924 km,Sedan,Electric ZEV 271hp,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,63999
+2021,Tesla,Model,19900 km,SUV,Electric Motor,Automatic,RWD,Solid Black,Black,5,4,Electric,null,null,64878
+2015,Tesla,Model,87000 km,Sedan,Electric Motor,1 Speed Automatic,AWD,null,null,7,4,Electric,null,null,64995
+2016,Tesla,Model,35242 km,Sedan,Electric Motor,Automatic,AWD,Grey,Light Grey,null,null,Electric,null,null,64995
+2019,Tesla,Model,44910 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Deep Blue Metallic,White,5,4,Electric,null,null,64999
+2022,Tesla,Model,11021 km,Sedan,Electric,Automatic,AWD,Solid Black,Black,5,4,Electric,null,null,66990
+2021,Tesla,Model,54000 km,Sedan,Electric Motor,CVT,null,Deep Blue Metallic,Black,null,null,Electric,null,null,67900
+2022,Tesla,Model,50 km,SUV,Electric Motor,CVT,AWD,Solid Black,Black,6,4,Electric,null,null,189999
+2022,Tesla,Model,84 km,Sedan,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,67995
+2022,Tesla,Model,10125 km,SUV,Electric,1 Speed Automatic,AWD,Solid Black,White,5,5,Electric,null,null,68888
+2016,Tesla,Model,157635 km,Wagon,Electric Motor,null,AWD,Silver,Black,6,null,Electric,null,null,68995
+2021,Tesla,Model,10700 km,Sedan,Electric Motor,Automatic,RWD,Gray,Black,5,4,Electric,null,null,69995
+2021,Tesla,Model,49002 km,SUV,Electric Motor,Automatic,AWD,Red Multi-Coat,Black,null,null,Electric,null,null,69995
+2016,Tesla,Model,113000 km,Wagon,Electric Motor,Automatic,AWD,White,White,null,null,Electric,null,null,69998
+2022,Tesla,Model,6362 km,Sedan,Electric Motor,Automatic,AWD,Gray,Black,5,4,Electric,null,null,72895
+2022,Tesla,Model,7339 km,Sedan,Electric Motor,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,73000
+2019,Tesla,Model,30000 km,Hatchback,Electric Motor,CVT,AWD,Pearl White Multi-Coat,Black,null,null,Electric,null,null,74900
+2022,Tesla,Model,142 km,SUV,0.0L,1 Speed Automatic,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,77995
+2022,Tesla,Model,17750 km,SUV,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,Black,5,null,Electric,null,null,74999
+2022,Tesla,Model,93 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,75000
+2022,Tesla,Model,1258 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,75880
+2022,Tesla,Model,36 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,75900
+2022,Tesla,Model,11 km,Sedan,Dual Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,75989
+2022,Tesla,Model,13 km,Sedan,Dual Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,75989
+2023,Tesla,Model,30 km,SUV,ELECTRIC,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,76290
+2022,Tesla,Model,18484 km,SUV,Electric Motor,1 Speed Automatic,null,Deep Blue Metallic,Black,null,null,Electric,null,null,77000
+2022,Tesla,Model,19448 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Solid Black,White,5,4,Electric,null,null,77000
+2022,Tesla,Model,17613 km,SUV,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,White,7,4,Electric,null,null,75015
+2018,Tesla,Model,62521 km,Sedan,Electric Motor,Automatic,AWD,Silver,Black,5,4,Electric,null,null,79777
+2018,Tesla,Model,136317 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Cream,null,null,Electric,null,null,79897
+2022,Tesla,Model,25001 km,SUV,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,7,4,Electric,null,null,79995
+2022,Tesla,Model,157 km,SUV,Dual Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,null,null,Electric,null,null,81990
+2019,Tesla,Model,92866 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,6,null,Electric,null,null,82800
+2021,Tesla,Model,8996 km,SUV,Electric Motor,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,84480
+2019,Tesla,Model,98000 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Black,null,null,Electric,null,null,85900
+2022,Tesla,Model,4800 km,SUV,Electric Motor,Automatic,AWD,Gray,Black,7,4,Electric,null,null,86495
+2016,Tesla,Model,42079 km,Wagon,Electric Motor,Automatic,AWD,Blue,Black,6,4,Electric,null,null,86980
+2022,Tesla,Model,16430 km,Sedan,Electric,Automatic,RWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,54995
+2018,Tesla,Model,79002 km,SUV,Electric ZEV,1 Speed Automatic,AWD,Red Multi-Coat,Black,null,4,Electric,null,null,87487
+2022,Tesla,Model,249 km,SUV,Electric Motor,1 Speed Automatic,null,Pearl White Multi-Coat,White,5,4,Electric,null,null,89000
+2018,Tesla,Model,125400 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,89999
+2019,Tesla,Model,32080 km,SUV,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,null,null,Electric,null,null,95999
+2020,Tesla,Model,41235 km,Sedan,Electric Motor,Automatic,AWD,Grey,Beige,null,4,Electric,null,null,99995
+2020,Tesla,Model,156490 km,SUV,Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,6,4,Electric,null,null,99999
+2017,Tesla,Model,77000 km,SUV,Electric Motor,1 Speed Automatic,AWD,null,null,6,4,Electric,null,null,104995
+2018,Tesla,Model,75924 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Grey,Black,6,4,Electric,null,null,105999
+2020,Tesla,Model,75443 km,SUV,Electric Motor,1 Speed Automatic,AWD,Pearl White Multi-Coat,Beige,6,4,Electric,null,null,106999
+2022,Tesla,Model,null,null,null,null,null,White,Black,5,4,Electric,null,null,64990
+2019,Tesla,Model,43871 km,SUV,Electric,1 Speed Automatic,AWD,Solid Black,Tan,null,4,Electric,null,null,107888
+2019,Tesla,Model,82562 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Solid Black,White,7,4,Electric,null,null,109999
+2018,Tesla,Model,56770 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,6,4,Electric,null,null,109999
+2020,Tesla,Model,38195 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Pearl White Multi-Coat,Cream,6,4,Electric,null,null,119999
+2020,Tesla,Model,8000 km,SUV,Electric Motor,1 Speed Automatic,AWD,Red Multi-Coat,Black,6,4,Electric,null,null,129995
+2020,Tesla,Model,48900 km,SUV,Electric Motor,1 Speed Automatic,AWD,Solid Black,Grey,7,4,Electric,null,null,129999
+2022,Tesla,Model,15672 km,Hatchback,Electric Motor,1 Speed Automatic,AWD,Solid Black,White,5,4,Electric,null,null,131999
+2021,Tesla,Model,13086 km,Hatchback,Electric Motor,Automatic,AWD,Deep Blue Metallic,Black,5,5,Electric,null,null,135999
+2022,Tesla,Model,5686 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,144880
+2022,Tesla,Model,15005 km,Sedan,Electric Motor,Automatic,RWD,null,null,null,4,Electric,null,null,49998
+2021,Tesla,Model,18914 km,Hatchback,Electric Motor,Automatic,null,Pearl White Multi-Coat,Cream,5,null,Electric,null,null,148999
+2022,Tesla,Model,2340 km,SUV,Electric Motor,1 Speed Automatic,AWD,Grey,Black,7,4,Electric,null,null,151999
+2022,Tesla,Model,3767 km,SUV,Electric Motor,Automatic,null,Pearl White Multi-Coat,Black,5,null,Electric,null,null,152500
+2022,Tesla,Model,1287 km,SUV,Electric Motor,Automatic,null,Solid Black,White,6,null,Electric,null,null,155500
+2022,Tesla,Model,16361 km,Hatchback,Electric,1 Speed Automatic,AWD,Pearl White Multi-Coat,Black,5,4,Electric,null,null,159999
+2022,Tesla,Model,4650 km,SUV,ELECTIC,CVT,AWD,Pearl White Multi-Coat,White,6,5,Electric,null,null,169995
+2018,Tesla,Model,106870 km,Sedan,Electric ZEV 271hp,1 Speed Automatic,RWD,Gray,null,null,null,Electric,null,null,43988
+2021,Tesla,Model,38845 km,SUV,Electric,Automatic,AWD,Gray,Black,null,4,Electric,null,null,72800
+2016,Tesla,Model,76584 km,SUV,Electric,Automatic,AWD,Black Solid,null,null,4,Electric,null,null,77800
+2016,Tesla,Model,71400 km,SUV,Electric,1 Speed Automatic,AWD,Silver,Cream,6,4,Electric,null,null,81777
+2016,Tesla,Model,46500 km,SUV,Electric,1 Speed Automatic,AWD,Red,Black,7,4,Electric,null,null,89777
+2019,Tesla,Model,74358 km,null,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,79000
+2018,Tesla,Model,46000 km,Sedan,null,null,AWD,Black,null,null,4 doors,Electric,null,null,89000
+2018,Tesla,Model,136317 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,Cream,null,null,Electric,null,null,79897
+2016,Tesla,Model,42079 km,Wagon,Electric Motor,Automatic,AWD,Blue,Black,6,4,Electric,null,null,86980
+2022,Tesla,Model,4780 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Pearl White Multi-Coat,White,6,4,Electric,null,null,201999
+2022,Tesla,Model,1852 km,SUV,ELECTRIC,1 Speed Automatic,AWD,White,Black,6,4,Electric,null,null,209999
+2021,Tesla,Model,37730 km,Sedan,Electric Motor,Automatic,RWD,Not Specified,null,null,4,Electric,null,null,29990
+2014,Tesla,Model,100000 km,Sedan,Electric Motor,Automatic,RWD,White,Black,5,4,Electric,null,null,39888
+2022,Tesla,Model,157 km,SUV,Dual Electric Motor,1 Speed Automatic,AWD,Solid Black,Black,null,null,Electric,null,null,81990
+2019,Tesla,Model,69251 km,Sedan,Electric Motor,Automatic,RWD,Grey,Black,5,4,Electric,null,null,39995
+2015,Tesla,Model,118000 km,Sedan,null,Automatic,AWD,Not Specified,null,null,4 doors,Electric,null,null,40000
+2019,Tesla,Model,97100 km,Sedan,null,Automatic,RWD,Red,null,null,4 doors,Electric,null,null,41500
+2019,Tesla,Model,49832 km,Sedan,Electric Motor,Automatic,RWD,Red,Black,5,4,Electric,null,null,42900
+2019,Tesla,Model,69000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,42999
+2020,Tesla,Model,71067 km,Sedan,0.00,Automatic,RWD,White,Black,5,4,Electric,null,null,43777
+2013,Tesla,Model,97629 km,Sedan,N/A,1 Speed Automatic,RWD,Blue Metallic,Beige,5,4,Electric,null,null,44900
+2020,Tesla,Model,54812 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,null,null,null,45000
+2020,Tesla,Model,48000 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,45995
+2022,Tesla,Model,10 km,SUV,ELECTRIC,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,149400
+2019,Tesla,Model,78000 km,Sedan,null,null,RWD,White,null,null,4 doors,Electric,null,null,46999
+2015,Tesla,Model,130000 km,Sedan,Electric Motor,Automatic,AWD,White,Black,5,4,Electric,null,null,47995
+2019,Tesla,Model,59000 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Electric,null,null,48000
+2019,Tesla,Model,74500 km,Sedan,null,Automatic,RWD,Grey,null,null,4 doors,Electric,null,null,49500
+2021,Tesla,Model,35567 km,Sedan,null,Automatic,RWD,White,null,null,4 doors,Electric,null,null,49900
+2018,Tesla,Model,69000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,49980
+2016,Tesla,Model,150248 km,Sedan,Electric Motor,null,AWD,null,null,null,null,Electric,null,null,49990
+2022,Tesla,Model,25125 km,Sedan,Electric Motor,Automatic,RWD,Blue,Black,null,4,Electric,null,null,49995
+2021,Tesla,Model,22950 km,Sedan,Electric Motor,Automatic,RWD,White,White,5,4,Electric,null,null,49995
+2022,Tesla,Model,null,Sedan,null,Automatic,null,White,Black,5,4,Electric,null,null,64990
+2022,Tesla,Model,33000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,50000
+2019,Tesla,Model,52790 km,Sedan,Electric Motor,Automatic,RWD,Black,Black,null,4,Electric,null,null,50999
+2018,Tesla,Model,44600 km,Sedan,null,Automatic,RWD,Red,null,null,4 doors,Electric,null,null,51900
+2021,Tesla,Model,52000 km,Sedan,null,Automatic,RWD,Red,null,null,4 doors,Electric,null,null,52500
+2018,Tesla,Model,71000 km,Sedan,Electric,Automatic,RWD,Pearl White Multi-Co,Black,5,4,Electric,null,null,53850
+2019,Tesla,Model,53600 km,Sedan,null,Automatic,AWD,Black,null,null,5 doors,Electric,null,null,54450
+2013,Tesla,Model,178000 km,null,null,null,null,null,null,null,null,null,null,null,55000
+2017,Tesla,Model,212896 km,null,null,Automatic,FWD,White,null,null,4 doors,Electric,null,null,55555
+2020,Tesla,Model,47060 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,58600
+2021,Tesla,Model,73865 km,SUV,ELECTRIC,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,65700
+2017,Tesla,Model,86815 km,Sedan,Electric Motor,Automatic,AWD,Not Specified,null,null,4,Electric,null,null,58999
+2018,Tesla,Model,70155 km,Sedan,Electric Motor,1 Speed Automatic,AWD,Blue,Beige,null,null,Electric,null,null,58999
+2022,Tesla,Model,3600 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,59995
+2016,Tesla,Model,154572 km,SUV,Electric Motor,Automatic,AWD,Blue,Black,6,4,Electric,null,null,59999
+2022,Tesla,Model,4844 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,59999
+2020,Tesla,Model,73860 km,null,null,Automatic,AWD,White,null,null,5 doors,Electric,null,null,59999
+2022,Tesla,Model,13369 km,Sedan,null,Automatic,RWD,White,null,null,4 doors,Electric,null,null,60000
+2020,Tesla,Model,510000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,60000
+2021,Tesla,Model,60000 km,Sedan,null,Automatic,RWD,Black,null,null,4 doors,Electric,null,null,60000
+2021,Tesla,Model,27928 km,Sedan,0,Automatic,AWD,Pearl White Multi-Coat,Black,null,4,Electric,null,null,58995
+2019,Tesla,Model,77500 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,60000
+2018,Tesla,Model,54000 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,60500
+2022,Tesla,Model,8900 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,61000
+2021,Tesla,Model,80000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,63000
+2021,Tesla,Model,39000 km,Sedan,null,Automatic,RWD,Red,null,null,4 doors,Electric,null,null,64000
+2017,Tesla,Model,100937 km,Hatchback,null,Automatic,AWD,Blue,null,null,4 doors,Electric,null,null,64995
+2022,Tesla,Model,18243 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Electric,null,null,64999
+2020,Tesla,Model,79000 km,null,null,null,null,null,null,null,null,null,null,null,65000
+2023,Tesla,Model,2014 km,Sedan,null,Automatic,RWD,Silver,null,null,4 doors,Electric,null,null,65000
+2019,Tesla,Model,107082 km,Sedan,Electric Motor,1 Speed Automatic,RWD,Midnight Silver Metallic,null,null,null,Electric,null,null,43595
+2021,Tesla,Model,25900 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Electric,null,null,65300
+2022,Tesla,Model,28500 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,66500
+2021,Tesla,Model,45000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,68000
+2022,Tesla,Model,20395 km,Sedan,Electric Motor,Automatic,AWD,White,White,5,4,Electric,null,null,68999
+2021,Tesla,Model,11649 km,Sedan,Electric Motor,Automatic,RWD,Gray,Black,5,4,Electric,null,null,69888
+2017,Tesla,Model,94500 km,Hatchback,Electric Motor,Automatic,AWD,Black,White,5,5,Electric,null,null,69999
+2016,Tesla,Model,72000 km,SUV,Electric Motor,Automatic,AWD,Phytonic Blue Metallic,Black,6,5,Electric,null,null,72878
+2022,Tesla,Model,99624 km,Sedan,null,Automatic,AWD,Red,null,null,5 doors,Electric,null,null,72895
+2022,Tesla,Model,15500 km,null,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,74000
+2021,Tesla,Model,5025 km,Sedan,ELECTRIC,Automatic,AWD,Pearl White Multi-Coat,White,null,4,Electric,null,null,123700
+2022,Tesla,Model,21747 km,null,null,Automatic,AWD,Blue,null,null,4 doors,Electric,null,null,74500
+2023,Tesla,Model,5000 km,Sedan,null,Automatic,RWD,White,null,null,4 doors,Electric,null,null,75000
+2023,Tesla,Model,2200 km,null,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,75000
+2023,Tesla,Model,161 km,SUV,Electric Motor,CVT,null,Pearl White Multi-Coat,Black,null,null,Electric,null,null,75900
+2017,Tesla,Model,77339 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,76998
+2018,Tesla,Model,36475 km,SUV,Electric Motor,Automatic,AWD,Black,Cream,null,4,Electric,null,null,79535
+2022,Tesla,Model,7187 km,null,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,79999
+2017,Tesla,Model,75000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,83000
+2022,Tesla,Model,19318 km,null,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,83999
+2022,Tesla,Model,null,Sedan,null,Automatic,null,White,Black,5,4,Electric,null,null,64990
+2018,Tesla,Model,53000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Electric,null,null,84500
+2022,Tesla,Model,21000 km,null,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,85000
+2022,Tesla,Model,21000 km,null,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,86500
+2022,Tesla,Model,18600 km,null,null,null,null,null,null,null,null,null,null,null,87000
+2020,Tesla,Model,51000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Electric,null,null,89000
+2016,Tesla,Model,115000 km,null,null,Automatic,AWD,Silver,null,null,5 doors,Electric,null,null,98000
+2017,Tesla,Model,115000 km,null,null,Automatic,AWD,Silver,null,null,5 doors,Electric,null,null,98000
+2022,Tesla,Model,25000 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,98000
+2021,Tesla,Model,14000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,115000
+2022,Tesla,Model,14905 km,Sedan,Electric Motor,Automatic,AWD,Pearl White Multi-Coat,White,5,4,Electric,null,null,154500
+2022,Tesla,Model,200 km,Sedan,670.0hp,Automatic,AWD,White,Black,5,4,Electric,null,null,119900
+2022,Tesla,Model,8795 km,Sedan,null,Automatic,AWD,Blue,null,null,null,Electric,null,null,127500
+2020,Tesla,Model,34800 km,null,null,null,null,null,null,null,null,null,null,null,129500
+2022,Tesla,Model,8650 km,Sedan,null,Automatic,AWD,Red,null,null,5 doors,Electric,null,null,145000
+2022,Tesla,Model,13370 km,SUV,Electric Motor,Automatic,null,Pearl White Multi-Coat,Cream,null,null,Electric,null,null,149499
+2021,Tesla,Model,13500 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Electric,null,null,154995
+2022,Tesla,Model,36000 km,null,null,Automatic,AWD,White,null,null,4 doors,Electric,null,null,155999
+2023,Tesla,Model,2200 km,null,null,Automatic,AWD,White,null,null,5 doors,Electric,null,null,159000
+2022,Tesla,Model,100 km,null,null,null,AWD,White,null,null,5 doors,Electric,null,null,164250
+2016,Tesla,Model,137888 km,Wagon,Electric ZEV,Automatic,AWD,Blue,Beige,null,4,Electric,null,null,67790
+2022,Tesla,Model,12000 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,170000
+2023,Tesla,Model,2099 km,null,null,Automatic,AWD,Red,null,null,4 doors,Electric,null,null,180000
+2023,Tesla,Model,500 km,null,null,Automatic,AWD,Silver,null,null,5 doors,Electric,null,null,185000
+2022,Tesla,Model,99 km,null,null,null,null,null,null,null,null,null,null,null,204900
+2020,Tesla,Model,18430 km,SUV,ELECTRIC,1 Speed Automatic,AWD,Deep Blue Metallic,Cream,6,4,Electric,null,null,119999

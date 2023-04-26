@@ -1,0 +1,166 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2017,Maserati,Levante,63319 km,SUV,6 Cylinder,Automatic,AWD,Grigio Metallic,null,null,4,Gas,16.8L/100km,12.4L/100km,59800
+2013,Maserati,GranTurismo,69630 km,Coupe,8 Cylinder,Automatic,RWD,Nero,null,null,2,Gas,null,null,61800
+2018,Maserati,Levante,40813 km,SUV,6 Cylinder,Automatic,AWD,Grigio Maratea Metallescent,null,null,4,Gas,16.8L/100km,11.8L/100km,64800
+2018,Maserati,Levante,26316 km,SUV,6 Cylinder,Automatic,AWD,Blu Passione Mica,null,null,4,Gas,16.8L/100km,12.4L/100km,73800
+2019,Maserati,Levante,68767 km,SUV,6 Cylinder,Automatic,AWD,Blu Emozione Mica,null,null,4,Gas,15.7L/100km,11.2L/100km,75800
+2017,Maserati,Ghibli,81620 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,5,4,Gas,14.7L/100km,9.8L/100km,42995
+2018,Maserati,Levante,32181 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Brown,5,4,Gas,16.8L/100km,11.8L/100km,61898
+2016,Maserati,GranTurismo,49000 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,78950
+2014,Maserati,Ghibli,145015 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,null,null,29888
+2014,Maserati,Ghibli,110000 km,Sedan,3.0L V6 Cylinder Engine,Automatic,AWD,Blue,White,null,4,Gas,15.7L/100km,9.4L/100km,29950
+2014,Maserati,Ghibli,118000 km,Sedan,3.0L V6 Cylinder Engine,Automatic,AWD,Bianco,Tan,5,4,Gas,null,null,31450
+2015,Maserati,Ghibli,91100 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,15.7L/100km,9.4L/100km,37777
+2016,Maserati,Quattroporte,110854 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Bianco,Red,4,4,Gas,14.7L/100km,10.2L/100km,38800
+2019,Maserati,Ghibli,63882 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Bianco,null,5,4,Gas,14.7L/100km,9.8L/100km,63888
+2017,Maserati,Ghibli,135088 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Bianco,Red,5,4,Gas,14.7L/100km,9.8L/100km,39888
+2016,Maserati,Ghibli,97510 km,Sedan,V6 Cylinder Engine,Automatic,RWD,Black,Red,5,4,Gas,14.7L/100km,9.8L/100km,40895
+2009,Maserati,GranTurismo,44000 km,Coupe,V8,Automatic,RWD,Dark Grey,Tan,4,2,Gas,19.6L/100km,12.4L/100km,44888
+2017,Maserati,Levante,137000 km,SUV,3.0L V6 Cylinder Engine,Automatic,AWD,Bianco,Brown,5,4,Gas,16.8L/100km,11.8L/100km,47888
+2009,Maserati,GranTurismo,41919 km,Coupe,V8,Automatic,RWD,Black,Black,4,2,Gas,19.6L/100km,12.4L/100km,53910
+2011,Maserati,GranTurismo,79048 km,null,V8,Automatic,RWD,Black,Tan,4,2,Gas,null,null,55910
+2011,Maserati,GRANTURISMO,79048 km,Convertible,4.7,Automatic,RWD,Black,Tan,4,2,Gas,19.6L/100km,11.8L/100km,55910
+2017,Maserati,Levante,66000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Brown,5,4,Gas,16.8L/100km,12.4L/100km,56799
+2017,Maserati,Levante,60000 km,SUV,3.0L,Automatic,AWD,Nero Ribelle Mica,Brown,5,4,Gas,16.8L/100km,11.8L/100km,56888
+2018,Maserati,Levante,62272 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Black,5,4,Gas,16.8L/100km,11.8L/100km,57995
+2017,Maserati,LAVANTE,34138 km,SUV,V6 Cylinder Engine,Automatic,AWD,Blue,White,null,null,Gas,16.8L/100km,12.4L/100km,57499
+2017,Maserati,Levante,65000 km,SUV,3.0L,Automatic,AWD,Bianco,Brown,5,4,Gas,16.8L/100km,11.8L/100km,57888
+2018,Maserati,Levante,99332 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,16.8L/100km,12.4L/100km,57910
+2018,Maserati,Levante,66000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,16.8L/100km,11.8L/100km,59800
+2019,Maserati,Levante,95000 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Tan,5,4,Gas,15.7L/100km,11.2L/100km,59800
+2017,Maserati,Levante,63319 km,SUV,6 Cylinder,Automatic,AWD,Grigio Metallic,null,null,4,Gas,16.8L/100km,12.4L/100km,59800
+2012,Maserati,GranTurismo,53077 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Red,Black,4,2,Gas,18.1L/100km,11.2L/100km,59888
+2017,Maserati,Levante,86160 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Bianco,Black,5,4,Gas,16.8L/100km,12.4L/100km,59888
+2018,Maserati,Levante,75050 km,SUV,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,16.8L/100km,11.8L/100km,59910
+2018,Maserati,Levante,51011 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blu Passione,null,5,4,Gas,16.8L/100km,12.4L/100km,65000
+2017,Maserati,Levante,62817 km,SUV,V6 Cylinder Engine,Automatic,AWD,Bianco,Brown,5,4,Gas,16.8L/100km,12.4L/100km,59985
+2013,Maserati,GranTurismo,69630 km,Coupe,8 Cylinder,Automatic,RWD,Nero,null,null,2,Gas,null,null,61800
+2018,Maserati,Levante,73854 km,SUV,6 Cylinder,Automatic,AWD,White,Black,null,4,Gas,16.8L/100km,12.4L/100km,63800
+2018,Maserati,Levante,40813 km,SUV,6 Cylinder,Automatic,AWD,Grigio Maratea Metallescent,null,null,4,Gas,16.8L/100km,11.8L/100km,64800
+2018,Maserati,Levante,65284 km,SUV,6 Cylinder,Automatic,AWD,Nero,null,null,4,Gas,16.8L/100km,12.4L/100km,64800
+2017,Maserati,Ghibli,25865 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,14.7L/100km,9.8L/100km,65888
+2018,Maserati,Ghibli,46852 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Blue,Tan,5,2,Premium Unleaded,14.7L/100km,9.8L/100km,67888
+2018,Maserati,Ghibli,18596 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Grey,null,null,2,Premium Unleaded,14.7L/100km,9.8L/100km,68888
+2018,Maserati,Levante,67561 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,16.8L/100km,12.4L/100km,68888
+2018,Maserati,Levante,14378 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,16.8L/100km,12.4L/100km,74800
+2018,Maserati,Quattroporte,27567 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,14.7L/100km,10.2L/100km,68910
+2013,Maserati,GranTurismo,82977 km,Coupe,8 Cylinder Engine,Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,69910
+2018,Maserati,Levante,26316 km,SUV,6 Cylinder,Automatic,AWD,Blu Passione Mica,null,null,4,Gas,16.8L/100km,12.4L/100km,73800
+2018,Maserati,Levante,14378 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,16.8L/100km,12.4L/100km,74800
+2018,Maserati,Levante,26521 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Blue,Tan,5,2,Premium Unleaded,16.8L/100km,11.8L/100km,74888
+2019,Maserati,Levante,68767 km,SUV,6 Cylinder,Automatic,AWD,Blu Emozione Mica,null,null,4,Gas,15.7L/100km,11.2L/100km,75800
+2018,Maserati,Levante,46352 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Black,5,2,Premium Unleaded,16.8L/100km,11.8L/100km,75888
+2018,Maserati,Levante,32563 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,16.8L/100km,11.8L/100km,76888
+2018,Maserati,Levante,27524 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Dark Green,Brown,5,2,Premium Unleaded,16.8L/100km,12.4L/100km,76888
+2020,Maserati,Levante,57880 km,SUV,8 Cylinder,Automatic,AWD,Blu Emozione Mica,White,null,4,Gas,null,null,99800
+2019,Maserati,Ghibli,29658 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Blue,null,null,2,Premium Unleaded,14.7L/100km,9.8L/100km,77888
+2019,Maserati,Ghibli,46854 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Black,Black,5,2,Premium Unleaded,14.7L/100km,9.8L/100km,77888
+2019,Maserati,Ghibli,23754 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Black,null,null,2,Premium Unleaded,14.7L/100km,9.8L/100km,79888
+2018,Maserati,Levante,38965 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Tan,5,2,Premium Unleaded,16.8L/100km,12.4L/100km,81888
+2014,Maserati,GRANTURISMO,32000 km,Convertible,8 Cylinder Engine,6 Speed Automatic,RWD,Dark Grey,Cream,4,2,Gas,18.1L/100km,11.8L/100km,84799
+2020,Maserati,Levante,40271 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Red,5,4,Gas,15.7L/100km,11.2L/100km,89888
+2020,Maserati,Ghibli,19851 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Black,Red,5,2,Premium Unleaded,14.7L/100km,9.8L/100km,92888
+2020,Maserati,Levante,57880 km,SUV,8 Cylinder,Automatic,AWD,Blu Emozione Mica,White,null,4,Gas,null,null,99800
+2021,Maserati,Ghibli,11656 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Blue,Tan,4,2,Premium Unleaded,14.8L/100km,9.8L/100km,102888
+2008,Maserati,GranTurismo,46958 km,null,4.2L V8 SMPI DOHC,null,RWD,Black,null,null,2,Gas,null,null,48998
+2020,Maserati,Levante,21475 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Grey,Tan,5,2,Premium Unleaded,15.7L/100km,11.2L/100km,103888
+2022,Maserati,Levante,3201 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Grey,Tan,5,2,Premium Unleaded,15.1L/100km,10.9L/100km,116888
+2019,Maserati,Levante,26225 km,SUV,8 Cylinder Engine,Automatic,AWD,Bianco,Black,5,4,Gas,null,null,123910
+2020,Maserati,Levante,28965 km,SUV,3.8L 8cyl,8 Speed Automatic,AWD,Grigio Maratea Metallescent,Red,null,2,Premium Unleaded,null,null,125888
+2017,Maserati,Levante,102000 km,SUV,3.0L Twin Turbo V6 Engine,Automatic,AWD,Gray,Red,null,4,Gas,null,null,48888
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Light Grey,5,2,Premium Unleaded,null,null,105348
+2023,Maserati,Grecale,90 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Nero Tempesta Metallic,Red,5,2,Premium Unleaded,null,null,108348
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Nero Tempesta Metallic,Light Grey,5,2,Premium Unleaded,null,null,110808
+2023,Maserati,Grecale,90 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,null,null,112548
+2021,Maserati,Ghibli,12750 km,Sedan,3.8L V8 Twin Turbocharged,8 Speed Automatic,RWD,Nero Ribelle Metallic,Black,null,null,Gas,18.1L/100km,11.8L/100km,120990
+2023,Maserati,Ghibli,90 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Nero Ribelle Metallic,Black,5,2,Premium Unleaded,13.8L/100km,9.4L/100km,119340
+2022,Maserati,Levante,1253 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Grey,Red,5,2,Premium Unleaded,15.1L/100km,10.9L/100km,122768
+2023,Maserati,Ghibli,90 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,13.8L/100km,9.4L/100km,139656
+2023,Maserati,Levante,90 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Nero Ribelle Metallic,Red,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,152802
+2023,Maserati,Quattroporte,90 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Nero Ribelle Metallic,Black,5,2,Premium Unleaded,13.8L/100km,9.4L/100km,192456
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Grey,5,2,Premium Unleaded,null,null,93827
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,null,null,107007
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Black,5,2,Premium Unleaded,null,null,107107
+2023,Maserati,Grecale,90 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,null,null,109507
+2018,Maserati,Ghibli,31970 km,Sedan,3.0L V6,8 Speed Automatic,AWD,Grey,null,null,4,Gas,14.7L/100km,9.8L/100km,63998
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Light Grey,5,2,Premium Unleaded,null,null,111708
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Grey,Black,5,2,Premium Unleaded,null,null,114257
+2023,Maserati,Grecale,95 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Blue,Black,5,2,Premium Unleaded,null,null,120408
+2023,Maserati,Levante,90 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Nero Ribelle Metallic,Black,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,141222
+2023,Maserati,Levante,90 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Nero Ribelle Metallic,Black,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,141222
+2023,Maserati,Levante,90 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Green,Black,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,158232
+2008,Maserati,Quattroporte,70281 km,Sedan,4.2L 8cyl,6 Speed Automatic,RWD,Blue,Brown,null,4,Premium Unleaded,19.6L/100km,13.1L/100km,18990
+2009,Maserati,Quattroporte,123000 km,Sedan,8 Cylinder Engine,Automatic,RWD,Black,Black,5,4,Gas,19.6L/100km,13.1L/100km,23895
+2014,Maserati,Ghibli,159500 km,Sedan,3.0,8 Speed Automatic,AWD,Black,Brown,null,4,Gas,null,null,24995
+2018,Maserati,Ghibli,57280 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Orange,5,4,Gas,14.7L/100km,9.8L/100km,59999
+2011,Maserati,Quattroporte,114607 km,Sedan,433HP 4.7L 8 Cylinder Engine,Automatic,RWD,Black,Black,5,4,Gas,21.4L/100km,13.1L/100km,27888
+2014,Maserati,Ghibli,78000 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,29998
+2010,Maserati,Quattroporte,136130 km,Sedan,4.7L 8cyl,6 Speed Automatic,RWD,Black,Red,null,4,Premium Unleaded,21.4L/100km,13.1L/100km,33999
+2017,Maserati,Ghibli,136000 km,Sedan,3,Automatic,AWD,Black,Brown,5,null,Gas,14.7L/100km,9.8L/100km,34995
+2014,Maserati,Ghibli,68623 km,Sedan,3.0L 6cyl,8 Speed Automatic,AWD,Rosso Energia Pearlescent,Red,null,4,Premium Unleaded,null,null,38998
+2004,Maserati,Coupé,50000 km,null,null,null,null,Blue,Beige,null,null,null,null,null,39900
+2017,Maserati,Ghibli,81620 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,5,4,Gas,14.7L/100km,9.8L/100km,42995
+2017,Maserati,Levante,110539 km,SUV,3.0,Automatic,AWD,Bianco Alpi Pearlescent,Black,null,4,Gas,16.8L/100km,11.8L/100km,44900
+2017,Maserati,Ghibli,77000 km,Sedan,6 Cylinder,Automatic,AWD,Black,Red,5,4,Gas,14.7L/100km,9.8L/100km,46989
+1994,Maserati,Ghibli,121003 km,Coupe,V6,5 Speed Manual,RWD,Burgundy,Tan,null,2,null,null,null,49900
+2019,Maserati,Ghibli,99000 km,Sedan,3.0,8 Speed Automatic,AWD,Blue,Brown,null,4,Gas,14.7L/100km,9.8L/100km,49995
+2017,Maserati,Levante,54000 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Blue,Brown,5,4,Gas,16.8L/100km,12.4L/100km,52995
+2011,Maserati,GranTurismo,44123 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,White,Black,4,2,Gas,18.1L/100km,11.8L/100km,54995
+2018,Maserati,Levante,62272 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Black,5,4,Gas,16.8L/100km,11.8L/100km,57995
+2017,Maserati,Quattroporte,35000 km,Sedan,6 Cylinder,8 Speed Automatic,AWD,Black,Brown,4,4,Gas,14.7L/100km,10.2L/100km,59878
+2018,Maserati,Ghibli,57280 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Orange,5,4,Gas,14.7L/100km,9.8L/100km,59999
+2018,Maserati,Levante,32181 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Brown,5,4,Gas,16.8L/100km,11.8L/100km,61898
+2011,Maserati,GranTurismo,78166 km,null,null,null,RWD,White,Black,4,2,Gas,null,null,64900
+2015,Maserati,GranTurismo,86197 km,Coupe,null,6 Speed Automatic,RWD,null,null,4,2,Gas,null,null,64900
+2018,Maserati,Levante,51011 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blu Passione,null,5,4,Gas,16.8L/100km,12.4L/100km,65000
+2019,Maserati,Levante,73850 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Bianco,Red,5,4,Gas,15.7L/100km,11.2L/100km,68888
+2018,Maserati,Levante,46926 km,SUV,null,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,68900
+2010,Maserati,GranTurismo,54663 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Grey,Grey,4,2,Gas,19.6L/100km,12.4L/100km,69900
+2017,Maserati,Levante,63319 km,SUV,6 Cylinder,Automatic,AWD,Grigio Metallic,null,null,4,Gas,16.8L/100km,12.4L/100km,59800
+2018,Maserati,Levante,73854 km,SUV,6 Cylinder,Automatic,AWD,White,Black,null,4,Gas,16.8L/100km,12.4L/100km,63800
+2018,Maserati,Levante,40813 km,SUV,6 Cylinder,Automatic,AWD,Grigio Maratea Metallescent,null,null,4,Gas,16.8L/100km,11.8L/100km,64800
+2018,Maserati,Levante,65284 km,SUV,6 Cylinder,Automatic,AWD,Nero,null,null,4,Gas,16.8L/100km,12.4L/100km,64800
+2017,Maserati,Ghibli,81620 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Grey,Black,5,4,Gas,14.7L/100km,9.8L/100km,42995
+2018,Maserati,Levante,62272 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Black,5,4,Gas,16.8L/100km,11.8L/100km,57995
+2018,Maserati,Levante,32181 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Blue,Brown,5,4,Gas,16.8L/100km,11.8L/100km,61898
+2016,Maserati,GranTurismo,49000 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,78950
+2018,Maserati,Levante,57000 km,SUV,6cyl,Automatic,AWD,Black,Red,null,null,Gas,16.8L/100km,12.4L/100km,69900
+2019,Maserati,Ghibli,26000 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Black,Black,5,4,Gas,14.7L/100km,9.8L/100km,76880
+2016,Maserati,GranTurismo,49000 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,78950
+2015,Maserati,GranTurismo,15749 km,Sedan,4.7L 8cyl,6 Speed Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,88800
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Light Grey,5,2,Premium Unleaded,null,null,88807
+2018,Maserati,Ghibli,57280 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,AWD,Dark Grey,Orange,5,4,Gas,14.7L/100km,9.8L/100km,59999
+2023,Maserati,Grecale,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Light Grey,5,2,Premium Unleaded,null,null,90460
+2019,Maserati,Levante,63590 km,SUV,8 Cylinder Engine,8 Speed Automatic,AWD,Bianco,Black,5,4,Gas,null,null,92995
+2023,Maserati,Grecale,90 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Blue,Black,5,2,Premium Unleaded,null,null,93107
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Tan,5,2,Premium Unleaded,null,null,96957
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Grey,Black,5,2,Premium Unleaded,null,null,97127
+2023,Maserati,Grecale,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Blue,Tan,5,2,Premium Unleaded,null,null,97307
+2023,Maserati,Grecale,95 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,null,null,111256
+2023,Maserati,Grecale,90 km,null,2.0L 4cyl,8 Speed Automatic,AWD,Blue,Light Grey,5,2,Premium Unleaded,null,null,112157
+2023,Maserati,Grecale,90 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Blue,Red,5,2,Premium Unleaded,null,null,112157
+2018,Maserati,Ghibli,31970 km,Sedan,3.0L V6,8 Speed Automatic,AWD,Grey,null,null,4,Gas,14.7L/100km,9.8L/100km,63998
+2021,Maserati,Ghibli,12750 km,Sedan,3.8L V8 Twin Turbocharged,8 Speed Automatic,RWD,Nero Ribelle Metallic,Black,null,null,Gas,18.1L/100km,11.8L/100km,120990
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Tan,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,125602
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Tan,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,125602
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,136942
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Bianco,Red,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,136942
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Grigio Maratea Metallic,Red,5,2,Premium Unleaded,14.7L/100km,10.7L/100km,140944
+2023,Maserati,Levante,95 km,SUV,3.0L 6cyl,8 Speed Automatic,AWD,Grigio Maratea Metallic,null,null,2,Premium Unleaded,14.7L/100km,10.7L/100km,141550
+2005,Maserati,Quattroporte,82000 km,Sedan,null,Automatic,RWD,Blue,null,null,4 doors,Gasoline,null,null,17700
+2008,Maserati,GranTurismo,118000 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,27500
+2008,Maserati,GranTurismo,46958 km,null,4.2L V8 SMPI DOHC,null,RWD,Black,null,null,2,Gas,null,null,48998
+2003,Maserati,Spyder,95000 km,Convertible,null,Automatic,RWD,White,null,null,2 doors,Gasoline,null,null,34900
+2006,Maserati,Quattroporte,39843 km,Sedan,8 Cylinder Engine,Automatic,RWD,null,null,null,null,Gas,19.6L/100km,13.1L/100km,35000
+2015,Maserati,Ghibli,69649 km,Sedan,3.0,Automatic,AWD,Champagne Metallic,Beige,5,4,Gas,15.7L/100km,9.4L/100km,41900
+2016,Maserati,Ghibli,89471 km,Sedan,3.0,Automatic,AWD,White,Red,5,4,Gas,14.7L/100km,9.8L/100km,45900
+2008,Maserati,GranTurismo,72000 km,Coupe,null,Automatic,RWD,White,null,null,2 doors,Gasoline,null,null,49000
+2017,Maserati,Ghibli,75000 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,53999
+2009,Maserati,GranTurismo,77700 km,Coupe,null,Automatic,RWD,Grey,null,null,2 doors,Gasoline,null,null,57000
+2017,Maserati,Levante,56150 km,SUV,3.0,Automatic,AWD,Black,Red,5,5,Gas,null,null,57898
+2010,Maserati,GranTurismo,87725 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Bianco Eldorado (White),Tan,4,2,Gas,19.6L/100km,12.4L/100km,59900
+2021,Maserati,Ghibli,12750 km,Sedan,3.8L V8 Twin Turbocharged,8 Speed Automatic,RWD,Nero Ribelle Metallic,Black,null,null,Gas,18.1L/100km,11.8L/100km,120990
+2013,Maserati,GranTurismo,53855 km,Coupe,8 Cylinder Engine,6 Speed Automatic,RWD,Black,Black,4,2,Gas,18.1L/100km,11.2L/100km,69900
+2020,Maserati,Levante,26654 km,SUV,3.0,8 Speed Automatic,AWD,Bianco,Red,5,4,Gas,15.7L/100km,11.2L/100km,75888
+2016,Maserati,GRANTURISMO,44000 km,Coupe,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,105000
+2022,Maserati,MC20,1541 km,Coupe,V6 Cylinder Engine,8 Speed Automatic,RWD,Bianco Audace,null,2,2,Gas,15.7L/100km,9.4L/100km,399987

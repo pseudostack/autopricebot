@@ -1,0 +1,166 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2019,Lincoln,Nautilus,84053 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black Metallic,Brown,5,4,Premium Unleaded,12.0L/100km,9.6L/100km,33999
+2019,Lincoln,Nautilus,63686 km,SUV,2.7,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,null,null,37888
+2021,Lincoln,Corsair,44423 km,SUV,2.0,Automatic,AWD,Infinite Black,Black,null,4,Gas,null,null,43888
+2021,Lincoln,Corsair,34551 km,SUV,2.0,8 Speed Automatic,4WD,Infinite Black,Black,5,4,Gas,null,null,43888
+2021,Lincoln,Corsair,23500 km,SUV,I-4 cyl,Automatic,4WD,White,Black,null,null,Premium Unleaded,null,null,45998
+2020,Lincoln,Nautilus,13534 km,SUV,2.7L TWIN-TURBOCHARGED V6,8 Speed Automatic,AWD,Ceramic Pearl Metallic Tri-Coat,null,null,4,Gas,12.5L/100km,9.2L/100km,47988
+2022,Lincoln,Nautilus,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.8L/100km,9.4L/100km,58145
+2022,Lincoln,Corsair,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.1L/100km,8.1L/100km,58245
+2015,Lincoln,MKZ,188000 km,Sedan,4 Cylinder,Automatic,FWD,Tuxedo Black Metallic,Brown,5,4,Gas,10.5L/100km,7.0L/100km,11995
+2014,Lincoln,MKT,132000 km,SUV,6 Cylinder,Automatic,AWD,White Platinum Metallic Tri-Coat,Black,6,4,Gas,14.8L/100km,10.4L/100km,19895
+2018,Lincoln,MKC,72719 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Black Velvet,null,5,4,Gas,12.3L/100km,9.3L/100km,29850
+2019,Lincoln,MKC,22736 km,SUV,4 Cylinder Engine,Automatic,4WD,Infinite Black Metallic,Black,null,null,Gas,12.3L/100km,9.3L/100km,31995
+2019,Lincoln,MKC,50753 km,SUV,: 2.0L TURBOCHARGED I-4,6 Speed Automatic,4WD,White,Black,null,null,Gas,12.2L - 12.3L/100km,9.3L/100km,33487
+2018,Lincoln,MKZ,112677 km,Sedan,2.0L 4cyl,6 Speed Automatic,AWD,Black Velvet,null,5,4,Premium Unleaded,11.8L/100km,8.4L/100km,26987
+2019,Lincoln,Nautilus,84053 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black Metallic,Brown,5,4,Premium Unleaded,12.0L/100km,9.6L/100km,33999
+2019,Lincoln,Nautilus,63686 km,SUV,2.7,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,null,null,37888
+2021,Lincoln,Corsair,35658 km,SUV,2.0,Automatic,AWD,White,Black,null,4,Gas,null,null,43888
+2021,Lincoln,Corsair,44423 km,SUV,2.0,Automatic,AWD,Infinite Black,Black,null,4,Gas,null,null,43888
+2021,Lincoln,Corsair,34551 km,SUV,2.0,8 Speed Automatic,4WD,Infinite Black,Black,5,4,Gas,null,null,43888
+2019,Lincoln,Nautilus,52097 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Burgundy Velvet Metallic Tinted Clearcoat,Black,5,4,Gas,12.6L/100km,9.2L/100km,43888
+2020,Lincoln,Nautilus,33786 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black Metallic,Black,5,4,Premium Unleaded,12.0L/100km,9.6L/100km,45888
+2021,Lincoln,Corsair,23500 km,SUV,I-4 cyl,Automatic,4WD,White,Black,null,null,Premium Unleaded,null,null,45998
+2021,Lincoln,Corsair,21425 km,SUV,: Turbocharged 2.0L I-4 -inc: auto start-stop tech,Automatic,AWD,Infinite Black,Black,5,5,Gas,11.1L/100km,8.1L/100km,49388
+2019,Lincoln,MKC,61527 km,SUV,2.0L TURBOCHARGED,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,12.3L/100km,9.3L/100km,31250
+2021,Lincoln,Nautilus,35244 km,SUV,E: 2.0L TURBOCHG I-4,8 Speed Automatic,AWD,Pristine White,Beige,5,null,Gas,12.0L/100km,9.6L/100km,53388
+2020,Lincoln,Aviator,40469 km,SUV,: Twin-Turbocharged 3.0L V6 -inc: auto start-stop,null,AWD,Infinite Black Metallic,Black,7,null,Gas,13.7L/100km,9.7L/100km,56988
+2020,Lincoln,Aviator,42500 km,SUV,3.0L 6cyl,10 Speed Automatic,AWD,White,null,null,2,Premium Unleaded,13.7L/100km,9.7L/100km,58900
+2020,Lincoln,Aviator,20015 km,SUV,: Twin-Turbocharged 3.0L V6 -inc: auto start-stop,Automatic,AWD,Magnetic Grey Metallic,Black,5,5,Gas,13.7L/100km,9.7L/100km,62488
+2020,Lincoln,Navigator,91697 km,SUV,3.5L V6 GTDI,null,4x4,Infinite Black Metallic,null,null,null,Gas,15.0L/100km,11.5L/100km,79900
+2022,Lincoln,Aviator,10666 km,SUV,3.0L V6 DOHC 24V,null,AWD,Burgundy Velvet Tinted Clearcoat,null,null,2,Gas,13.7L/100km,9.7L/100km,83999
+2021,Lincoln,Navigator,49145 km,SUV,V-6 cyl,null,4x4,White,null,null,null,Premium Unleaded,15.0L/100km,11.5L/100km,92997
+2010,Lincoln,MKZ,170382 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Grey,null,null,4,Gas,12.7L/100km,8.3L/100km,10995
+2019,Lincoln,MKZ,42009 km,Sedan,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,11.8L/100km,8.4L/100km,42109
+2020,Lincoln,Navigator,41585 km,SUV,V6 Cylinder Engine,10 Speed Automatic,4x4,Infinite Black Metallic,null,8,4,Gas,15.0L/100km,11.5L/100km,81888
+2022,Lincoln,Corsair,10 km,SUV,4 Cylinder Engine,Automatic,4WD,Infinite Black,null,null,2,Gas,11.1L/100km,8.1L/100km,59245
+2022,Lincoln,Corsair,10 km,SUV,4 Cylinder Engine,Automatic,4WD,Pristine White,null,null,2,Gas,11.1L/100km,8.1L/100km,60095
+2023,Lincoln,Nautilus,10 km,SUV,4 Cylinder Engine,Automatic,AWD,Pristine White Metallic Tri-Coat,null,null,2,Gas,11.8L/100km,9.4L/100km,68595
+2022,Lincoln,Corsair,10 km,SUV,4 Cylinder Engine,Automatic,4WD,Infinite Black,null,null,2,Gasoline Hybrid,null,null,72125
+2022,Lincoln,Nautilus,10 km,SUV,V6 Cylinder Engine,Automatic,AWD,Asher Grey,null,null,2,Gas,12.6L/100km,9.3L/100km,77945
+2023,Lincoln,Aviator,10 km,SUV,V6 Cylinder Engine,Automatic,AWD,Asher Grey Metallic Clearcoat,null,null,2,Gas,13.7L/100km,9.7L/100km,91875
+2023,Lincoln,Aviator,10 km,SUV,V6 Cylinder Engine,Automatic,AWD,Infinite Black Metallic Clearcoat,null,null,2,Gas,13.7L/100km,9.7L/100km,95160
+2023,Lincoln,Aviator,10 km,SUV,V6 Cylinder Engine,Automatic,AWD,Pristine White Metallic Tri-Coat,null,null,2,Gasoline Hybrid,10.9L/100km,9.6L/100km,101110
+2008,Lincoln,MKX,201685 km,SUV,3.5,Automatic,AWD,White,Black,null,4,Gas,13.6L/100km,9.2L/100km,7980
+2018,Lincoln,MKC,34020 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White,null,5,4,Gas,12.3L/100km,9.3L/100km,32547
+2010,Lincoln,MKZ,173162 km,Sedan,V6 Cylinder Engine 3.5L,Automatic,AWD,Tuxedo Black,null,null,4,Gas,12.7L/100km,8.3L/100km,9995
+2019,Lincoln,Nautilus,91370 km,SUV,2.7L 6cyl,8 Speed Automatic,AWD,Gold,Black,5,4,Premium Unleaded,12.6L/100km,9.2L/100km,31999
+2009,Lincoln,MKS,187840 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Burgundy,White,5,4,Gas,12.9L/100km,8.8L/100km,8888
+2014,Lincoln,MKZ,193319 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,null,Regular Unleaded,9.2L/100km,5.9L/100km,14999
+2013,Lincoln,MKZ,166000 km,Sedan,2,Automatic,AWD,White,Black,5,null,Gas,null,null,11995
+2013,Lincoln,MKX,183000 km,SUV,3.7,Automatic,AWD,Grey,Black,5,null,Gas,12.1L/100km,8.7L/100km,12995
+2019,Lincoln,MKC,160000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Infinite Black Metallic,Black,5,4,Gas,12.3L/100km,9.3L/100km,24888
+2017,Lincoln,MKZ,77755 km,Sedan,2.0L 4cyl,6 Speed Automatic,AWD,Black,Black,5,4,Gas,10.5L/100km,7.0L/100km,27800
+2019,Lincoln,MKC,54000 km,SUV,2.0L I4 Turbo,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,12.3L/100km,9.3L/100km,28625
+2020,Lincoln,Nautilus,49151 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black Metallic,Black,5,2,Premium Unleaded,12.0L/100km,9.6L/100km,47988
+2019,Lincoln,MKC,56000 km,SUV,4 Cylinder,Automatic,AWD,White,Black,5,4,Gas,12.3L/100km,9.3L/100km,28878
+2019,Lincoln,MKC,92732 km,SUV,2.3L I4 Turbo,Automatic,AWD,Infinite Black Metallic,Black,5,4,Gas,13.1L/100km,9.5L/100km,31900
+2018,Lincoln,MKC,66718 km,SUV,4 Cylinder Engine,Automatic,4WD,Black Velvet,Black,null,null,Gas,12.1L - 12.3L/100km,9.3L/100km,31999
+2019,Lincoln,Nautilus,99313 km,SUV,2.0L I4 Turbo,Automatic,AWD,Infinite Black Metallic,null,5,4,Gas,12.0L/100km,9.6L/100km,32000
+2019,Lincoln,MKC,69013 km,SUV,2.0L TURBOCHARGED I-4,6 Speed Automatic,AWD,White Platinum Metallic Tri-Coat,null,null,4,Gas,12.2L - 12.3L/100km,9.3L/100km,34988
+2019,Lincoln,MKC,35888 km,SUV,2.0L,Automatic,AWD,Magnetic Grey Metallic,null,5,4,Gas,12.2L - 12.3L/100km,9.3L/100km,34999
+2017,Lincoln,Navigator,152587 km,SUV,3.5L 6cyl,6 Speed Automatic,4x4,Black Velvet,Black,7,4,Premium Unleaded,16.1L/100km,12.4L/100km,37745
+2019,Lincoln,Nautilus,74092 km,SUV,2.7L V6 24V GDI DOHC Twin Turbo,Automatic,AWD,Ingot Silver Metallic,null,null,4,Gas,12.6L/100km,9.2L/100km,39800
+2019,Lincoln,Nautilus,63574 km,SUV,2.0L,Automatic,AWD,Infinite Black Metallic,null,5,4,Gas,12.0L/100km,9.6L/100km,39900
+2020,Lincoln,Nautilus,38719 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,Blue,null,5,4,Gas,12.0L/100km,9.6L/100km,46600
+2019,Lincoln,Nautilus,46017 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Brown,null,null,Gas,12.0L/100km,9.6L/100km,39999
+2018,Lincoln,Continental,44402 km,Sedan,2.7L 6cyl,6 Speed Automatic,AWD,Champagne,Beige,5,4,Gas,14.0L/100km,9.4L/100km,41500
+2019,Lincoln,Nautilus,43451 km,SUV,2.0L,Automatic,AWD,Ingot Silver Metallic,Black,5,4,Gas,12.0L/100km,9.6L/100km,41900
+2019,Lincoln,Nautilus,58250 km,SUV,2.7L V6,Automatic,AWD,Infinite Black Metallic,null,5,4,Gas,12.6L/100km,9.2L/100km,42999
+2019,Lincoln,Nautilus,17918 km,SUV,2.0L,Automatic,AWD,Ingot Silver Metallic,Black,5,4,Gas,12.0L/100km,9.6L/100km,43999
+2021,Lincoln,Corsair,11517 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black,Beige,5,5,Premium Unleaded,null,null,49999
+2020,Lincoln,Aviator,45000 km,SUV,6 Cylinder,Automatic,AWD,Magnetic Grey Metallic,Black,6,4,Gas,13.7L/100km,9.7L/100km,56878
+2020,Lincoln,Aviator,49187 km,SUV,3.0L V6 24V GDI DOHC Twin Turbo,Automatic,AWD,Infinite Black Metallic,null,null,4,Gas,13.7L/100km,9.7L/100km,61800
+2022,Lincoln,Nautilus,17235 km,SUV,2.0L TURBOCHARGED I-4,8 Speed Automatic,AWD,Infinite Black Metallic,null,null,4,Gas,11.8L/100km,9.4L/100km,68295
+2017,Lincoln,Continental,99808 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White Platinum Metallic Tri-Coat,Beige,5,4,Gas,14.0L/100km,9.5L/100km,34988
+2020,Lincoln,Navigator,105000 km,SUV,V6 Cylinder Engine,Automatic,4WD,Infinite Black Metallic,Black,7,null,Gas,15.0L/100km,11.5L/100km,71880
+2022,Lincoln,Aviator,15361 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Infinite Black,Black,7,4,Gas,13.7L/100km,9.7L/100km,72499
+2020,Lincoln,Navigator,38447 km,SUV,V6,10 Speed Automatic,4x4,Infinite Black Metallic,Black,null,null,Gas,15.0L/100km,11.5L/100km,81350
+2020,Lincoln,Navigator,41585 km,SUV,V6 Cylinder Engine,10 Speed Automatic,4x4,Infinite Black Metallic,null,8,4,Gas,15.0L/100km,11.5L/100km,81888
+2023,Lincoln,Aviator,8200 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Infinite Black Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,84900
+2012,Lincoln,MKZ,138965 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White,null,5,4,Gas,12.3L/100km,8.0L/100km,10990
+2011,Lincoln,MKX,164000 km,SUV,3.7,Automatic,AWD,White Platinum Tri-Coat,Brown,null,null,Regular Unleaded,12.2L/100km,8.8L/100km,11995
+2014,Lincoln,MKZ,184000 km,Sedan,2.0,CVT,FWD,Gray,Black,5,4,Gasoline Hybrid,4.2L/100km,4.3L/100km,13499
+2014,Lincoln,MKZ,94000 km,Sedan,2.0L 4CYL. TURBO,Automatic,FWD,Silver,Black,5,4,Gas,10.7L/100km,7.1L/100km,16988
+2015,Lincoln,MKC,126000 km,SUV,4 Cylinder Engine,Automatic,AWD,Smoke Quartz Metallic Tinted Clearcoat,Black,5,4,Gas,12.4L/100km,9.0L/100km,20500
+2017,Lincoln,MKZ,136861 km,Sedan,4 Cylinder Engine,Automatic,FWD,White Platinum Metallic Tri-Coat,Black,5,null,Gasoline Hybrid,5.7L/100km,6.2L/100km,23980
+2013,Lincoln,Navigator,165000 km,SUV,8 Cylinder Engine,6 Speed Automatic,4x4,Tuxedo Black,Brown,8,4,Flexible,null,null,27995
+2017,Lincoln,Continental,53000 km,Sedan,V6 Cylinder Engine,Automatic,AWD,Jade Green Metallic,Beige,5,4,Gas,14.4L/100km,9.7L/100km,39495
+2019,Lincoln,MKZ,40062 km,Sedan,2.0,Automatic,FWD,Ingot Silver Metallic,Black,5,4,Gasoline Hybrid,5.7L/100km,6.2L/100km,40999
+2020,Lincoln,Corsair,17622 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,null,null,41990
+2020,Lincoln,Nautilus,13534 km,SUV,2.7L TWIN-TURBOCHARGED V6,8 Speed Automatic,AWD,Ceramic Pearl Metallic Tri-Coat,null,null,4,Gas,12.5L/100km,9.2L/100km,47988
+2022,Lincoln,Corsair,14162 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,Black,null,4,Gas,11.2L/100km,8.3L/100km,56888
+2022,Lincoln,Corsair,70 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ceramic Pearl,Beige,null,4,Gas,11.1L/100km,8.1L/100km,57318
+2022,Lincoln,Corsair,15 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,Black,null,4,Gas,11.1L/100km,8.1L/100km,58251
+2022,Lincoln,Corsair,66 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Ceramic Pearl,Beige,null,4,Gas,11.1L/100km,8.1L/100km,58968
+2022,Lincoln,Corsair,21 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,Black,null,4,Gas,11.1L/100km,8.1L/100km,59268
+2022,Lincoln,Corsair,627 km,SUV,TURBOCHARGED 2.0L I-4,8 Speed Automatic,AWD,Infinite Black,null,null,4,Gas,11.1L/100km,8.1L/100km,60460
+2022,Lincoln,Nautilus,15 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Gilded Green,Black,null,4,Gas,11.8L/100km,9.4L/100km,61271
+2022,Lincoln,Corsair,62 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Pristine White,Beige,null,4,Gas,11.2L/100km,8.3L/100km,61362
+2022,Lincoln,Corsair,15 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Pristine White,Black,null,4,Gas,11.1L/100km,8.1L/100km,62871
+2022,Lincoln,Nautilus,69 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Bronze Smoke,Beige,null,4,Gas,11.8L/100km,9.4L/100km,64455
+2022,Lincoln,Nautilus,19 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Asher Grey,null,null,4,Gas,11.8L/100km,9.4L/100km,65255
+2022,Lincoln,Corsair,53 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,null,null,4,Gas,11.2L/100km,8.3L/100km,65951
+2022,Lincoln,Nautilus,11 km,SUV,2.0L I4 ECOBOOST ENGINE,8 Speed Automatic,AWD,Flight Blue,null,null,4,Gas,11.8L/100km,9.4L/100km,66430
+2022,Lincoln,Nautilus,2500 km,SUV,2.0L TURBOCHARGED I-4,8 Speed Automatic,AWD,Pristine White,null,null,4,Gas,11.8L/100km,9.4L/100km,68570
+2022,Lincoln,Nautilus,58 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Asher Grey,Black,null,4,Gas,12.6L/100km,9.3L/100km,69196
+2020,Lincoln,Aviator,27542 km,SUV,V6 Cylinder Engine,Automatic,AWD,White,Black,6,4,Gas,13.7L/100km,9.7L/100km,69880
+2022,Lincoln,Nautilus,61 km,SUV,V6 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black Metallic,Black,null,4,Gas,12.6L/100km,9.3L/100km,70304
+2023,Lincoln,Aviator,10 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,null,null,7,4,Gas,13.7L/100km,9.7L/100km,73825
+2023,Lincoln,Aviator,19 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Pristine White Metallic Tri-Coat,null,null,4,Gas,13.7L/100km,9.7L/100km,84575
+2023,Lincoln,Aviator,20 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Asher Grey Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,85425
+2023,Lincoln,Aviator,20 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Asher Grey Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,87998
+2023,Lincoln,Aviator,65 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Infinite Black Metallic Clearcoat,Black,null,4,Gas,13.7L/100km,9.7L/100km,88960
+2023,Lincoln,Aviator,59 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Pristine White Metallic Tri-Coat,null,null,4,Gas,13.7L/100km,9.7L/100km,91410
+2023,Lincoln,Aviator,58 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Pristine White Metallic Tri-Coat,null,null,4,Gas,13.7L/100km,9.7L/100km,91610
+2022,Lincoln,Nautilus,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.8L/100km,9.4L/100km,58145
+2019,Lincoln,Nautilus,84053 km,SUV,2.0L 4cyl,8 Speed Automatic,AWD,Infinite Black Metallic,Brown,5,4,Premium Unleaded,12.0L/100km,9.6L/100km,33999
+2019,Lincoln,Nautilus,63686 km,SUV,2.7,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,null,null,37888
+2021,Lincoln,Corsair,34551 km,SUV,2.0,8 Speed Automatic,4WD,Infinite Black,Black,5,4,Gas,null,null,43888
+2021,Lincoln,Corsair,23500 km,SUV,I-4 cyl,Automatic,4WD,White,Black,null,null,Premium Unleaded,null,null,45998
+2019,Lincoln,Nautilus,91370 km,SUV,2.7L 6cyl,8 Speed Automatic,AWD,Gold,Black,5,4,Premium Unleaded,12.6L/100km,9.2L/100km,31999
+2020,Lincoln,Nautilus,13534 km,SUV,2.7L TWIN-TURBOCHARGED V6,8 Speed Automatic,AWD,Ceramic Pearl Metallic Tri-Coat,null,null,4,Gas,12.5L/100km,9.2L/100km,47988
+2022,Lincoln,Nautilus,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.8L/100km,9.4L/100km,58145
+2022,Lincoln,Corsair,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.1L/100km,8.1L/100km,58245
+2022,Lincoln,Corsair,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,11.1L/100km,8.1L/100km,58245
+2022,Lincoln,Corsair,141 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,null,4,Premium Unleaded,11.1L/100km,8.1L/100km,65975
+2022,Lincoln,Corsair,17 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,Black,null,4,Gas,11.2L/100km,8.3L/100km,66051
+2021,Lincoln,Nautilus,18769 km,SUV,2.0L TURBOCHARGED I-4,8 Speed Automatic,AWD,Infinite Black Metallic,null,null,4,Gas,12.0L/100km,9.6L/100km,66075
+2022,Lincoln,Nautilus,null,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,null,null,5,4,Gas,12.6L/100km,9.3L/100km,66995
+2018,Lincoln,MKC,34020 km,SUV,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,AWD,White,null,5,4,Gas,12.3L/100km,9.3L/100km,32547
+2023,Lincoln,Nautilus,63 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Jewel Sandstone,Black,null,4,Gas,11.8L/100km,9.4L/100km,68295
+2022,Lincoln,Corsair,3336 km,SUV,TURBOCHARGED 2.0L I-4,8 Speed Automatic,AWD,Pristine White,null,null,4,Gas,11.1L/100km,8.1L/100km,69375
+2023,Lincoln,Nautilus,8 km,SUV,2.0L TURBOCHARGED I-4,8 Speed Automatic,AWD,Flight Blue,null,null,4,Gas,11.8L/100km,9.4L/100km,73880
+2023,Lincoln,Nautilus,10 km,SUV,2.0L TURBOCHARGED I-4,8 Speed Automatic,AWD,Asher Grey,null,null,4,Gas,11.8L/100km,9.4L/100km,80130
+2023,Lincoln,Aviator,null,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,null,null,7,4,Gas,13.7L/100km,9.7L/100km,82529
+2023,Lincoln,Aviator,20 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Infinite Black Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,83645
+2023,Lincoln,Aviator,16 km,SUV,V6 Cylinder Engine,10 Speed Automatic,AWD,Infinite Black Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,85325
+2022,Lincoln,Aviator,15739 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Infinite Black,null,null,4,Gas,13.7L/100km,9.7L/100km,88945
+2023,Lincoln,Aviator,78 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Silver Radiance Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,91060
+2020,Lincoln,Navigator,41585 km,SUV,V6 Cylinder Engine,10 Speed Automatic,4x4,Infinite Black Metallic,null,8,4,Gas,15.0L/100km,11.5L/100km,81888
+2023,Lincoln,Aviator,15 km,SUV,V6 Cylinder Engine,Automatic,AWD,Infinite Black Metallic Clearcoat,Black,null,4,Premium Unleaded,13.7L/100km,9.7L/100km,91610
+2023,Lincoln,Aviator,1255 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Pristine White Metallic Tri-Coat,null,null,4,Gas,13.7L/100km,9.7L/100km,91925
+2023,Lincoln,Aviator,18430 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Silver Radiance Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,95225
+2023,Lincoln,Navigator,51 km,SUV,V6 Cylinder Engine,10 Speed Automatic,4x4,Infinite Black,null,null,4,Gas,15.2L/100km,10.8L/100km,121975
+2019,Lincoln,Nautilus,77000 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,White,Black,5,4,Gas,null,null,32880
+2021,Lincoln,Corsair,16441 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,null,null,4,Gas,null,null,54350
+2021,Lincoln,Corsair,16795 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,null,null,4,Gas,null,null,54350
+2021,Lincoln,Corsair,16280 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Infinite Black,null,null,4,Gas,null,null,54350
+2021,Lincoln,Corsair,18457 km,SUV,4 Cylinder Engine,8 Speed Automatic,AWD,Pristine White,null,null,4,Gas,null,null,55250
+2017,Lincoln,Continental,99808 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,AWD,White Platinum Metallic Tri-Coat,Beige,5,4,Gas,14.0L/100km,9.5L/100km,34988
+2021,Lincoln,Corsair,20044 km,SUV,TURBOCHARGED 2.0L I-4,8 Speed Automatic,AWD,Pristine White,null,4,4,Gas,11.1L/100km,8.1L/100km,58045
+2022,Lincoln,Corsair,420 km,SUV,TURBOCHARGED 2.0L I-4,8 Speed Automatic,AWD,Pristine White,null,null,4,Gas,11.1L/100km,8.1L/100km,63725
+1972,Lincoln,Continental,206599 km,Coupe,null,Automatic,RWD,Red,null,null,2 doors,Gasoline,null,null,2095
+1976,Lincoln,Mark,86 km,null,null,null,null,null,null,null,null,null,null,null,9999
+2005,Lincoln,Aviator,200000 km,null,null,Automatic,4X4,Gold,null,null,4 doors,Gasoline,null,null,13500
+2015,Lincoln,MKC,173000 km,SUV,null,null,null,Not Specified,null,null,4,null,null,null,15888
+2006,Lincoln,Limousine,214000 km,Sedan,4.6 Litre,Automatic,RWD,White,Black,8,4,Gas,null,null,19900
+2017,Lincoln,MKZ,163000 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline - Hybrid,null,null,22000
+2017,Lincoln,MKC,120000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,22995
+2018,Lincoln,MKZ,112677 km,Sedan,2.0L 4cyl,6 Speed Automatic,AWD,Black Velvet,null,5,4,Premium Unleaded,11.8L/100km,8.4L/100km,26987
+2014,Lincoln,Navigator,177000 km,SUV,5.4L V8,Automatic,4x4,Black,Black,8,4,Gas,18.1L/100km,13.1L/100km,23900
+2018,Lincoln,MKX,55000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,31000
+2019,Lincoln,MKC,99600 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,31000
+2023,Lincoln,Aviator,15 km,SUV,TWIN-TURBOCHARGED 3.0L V6,null,AWD,Infinite Black Metallic Clearcoat,null,null,4,Gas,13.7L/100km,9.7L/100km,91310
+2011,Lincoln,MKS,183000 km,Sedan,null,Automatic,FWD,Black,null,null,4 doors,Gasoline,null,null,183000
+2010,Lincoln,MKT,380883 km,SUV,3.7,Automatic,AWD,Steel Blue Metallic,Black,null,4,Gas,13.0L/100km,9.2L/100km,4900

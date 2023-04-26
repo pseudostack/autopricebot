@@ -1,0 +1,41 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2013,McLaren,MP4-12C,47443 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Dark Grey,Black,null,null,Gas,null,null,134999
+2012,McLaren,MP4-12C,8600 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Special-Graphite Grey,null,null,null,Gas,null,null,188888
+2019,McLaren,540C,34492 km,Coupe,null,Automatic,RWD,Blue,Black,2,null,Gas,null,null,199995
+2017,McLaren,570S,35269 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Onyx Black,Black,2,2,Gas,14.7L/100km,10.2L/100km,215950
+2017,McLaren,570GT,38665 km,Coupe,Twin Turbo Premium Unleaded V-8 3.8 L/232,Automatic,RWD,Onyx Black,Black,2,2,Gas,14.7L/100km,10.2L/100km,185555
+2016,McLaren,570S,38000 km,Coupe,null,Automatic,null,Vermillion Red,null,null,2,null,null,null,208880
+2018,McLaren,570S,20000 km,Coupe,3.8L,Automatic,RWD,Mantis Green,Black,2,2,Gas,14.7L/100km,10.2L/100km,248899
+2018,McLaren,720S,19645 km,Coupe,Twin Turbo Premium Unleaded V-8 4.0 L/244,Automatic,RWD,Gray,Black,2,2,Gas,null,null,329303
+2019,McLaren,720S,7450 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Grey,Black,2,2,Gas,null,null,337777
+2020,McLaren,600LT,12000 km,Convertible,3.8L,Automatic,RWD,Myan Orange,Black,2,2,Gas,15.7L/100km,10.7L/100km,364888
+2013,McLaren,MP4-12C,47443 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Dark Grey,Black,null,null,Gas,null,null,134999
+2012,McLaren,MP4-12C,8600 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Special-Graphite Grey,null,null,null,Gas,null,null,188888
+2017,McLaren,570S,41536 km,null,null,null,null,null,null,null,null,null,null,null,192900
+2013,McLaren,MP4-12C,47443 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Dark Grey,Black,null,null,Gas,null,null,134999
+2018,McLaren,540C,6000 km,null,null,null,null,null,null,null,null,null,null,null,196900
+2019,McLaren,540C,34492 km,Coupe,null,Automatic,RWD,Blue,Black,2,null,Gas,null,null,199995
+2017,McLaren,570S,35269 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Onyx Black,Black,2,2,Gas,14.7L/100km,10.2L/100km,215950
+2017,McLaren,570S,31000 km,Coupe,8 Cylinder Engine,Automatic,RWD,White,Black,2,2,Gas,null,null,218888
+2019,McLaren,600LT,9450 km,Coupe,null,Automatic,RWD,White,Black,2,2,Gas,null,null,315000
+2018,McLaren,720S,3888 km,Coupe,null,7 Speed Automatic,RWD,Blue,Black,2,2,Gas,null,null,338888
+2018,McLaren,720S,8175 km,null,null,null,null,null,null,null,null,null,null,null,349900
+2018,McLaren,720S,8508 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,White,Tan,2,2,Gas,15.7L/100km,10.7L/100km,355000
+2019,McLaren,720S,5435 km,Coupe,4.0L 8cyl,null,RWD,Blue,Black,2,2,Gas,null,null,359900
+2022,McLaren,720S,5123 km,Coupe,8 Cylinder Engine,7 Speed Automatic,null,Onyx Black,null,null,null,Gas,15.7L/100km,10.7L/100km,399888
+2020,McLaren,720S,7415 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Silver,Black,2,2,Gas,15.7L/100km,10.7L/100km,408000
+2023,McLaren,Artura,90 km,Coupe,3.0,Automatic,RWD,Black,Black,2,2,Electric,null,null,415888
+2022,McLaren,720S,2047 km,Convertible,null,Automatic,RWD,Blue,Black,2,2,Gas,null,null,449900
+2019,McLaren,Senna,843 km,Coupe,null,Automatic,RWD,Black,Black,2,2,Gas,null,null,1200000
+2019,McLaren,Senna,800 km,null,4.0L V8,7 Speed Automatic with auto-shift,RWD,Black,Black,2,2,Premium Unleaded,null,null,1300000
+2012,McLaren,MP4-12C,14830 km,Coupe,8 Cylinder Engine,7 Speed Automatic,RWD,Carbon Black,null,null,null,Gas,null,null,188888
+2019,McLaren,540C,35000 km,Coupe,null,Automatic,RWD,Blue,null,null,2 doors,Gasoline,null,null,219888
+2018,McLaren,570S,12563 km,Convertible,V8,Automatic,RWD,Orange,Black,2,2,Gas,null,null,239900
+2018,McLaren,570S,31610 km,Convertible,V8,Automatic,RWD,White,Black,2,2,Gas,null,null,239900
+2019,McLaren,720S,41000 km,Coupe,8 Cylinder Engine,null,null,Black,Red,null,null,Gas,null,null,283900
+2020,McLaren,600LT,11088 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Cirrus Gray,null,2,2,Gas,15.7L/100km,10.7L/100km,362888
+2020,McLaren,600LT,5090 km,Convertible,8 Cylinder Engine,7 Speed Automatic,RWD,Silver,Black,2,2,Gas,15.7L/100km,10.7L/100km,368888
+2016,McLaren,675LT,3850 km,Coupe,8 Cylinder Engine,null,null,Chicane Grey,null,null,null,Gas,null,null,388888
+2023,McLaren,Artura,300 km,Coupe,V6 Cylinder Engine,8 Speed Automatic,null,Vega Blue,null,null,null,Electric,null,null,397356
+2020,McLaren,720S,11530 km,Convertible,8 Cylinder Engine,7 Speed Automatic,null,Paris Blue,null,null,null,Gas,15.7L/100km,10.7L/100km,428888
+2022,McLaren,720S,5910 km,Coupe,8 Cylinder Engine,7 Speed Automatic,null,Papaya Spark,Black,null,null,Gas,15.7L/100km,10.7L/100km,430888

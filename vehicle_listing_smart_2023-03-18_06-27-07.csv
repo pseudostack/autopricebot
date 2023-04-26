@@ -1,0 +1,8 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2014,smart,fortwo,78000 km,Coupe,Electric Motor,Automatic,RWD,Crystal White,Black,2,2,Electric,null,null,11500
+2017,smart,fortwo,47149 km,Coupe,3 Cylinder Engine,Automatic,RWD,Black,Grey,2,2,Gas,null,null,16990
+2015,smart,fortwo,95000 km,Coupe,3 Cylinder Engine,Automatic,RWD,Crystal White,Black,2,null,Gas,6.8L/100km,6.2L/100km,10888
+2009,smart,fortwo,163626 km,null,null,Automatic,null,Blue,Beige,null,null,null,null,null,3199
+2008,smart,fortwo,39700 km,Coupe,null,Automatic,FWD,White,null,null,2 doors,Gasoline,null,null,7950
+2013,smart,fortwo,94766 km,Coupe,null,Automatic,FWD,Yellow,null,null,2 doors,Gasoline,null,null,8500
+2006,smart,fortwo,28000 km,Convertible,null,Automatic,RWD,Red,null,null,3 doors,Diesel,null,null,17500

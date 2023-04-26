@@ -1,0 +1,96 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2019,Toyota,C-HR,71259 km,SUV,: 2.0L I-4 DOHC 16-Valve VVT-i,CVT,FWD,Blue,null,null,null,Gas,8.7L/100km,7.5L/100km,25979
+2020,Toyota,4Runner,40964 km,SUV,: 4.0L V6,5 Speed Automatic,4x4,Midnight Black Metallic,Black,5,4,Gas,14.7L/100km,12.4L/100km,48979
+2011,Toyota,Venza,164112 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,Grey,White,5,4,Gas,11.5L/100km,7.9L/100km,15999
+2021,Toyota,Camry,55500 km,Sedan,4 Cylinder Engine,CVT,FWD,Pre-Dawn Grey Mica,Black,5,4,Gasoline Hybrid,5.3L/100km,5.0L/100km,42995
+2019,Toyota,Corolla,94000 km,Sedan,null,Manual,FWD,White,null,null,4 doors,Gasoline,null,null,16000
+2016,Toyota,Camry,159000 km,Sedan,2.5,Automatic,FWD,Grey,Black,5,4,Gas,9.4L/100km,6.7L/100km,17500
+2017,Toyota,RAV4,275050 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blizzard Pearl,Black,5,4,Gas,10.7L/100km,8.4L/100km,21995
+2014,Toyota,Corolla,81993 km,Sedan,1.8L 4cyl,null,FWD,Blue Crush Metallic,Black,5,4,Gas,6.8L - 7.4L/100km,4.9L - 5.4L/100km,17995
+2018,Toyota,Prius,99344 km,Hatchback,4 Cylinder Engine,CVT,null,Grey,Black,5,null,Electric,4.3L/100km,4.4L/100km,30992
+2009,Toyota,Venza,183050 km,SUV,3.5,6 Speed Automatic,FWD,Gray,Grey,null,4,Gas,11.0L/100km,7.6L/100km,10950
+2014,Toyota,Venza,260849 km,SUV,3.5,6 Speed Automatic,AWD,Attitude Black Metallic,Black,null,4,Gas,11.4L/100km,7.9L/100km,13280
+2009,Toyota,Tacoma,181016 km,Truck,4 Cylinder Engine 2.7L,null,RWD,Pyrite Mica,null,null,2,Gas,10.5L - 11.0L/100km,7.8L - 7.9L/100km,13995
+2011,Toyota,Venza,127431 km,SUV,3.5L 6cyl,6 Speed Automatic,AWD,Barcelona Red Metallic,Black,5,4,Gas,11.5L/100km,7.9L/100km,15000
+2020,Toyota,Corolla,22546 km,Hatchback,I-4 cyl,CVT,FWD,Blue Flame w Midnight Black Roof,Black,5,4,Regular Unleaded,7.5L - 8.4L/100km,5.8L - 6.3L/100km,27870
+2007,Toyota,Tundra,274776 km,Regular Cab,8 Cylinder Engine,Automatic,4x4,Black,Grey,5,4,Gas,15.8L/100km,12.1L/100km,17888
+2015,Toyota,Corolla,111791 km,Sedan,4 Cylinder Engine 1.8L,Automatic,FWD,Black Sand Pearl,Black,null,4,Gas,7.9L - 8.6L/100km,6.1L - 6.5L/100km,18299
+2019,Toyota,C-HR,157233 km,Hatchback,4 Cylinder Engine,Automatic,FWD,White,Black,5,null,Gas,8.7L/100km,7.5L/100km,18450
+2015,Toyota,RAV4,129722 km,SUV,2.5,6 Speed Automatic,FWD,Alpine White,Grey,null,4,Gas,10.0L/100km,7.6L/100km,19980
+2017,Toyota,Camry,92441 km,Sedan,2.5L L4 DOHC 16V,Automatic,FWD,Pre-Dawn Grey Mica,Black,null,4,Gas,9.8L/100km,7.1L/100km,19998
+2019,Toyota,Corolla,93000 km,Sedan,4 Cylinder Engine,CVT,FWD,Barcelona Red Metallic,Black,5,4,Gas,8.3L - 8.5L/100km,6.5L - 6.6L/100km,21450
+2016,Toyota,Highlander,222485 km,SUV,V-6 cyl,6 Speed Automatic,AWD,Midnight Black Metallic,null,null,null,Gas,13.0L/100km,9.8L/100km,21498
+2012,Toyota,Sienna,106337 km,Minivan,3.5L 6cyl,6 Speed Automatic,AWD,Silver Sky Metallic,Black,7,4,Gas,12.8L/100km,9.0L/100km,21799
+2016,Toyota,RAV4,108234 km,SUV,4 Cylinder Engine,Automatic,AWD,Alpine White,Black,5,4,Gas,10.5L/100km,8.2L/100km,22890
+2021,Toyota,Venza,37221 km,SUV,I-4 cyl,CVT,AWD,Gray,Black,5,4,Gasoline Hybrid,5.9L/100km,6.4L/100km,54995
+2018,Toyota,C-HR,118000 km,SUV,4 Cylinder Engine,CVT,FWD,Blizzard Pearl,Black,5,4,Gas,8.7L/100km,7.5L/100km,22950
+2014,Toyota,Sienna,153000 km,Minivan,6 Cylinder,Automatic,FWD,Black,Black,8,4,Gas,11.4L/100km,7.9L/100km,22995
+2015,Toyota,Sienna,152350 km,Minivan,V6 Cylinder Engine,Automatic,FWD,Shoreline Blue Pearl,Grey,null,null,Regular Unleaded,13.1L/100km,9.4L/100km,22995
+2015,Toyota,RAV4,123225 km,SUV,I-4 cyl,Automatic,4WD,Barcelona Red Metallic,Black,null,null,Regular Unleaded,10.7L/100km,8.3L/100km,23200
+2018,Toyota,RAV4,122905 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,Alpine White,Black,null,4,Gas,10.0L/100km,7.8L/100km,23800
+2020,Toyota,Corolla,70000 km,Sedan,4 Cylinder Engine,CVT,FWD,Classic Silver Metallic,Black,5,4,Gas,7.9L - 8.1L/100km,6.0L - 6.3L/100km,23950
+2018,Toyota,C-HR,79000 km,SUV,4 Cylinder Engine,CVT,FWD,Red,null,5,4,Gas,8.7L/100km,7.5L/100km,23950
+2018,Toyota,RAV4,81576 km,SUV,4 Cylinder Engine,Automatic,FWD,Black,Black,5,null,Regular Unleaded,10.0L/100km,7.8L/100km,23998
+2019,Toyota,C-HR,116000 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Grey Metallic,Black,5,4,Gas,8.7L/100km,7.5L/100km,24450
+2018,Toyota,RAV4,119563 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Black,Black,null,4,Gas,10.5L/100km,8.3L/100km,27388
+2020,Toyota,Corolla,83772 km,Sedan,4 Cylinder Engine,Automatic,FWD,Barcelona Red Metallic,Black,5,4,Gas,7.9L - 8.1L/100km,6.0L - 6.3L/100km,24590
+2020,Toyota,Corolla,87841 km,Hatchback,4 Cylinder Engine,CVT,FWD,WHITE,Black,5,4,Gas,7.5L - 8.4L/100km,5.8L - 6.3L/100km,24595
+2017,Toyota,RAV4,89032 km,SUV,I-4 cyl,6 Speed Automatic,4WD,Magnetic Grey Metallic,null,null,null,Gas,10.5L/100km,8.3L/100km,24888
+2016,Toyota,RAV4,94436 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Silver Sky Metallic,null,5,4,Gas,10.6L/100km,8.1L/100km,24900
+2019,Toyota,C-HR,66662 km,SUV,4 Cylinder Engine,Automatic,FWD,Ruby Flare Pearl,Black,null,null,Gas,8.7L/100km,7.5L/100km,24939
+2019,Toyota,C-HR,84000 km,SUV,4 Cylinder Engine,CVT,FWD,Magnetic Grey Metallic,Black,5,4,Gas,8.7L/100km,7.5L/100km,24950
+2018,Toyota,RAV4,92430 km,SUV,4 Cylinder Engine 2.5L,Automatic,FWD,null,null,null,4,Gas,10.0L/100km,7.8L/100km,24998
+2017,Toyota,RAV4,96614 km,SUV,I-4 cyl,6 Speed Automatic,FWD,Alpine White,Black,null,null,Regular Unleaded,10.0L/100km,7.8L/100km,24998
+2016,Toyota,Highlander,259422 km,SUV,V6 Cylinder Engine,Automatic,AWD,Maroon,Black,8,null,Regular Unleaded,8.4L/100km,8.3L/100km,24998
+2018,Toyota,Highlander,204141 km,SUV,V6 Cylinder Engine,CVT,AWD,Midnight Black Metallic,Black,7,4,Gasoline Hybrid,8.1L/100km,8.5L/100km,36995
+2018,Toyota,Camry,73000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,White,Black,5,4,Gas,8.4L - 8.5L/100km,6.0L - 6.1L/100km,25450
+2013,Toyota,Highlander,141427 km,SUV,3.5L 6cyl,CVT,AWD,Shoreline Blue Pearl,Beige,7,4,Gas,6.6L/100km,7.3L/100km,25888
+2019,Toyota,C-HR,49680 km,Hatchback,4 Cylinder Engine,Automatic,FWD,White,Black,5,null,Gas,8.7L/100km,7.5L/100km,25950
+2019,Toyota,C-HR,71259 km,SUV,: 2.0L I-4 DOHC 16-Valve VVT-i,CVT,FWD,Blue,null,null,null,Gas,8.7L/100km,7.5L/100km,25979
+2019,Toyota,C-HR,71000 km,SUV,2.0,Automatic,FWD,Black Sand Pearl,Black,5,4,Gas,8.7L/100km,7.5L/100km,25990
+2021,Toyota,Corolla,62100 km,Sedan,1.8L 4-Cylinder DOHC 16V,CVT,FWD,Super White,null,null,4,Gas,7.9L - 8.1L/100km,6.0L - 6.3L/100km,25995
+2016,Toyota,4Runner,259254 km,SUV,V6 Cylinder Engine,Automatic,4WD,Midnight Black Metallic,Black,7,null,Regular Unleaded,14.2L/100km,11.1L/100km,25998
+2018,Toyota,RAV4,98000 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,10.5L/100km,8.3L/100km,26450
+2018,Toyota,RAV4,111937 km,SUV,I-4 cyl,6 Speed Automatic,4WD,Ruby Flare Pearl,null,null,null,Gas,10.5L/100km,8.3L/100km,26498
+2019,Toyota,Camry,85520 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Red,Black,5,4,Gas,8.4L - 8.5L/100km,6.1L - 6.2L/100km,30999
+2021,Toyota,Corolla,66000 km,Sedan,4 Cylinder Engine,CVT,FWD,Silver,Black,5,4,Gas,7.9L - 8.1L/100km,6.0L - 6.3L/100km,26850
+2018,Toyota,RAV4,84477 km,SUV,4 Cylinder Engine,Automatic,FWD,Ruby Flare Pearl,null,null,4,Gas,10.0L/100km,7.8L/100km,26900
+2015,Toyota,Highlander,113131 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Blizzard Pearl,null,8,4,Gas,13.0L/100km,9.8L/100km,26973
+2018,Toyota,RAV4,92461 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Alpine White,Black,5,4,Gas,10.5L/100km,8.3L/100km,26995
+2018,Toyota,RAV4,72209 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Magnetic Grey Metallic,Black,5,4,Gas,10.0L/100km,7.8L/100km,26995
+2018,Toyota,RAV4,143612 km,SUV,4 Cylinder Engine,Automatic,4WD,Alpine White,Black,5,null,Regular Unleaded,6.9L/100km,7.8L/100km,26998
+2017,Toyota,Highlander,141000 km,SUV,6 Cylinder,Automatic,AWD,Celestial Silver Metallic,Black,8,4,Gas,11.7L/100km,8.8L/100km,26999
+2019,Toyota,Camry,70529 km,Sedan,2.5L L4 DOHC 16V,8 Speed Automatic,FWD,Red,null,null,2,Gas,8.4L - 8.5L/100km,6.1L - 6.2L/100km,26999
+2015,Toyota,Sienna,171008 km,Minivan,6 Cylinder,Automatic,AWD,Blizzard Pearl,Grey,7,4,Gas,14.4L/100km,10.2L/100km,26999
+2021,Toyota,Sienna,49548 km,Minivan,4 Cylinder Engine,Automatic,FWD,White,Grey,8,4,Gasoline Hybrid,6.6L/100km,6.5L/100km,53990
+2019,Toyota,RAV4,95713 km,SUV,4 Cylinder Engine,Automatic,FWD,Ruby Flare Pearl,Dark Grey,null,4,Gas,8.8L/100km,6.7L/100km,27195
+2018,Toyota,RAV4,67466 km,SUV,I-4 cyl,Automatic,4WD,Alpine White,Black,null,null,Regular Unleaded,10.5L/100km,8.3L/100km,27200
+2018,Toyota,RAV4,67479 km,SUV,4 Cylinder Engine,Automatic,FWD,Magnetic Grey Metallic,null,null,4,Gas,10.0L/100km,7.8L/100km,27300
+2018,Toyota,RAV4,119563 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Black,Black,null,4,Gas,10.5L/100km,8.3L/100km,27388
+2017,Toyota,RAV4,52605 km,SUV,2.5,6 Speed Automatic,AWD,Black,Black,null,4,Gas,10.5L/100km,8.3L/100km,27480
+2018,Toyota,RAV4,108154 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Silver Sky Metallic,Black,5,4,Gas,10.5L/100km,8.3L/100km,27590
+2018,Toyota,RAV4,114611 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,null,5,4,Gas,10.5L/100km,8.3L/100km,27590
+2019,Toyota,C-HR,46700 km,SUV,2.0L I4 DOHC 16V,CVT,FWD,Blue Flame w/Black Roof,null,null,4,Gas,8.7L/100km,7.5L/100km,27688
+2019,Toyota,C-HR,19408 km,SUV,I-4 cyl,CVT,FWD,Blue,null,null,null,Gas,8.7L/100km,7.5L/100km,27888
+2023,Toyota,Camry,2155 km,Sedan,I-4 cyl,Automatic,FWD,Celestial Silver Metallic,Black,null,null,Regular Unleaded,8.5L/100km,6.1L/100km,36996
+2020,Toyota,Camry,93435 km,Sedan,2.5,8 Speed Automatic,FWD,Midnight Black Metallic,Black,null,4,Gas,8.5L/100km,6.1L/100km,27980
+2020,Toyota,Corolla,72181 km,Sedan,2.0,Automatic,FWD,Celestite,Black,5,4,Gas,7.6L - 7.7L/100km,5.8L - 6.1L/100km,27990
+2020,Toyota,Camry,53178 km,Sedan,4 Cylinder Engine,Automatic,FWD,Midnight Black Metallic,Black,null,null,Gas,8.5L/100km,6.1L/100km,27995
+2019,Toyota,C-HR,39196 km,SUV,Regular Unleaded I-4 2.0 L/121,CVT,FWD,Magnetic Grey Metallic,Black,null,4,Gas,8.7L/100km,7.5L/100km,27997
+2018,Toyota,Camry,119000 km,Sedan,V6 Cylinder Engine,8 Speed Automatic,FWD,Midnight Black Metallic,Red,5,4,Gas,10.5L - 10.7L/100km,7.1L - 7.4L/100km,28450
+2018,Toyota,Camry,117000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Midnight Black Metallic,Black,5,4,Gas,8.5L/100km,6.1L/100km,28450
+2016,Toyota,Tacoma,157884 km,Truck Extended Cab,2.7,Automatic,RWD,Black,Grey,null,4,Gas,12.0L/100km,10.0L/100km,28480
+2018,Toyota,RAV4,62343 km,SUV,4 Cylinder Engine,Automatic,AWD,Black,Black,5,4,Gas,10.5L/100km,8.3L/100km,28590
+2020,Toyota,Camry,89000 km,Sedan,4 Cylinder Engine,8 Speed Automatic,FWD,Midnight Black Metallic,Black,5,4,Gas,8.5L/100km,6.1L/100km,28850
+2018,Toyota,RAV4,72209 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Magnetic Grey Metallic,Black,5,4,Gas,10.0L/100km,7.8L/100km,26995
+2018,Toyota,RAV4,105000 km,SUV,2.5,Automatic,AWD,Alpine White,Black,5,4,Gas,10.7L/100km,8.4L/100km,28880
+2018,Toyota,Camry,78067 km,Sedan,4 Cylinder Engine,Automatic,FWD,Ruby Flare Pearl,Black,5,null,Regular Unleaded,8.5L/100km,6.1L/100km,28880
+2020,Toyota,C-HR,53794 km,Hatchback,2.0L 4cyl,CVT,FWD,Silver,Black,5,4,Gas,8.7L/100km,7.5L/100km,28888
+2019,Toyota,RAV4,42543 km,SUV,4 Cylinder Engine,Automatic,FWD,Magnetic Grey Metallic,Black,null,null,Gas,9.2L/100km,7.1L/100km,28888
+2019,Toyota,RAV4,50772 km,SUV,4 Cylinder Engine,8 Speed Automatic,FWD,null,null,null,null,Gas,8.8L/100km,6.7L/100km,28900
+2019,Toyota,RAV4,113244 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetic Grey Metallic,Black,5,4,Gas,9.2L/100km,7.1L/100km,28990
+2020,Toyota,Camry,76536 km,Sedan,2.5,Automatic,FWD,Pre-Dawn Grey Mica,Black,5,4,Gas,8.5L/100km,6.1L/100km,28990
+2022,Toyota,Corolla,4437 km,Sedan,1.8,Automatic,FWD,White,Black,5,4,Gas,7.9L - 8.1L/100km,6.0L - 6.3L/100km,28990
+2021,Toyota,Camry,71116 km,Sedan,2.5,Automatic,FWD,Supersonic Red,Black,5,4,Gas,8.5L/100km,6.1L/100km,28990
+2014,Toyota,RAV4,182094 km,SUV,Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Magnetic Grey Metallic,null,null,null,Gas,9.1L/100km,6.8L/100km,19758
+2019,Toyota,RAV4,71963 km,SUV,4 Cylinder Engine,8 Speed Automatic,FWD,Midnight Black Metallic,Black,5,4,Gas,8.8L/100km,6.7L/100km,28995

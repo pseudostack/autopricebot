@@ -19,17 +19,27 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import io.netty.handler.timeout.TimeoutException;
+
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.JavascriptExecutor;
 
 public class App {
 
+    private static final int TIMEOUT_SECONDS = 3;
+
     public static String[] pullVehicleSpecs(WebDriver vehicleDriver) {
 
         String[] pulledSpecs = new String[12];
 
-        WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(3));
-        w.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//ul[@id='sl-card-body']")));
+        try {
+            WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(TIMEOUT_SECONDS));
+            w.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//ul[@id='sl-card-body']")));
+        } catch (TimeoutException e) {
+            System.out.println("Timeout while waiting for 'sl-card-body' element: " + e.getMessage());
+            return new String[0];
+        }
 
         JavascriptExecutor js = (JavascriptExecutor) vehicleDriver;
 
@@ -160,19 +170,6 @@ public class App {
 
         driver.get("https://autotrader.ca");
 
-        // WebElement d = driver.findElement(By.id("rfMakes"));
-        // Select l = new Select(d);
-        // List<WebElement> m = l.getOptions();
-
-        // List<String> makeList = m.stream().map(e ->
-        // e.getText()).collect(Collectors.toList());
-
-        // Collections.reverse(makeList);
-
-        // System.out.println(makeList.size());
-
-        // System.out.println(makeList);
-        // 104 makes
         List<String> makeList = Arrays.asList("AC", "Acura", "Alfa Romeo", "AM General", "American Bantam",
                 "American Motors (AMC)", "Aston Martin", "Audi", "Austin", "Austin-Healey", "Autozam", "Bentley", "BMW",
                 "Bugatti", "Buick", "Cadillac", "Checker", "Chevrolet", "Chrysler", "Citroen", "Clenet", "Daihatsu",
@@ -189,40 +186,17 @@ public class App {
 
         List<String> myList = new ArrayList<String>();
 
-        // for (int i = 0; i < 25; i++) {
-        // System.out.println(makeList.get(i));
-        // myList.add(makeList.get(i));
-        // }
-
-        for (int i = 25; i < 50; i++) {
+        for (int i = 0; i < makeList.size(); i++) {
             myList.add(makeList.get(i));
         }
 
-        /*
-         * for (int i = 50; i< 75; i++)
-         * {
-         * myList.add(makeList.get(i));
-         * }
-         * 
-         * 
-         * for (int i = 75; i< 104; i++)
-         * {
-         * myList.add(makeList.get(i));
-         * }
-         */
-        try {
-            myList.remove("Acura");
-            myList.remove("Alfa Romeo");
-            myList.remove("Audi");
-            // second batch
-            myList.removeAll(Arrays.asList("De Tomaso", "Dodge", "Factory Five Racing",
-                    "Ferrari", "Fiat", "Fisker", "Ford", "Freightliner", "Genesis", "Geo", "GMC", "Hino", "Honda",
-                    "Hummer", "Hyundai", "Infiniti", "Innocenti", "International", "Isuzu", "Jaguar", "Jeep", "Karma",
-                    "Kia", "Lamborghini", "Lancia"));
-        } catch (Exception er) {
-        }
-        myList.forEach(make -> extracted(chromeOptions, driver, make));
-
+        myList.forEach(make -> {
+            try {
+                extracted(chromeOptions, driver, make);
+            } catch (Exception e) {
+                System.out.println("Error while processing make " + make + ": " + e.getMessage());
+            }
+        });
         driver.quit();
         System.out.println("Done.");
     }
@@ -281,9 +255,10 @@ public class App {
 
                         // wait to load full page
                         try {
-                            Thread.sleep(3000);
-                        } catch (InterruptedException e1) {
-                            e1.printStackTrace();
+                            WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT_SECONDS));
+                            w.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("result-title")));
+                        } catch (TimeoutException e) {
+                            System.out.println("Timeout while waiting for 'result-title' elements: " + e.getMessage());
                         }
 
                         lastPageLink = driver.findElements(By.className("last-page-link")).get(0);
@@ -296,9 +271,13 @@ public class App {
                             WebDriver vehicleDriver = new ChromeDriver(chromeOptions);
                             vehicleDriver.navigate().to(vehicle.getAttribute("href"));
 
-                            WebDriverWait w = new WebDriverWait(vehicleDriver, Duration.ofSeconds(3));
-                            w.until(ExpectedConditions.presenceOfElementLocated(By.className("hero-title")));
-
+                            try {
+                                WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT_SECONDS));
+                                w.until(ExpectedConditions.presenceOfElementLocated(By.id("titleCount")));
+                            } catch (TimeoutException e) {
+                                System.out.println("Timeout while waiting for 'titleCount' element: " + e.getMessage());
+                                return;
+                            }
                             String[] detailWards = vehicleDriver.findElement(By.className("hero-title")).getText()
                                     .replace("\n", " ").split(" ");
                             String year = detailWards[0];

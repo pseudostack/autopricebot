@@ -1,0 +1,431 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2016,Subaru,Impreza,119109 km,Sedan,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,8.5L/100km,6.4L/100km,16887
+2017,Subaru,BRZ,43438 km,Coupe,2.0,6 Speed Manual,RWD,Crystal White Pearl,Black,4,2,Gas,11.1L/100km,8.0L/100km,29888
+2018,Subaru,WRX,83891 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,12.6L/100km,9.6L/100km,30998
+2020,Subaru,WRX,29203 km,Sedan,4 Cylinder,6 Speed Manual,AWD,Crystal White Pearl,Black,null,4,Gas,14.3L/100km,10.8L/100km,45800
+2021,Subaru,WRX,23579 km,Sedan,2.5L 4cyl,6 Speed Manual,AWD,Crystal White Pearl,Black,5,4,Premium Unleaded,14.4L/100km,10.8L/100km,45888
+2017,Subaru,Impreza,78745 km,Hatchback,2.0,Automatic,AWD,Crystal White Pearl,Black,5,5,Gas,8.4L/100km,6.5L/100km,23488
+2015,Subaru,WRX,101030 km,Sedan,2.5,Manual,AWD,Crystal White Pearl,Black,null,4,Gas,13.8L/100km,10.2L/100km,25798
+2018,Subaru,WRX,145647 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,25898
+2015,Subaru,Outback,197823 km,SUV,H-4 cyl,CVT,null,Carbide Grey Metallic,Black,null,null,Gas,9.3L/100km,7.1L/100km,13888
+2016,Subaru,Impreza,119109 km,Sedan,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,8.5L/100km,6.4L/100km,16887
+2017,Subaru,WRX,159826 km,Sedan,4 Cylinder Engine,Manual,AWD,Crystal White Pearl,Black,null,null,Gas,11.3L/100km,8.5L/100km,17995
+2017,Subaru,Legacy,101241 km,Sedan,4 Cylinder Engine,Automatic,null,Blue,Black,null,null,Regular Unleaded,9.3L/100km,7.0L/100km,18995
+2016,Subaru,Forester,84338 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Grey,5,4,Gas,9.6L/100km,7.5L/100km,22590
+2021,Subaru,Crosstrek,14597 km,SUV,2.0L H4,CVT,AWD,Crystal White Pearl,null,null,4,Gas,8.5L/100km,7.0L/100km,32950
+2017,Subaru,Impreza,89617 km,Sedan,4 Cylinder Engine,Automatic,AWD,Lithium Red Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,22590
+2016,Subaru,Forester,88500 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal White Pearl,Black,5,4,Gas,9.6L/100km,7.5L/100km,22690
+2017,Subaru,Forester,138051 km,SUV,2.5L 4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Black,5,4,Gas,9.2L/100km,7.4L/100km,23695
+2020,Subaru,Impreza,50483 km,Wagon,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,8.4L/100km,6.6L/100km,24590
+2015,Subaru,Forester,52381 km,SUV,4 Cylinder Engine,CVT,AWD,Satin White Pearl,Black,5,4,Gas,10.2L/100km,8.5L/100km,24888
+2016,Subaru,WRX,130000 km,Sedan,2.0,Automatic,AWD,Blue,Black,5,4,Gas,12.5L/100km,9.5L/100km,24990
+2019,Subaru,Impreza,37447 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.4L/100km,6.6L/100km,26385
+2019,Subaru,Outback,96396 km,SUV,4 Cylinder Engine,Automatic,AWD,Cinnamon Brown Pearl,Black,5,4,Gas,9.4L/100km,7.3L/100km,26890
+2020,Subaru,Crosstrek,32295 km,SUV,4 Cylinder Engine,Automatic,null,Blue,Black,null,null,Gas,8.5L/100km,7.0L/100km,26900
+2020,Subaru,BRZ,18589 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,World Rally Blue Pearl,Black,null,null,Gas,11.2L/100km,8.2L/100km,30998
+2018,Subaru,Outback,68406 km,SUV,4 Cylinder Engine,CVT,AWD,Tungsten Metallic,null,5,4,Gas,9.4L/100km,7.3L/100km,28699
+2021,Subaru,Crosstrek,36758 km,SUV,4 Cylinder Engine,Automatic,null,Light Blue,null,null,null,Gas,8.5L/100km,7.0L/100km,28899
+2019,Subaru,WRX,80535 km,Sedan,2.0L 4cyl,CVT,AWD,World Rally Blue Pearl,Black,null,4,Gas,12.6L/100km,9.6L/100km,28995
+2019,Subaru,Crosstrek,87275 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,29385
+2017,Subaru,BRZ,43438 km,Coupe,2.0,6 Speed Manual,RWD,Crystal White Pearl,Black,4,2,Gas,11.1L/100km,8.0L/100km,29888
+2020,Subaru,Impreza,45044 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.4L/100km,6.6L/100km,29985
+2018,Subaru,Forester,84882 km,SUV,4 Cylinder Engine 2.0L,CVT,AWD,null,null,null,4,Gas,10.2L/100km,8.6L/100km,29998
+2021,Subaru,Crosstrek,17482 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.5L/100km,7.0L/100km,30385
+2018,Subaru,WRX,83891 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,12.6L/100km,9.6L/100km,30998
+2021,Subaru,Legacy,53097 km,Sedan,2.5L 4cyl,CVT,AWD,Brown,Blue,5,4,Gas,8.9L/100km,6.7L/100km,33590
+2021,Subaru,Crosstrek,41050 km,SUV,4 Cylinder Engine,Manual,null,Crystal Black Silica,Black,null,null,Gas,10.5L/100km,8.1L/100km,31495
+2018,Subaru,Forester,50324 km,SUV,4 Cylinder Engine,Automatic,AWD,Venetian Red Pearl,Black,null,null,Gas,10.2L/100km,8.6L/100km,31495
+2021,Subaru,Crosstrek,85000 km,SUV,4 Cylinder Engine,CVT,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.0L/100km,31995
+2019,Subaru,Ascent,107141 km,SUV,2.4L 4cyl,CVT,AWD,Crystal White Pearl,Black,7,4,Gas,11.6L/100km,9.0L/100km,31995
+2019,Subaru,WRX,65650 km,Sedan,4 Cylinder Engine,Automatic,AWD,Crystal White Pearl,Black,5,4,Gas,12.6L/100km,9.6L/100km,32490
+2021,Subaru,Crosstrek,11106 km,SUV,4 Cylinder Engine,Manual,null,Magnetite Grey Metallic,Black,null,null,Gas,10.5L/100km,8.1L/100km,32495
+2019,Subaru,Ascent,94436 km,SUV,H-4 cyl,Automatic,AWD,Abyss Blue Pearl,Black,null,null,Gas,11.6L/100km,9.0L/100km,32778
+2021,Subaru,Crosstrek,71665 km,SUV,4cyl,CVT,null,Grey,null,null,null,Gas,8.5L/100km,7.0L/100km,32888
+2021,Subaru,Crosstrek,25883 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,Black,null,null,Gas,8.8L/100km,7.0L/100km,33995
+2020,Subaru,Outback,59145 km,SUV,2.4L 4cyl,CVT,AWD,Magnetite Grey Metallic,Brown,5,4,Gas,10.1L/100km,7.9L/100km,38990
+2019,Subaru,Forester,54128 km,SUV,Regular Unleaded H-4 2.5 L/152,CVT,AWD,Jasper Green Metallic,Black,5,4,Gas,9.0L/100km,7.2L/100km,34498
+2021,Subaru,Crosstrek,55830 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Blue Pearl,Black,null,null,Gas,8.8L/100km,7.0L/100km,34795
+2019,Subaru,Forester,28923 km,SUV,4 Cylinder Engine,Automatic,AWD,Ice Silver Metallic,Black,null,null,Gas,9.0L/100km,7.2L/100km,34995
+2020,Subaru,Forester,54244 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,Black,null,null,Gas,9.0L/100km,7.2L/100km,35148
+2020,Subaru,Legacy,23900 km,Sedan,Intercooled Turbo Regular Unleaded H-4 2.4 L/146,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,9.9L/100km,7.3L/100km,35385
+2021,Subaru,WRX,54222 km,Sedan,4 Cylinder Engine,Manual,AWD,Magnetite Grey Metallic,Black,null,null,Gas,11.7L/100km,8.7L/100km,35495
+2021,Subaru,Crosstrek,67381 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.0L/100km,35585
+2021,Subaru,Crosstrek,19150 km,SUV,4 Cylinder Engine,CVT,AWD,Cool Grey Khaki,Black,5,4,Gas,8.8L/100km,7.0L/100km,35585
+2021,Subaru,Crosstrek,55831 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Black,null,null,Regular Unleaded,8.8L/100km,7.0L/100km,35899
+2022,Subaru,WRX,6550 km,Sedan,H-4 cyl,6 Speed Manual,AWD,Magnetite Grey Metallic,Black,null,null,Gas,12.3L/100km,9.0L/100km,36995
+2019,Subaru,WRX,101862 km,Sedan,4 Cylinder Engine,Manual,null,World Rally Blue Pearl,Black,5,null,Gas,14.3L/100km,10.7L/100km,36990
+2022,Subaru,WRX,3773 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,12.3L/100km,9.0L/100km,37585
+2022,Subaru,WRX,2315 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Magnetite Grey Metallic,Black,5,4,Gas,12.3L/100km,9.0L/100km,37585
+2020,Subaru,WRX,12775 km,Sedan,4 Cylinder Engine,Automatic,AWD,Ice Silver Metallic,Black,null,null,Gas,12.9L/100km,9.7L/100km,37845
+2022,Subaru,BRZ,6779 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,Crystal White Pearl,Black,4,2,Gas,12.0L/100km,8.8L/100km,38585
+2019,Subaru,Ascent,58935 km,SUV,H-4 cyl,Automatic,AWD,Cinnamon Brown Pearl,Black,null,2,Gas,11.6L/100km,9.0L/100km,38848
+2021,Subaru,Outback,32648 km,Wagon,H-4 cyl,Automatic,null,Crystal Black Silica,Black,null,null,Gas,9.0L/100km,7.1L/100km,39851
+2022,Subaru,BRZ,17000 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,Ignition Red,Black,4,2,Gas,12.0L/100km,8.8L/100km,39995
+2022,Subaru,WRX,9518 km,Sedan,4 Cylinder Engine 2.4L,Manual,AWD,World Rally Blue Pearl,Black,null,4,Gas,12.3L/100km,9.0L/100km,40504
+2021,Subaru,Forester,2764 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Brown,null,null,Regular Unleaded,9.0L/100km,7.2L/100km,45395
+2021,Subaru,Forester,22542 km,SUV,4 Cylinder Engine,Automatic,AWD,Magnetite Grey Metallic,Brown,null,null,Gas,9.0L/100km,7.2L/100km,41855
+2023,Subaru,Outback,4501 km,SUV,2.5L DOHC,CVT,null,Crystal White Pearl,Black,null,null,Gas,9.2L/100km,7.3L/100km,42898
+2019,Subaru,WRX,55438 km,Sedan,4 Cylinder Engine,6 Speed Manual,null,Crystal White Pearl,Black,null,null,Gas,14.3L/100km,10.7L/100km,42985
+2022,Subaru,Outback,28840 km,Wagon,4 Cylinder Engine,CVT,AWD,Geyser Blue,Grey,5,4,Gas,10.9L/100km,8.9L/100km,43585
+2022,Subaru,Outback,32562 km,SUV,H-4 cyl,CVT,null,Crystal Black Silica,null,null,null,Gas,10.9L/100km,8.9L/100km,43598
+2019,Subaru,WRX,42018 km,Sedan,2.5,Manual,AWD,Ice Silver Metallic,Black,5,4,Gas,14.3L/100km,10.7L/100km,43998
+2020,Subaru,WRX,29203 km,Sedan,4 Cylinder,6 Speed Manual,AWD,Crystal White Pearl,Black,null,4,Gas,14.3L/100km,10.8L/100km,45800
+2021,Subaru,WRX,23579 km,Sedan,2.5L 4cyl,6 Speed Manual,AWD,Crystal White Pearl,Black,5,4,Premium Unleaded,14.4L/100km,10.8L/100km,45888
+2021,Subaru,WRX,17732 km,Sedan,4 Cylinder Engine,6 Speed Manual,null,Crystal White Pearl,Black,null,null,Gas,14.4L/100km,10.8L/100km,47385
+2016,Subaru,BRZ,160047 km,Coupe,4 Cylinder Engine 2.0L,Automatic,RWD,World Rally Blue Pearl,Black,null,2,Gas,9.6L/100km,7.0L/100km,17999
+2020,Subaru,WRX,39000 km,Sedan,4 Cylinder Engine,6 Speed Manual,null,Magnetite Grey Metallic,Black,null,null,Gas,14.3L/100km,10.8L/100km,49385
+2021,Subaru,WRX,19823 km,Sedan,4 Cylinder Engine,6 Speed Manual,null,Crystal Black Silica,null,null,null,Gas,14.4L/100km,10.8L/100km,49785
+2021,Subaru,WRX,38119 km,Sedan,4 Cylinder Engine,6 Speed Manual,null,Crystal Black Silica,Black,null,null,Gas,14.4L/100km,10.8L/100km,50985
+2011,Subaru,Forester,226900 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Obsidian Black Pearl,null,null,4,Gas,9.9L/100km,7.5L/100km,8499
+2016,Subaru,Impreza,67363 km,Wagon,4 Cylinder Engine,CVT,null,Venetian Red Pearl,Black,null,null,Gas,8.5L/100km,6.4L/100km,18901
+2015,Subaru,WRX,147521 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal White Pearl,Black,5,4,Gas,11.1L/100km,8.3L/100km,20387
+2018,Subaru,Crosstrek,188173 km,SUV,4cyl,CVT,null,Crystal Black Silica,Dark Grey,null,null,Gas,8.8L/100km,7.2L/100km,20977
+2019,Subaru,Impreza,45623 km,Hatchback,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.4L/100km,6.6L/100km,24888
+2017,Subaru,Forester,115699 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Blue,Black,5,4,Gas,10.2L/100km,8.6L/100km,25479
+2019,Subaru,Forester,75006 km,SUV,2.5L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,9.0L/100km,7.2L/100km,29890
+2018,Subaru,Crosstrek,65167 km,SUV,2.0L 4 Cylinder Engine,Automatic,AWD,Quartz Blue Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,26795
+2018,Subaru,Impreza,25482 km,Wagon,detail,Automatic,null,Magnetite Grey Metallic,Black,null,null,Gas,8.4L/100km,6.5L/100km,26955
+2018,Subaru,Impreza,44101 km,Sedan,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,27585
+2017,Subaru,Forester,116395 km,SUV,2.0,Automatic,AWD,Crystal White Pearl,Brown,null,5,Gas,10.2L/100km,8.6L/100km,27888
+2017,Subaru,Legacy,51813 km,Sedan,2.5,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,9.3L/100km,7.0L/100km,27888
+2018,Subaru,Impreza,62885 km,Hatchback,2.0L 4cyl,CVT,AWD,Blue,Black,5,4,Gas,8.4L/100km,6.5L/100km,27999
+2019,Subaru,Impreza,39173 km,Sedan,4 Cylinder Engine,5 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,10.1L/100km,7.5L/100km,28585
+2019,Subaru,Crosstrek,65342 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,8.8L/100km,7.2L/100km,28985
+2019,Subaru,Crosstrek,86750 km,SUV,2.0L 4cyl,CVT,AWD,Blue,Black,5,4,Gas,8.8L/100km,7.2L/100km,29688
+2021,Subaru,Ascent,57866 km,SUV,2.4L 4cyl,CVT,AWD,Crystal Black Silica,Brown,7,5,Gas,11.6L/100km,9.0L/100km,47490
+2020,Subaru,Forester,52980 km,SUV,4 Cylinder Engine,CVT,AWD,Horizon Blue Pearl,Black,5,4,Gas,9.0L/100km,7.2L/100km,29985
+2019,Subaru,WRX,47580 km,Sedan,2.0,Manual,AWD,Grey,Black,5,4,Gas,11.3L/100km,8.5L/100km,30580
+2018,Subaru,Forester,26758 km,SUV,Regular Unleaded H-4 2.5 L/152,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,9.2L/100km,7.4L/100km,30998
+2016,Subaru,WRX,67170 km,Sedan,H-4 cyl,6 Speed Manual,AWD,Dark Grey Metallic,Dark Grey,null,null,Gas,11.3L/100km,8.4L/100km,31577
+2020,Subaru,Crosstrek,32699 km,SUV,H-4 cyl,Automatic,null,Cool Grey Khaki,Grey,null,2,Gas,8.5L/100km,7.0L/100km,31831
+2020,Subaru,Crosstrek,43883 km,SUV,2.0,CVT,AWD,Dark Blue Pearl,Black,5,5,Gas,8.5L/100km,7.0L/100km,31888
+2021,Subaru,Crosstrek,28743 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.5L/100km,7.0L/100km,31985
+2020,Subaru,Crosstrek,31144 km,SUV,4 Cylinder Engine,Automatic,null,Crystal Black Silica,Black,null,null,Gas,8.5L/100km,7.0L/100km,32849
+2019,Subaru,Forester,22350 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,null,null,null,Gas,9.0L/100km,7.2L/100km,33995
+2021,Subaru,Outback,90857 km,SUV,2.4L 4cyl,CVT,AWD,Autumn Green Metallic,Brown,5,5,Gas,10.1L/100km,7.9L/100km,35590
+2021,Subaru,WRX,21805 km,Sedan,H-4 cyl,6 Speed Manual,AWD,World Rally Blue Pearl,null,null,null,Gas,11.7L/100km,8.7L/100km,33995
+2020,Subaru,Crosstrek,36056 km,SUV,4 Cylinder Engine,CVT,AWD,Pure Red,Black,5,4,Gas,8.5L/100km,7.0L/100km,33995
+2019,Subaru,WRX,63472 km,Sedan,2.0,6 Speed Manual,AWD,World Rally Blue Pearl,Black,5,4,Gas,11.3L/100km,8.5L/100km,33998
+2021,Subaru,Outback,81604 km,Wagon,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Grey,5,4,Gas,10.1L/100km,7.9L/100km,35385
+2021,Subaru,Impreza,28546 km,Hatchback,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.4L/100km,6.5L/100km,35585
+2018,Subaru,WRX,67801 km,Sedan,2.5,Manual,AWD,Crystal Black Silica,Black,5,4,Gas,14.1L/100km,10.5L/100km,40998
+2020,Subaru,Outback,19600 km,Wagon,H-4 cyl,Automatic,null,Crystal White Pearl,Brown,null,null,Gas,10.1L/100km,7.9L/100km,43751
+2020,Subaru,Crosstrek,18500 km,SUV,4 Cylinder Engine,CVT,null,Crystal White Pearl,Black,null,null,Gasoline Hybrid,6.6L/100km,6.8L/100km,44585
+2020,Subaru,WRX,50882 km,Sedan,2.5,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,14.7L/100km,10.7L/100km,44998
+2021,Subaru,Crosstrek,55831 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Black,null,null,Regular Unleaded,8.8L/100km,7.0L/100km,35899
+2022,Subaru,WRX,2886 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,glowing red,Black,5,4,Gas,12.3L/100km,9.0L/100km,49888
+2021,Subaru,WRX,47750 km,Sedan,4 Cylinder Engine,Manual,null,Magnetite Grey Metallic,null,null,null,Gas,14.4L/100km,10.8L/100km,50845
+2021,Subaru,WRX,28806 km,Sedan,H-4 cyl,Manual,null,World Rally Blue Pearl,null,null,2,Gas,14.4L/100km,10.8L/100km,52900
+2010,Subaru,Forester,156000 km,SUV,4 Cylinder Engine,4 Speed Automatic,AWD,Obsidian Black Pearl,Black,5,4,Gas,10.4L/100km,7.7L/100km,9995
+2016,Subaru,Impreza,171900 km,Wagon,4 Cylinder Engine,Manual,null,Crystal White Pearl,Black,null,null,Gas,9.5L/100km,7.0L/100km,12995
+2023,Subaru,Outback,4501 km,SUV,2.5L DOHC,CVT,null,Crystal White Pearl,Black,null,null,Gas,9.2L/100km,7.3L/100km,42898
+2019,Subaru,WRX,63472 km,Sedan,2.0,6 Speed Manual,AWD,World Rally Blue Pearl,Black,5,4,Gas,11.3L/100km,8.5L/100km,33998
+2018,Subaru,WRX,67801 km,Sedan,2.5,Manual,AWD,Crystal Black Silica,Black,5,4,Gas,14.1L/100km,10.5L/100km,40998
+2019,Subaru,Impreza,32051 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,8.3L/100km,6.4L/100km,26598
+2015,Subaru,WRX,101030 km,Sedan,2.5,Manual,AWD,Crystal White Pearl,Black,null,4,Gas,13.8L/100km,10.2L/100km,25798
+2018,Subaru,WRX,145647 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,25898
+2018,Subaru,Crosstrek,67262 km,SUV,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,29888
+2020,Subaru,Outback,24712 km,SUV,4 Cylinder Engine,CVT,AWD,Autumn Green Metallic,Black,5,4,Gas,9.0L/100km,7.1L/100km,36987
+2013,Subaru,Impreza,108000 km,Hatchback,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,7.5L/100km,5.5L/100km,13995
+2015,Subaru,Forester,199803 km,SUV,2.5,Automatic,AWD,White,Black,null,4,Gas,9.6L/100km,7.5L/100km,15999
+2011,Subaru,Forester,63222 km,SUV,2.5L 4 Cylinder Engine,Automatic,AWD,Spark Silver Metallic,Black,5,4,Gas,9.9L/100km,7.5L/100km,17695
+2017,Subaru,WRX,153207 km,Sedan,4 Cylinder Engine,Manual,AWD,Dark Grey Metallic,Black,null,null,Gas,11.3L/100km,8.5L/100km,17995
+2015,Subaru,WRX,185117 km,Sedan,2.0,Automatic,AWD,Dark Grey Metallic,Black,null,4,Gas,12.4L/100km,9.4L/100km,20980
+2021,Subaru,Forester,2764 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Brown,null,null,Regular Unleaded,9.0L/100km,7.2L/100km,45395
+2017,Subaru,Impreza,77465 km,Wagon,4 Cylinder Engine,Manual,null,Carbide Grey Metallic,null,null,null,Gas,10.1L/100km,7.7L/100km,22795
+2016,Subaru,Forester,124160 km,SUV,2.5,Automatic,AWD,Crystal White Pearl,Black,5,5,Gas,9.6L/100km,7.5L/100km,22988
+2017,Subaru,Impreza,78745 km,Hatchback,2.0,Automatic,AWD,Crystal White Pearl,Black,5,5,Gas,8.4L/100km,6.5L/100km,23488
+2016,Subaru,Crosstrek,113498 km,SUV,2.0,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,9.1L/100km,7.0L/100km,24388
+2017,Subaru,WRX,123373 km,Sedan,2.0L 4cyl,6 Speed Manual,AWD,World Rally Blue Pearl,Black,5,4,Premium Unleaded,11.3L/100km,8.5L/100km,25099
+2019,Subaru,Impreza,32051 km,Sedan,2.0,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,8.3L/100km,6.4L/100km,26598
+2018,Subaru,Outback,44000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,9.4L/100km,7.3L/100km,26800
+2017,Subaru,Legacy,78437 km,Sedan,4 Cylinder Engine,Automatic,null,Crystal White Pearl,Black,null,null,Gas,9.3L/100km,7.0L/100km,27858
+2020,Subaru,Impreza,41000 km,Hatchback,H-4 cyl,Automatic,null,Dark Blue Pearl,Black,null,null,Gas,8.4L/100km,6.6L/100km,28751
+2021,Subaru,Legacy,53097 km,Sedan,2.5L 4cyl,CVT,AWD,Brown,Blue,5,4,Gas,8.9L/100km,6.7L/100km,33590
+2018,Subaru,Forester,86394 km,SUV,2.0,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,10.2L/100km,8.6L/100km,30888
+2020,Subaru,BRZ,18589 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,World Rally Blue Pearl,Black,null,null,Gas,11.2L/100km,8.2L/100km,30998
+2019,Subaru,Crosstrek,27990 km,SUV,2.0,CVT,AWD,Ice Silver Metallic,Black,5,5,Gas,8.8L/100km,7.2L/100km,31888
+2021,Subaru,Crosstrek,15597 km,SUV,4 Cylinder Engine,CVT,AWD,Cool Grey Khaki,Grey,5,4,Gas,8.5L/100km,7.0L/100km,35985
+2022,Subaru,Crosstrek,20687 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,null,5,4,Gas,8.5L/100km,7.0L/100km,36385
+2018,Subaru,WRX,53000 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,White,Black,5,4,Gas,null,null,43995
+2018,Subaru,WRX,69000 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Blue,Black,5,4,Gas,null,null,43995
+2008,Subaru,Tribeca,125152 km,SUV,3.6L 6cyl,5 Speed Automatic,AWD,null,null,null,2,Gas,13.2L/100km,9.4L/100km,6790
+2013,Subaru,XV,187625 km,Wagon,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,null,2,Gas,8.2L/100km,6.0L/100km,13900
+2021,Subaru,Crosstrek,14597 km,SUV,2.0L H4,CVT,AWD,Crystal White Pearl,null,null,4,Gas,8.5L/100km,7.0L/100km,32950
+2013,Subaru,Outback,178000 km,Wagon,4 Cylinder Engine,CVT,AWD,Ice Silver Metallic,Black,5,4,Gas,8.6L/100km,6.5L/100km,13995
+2015,Subaru,Impreza,168308 km,Hatchback,4 Cylinder Engine,CVT,AWD,null,null,null,null,Gas,8.5L/100km,6.4L/100km,17900
+2016,Subaru,Forester,112042 km,SUV,4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,Grey,null,null,Regular Unleaded,9.6L/100km,7.5L/100km,18995
+2015,Subaru,Outback,132946 km,SUV,4 Cylinder Engine 2.5L,CVT,AWD,Crystal Black Silica,null,null,4,Gas,9.3L/100km,7.1L/100km,19995
+2017,Subaru,BRZ,86491 km,Coupe,4 Cylinder Engine,Automatic,RWD,Crystal White Pearl,Black,4,null,Gas,9.7L/100km,7.2L/100km,24888
+2020,Subaru,Impreza,16570 km,Hatchback,4 Cylinder Engine,5 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,10.1L/100km,7.7L/100km,28699
+2020,Subaru,Legacy,58642 km,Sedan,Regular Unleaded H-4 2.5 L/152,CVT,AWD,Magnetite Grey Metallic,null,5,4,Gas,8.8L/100km,6.7L/100km,28998
+2018,Subaru,Forester,77074 km,SUV,4 Cylinder Engine,CVT,AWD,Venetian Red Pearl,Grey,5,4,Gas,9.2L/100km,7.4L/100km,29899
+2018,Subaru,WRX,59000 km,Sedan,2.0,6 Speed Manual,AWD,Crystal White Pearl,Black,null,4,Gas,11.3L/100km,8.5L/100km,32100
+2020,Subaru,Outback,59145 km,SUV,2.4L 4cyl,CVT,AWD,Magnetite Grey Metallic,Brown,5,4,Gas,10.1L/100km,7.9L/100km,38990
+2019,Subaru,Outback,40931 km,SUV,Flat 6 Cylinder Engine 3.6L,CVT,AWD,null,null,null,4,Gas,12.0L/100km,8.7L/100km,36995
+2020,Subaru,WRX,28169 km,Sedan,2.0L H4 DOHC 16V,Manual,AWD,Pure Red,Black,null,4,Gas,11.3L/100km,8.5L/100km,38985
+2010,Subaru,Impreza,200481 km,Sedan,2.5,5 Speed Manual,AWD,Lightning Red,Black,null,4,Gas,10.6L/100km,7.5L/100km,8780
+2009,Subaru,Forester,206046 km,SUV,2.5,Automatic,AWD,Dark Grey Metallic,Black,null,4,Gas,10.4L/100km,7.6L/100km,11480
+2001,Subaru,Forester,197415 km,null,null,Manual,FWD,Black,Black,5,null,null,null,null,16950
+2016,Subaru,Outback,161000 km,Wagon,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,16999
+2018,Subaru,Outback,156000 km,Wagon,4 Cylinder Engine,CVT,null,Tan,Cream,null,null,Regular Unleaded,9.4L/100km,7.3L/100km,17995
+2016,Subaru,Forester,136573 km,SUV,4 Cylinder Engine,CVT,AWD,Beige,null,null,4,Gas,9.6L/100km,7.5L/100km,20966
+2017,Subaru,Legacy,100750 km,Sedan,2.5L 4cyl,CVT,AWD,Crystal White Pearl,Black,null,2,Gas,9.3L/100km,7.0L/100km,22900
+2020,Subaru,BRZ,18589 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,World Rally Blue Pearl,Black,null,null,Gas,11.2L/100km,8.2L/100km,30998
+2019,Subaru,Impreza,40678 km,Hatchback,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.4L/100km,6.6L/100km,28985
+2021,Subaru,Crosstrek,51709 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.8L/100km,7.0L/100km,38985
+2018,Subaru,Crosstrek,36862 km,SUV,Regular Unleaded H-4 2.0 L/122,CVT,AWD,Crystal Black Silica,null,5,4,Gas,8.8L/100km,7.2L/100km,29498
+2013,Subaru,Forester,257100 km,SUV,2.5,Automatic,AWD,Marine Blue Pearl,Grey,5,4,Gas,11.0L/100km,8.4L/100km,7800
+2012,Subaru,Impreza,175567 km,Sedan,2.0 L 4CYL,Manual,AWD,Grey,Black,null,4,Gas,8.3L/100km,5.9L/100km,7990
+2015,Subaru,XV,316000 km,SUV,4 Cylinder Engine,5 Speed Manual,AWD,Crystal White Pearl,Black,5,4,Gas,10.2L/100km,7.7L/100km,8300
+2010,Subaru,Tribeca,189000 km,SUV,Flat 6 Cylinder Engine,5 Speed Automatic,AWD,Dark Grey,Black,7,4,Gas,13.1L/100km,9.4L/100km,9995
+2009,Subaru,Tribeca,161000 km,SUV,Flat 6 Cylinder Engine,5 Speed Automatic,AWD,null,null,5,4,Gas,13.2L/100km,9.4L/100km,10995
+2013,Subaru,Outback,153000 km,Wagon,3.6,Automatic,null,Crystal Black Silica,Black,5,null,Regular Unleaded,11.8L/100km,8.2L/100km,13495
+2019,Subaru,Crosstrek,78598 km,SUV,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.2L/100km,28990
+2017,Subaru,Forester,290000 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,9.2L/100km,7.4L/100km,13500
+2014,Subaru,Impreza,37000 km,Hatchback,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,7.5L/100km,5.5L/100km,17995
+2015,Subaru,BRZ,106000 km,Coupe,4 Cylinder Engine,Manual,RWD,World Rally Blue Pearl,Black,4,2,Gas,10.9L/100km,7.9L/100km,19995
+2016,Subaru,Outback,160800 km,SUV,Flat 6 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,12.0L/100km,8.6L/100km,19999
+2016,Subaru,Forester,136000 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Light Grey,5,4,Gas,9.6L/100km,7.5L/100km,20900
+2017,Subaru,WRX,137500 km,Sedan,4 Cylinder Engine,Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,21999
+2019,Subaru,Outback,127493 km,Station Wagon,175HP 2.5L 4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,null,null,4,Gas,9.4L/100km,7.3L/100km,22890
+2017,Subaru,Outback,127729 km,SUV,Flat 6 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,12.0L/100km,8.7L/100km,22950
+2019,Subaru,Outback,141000 km,SUV,H-4 cyl,CVT,null,Crystal Black Silica,Black,null,null,Gas,9.4L/100km,7.3L/100km,23900
+2021,Subaru,Crosstrek,63418 km,SUV,2.5L 4cyl,CVT,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.0L/100km,38390
+2018,Subaru,WRX,148000 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Black,Black,5,4,Gas,null,null,23980
+2017,Subaru,Forester,101789 km,SUV,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Brown,5,4,Gas,10.2L/100km,8.6L/100km,24800
+2020,Subaru,Forester,144393 km,SUV,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,9.0L/100km,7.2L/100km,24850
+2017,Subaru,WRX,141000 km,Sedan,H-4 cyl,6 Speed Manual,AWD,World Rally Blue Pearl,Black,null,null,Gas,11.3L/100km,8.5L/100km,24950
+2018,Subaru,Outback,66967 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Blue Pearl,Tan,5,4,Gas,9.4L/100km,7.3L/100km,25500
+2015,Subaru,WRX,101030 km,Sedan,2.5,Manual,AWD,Crystal White Pearl,Black,null,4,Gas,13.8L/100km,10.2L/100km,25798
+2018,Subaru,Forester,73100 km,SUV,4 Cylinder Engine,CVT,AWD,Red,Black,5,4,Gas,null,null,25880
+2016,Subaru,WRX,107005 km,Sedan,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Premium Unleaded,12.5L/100km,9.5L/100km,25888
+2018,Subaru,WRX,145647 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,25898
+2022,Subaru,WRX,6550 km,Sedan,H-4 cyl,6 Speed Manual,AWD,Magnetite Grey Metallic,Black,null,null,Gas,12.3L/100km,9.0L/100km,36995
+2017,Subaru,WRX,84545 km,Sedan,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,12.5L/100km,9.6L/100km,25995
+2019,Subaru,Crosstrek,91609 km,SUV,4 Cylinder Engine,CVT,null,Crystal White Pearl,Black,null,null,Gas,8.8L/100km,7.2L/100km,26250
+2021,Subaru,Impreza,29439 km,Wagon,4 Cylinder Engine,CVT,null,Ice Silver Metallic,Black,null,null,Gas,8.4L/100km,6.6L/100km,26488
+2017,Subaru,WRX,91000 km,Sedan,4 Cylinder,Manual,AWD,Crystal White Pearl,Black,5,4,Gas,11.3L/100km,8.5L/100km,26878
+2015,Subaru,WRX,102000 km,Sedan,4 Cylinder,Manual,AWD,Blue,Black,5,4,Gas,13.8L/100km,10.2L/100km,26878
+2017,Subaru,Outback,75488 km,Wagon,Flat 6 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gas,12.0L/100km,8.7L/100km,27597
+2019,Subaru,WRX,144000 km,Sedan,H-4 cyl,6 Speed Manual,AWD,Dark Grey Metallic,Black,null,null,Gas,11.3L/100km,8.5L/100km,27950
+2018,Subaru,BRZ,61000 km,Coupe,4 Cylinder Engine,Manual,RWD,World Rally Blue Pearl,Black,4,2,Gas,11.2L/100km,8.1L/100km,28895
+2020,Subaru,WRX,148000 km,Sedan,2.0L 4cyl,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Premium Unleaded,12.9L/100km,9.7L/100km,29888
+2021,Subaru,Outback,90857 km,SUV,2.4L 4cyl,CVT,AWD,Autumn Green Metallic,Brown,5,5,Gas,10.1L/100km,7.9L/100km,35590
+2020,Subaru,BRZ,23419 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Magnetite Grey Metallic,Black,4,2,Gas,11.2L/100km,8.2L/100km,29900
+2020,Subaru,Crosstrek,21473 km,SUV,4 Cylinder Engine,CVT,null,Dark Blue Pearl,Black,null,null,Gas,8.5L/100km,7.0L/100km,30492
+2018,Subaru,Forester,55986 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,5,Gas,10.2L/100km,8.6L/100km,30495
+2020,Subaru,Crosstrek,48417 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,5,Gas,8.5L/100km,7.0L/100km,30995
+2021,Subaru,Crosstrek,28165 km,SUV,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,5,Gas,8.5L/100km,7.0L/100km,31491
+2020,Subaru,Forester,82500 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Brown,5,4,Gas,9.0L/100km,7.2L/100km,31998
+2021,Subaru,Crosstrek,33134 km,SUV,4 Cylinder Engine,CVT,AWD,Plasma Yellow Pearl,Black,null,null,Gas,8.8L/100km,7.0L/100km,33671
+2020,Subaru,Forester,64119 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,null,null,Gas,9.0L/100km,7.2L/100km,34235
+2022,Subaru,Legacy,11900 km,Sedan,2.5,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,6.7L/100km,34990
+2015,Subaru,WRX,34151 km,Sedan,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,12.4L/100km,9.4L/100km,26950
+2020,Subaru,BRZ,14000 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,null,null,4,2,Gas,11.2L - 11.6L/100km,8.2L - 8.6L/100km,34995
+2019,Subaru,Ascent,96603 km,SUV,2.4L 4cyl,CVT,AWD,Crimson Red Pearl,Brown,null,4,Gas,11.6L/100km,9.0L/100km,35990
+2020,Subaru,Ascent,64000 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,7,4,Gas,11.6L/100km,9.0L/100km,36995
+2022,Subaru,Outback,15988 km,SUV,4 Cylinder Engine,CVT,AWD,Brilliant Bronze Metallic,Black,null,4,Gas,9.0L/100km,7.1L/100km,37840
+2020,Subaru,Outback,41065 km,SUV,2.4L 4cyl,CVT,AWD,Magnetite Grey Metallic,Black,5,5,Gas,10.1L/100km,7.9L/100km,37899
+2020,Subaru,WRX,31598 km,Sedan,2.0L Boxer H4 DOHC 16V,Manual,AWD,Crystal White Pearl,Black,null,null,Gas,11.3L/100km,8.5L/100km,38590
+2020,Subaru,Outback,51617 km,SUV,2.5L 4cyl,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,9.0L/100km,7.1L/100km,39500
+2021,Subaru,Ascent,38389 km,SUV,2.4L DOHC 16V,CVT,AWD,Magnetite Grey Metallic,Grey,null,4,Gas,11.6L/100km,9.0L/100km,39987
+2022,Subaru,BRZ,9075 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,Ignition Red,null,null,2,Gas,12.0L/100km,8.8L/100km,39990
+2019,Subaru,Outback,77532 km,Wagon,2.5L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,2,Gas,9.4L/100km,7.3L/100km,30000
+2020,Subaru,Outback,37752 km,SUV,2.5L 4cyl,CVT,AWD,Crystal White Pearl,null,5,5,Gas,9.0L/100km,7.1L/100km,40588
+2020,Subaru,WRX,39900 km,Sedan,4 Cylinder,6 Speed Manual,AWD,Magnetite Grey Metallic,Black,5,4,Gas,14.3L/100km,10.8L/100km,44878
+2021,Subaru,WRX,14189 km,Sedan,2.5L Boxer H4 DOHC 16V,Manual,AWD,Crystal Black Silica,Black,null,null,Gas,14.4L/100km,10.8L/100km,49790
+2010,Subaru,Forester,237400 km,SUV,2.5,Manual,AWD,Blue,Black,5,4,Gas,10.6L/100km,7.5L/100km,4995
+2013,Subaru,Impreza,170000 km,Hatchback,4 Cylinder Engine,5 Speed Manual,AWD,Crystal Black Silica,White,5,4,Gas,8.3L/100km,5.9L/100km,8999
+2023,Subaru,Outback,4501 km,SUV,2.5L DOHC,CVT,null,Crystal White Pearl,Black,null,null,Gas,9.2L/100km,7.3L/100km,42898
+2020,Subaru,WRX,29203 km,Sedan,4 Cylinder,6 Speed Manual,AWD,Crystal White Pearl,Black,null,4,Gas,14.3L/100km,10.8L/100km,45800
+2019,Subaru,Impreza,45623 km,Hatchback,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.4L/100km,6.6L/100km,24888
+2018,Subaru,Crosstrek,65167 km,SUV,2.0L 4 Cylinder Engine,Automatic,AWD,Quartz Blue Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,26795
+2019,Subaru,Crosstrek,27990 km,SUV,2.0,CVT,AWD,Ice Silver Metallic,Black,5,5,Gas,8.8L/100km,7.2L/100km,31888
+2018,Subaru,WRX,145647 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,25898
+2017,Subaru,Outback,75488 km,Wagon,Flat 6 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gas,12.0L/100km,8.7L/100km,27597
+2018,Subaru,Crosstrek,67262 km,SUV,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,29888
+2015,Subaru,Legacy,200000 km,Sedan,4 Cylinder Engine,CVT,AWD,Black,Black,5,4,Gas,null,null,13888
+2015,Subaru,Forester,194000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,10.2L/100km,8.4L/100km,13995
+2014,Subaru,Forester,157693 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.9L/100km,7.2L/100km,16980
+2015,Subaru,WRX,168000 km,Sedan,H-4 cyl,6 Speed Manual,AWD,Blue,Black,null,null,Gas,11.2L/100km,8.4L/100km,17950
+2016,Subaru,Impreza,92056 km,Wagon,4 Cylinder Engine,Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,8.5L/100km,6.4L/100km,17995
+2021,Subaru,Forester,2764 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Brown,null,null,Regular Unleaded,9.0L/100km,7.2L/100km,45395
+2015,Subaru,Outback,130000 km,SUV,2.5,Automatic,AWD,Blue,Black,5,4,Gas,9.3L/100km,7.1L/100km,17999
+2016,Subaru,Forester,114000 km,SUV,2.5,Automatic,AWD,null,null,null,null,Gas,9.6L/100km,7.5L/100km,18999
+2015,Subaru,WRX,130000 km,Sedan,2L,Manual,AWD,Not Specified,null,null,4,Gas,11.1L/100km,8.3L/100km,21999
+2018,Subaru,Impreza,67920 km,Wagon,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,null,2,Gas,8.4L/100km,6.4L/100km,23500
+2015,Subaru,WRX,91175 km,Sedan,2.0L 4cyl,6 Speed Manual,AWD,null,null,5,4,Gas,null,null,23888
+2019,Subaru,Impreza,82755 km,Compact,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,8.3L/100km,6.4L/100km,23888
+2019,Subaru,Outback,135000 km,SUV,H-4 cyl,Automatic,null,Crystal White Pearl,Black,null,null,Gas,9.4L/100km,7.3L/100km,24950
+2018,Subaru,Impreza,64763 km,Wagon,4 Cylinder Engine,CVT,null,Magnetite Grey Metallic,Black,null,null,Gas,8.4L/100km,6.5L/100km,25488
+2018,Subaru,Forester,116667 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,9.2L/100km,7.4L/100km,25999
+2021,Subaru,Legacy,53097 km,Sedan,2.5L 4cyl,CVT,AWD,Brown,Blue,5,4,Gas,8.9L/100km,6.7L/100km,33590
+2018,Subaru,Impreza,56700 km,Wagon,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.4L/100km,6.5L/100km,26999
+2019,Subaru,Crosstrek,69641 km,SUV,2.0,Automatic,AWD,Black,Grey,5,5,Gas,8.8L/100km,7.2L/100km,27990
+2019,Subaru,Impreza,28519 km,Compact,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,27998
+2019,Subaru,Forester,62300 km,SUV,4 Cylinder Engine,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,9.0L/100km,7.2L/100km,28880
+2019,Subaru,Forester,74749 km,SUV,2.5L 4cyl,CVT,AWD,Dark Grey Metallic,null,null,2,Gas,9.0L/100km,7.2L/100km,28988
+2020,Subaru,BRZ,33200 km,Coupe,4 Cylinder Engine,Manual,RWD,Blue,Black,null,2,Gas,11.2L/100km,8.2L/100km,29480
+2018,Subaru,Crosstrek,67262 km,SUV,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.8L/100km,7.2L/100km,29888
+2019,Subaru,Forester,72575 km,SUV,2.5L 4cyl,CVT,AWD,Crystal Black Silica,null,null,2,Gas,9.0L/100km,7.2L/100km,30500
+2019,Subaru,Ascent,76200 km,SUV,4 Cylinder Engine,Automatic,AWD,CINNAMON,Charcoal,7,4,Gas,11.6L/100km,9.0L/100km,30990
+2019,Subaru,Crosstrek,78598 km,SUV,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.2L/100km,28990
+2020,Subaru,Forester,69000 km,SUV,2.5L,Automatic,AWD,Silver,Black,5,4,Gas,9.0L/100km,7.2L/100km,32690
+2020,Subaru,Ascent,50948 km,SUV,2.4L 4cyl,CVT,AWD,Crystal White Pearl,Black,7,5,Gas,11.6L/100km,9.0L/100km,32799
+2017,Subaru,WRX,88000 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Ice Silver Metallic,Black,5,4,Gas,13.8L/100km,10.2L/100km,32888
+2017,Subaru,WRX,113486 km,Sedan,2.5,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,13.8L/100km,10.2L/100km,32999
+2020,Subaru,Crosstrek,43808 km,SUV,4 Cylinder Engine,CVT,AWD,null,null,5,4,Gas,8.5L/100km,7.0L/100km,33988
+2020,Subaru,Outback,62153 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,null,null,Gas,10.1L/100km,7.9L/100km,34588
+2020,Subaru,Outback,24712 km,SUV,4 Cylinder Engine,CVT,AWD,Autumn Green Metallic,Black,5,4,Gas,9.0L/100km,7.1L/100km,36987
+2019,Subaru,WRX,23475 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,38480
+2020,Subaru,WRX,39786 km,Sedan,4 Cylinder Engine,Manual,AWD,Blue,Black,null,4,Gas,14.3L/100km,10.8L/100km,45995
+2021,Subaru,Crosstrek,14597 km,SUV,2.0L H4,CVT,AWD,Crystal White Pearl,null,null,4,Gas,8.5L/100km,7.0L/100km,32950
+2019,Subaru,WRX,39638 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,White,5,4,Gas,14.3L/100km,10.7L/100km,48480
+2011,Subaru,Impreza,140000 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Silver,Dark Grey,5,4,Gas,10.4L/100km,7.5L/100km,8999
+2013,Subaru,Impreza,158748 km,Sedan,2.0L H4 148HP 145FT. LBS.,Automatic,AWD,Ice Silver Metallic,Black,5,4,Gas,7.5L/100km,5.5L/100km,9990
+2010,Subaru,Forester,153126 km,SUV,2.5L 4cyl,Automatic,AWD,Satin White Pearl,Black,5,4,Gas,10.4L/100km,7.7L/100km,12995
+2011,Subaru,Impreza,143994 km,Sedan,2.5,Manual,AWD,Blue,Black,null,4,Gas,11.1L/100km,8.0L/100km,14995
+2014,Subaru,Outback,175852 km,SUV,6 Cylinder,Automatic,AWD,Carbide Grey Metallic,Black,4,4,Gas,8.6L/100km,6.5L/100km,15500
+2014,Subaru,Forester,164207 km,SUV,2.5L 4cyl,Automatic,AWD,Marine Blue Pearl,Tan,null,4,Gas,8.3L/100km,6.2L/100km,15990
+2013,Subaru,BRZ,176690 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,Satin White Pearl,Black,4,2,Gas,null,null,16800
+2018,Subaru,Impreza,153838 km,Sedan,4 Cylinder Engine,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Gas,8.3L/100km,6.4L/100km,17995
+2017,Subaru,Impreza,89617 km,Sedan,4 Cylinder Engine,Automatic,AWD,Lithium Red Pearl,Black,5,4,Gas,8.3L/100km,6.4L/100km,22590
+2014,Subaru,Forester,143000 km,SUV,4 Cylinder Engine,CVT,AWD,Ice Silver Metallic,Black,5,4,Gas,8.9L/100km,7.2L/100km,18850
+2016,Subaru,WRX,120000 km,Sedan,2.0,Manual,AWD,Blue,Black,null,4,Gas,11.3L/100km,8.4L/100km,21495
+2016,Subaru,Crosstrek,81000 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,null,4,Gas,9.1L/100km,7.0L/100km,23990
+2018,Subaru,Forester,97276 km,SUV,2.5,Manual,AWD,White,Black,5,4,Gas,10.9L/100km,8.3L/100km,24498
+2016,Subaru,WRX,123000 km,Sedan,4 Cylinder Engine,Manual,AWD,Crystal White Pearl,Black,5,4,Gas,11.3L/100km,8.4L/100km,24900
+2015,Subaru,Forester,102000 km,SUV,4 Cylinder Engine,CVT,AWD,Satin White Pearl,Black,5,4,Gas,10.2L/100km,8.5L/100km,24995
+2018,Subaru,Crosstrek,50908 km,SUV,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.2L/100km,29888
+2019,Subaru,Crosstrek,52552 km,SUV,2.0L 16V DOHC,CVT,AWD,Dark Grey Metallic,Black,5,4,Gas,8.8L/100km,7.2L/100km,29999
+2019,Subaru,Forester,39918 km,SUV,2.5L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,5,Gas,9.0L/100km,7.2L/100km,31188
+2019,Subaru,Outback,46542 km,SUV,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,9.4L/100km,7.3L/100km,31422
+2021,Subaru,Crosstrek,20272 km,null,2.0L 4cyl,CVT,AWD,null,null,null,null,Gas,null,null,31888
+2018,Subaru,WRX,56041 km,Sedan,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,12.6L/100km,9.6L/100km,38480
+2006,Subaru,Impreza,296000 km,Wagon,4 Cylinder Engine,4 Speed Automatic,AWD,Grey,Black,5,4,Gas,10.4L/100km,7.8L/100km,2000
+2003,Subaru,Impreza,183544 km,Station Wagon,2.5L 4cyl,Automatic,AWD,Blue Ridge Pearl,Grey,null,4,Gas,null,null,3900
+2010,Subaru,Impreza,226000 km,Wagon,4 Cylinder Engine,5 Speed Manual,null,Grey,Black,null,null,Gas,11.3L/100km,8.1L/100km,8800
+2013,Subaru,Impreza,219800 km,Wagon,4 Cylinder Engine,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,7.5L/100km,5.5L/100km,8995
+2005,Subaru,Outback,186496 km,Wagon,2.5L,Manual,AWD,Obsidian Black Pearl,Black,5,4,Gas,12.4L/100km,9.4L - 9.8L/100km,9500
+2011,Subaru,Impreza,167000 km,Wagon,4 Cylinder Engine,4 Speed Automatic,null,Red,Black,null,null,Gas,10.4L/100km,7.5L/100km,9800
+2014,Subaru,Outback,208000 km,Wagon,4 Cylinder Engine,CVT,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.8L/100km,10900
+2020,Subaru,BRZ,18589 km,Coupe,4 Cylinder Engine,6 Speed Manual,RWD,World Rally Blue Pearl,Black,null,null,Gas,11.2L/100km,8.2L/100km,30998
+2012,Subaru,Tribeca,159880 km,SUV,Flat 6 Cylinder Engine,Automatic,AWD,Gray,Grey,7,4,Gas,13.1L/100km,9.4L/100km,11995
+2007,Subaru,Legacy,189300 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Diamond Grey Metallic,Grey,5,4,Gas,12.3L/100km,8.2L/100km,13200
+2012,Subaru,Forester,149517 km,SUV,2.5,Automatic,AWD,Black,Black,5,4,Gas,9.9L/100km,7.5L/100km,13990
+2014,Subaru,Forester,206990 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Black,5,4,Gas,8.9L/100km,7.2L/100km,13995
+2013,Subaru,Outback,199837 km,Wagon,Flat 6 Cylinder Engine,5 Speed Automatic,AWD,Crystal Black Silica,Black,5,4,Gas,11.8L/100km,8.2L/100km,14999
+2014,Subaru,Forester,145000 km,SUV,H-4 cyl,CVT,AWD,Ice Silver Metallic,Black,null,null,Gas,8.3L/100km,6.2L/100km,15900
+2016,Subaru,Outback,184620 km,null,null,Automatic,null,Blue,Black,null,null,null,null,null,16888
+2014,Subaru,Outback,171377 km,Wagon,4 Cylinder Engine,CVT,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.8L/100km,16995
+2015,Subaru,Impreza,134000 km,Hatchback,4 Cylinder Engine,Manual,AWD,Crystal White Pearl,Black,5,4,Gas,9.5L/100km,7.0L/100km,17900
+2016,Subaru,WRX,156457 km,Sedan,Intercooled Turbo Premium Unleaded H-4 2.5 L/150,Manual,AWD,null,null,5,4,Gas,13.8L/100km,10.2L/100km,26500
+2011,Subaru,Impreza,204000 km,Hatchback,4 Cylinder Engine,6 Speed Manual,AWD,Satin White Pearl,Black,5,4,Gas,12.4L/100km,8.8L/100km,19999
+2015,Subaru,XV,47656 km,SUV,4 Cylinder Engine,Automatic,AWD,Dark Grey Metallic,Black,5,4,Gas,9.1L/100km,7.0L/100km,24990
+2016,Subaru,WRX,128000 km,Sedan,4 Cylinder Engine,Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.4L/100km,24999
+2004,Subaru,Impreza,157212 km,Sedan,4 Cylinder Engine,Manual,AWD,Blue,Black,5,4,Gas,13.1L/100km,9.8L/100km,28500
+2019,Subaru,Crosstrek,35034 km,SUV,4 Cylinder Engine,CVT,null,Crystal Black Silica,Black,null,null,Gas,8.8L/100km,7.2L/100km,28705
+2019,Subaru,Crosstrek,39965 km,SUV,4 Cylinder Engine,CVT,null,Dark Grey Metallic,Black,null,null,Gas,8.8L/100km,7.2L/100km,30488
+2019,Subaru,WRX,47000 km,Sedan,4 Cylinder,Manual,AWD,World Rally Blue Pearl,Black,5,4,Gas,11.2L/100km,8.7L/100km,32878
+2019,Subaru,WRX,45379 km,Sedan,4 Cylinder Engine,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,11.3L/100km,8.5L/100km,39880
+2022,Subaru,WRX,99 km,Sedan,2.4L,Manual,AWD,World Rally Blue Pearl,Black,null,4,Gas,12.3L/100km,9.0L/100km,41402
+2020,Subaru,Outback,59145 km,SUV,2.4L 4cyl,CVT,AWD,Magnetite Grey Metallic,Brown,5,4,Gas,10.1L/100km,7.9L/100km,38990
+2022,Subaru,Forester,1679 km,SUV,null,CVT,AWD,null,null,5,4,Gas,null,null,45495
+2000,Subaru,LEGACY,343000 km,Wagon,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,2500
+2012,Subaru,Impreza,299722 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,7.5L/100km,5.5L/100km,3995
+2006,Subaru,WRX,138000 km,Wagon,null,Manual,AWD,Silver,null,null,5 doors,Gasoline,null,null,4300
+2010,Subaru,Legacy,235000 km,Sedan,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,4500
+2010,Subaru,Impreza,222000 km,Sedan,null,Manual,AWD,White,null,null,4 doors,Gasoline,null,null,4500
+2005,Subaru,Forester,203000 km,null,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,4500
+2007,Subaru,Impreza,225000 km,Wagon,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,4750
+2013,Subaru,Impreza,220000 km,Hatchback,2.0 L,Automatic,AWD,Black,Black,4,5,Gas,null,null,5195
+2020,Subaru,Forester,87740 km,SUV,2.5L H4 F DOHC 16V,Automatic,AWD,Jasper Green Metallic,Black,null,4,Gas,9.0L/100km,7.2L/100km,30950
+2011,Subaru,Forester,239701 km,SUV,4 Cylinder Engine,Automatic,AWD,White,Black,5,5,Gas,9.9L/100km,7.5L/100km,5500
+2009,Subaru,Impreza,219000 km,Wagon,4 Cylinder Engine,Automatic,null,Black,Black,null,null,Gas,10.4L/100km,7.6L/100km,5995
+2012,Subaru,Forester,270000 km,null,null,Manual,AWD,White,null,null,5 doors,Gasoline,null,null,6000
+2012,Subaru,Impreza,233025 km,Hatchback,null,Manual,AWD,Purple,null,null,5 doors,Gasoline,null,null,7000
+2014,Subaru,Impreza,218000 km,Sedan,2.0L,Manual,AWD,Black,Black,null,4,Gas,null,null,7999
+2008,Subaru,Impreza,214500 km,Sedan,null,Manual,AWD,Blue,null,null,4 doors,Gasoline,null,null,8000
+2013,Subaru,Impreza,194505 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,8388
+2012,Subaru,Forester,190000 km,null,null,Automatic,AWD,Silver,null,null,4 doors,Gasoline,null,null,8999
+2005,Subaru,Legacy,250000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,9000
+2021,Subaru,Crosstrek,63418 km,SUV,2.5L 4cyl,CVT,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.0L/100km,38390
+2010,Subaru,Forester,162000 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,9500
+2011,Subaru,Legacy,179681 km,Sedan,2.5 - 4Cyl.,Automatic,AWD,Brown,Beige,5,4,Gas,9.1L/100km,6.4L/100km,9950
+2009,Subaru,Forester,165322 km,SUV,2.5L,Automatic,AWD,Green,Grey,5,4,Gas,11.8L/100km,9.0L/100km,9995
+2010,Subaru,Outback,178306 km,SUV,2.5,Automatic,AWD,Black,Black,5,4,Gas,10.7L/100km,8.1L/100km,9999
+2012,Subaru,Outback,177682 km,SUV,2.5,Automatic,AWD,Grey,Black,5,4,Gas,9.5L/100km,6.9L/100km,9999
+2019,Subaru,WRX,42018 km,Sedan,2.5,Manual,AWD,Ice Silver Metallic,Black,5,4,Gas,14.3L/100km,10.7L/100km,43998
+2020,Subaru,WRX,29203 km,Sedan,4 Cylinder,6 Speed Manual,AWD,Crystal White Pearl,Black,null,4,Gas,14.3L/100km,10.8L/100km,45800
+2019,Subaru,Impreza,45623 km,Hatchback,2.0L 4cyl,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.4L/100km,6.6L/100km,24888
+2020,Subaru,WRX,50882 km,Sedan,2.5,6 Speed Manual,AWD,Crystal Black Silica,Black,5,4,Gas,14.7L/100km,10.7L/100km,44998
+2018,Subaru,Forester,86394 km,SUV,2.0,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,10.2L/100km,8.6L/100km,30888
+2016,Subaru,Outback,161000 km,Wagon,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,16999
+2020,Subaru,WRX,148000 km,Sedan,2.0L 4cyl,CVT,AWD,Magnetite Grey Metallic,Black,5,4,Premium Unleaded,12.9L/100km,9.7L/100km,29888
+2018,Subaru,Crosstrek,50908 km,SUV,2.0L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,8.8L/100km,7.2L/100km,29888
+2011,Subaru,Legacy,157000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,10000
+2011,Subaru,Tribeca,168800 km,null,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,10500
+2010,Subaru,Impreza,167201 km,Hatchback,4 Cylinder Engine,4 Speed Automatic,AWD,Satin White Pearl,Black,5,4,Gas,10.4L/100km,7.7L/100km,10500
+2011,Subaru,Outback,192347 km,SUV,3.6,Automatic,AWD,Black,Black,5,4,Gas,11.9L/100km,8.2L/100km,10995
+2010,Subaru,Forester,229000 km,SUV,2.5L H4 Turbo DOHC,4 Speed Automatic,AWD,Black,Black,5,4,Gas,null,null,10995
+2016,Subaru,BRZ,160047 km,Coupe,4 Cylinder Engine 2.0L,Automatic,RWD,World Rally Blue Pearl,Black,null,2,Gas,9.6L/100km,7.0L/100km,17999
+2013,Subaru,Legacy,137500 km,Sedan,null,Automatic,AWD,White,null,null,4 doors,Gasoline,null,null,11000
+2010,Subaru,Outback,160255 km,Wagon,4 Cylinder Engine,CVT,AWD,Satin White Pearl,Beige,5,4,Gas,10.7L/100km,8.1L/100km,11499
+2010,Subaru,Forester,162030 km,SUV,2.5L 4cyl,Automatic,AWD,Dark Grey Metallic,Black,5,4,Gas,10.4L/100km,7.7L/100km,11995
+2015,Subaru,Forester,null,SUV,2,Automatic,AWD,Ice Silver Metallic,null,null,4,Gas,10.2L/100km,8.5L/100km,11999
+2014,Subaru,Impreza,86000 km,Hatchback,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,12000
+2016,Subaru,Legacy,130300 km,null,null,Automatic,null,Grey,null,null,4 doors,Gasoline,null,null,13500
+2011,Subaru,Impreza,183000 km,Hatchback,null,Manual,AWD,Blue,null,null,4 doors,Gasoline,null,null,13500
+2013,Subaru,Impreza,160000 km,Hatchback,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,13500
+2012,Subaru,Outback,163235 km,Wagon,2.5,Automatic,AWD,Black,Black,5,4,Gas,9.5L/100km,6.9L/100km,13990
+2021,Subaru,Crosstrek,55831 km,SUV,H-4 cyl,CVT,AWD,Crystal Black Silica,Black,null,null,Regular Unleaded,8.8L/100km,7.0L/100km,35899
+2011,Subaru,Outback,135283 km,Wagon,2.5,Automatic,AWD,Grey,Black,5,4,Gas,10.7L/100km,8.1L/100km,13990
+2015,Subaru,Impreza,99000 km,Hatchback,4 Cylinder Engine,CVT,AWD,Crystal White Pearl,Black,5,4,Gas,8.5L/100km,6.4L/100km,13999
+2014,Subaru,Impreza,96000 km,Hatchback,null,Automatic,AWD,Silver,null,null,5 doors,Gasoline,null,null,14000
+2008,Subaru,Impreza,240000 km,Hatchback,null,Manual,AWD,Grey,null,null,4 doors,Gasoline,null,null,14500
+2013,Subaru,Outback,112000 km,Wagon,null,Manual,AWD,Grey,null,null,5 doors,Gasoline,null,null,14750
+2018,Subaru,Legacy,223250 km,Sedan,2.5,Automatic,AWD,Grey,Black,null,null,Gas,null,null,14898
+2013,Subaru,WRX,140351 km,Sedan,null,Manual,AWD,Silver,null,null,4 doors,Gasoline,null,null,15999
+2016,Subaru,Outback,187000 km,SUV,2.5L,Automatic,AWD,Silver,Black,null,4,Gas,null,null,15999
+2014,Subaru,Outback,130000 km,Wagon,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,16000
+2020,Subaru,Forester,35107 km,SUV,2.5L 4cyl,CVT,AWD,Ice Silver Metallic,Black,5,4,Gas,9.0L/100km,7.2L/100km,31590
+2014,Subaru,Crosstrek,86800 km,SUV,2.0L,Automatic,AWD,Silver,Black,5,5,Gas,null,null,16999
+2005,Subaru,WRX,285000 km,Sedan,null,Manual,AWD,Silver,null,null,4 doors,Gasoline,null,null,17000
+2013,Subaru,BRZ,140000 km,Coupe,null,Manual,RWD,White,null,null,2 doors,Gasoline,null,null,18000
+2015,Subaru,WRX,145000 km,Sedan,null,Manual,AWD,Blue,null,null,4 doors,Gasoline,null,null,19000
+2009,Subaru,Impreza,138033 km,Hatchback,null,Manual,AWD,Black,null,null,5 doors,Gasoline,null,null,19999
+2019,Subaru,Outback,180700 km,SUV,2.5L,Automatic,AWD,Blue,Black,5,4,Gas,null,null,19999
+2018,Subaru,Impreza,75753 km,Hatchback,null,Automatic,AWD,White,null,null,5 doors,Gasoline,null,null,21500
+2013,Subaru,Impreza,170000 km,Hatchback,4 Cylinder Engine,6 Speed Manual,AWD,Grey,Black,5,4,Gas,12.6L/100km,8.8L/100km,21900
+2016,Subaru,4,94000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,21999
+2021,Subaru,Ascent,57866 km,SUV,2.4L 4cyl,CVT,AWD,Crystal Black Silica,Brown,7,5,Gas,11.6L/100km,9.0L/100km,47490
+2016,Subaru,4,94000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,21999
+2016,Subaru,WRX,95000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,22999
+2014,Subaru,WRX,134000 km,Hatchback,2.5,Manual,AWD,Blue,Black,null,5,Gas,null,null,24999
+2018,Subaru,WRX,125000 km,Sedan,null,Manual,AWD,White,null,null,4 doors,Gasoline,null,null,28988
+2015,Subaru,WRX,181533 km,Sedan,null,Manual,AWD,Black,null,null,4 doors,Gasoline,null,null,28999
+2010,Subaru,Impreza,100000 km,Hatchback,null,Manual,AWD,Blue,null,null,5 doors,Gasoline,null,null,29000
+2018,Subaru,WRX,63300 km,Sedan,null,Manual,AWD,Black,null,null,4 doors,Gasoline,null,null,29499
+2018,Subaru,WRX,56000 km,Sedan,null,Manual,AWD,Grey,null,null,4 doors,Gasoline,null,null,29900
+2019,Subaru,Impreza,45400 km,Sedan,null,Automatic,AWD,Red,null,null,4 doors,Gasoline,null,null,30000
+2020,Subaru,Outback,47930 km,SUV,H-4 cyl,CVT,null,Crystal Black Silica,Grey,null,null,Regular Unleaded,10.1L/100km,7.9L/100km,37998
+2017,Subaru,BRZ,53000 km,Coupe,null,Automatic,RWD,White,null,null,2 doors,Gasoline,null,null,31000
+2017,Subaru,WRX,3714 km,Sedan,null,Manual,AWD,Silver,null,null,4 doors,Gasoline,null,null,31888
+2019,Subaru,Outback,62700 km,SUV,3.6L,Automatic,AWD,White,Brown,5,4,Gas,null,null,31999
+2016,Subaru,WRX,99410 km,Sedan,2.5,Manual,AWD,Dark Grey,Black,5,4,Gas,null,null,31999
+2018,Subaru,WRX,107756 km,Sedan,2.5,Manual,AWD,Blue,Black,5,4,Gas,null,null,35999
+2020,Subaru,Legacy,20000 km,Sedan,null,Automatic,AWD,Blue,null,null,4 doors,Gasoline,null,null,36899
+2021,Subaru,WRX,23000 km,Sedan,null,Manual,AWD,White,null,null,4 doors,Gasoline,null,null,37000
+2016,Subaru,WRX,69566 km,Sedan,2.5,Manual,AWD,Light Blue,Black,null,4,Gas,null,null,37999
+2016,Subaru,WRX,69500 km,Sedan,null,Manual,RWD,Blue,null,null,4 doors,Gasoline,null,null,39000
+2019,Subaru,Forester,75006 km,SUV,2.5L 4cyl,CVT,AWD,Crystal Black Silica,Black,5,4,Gas,9.0L/100km,7.2L/100km,29890
+2020,Subaru,Forester,63000 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,39500
+2019,Subaru,WRX,45500 km,Sedan,null,Manual,AWD,Blue,Black,null,4,Gas,null,null,39899
+2020,Subaru,Ascent,56921 km,null,null,Automatic,AWD,Blue,null,null,5 doors,Gasoline,null,null,41800
+2020,Subaru,Ascent,56921 km,SUV,4 Cylinder Engine,CVT,AWD,Abyss Blue Pearl,null,null,null,Gas,11.6L/100km,9.0L/100km,42988
+2019,Subaru,Impreza,28000 km,Sedan,null,Manual,AWD,White,null,null,4 doors,Gasoline,null,null,46888
+2022,Subaru,WRX,8400 km,Sedan,null,Manual,AWD,Grey,null,null,4 doors,Gasoline,null,null,47000
+2019,Subaru,WRX,23000 km,Sedan,null,Manual,AWD,Silver,null,null,null,Gasoline,null,null,47999
+2021,Subaru,WRX,26000 km,Sedan,null,Manual,AWD,Blue,null,null,4 doors,Gasoline,null,null,51999
+2016,Subaru,Crosstrek,null,SUV,2.0,CVT,AWD,Crystal Black Silica,Black,null,4,Gas,9.1L/100km,7.0L/100km,12999

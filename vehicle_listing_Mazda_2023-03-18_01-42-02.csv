@@ -1,0 +1,1107 @@
+Year,Make,Model,Kilometres,Body Type, Engine, Transmission, Drivetrain, Exterior Colour, Interior Colour, Passengers, Doors, Fuel Type, City, Highway,Price
+2018,Mazda,Mazda3,35455 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Blue,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,21999
+2021,Mazda,CX-30,25458 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.3L/100km,7.1L/100km,29998
+2021,Mazda,Mazda3,24591 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Red,5,4,Gas,10.1L/100km,7.5L/100km,36099
+2020,Mazda,CX-9,43227 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,11.6L/100km,9.1L/100km,40998
+2021,Mazda,CX-30,37792 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.9L/100km,7.7L/100km,33998
+2023,Mazda,CX-5,5802 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Jet Black Mica,Black,null,5,Gas,10.8L/100km,8.7L/100km,45473
+2023,Mazda,CX-9,6583 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Grey,null,null,5,Gas,11.6L/100km,9.1L/100km,55028
+2018,Mazda,Mazda3,142597 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.4L - 8.6L/100km,6.4L/100km,15888
+2020,Mazda,CX-5,64109 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28990
+2012,Mazda,Mazda3,348000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,3990
+2012,Mazda,Mazda3,315000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,3990
+2010,Mazda,Mazda3,250000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,3990
+2010,Mazda,Mazda3,246000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4490
+2021,Mazda,CX-5,53552 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,10.2L/100km,8.2L/100km,30998
+2011,Mazda,Mazda3,243000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4490
+2013,Mazda,Mazda3,235000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,5490
+2013,Mazda,Mazda3,207000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,6490
+2013,Mazda,Mazda3,184000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,6490
+2012,Mazda,Mazda3,168000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,6990
+2013,Mazda,CX-5,310000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,8.0L/100km,6.4L/100km,6990
+2012,Mazda,Mazda3,137000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7990
+2010,Mazda,Mazda3,118000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,8490
+2015,Mazda,Mazda3,206000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.8L - 8.1L/100km,5.9L/100km,8490
+2021,Mazda,MX-5,2783 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Black,5,4,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,46399
+2014,Mazda,Mazda3,150000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,9490
+2014,Mazda,CX-9,162471 km,SUV,V6 Cylinder Engine 3.7L,Automatic,AWD,Meteor Grey Mica,Black,null,4,Gas,12.8L/100km,9.0L/100km,13995
+2014,Mazda,CX-5,128279 km,SUV,4 Cylinder Engine,Automatic,FWD,Meteor Grey Mica,Black,null,null,Gas,8.3L/100km,6.2L/100km,14500
+2013,Mazda,CX-5,121204 km,SUV,4 Cylinder Engine,Automatic,AWD,GRAY,null,null,null,Gas,8.0L/100km,6.4L/100km,14990
+2019,Mazda,Mazda3,130948 km,Hatchback,2.5L 4cyl,null,FWD,Grey,Black,null,null,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,17000
+2018,Mazda,Mazda3,121226 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Machine Grey Metallic,Black,null,4,Gas,8.4L/100km,6.4L/100km,17714
+2016,Mazda,CX-3,126457 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Ceramic Metallic,Black,5,4,Gas,8.8L/100km,7.3L/100km,19099
+2018,Mazda,CX-3,75000 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.2L - 9.0L/100km,6.9L - 7.0L/100km,19450
+2016,Mazda,CX-3,72500 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Dynamic Blue Mica,Black,5,4,Gas,8.8L/100km,7.3L/100km,20399
+2017,Mazda,CX-5,124998 km,SUV,I-4 cyl,Automatic,FWD,Gray,Black,null,null,Gas,9.8L/100km,7.7L/100km,23888
+2015,Mazda,CX-9,69019 km,SUV,V6 Cylinder Engine,Automatic,AWD,Aluminum Metallic Mica,Black,7,4,Gas,14.3L/100km,10.6L/100km,20990
+2018,Mazda,Mazda3,35455 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Blue,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,21999
+2019,Mazda,CX-3,49000 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.3L/100km,6.9L/100km,22450
+2019,Mazda,Mazda3,68791 km,Sedan,I4,Automatic,FWD,Gray,Black,null,null,Gas,8.8L/100km,6.6L/100km,22595
+2019,Mazda,CX-3,43600 km,SUV,148HP 2.0L 4 Cylinder Engine,Automatic,FWD,Snowflake White Pearl,Black,null,4,Gas,8.3L - 8.8L/100km,6.9L - 7.0L/100km,22988
+2019,Mazda,Mazda3,64496 km,Hatchback,4 Cylinder Engine,Automatic,AWD,Sonic Silver Metallic,Grey,5,4,Gas,9.8L/100km,7.4L/100km,22990
+2020,Mazda,Mazda3,13385 km,Sedan,4 Cylinder Engine,Automatic,FWD,Tan,Black,null,null,Gas,8.8L/100km,6.4L/100km,22995
+2019,Mazda,CX-5,98063 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,Black,null,4,Gas,10.2L/100km,8.2L/100km,23888
+2019,Mazda,CX-3,43526 km,SUV,148HP 2.0L 4 Cylinder Engine,Automatic,FWD,Jet Black Mica,null,5,4,Gas,8.3L/100km,6.9L/100km,23988
+2016,Mazda,Mazda3,105540 km,Hatchback,2.0L 4cyl,6 Speed Manual,FWD,null,null,null,2,Gas,8.0L - 8.2L/100km,5.9L/100km,14995
+2019,Mazda,CX-3,51925 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,8.6L/100km,7.4L/100km,24399
+2019,Mazda,Mazda3,115000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Red,5,4,Gas,9.8L/100km,7.4L/100km,24450
+2019,Mazda,CX-3,34990 km,SUV,HXXK89,Automatic,AWD,Jet Black Mica,Black,null,null,Gas,8.6L/100km,7.4L/100km,24500
+2018,Mazda,Mazda6,70640 km,Sedan,4 Cylinder Engine,Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,10.0L/100km,7.5L/100km,24890
+2020,Mazda,CX-3,93000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,8.6L/100km,7.4L/100km,24950
+2017,Mazda,CX-5,84869 km,SUV,2.5L SKYACTIV-G DOHC 16-Valve 4-Cylinder,6 Speed Automatic,AWD,Sonic Silver Mica,null,null,null,Gas,10.2L/100km,8.3L/100km,24995
+2020,Mazda,CX-3,65550 km,Wagon,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,null,null,Gas,8.6L/100km,7.4L/100km,24995
+2019,Mazda,CX-3,35923 km,Wagon,4 Cylinder Engine 2.0L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,8.6L/100km,7.4L/100km,24999
+2019,Mazda,CX-3,95100 km,SUV,HXTK89,Automatic,AWD,Soul Red Crystal Metallic,null,null,null,Gas,8.6L - 8.8L/100km,7.0L - 7.4L/100km,25300
+2021,Mazda,CX-3,59325 km,SUV,2L,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,8.6L/100km,7.4L/100km,29899
+2019,Mazda,CX-5,46462 km,SUV,4 Cylinder Engine,Automatic,FWD,Sonic Silver Metallic,Black,5,4,Gas,9.7L/100km,7.8L/100km,25890
+2018,Mazda,CX-5,69000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,25950
+2018,Mazda,CX-5,78000 km,SUV,2.5L 4-Cyl Engine,Automatic,AWD,GRAY,Black,5,4,Gas,9.8L/100km,7.9L/100km,25950
+2020,Mazda,CX-3,99000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,8.6L/100km,7.4L/100km,26450
+2020,Mazda,CX-3,72800 km,SUV,148HP 2.0L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,8.6L/100km,7.4L/100km,26488
+2020,Mazda,CX-3,84000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,8.6L/100km,7.4L/100km,26850
+2020,Mazda,CX-3,79000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,8.6L/100km,7.4L/100km,26850
+2020,Mazda,CX-3,85000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,8.6L/100km,7.4L/100km,26850
+2021,Mazda,Mazda3,29556 km,Hatchback,4 Cylinder Engine,Manual,FWD,Grey,Black,5,4,Gas,8.6L - 9.5L/100km,6.7L - 7.0L/100km,26990
+2019,Mazda,CX-5,48214 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,28999
+2019,Mazda,CX-3,79288 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,8.6L/100km,7.4L/100km,26998
+2020,Mazda,CX-3,21304 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,8.6L/100km,7.4L/100km,27099
+2021,Mazda,Mazda3,20012 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.2L - 9.5L/100km,6.9L - 7.0L/100km,27390
+2021,Mazda,Mazda3,42257 km,Sedan,SVSL81,Automatic,FWD,Snowflake White Pearl,Black,null,null,Gas,null,null,27500
+2020,Mazda,CX-5,82047 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,10.2L/100km,8.2L/100km,27588
+2019,Mazda,Mazda6,89189 km,Sedan,I-4 cyl,6 Speed Automatic,null,Jet Black Mica,Black,null,null,Gas,10.0L/100km,7.5L/100km,27888
+2020,Mazda,CX-5,95000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,9.8L/100km,7.9L/100km,27950
+2019,Mazda,CX-5,114000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,10.8L/100km,8.7L/100km,27950
+2019,Mazda,CX-5,112000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,27950
+2020,Mazda,CX-30,53149 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,null,null,Gas,9.3L/100km,7.1L/100km,27998
+2021,Mazda,Mazda3,51639 km,Sedan,2.5,Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.8L/100km,6.4L/100km,27990
+2019,Mazda,CX-3,48464 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.6L/100km,7.4L/100km,28099
+2019,Mazda,CX-3,46660 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.6L/100km,7.4L/100km,28099
+2019,Mazda,CX-5,90000 km,SUV,NXSN89,Automatic,AWD,Jet Black Mica,null,null,null,Gas,9.8L/100km,7.9L/100km,28200
+2021,Mazda,Mazda3,27343 km,Sedan,DVSL81,Automatic,FWD,Machine Grey Metallic,Black,null,null,Gas,8.9L/100km,6.5L/100km,28300
+2018,Mazda,CX-5,64031 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28399
+2020,Mazda,Mazda3,78912 km,Hatchback,2.5L L4 DOHC 16V,Automatic,FWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,28485
+2020,Mazda,CX-3,8531 km,Wagon,2.0L 4cyl,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,8.6L/100km,7.4L/100km,28599
+2020,Mazda,CX-3,52650 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,8.6L/100km,7.4L/100km,28888
+2020,Mazda,CX-3,52650 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,8.6L/100km,7.4L/100km,28888
+2020,Mazda,Mazda3,38399 km,Sedan,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,9.2L/100km,7.0L/100km,28888
+2018,Mazda,CX-5,33545 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28888
+2020,Mazda,CX-5,88375 km,SUV,2.5L 4cyl,6 Speed Automatic,FWD,Grey,Black,null,2,Gas,9.3L/100km,7.6L/100km,28900
+2021,Mazda,CX-3,51400 km,Wagon,SKYACTIV®-G 2.0L 4-Cylinder DOHC 16V,Automatic,AWD,Deep Crystal Blue Mica,Black,null,4,Gas,8.6L/100km,7.4L/100km,28980
+2019,Mazda,Mazda3,41500 km,Sedan,186HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.2L/100km,7.0L/100km,28988
+2021,Mazda,CX-5,71250 km,SUV,NVSN81,Automatic,FWD,Jet Black Mica,null,null,null,Gas,9.3L/100km,7.6L/100km,29500
+2020,Mazda,Mazda6,77500 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,6.7L/100km,29588
+2018,Mazda,CX-5,41189 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.8L/100km,7.9L/100km,29688
+2020,Mazda,Mazda6,44000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,10.2L/100km,7.6L/100km,29850
+2022,Mazda,CX-5,10587 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,10.8L/100km,8.7L/100km,43988
+2020,Mazda,CX-5,99000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,9.8L/100km,7.9L/100km,29950
+2020,Mazda,Mazda3,43563 km,Hatchback,186HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,29988
+2020,Mazda,CX-5,94957 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,null,5,4,Gas,9.8L/100km,7.9L/100km,29995
+2021,Mazda,CX-30,25458 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.3L/100km,7.1L/100km,29998
+2020,Mazda,Mazda3,41519 km,Sedan,Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.4L/100km,29998
+2021,Mazda,CX-30,33400 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,9.9L/100km,7.7L/100km,30290
+2021,Mazda,Mazda6,68800 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Machine Grey Metallic,null,5,4,Gas,9.1L/100km,6.7L/100km,30388
+2020,Mazda,CX-3,27172 km,SUV,HXTK80,Automatic,AWD,Eternal Blue Mica,null,null,null,Gas,8.6L/100km,7.4L/100km,30500
+2021,Mazda,Mazda6,66153 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Deep Crystal Blue Mica,null,5,4,Gas,9.1L/100km,6.7L/100km,30588
+2019,Mazda,Mazda3,63807 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Gray,Black,null,null,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24388
+2021,Mazda,CX-5,65519 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.8L/100km,7.9L/100km,30845
+2020,Mazda,CX-5,64866 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,31099
+2019,Mazda,CX-5,75557 km,SUV,4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,Brown,5,4,Gas,10.8L/100km,8.7L/100km,31290
+2019,Mazda,CX-5,58888 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,31385
+2021,Mazda,CX-3,33290 km,SUV,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,8.6L/100km,7.4L/100km,31688
+2019,Mazda,CX-5,59995 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,10.8L/100km,8.7L/100km,31900
+2019,Mazda,CX-9,52995 km,SUV,I4 Turbo,Automatic,AWD,Sonic Silver Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,31989
+2021,Mazda,CX-5,98979 km,SUV,NXSN81,Automatic,AWD,Jet Black Mica,null,null,null,Gas,9.8L/100km,7.9L/100km,31990
+2019,Mazda,CX-9,87000 km,SUV,QXLM89,Automatic,AWD,Deep Crystal Blue Mica,null,null,null,Gas,11.6L/100km,9.1L/100km,31990
+2019,Mazda,CX-9,52995 km,SUV,I4 Turbo,Automatic,AWD,Sonic Silver Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,31989
+2020,Mazda,CX-9,103015 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,7,4,Gas,11.6L/100km,9.1L/100km,31995
+2019,Mazda,CX-5,65500 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,32488
+2020,Mazda,CX-5,60971 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,32488
+2021,Mazda,Mazda3,59410 km,Sedan,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,null,null,32498
+2021,Mazda,CX-5,65853 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,32588
+2021,Mazda,CX-5,70038 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,32588
+2023,Mazda,CX-9,6583 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Grey,null,null,5,Gas,11.6L/100km,9.1L/100km,55028
+2020,Mazda,Mazda6,77500 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,6.7L/100km,29588
+2018,Mazda,CX-5,112805 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,9.8L/100km,7.9L/100km,28995
+2018,Mazda,Mazda3,32743 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,25597
+2023,Mazda,CX-5,3251 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,33828
+2020,Mazda,CX-5,44980 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,9.8L/100km,7.9L/100km,38998
+2016,Mazda,CX-3,162000 km,null,null,Automatic,AWD,White,null,null,null,null,null,null,15500
+2020,Mazda,CX-5,64109 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28990
+2018,Mazda,Mazda3,26543 km,Hatchback,4 Cylinder Engine,Automatic,FWD,SOUL RED,Black,null,4,Gas,null,null,24990
+2021,Mazda,CX-5,70038 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,32588
+2021,Mazda,CX-5,68106 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,32588
+2019,Mazda,CX-5,46020 km,SUV,4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,Brown,5,4,Gas,10.8L/100km,8.7L/100km,32890
+2021,Mazda,CX-5,63815 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,33288
+2019,Mazda,Mazda3,53294 km,Hatchback,2.5L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,26987
+2021,Mazda,CX-5,42017 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,33399
+2018,Mazda,CX-9,85000 km,SUV,QXKM88,Automatic,AWD,Snowflake White Pearl,null,null,null,Gas,11.5L/100km,8.9L/100km,33500
+2021,Mazda,Mazda3,49950 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,9.5L/100km,7.4L/100km,33900
+2021,Mazda,CX-5,68707 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Grey,Black,null,4,Gas,9.8L/100km,7.9L/100km,33995
+2021,Mazda,CX-30,16973 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.9L/100km,7.7L/100km,34247
+2019,Mazda,CX-9,74692 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,34300
+2021,Mazda,CX-30,51318 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.9L/100km,7.7L/100km,34399
+2021,Mazda,CX-5,59398 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,34399
+2023,Mazda,CX-5,5597 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,34790
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2021,Mazda,Mazda3,20865 km,Sedan,Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,9.5L/100km,7.4L/100km,34887
+2019,Mazda,CX-5,37236 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Black,5,4,Gas,10.8L/100km,8.7L/100km,34888
+2022,Mazda,CX-3,8736 km,SUV,148HP 2.0L 4 Cylinder Engine,Automatic,null,Soul Red Crystal Metallic,null,5,4,Gas,8.6L/100km,7.4L/100km,34988
+2021,Mazda,CX-5,52891 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Polymetal Grey Metallic,Black,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,34998
+2019,Mazda,CX-9,76000 km,SUV,4 Cylinder Engine,Automatic,AWD,Snowflake White Pearl,Black,7,4,Gas,11.6L/100km,9.1L/100km,35450
+2021,Mazda,CX-30,14608 km,SUV,4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.9L/100km,7.7L/100km,35495
+2021,Mazda,Mazda3,24591 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Red,5,4,Gas,10.1L/100km,7.5L/100km,36099
+2021,Mazda,CX-5,30463 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Eternal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,36346
+2021,Mazda,CX-9,76000 km,SUV,I4 Turbo,Automatic,AWD,Polymetal Grey Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,36389
+2017,Mazda,Mazda3,109517 km,Sedan,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,19998
+2021,Mazda,CX-5,69639 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,36488
+2021,Mazda,CX-30,21000 km,SUV,186HP 2.5L 4 Cylinder Engine,Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.9L/100km,7.7L/100km,36588
+2021,Mazda,CX-5,39418 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,36590
+2022,Mazda,CX-5,13015 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,null,2,Gas,9.9L/100km,7.9L/100km,36900
+2020,Mazda,CX-9,89000 km,SUV,4 Cylinder Engine,Automatic,AWD,Snowflake White Pearl,Black,6,4,Gas,11.6L/100km,9.1L/100km,36950
+2021,Mazda,CX-5,43858 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,37399
+2019,Mazda,MX-5,49653 km,Convertible,2.0L L4 DOHC 16V,Automatic,RWD,Machine Grey Metallic,Brown,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,37685
+2022,Mazda,CX-30,7606 km,SUV,2.5L L4 DOHC 16V,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.9L/100km,7.7L/100km,37885
+2020,Mazda,CX-5,47408 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,null,null,37988
+2021,Mazda,MX-5,3068 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44099
+2021,Mazda,CX-9,77343 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,6,4,Gas,11.6L/100km,9.1L/100km,38288
+2021,Mazda,CX-5,22363 km,SUV,2.5L L4 DOHC 16V,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,10.8L/100km,8.7L/100km,38985
+2021,Mazda,CX-5,28866 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,38988
+2021,Mazda,CX-5,36675 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,38988
+2021,Mazda,CX-9,44200 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,6,4,Gas,11.6L/100km,9.1L/100km,38988
+2021,Mazda,CX-5,18089 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Gray,Brown,5,4,Gas,10.8L/100km,8.7L/100km,39687
+2021,Mazda,CX-5,24543 km,SUV,2.5L L4 DOHC 16V,Automatic,AWD,Gray,Black,null,4,Gas,10.8L/100km,8.7L/100km,39985
+2021,Mazda,CX-5,27883 km,SUV,4 Cylinder Engine,Automatic,AWD,Gray,Black,null,4,Gas,10.8L/100km,8.7L/100km,39985
+2021,Mazda,CX-5,32700 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,39988
+2020,Mazda,CX-9,62631 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Titanium Flash Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,39998
+2021,Mazda,MX-5,16000 km,Convertible,181HP 2.0L 4 Cylinder Engine,Manual,RWD,Jet Black Mica,null,2,2,Gas,9.0L/100km,6.6L - 7.0L/100km,39988
+2021,Mazda,CX-9,22180 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Soul Red Crystal Metallic,White,null,4,Gas,11.6L/100km,9.1L/100km,39989
+2020,Mazda,CX-9,62631 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Titanium Flash Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,39998
+2022,Mazda,CX-5,4300 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.9L/100km,7.9L/100km,40873
+2020,Mazda,CX-9,49946 km,SUV,2.5L L4 DOHC 16V,Automatic,AWD,Deep Crystal Blue Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,40985
+2022,Mazda,MX-5,2124 km,Convertible,2.0L L4 DOHC 16V,Manual,RWD,Gray,Black,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,40985
+2020,Mazda,CX-9,43227 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,11.6L/100km,9.1L/100km,40998
+2023,Mazda,CX-5,4698 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,41498
+2022,Mazda,CX-5,9029 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,9.9L/100km,7.9L/100km,41888
+2021,Mazda,CX-9,34250 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,11.6L/100km,9.1L/100km,45998
+2022,Mazda,MX-5,5369 km,Convertible,181HP 2.0L 4 Cylinder Engine,Manual,RWD,Soul Red Crystal Metallic,null,2,2,Gas,9.0L/100km,6.6L - 7.0L/100km,42988
+2022,Mazda,MX-5,10357 km,Convertible,I-4 cyl,Manual,RWD,Polymetal Grey Metallic,Grey,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,43998
+2021,Mazda,MX-5,3068 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44099
+2021,Mazda,MX-5,15042 km,Convertible,L2EK81,Automatic,null,Snowflake White Pearl,null,null,null,Gas,9.0L/100km,6.6L - 7.0L/100km,44500
+2022,Mazda,CX-5,12112 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,44988
+2022,Mazda,CX-9,13700 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,7,4,Gas,11.6L/100km,9.0L/100km,44988
+2021,Mazda,CX-9,24365 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,45498
+2021,Mazda,MX-5,22705 km,Convertible,2,Manual,RWD,Snowflake White Pearl,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,45888
+2021,Mazda,CX-9,34250 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,11.6L/100km,9.1L/100km,45998
+2022,Mazda,CX-5,10587 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,10.8L/100km,8.7L/100km,43988
+2021,Mazda,CX-9,23403 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Red,null,4,Gas,11.6L/100km,9.1L/100km,46399
+2021,Mazda,CX-9,45000 km,SUV,2.5,6 Speed Automatic,AWD,Jet Black Mica,Brown,6,4,Gas,11.6L/100km,9.1L/100km,46888
+2021,Mazda,MX-5,5096 km,Coupe,2.0L 4cyl,6 Speed Automatic,RWD,Jet Black Mica,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,47099
+2010,Mazda,Mazda3,216000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2012,Mazda,Mazda3,248000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.2L/100km,6.7L - 6.9L/100km,5490
+2012,Mazda,Mazda5,238000 km,Minivan,4 Cylinder Engine,Manual,FWD,null,null,6,4,Gas,9.5L - 9.7L/100km,6.7L - 6.8L/100km,5990
+2011,Mazda,Mazda3,212000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,9.2L - 10.2L/100km,6.7L - 6.9L/100km,6490
+2012,Mazda,Mazda3,197000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,6490
+2007,Mazda,Mazda3,83000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.4L - 9.1L/100km,6.1L - 6.4L/100km,6990
+2020,Mazda,CX-5,65596 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,null,null,36888
+2011,Mazda,Mazda2,124000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,6.8L - 7.5L/100km,5.6L - 6.0L/100km,6990
+2012,Mazda,Mazda3,124000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7490
+2015,Mazda,Mazda3,233000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,7990
+2014,Mazda,Mazda3,171000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,8990
+2015,Mazda,Mazda3,115326 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Black,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,10971
+2014,Mazda,CX-5,239000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,8.5L/100km,6.6L/100km,10990
+2014,Mazda,CX-5,259000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,8.5L/100km,6.6L/100km,10990
+2012,Mazda,CX-9,181452 km,SUV,V6 Cylinder Engine 3.7L,Automatic,AWD,Crystal White Pearl,Black,null,4,Gas,12.8L/100km,9.0L/100km,11800
+2015,Mazda,Mazda3,20738 km,Sedan,155HP 2.0L 4 Cylinder Engine,Automatic,FWD,Snowflake White Pearl,null,null,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,17988
+2020,Mazda,CX-5,59182 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,35998
+2016,Mazda,CX-5,114003 km,SUV,2.0,Automatic,AWD,Grey,Black,null,4,Gas,9.3L/100km,7.6L/100km,18785
+2017,Mazda,Mazda3,79818 km,Sedan,4 Cylinder Engine,Manual,FWD,Snowflake White Pearl,Black,5,4,Gas,null,null,19590
+2018,Mazda,Mazda3,79000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.4L - 8.6L/100km,6.4L/100km,19850
+2018,Mazda,Mazda3,125000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,null,null,19950
+2018,Mazda,Mazda3,71393 km,Hatchback,0,Automatic,FWD,Blue,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,19998
+2018,Mazda,Mazda3,74000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,20850
+2015,Mazda,CX-5,102000 km,SUV,2.5,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.9L/100km,7.9L/100km,20980
+2018,Mazda,Mazda3,73781 km,Hatchback,4 Cylinder Engine,Manual,FWD,Jet Black Mica,Black,5,4,Gas,null,null,21790
+2016,Mazda,CX-5,97954 km,SUV,Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Crystal White Pearl,Black,null,4,Gas,9.9L/100km,7.9L/100km,21790
+2021,Mazda,CX-3,59325 km,SUV,2L,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,8.6L/100km,7.4L/100km,29899
+2018,Mazda,Mazda3,92000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,null,null,21950
+2018,Mazda,CX-3,85000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.5L/100km,22450
+2018,Mazda,CX-3,74442 km,SUV,2.0L 4cyl,6 Speed Automatic,FWD,null,null,null,2,Gas,8.2L/100km,6.9L/100km,22590
+2018,Mazda,Mazda6,96000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,9.1L/100km,6.7L/100km,23850
+2017,Mazda,CX-5,124998 km,SUV,I-4 cyl,Automatic,FWD,Gray,Black,null,null,Gas,9.8L/100km,7.7L/100km,23888
+2018,Mazda,CX-3,72823 km,SUV,HXSK88,Automatic,AWD,Grey,null,null,null,Gas,8.8L/100km,7.5L/100km,23900
+2019,Mazda,Mazda3,65647 km,Hatchback,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,24388
+2018,Mazda,Mazda6,75327 km,Sedan,4 Cylinder Engine,Automatic,FWD,Machine Grey Metallic,Black,5,4,Gas,9.1L/100km,6.7L/100km,24590
+2018,Mazda,Mazda3,38796 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,5,4,Gas,null,null,24890
+2019,Mazda,Mazda3,63807 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Gray,Black,null,null,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24388
+2019,Mazda,CX-5,90000 km,SUV,2.5,Automatic,FWD,Grey,Black,5,4,Gas,9.3L/100km,7.6L/100km,24999
+2019,Mazda,CX-3,26725 km,Wagon,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.3L/100km,6.9L/100km,25099
+2018,Mazda,CX-3,40887 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.5L/100km,25099
+2020,Mazda,CX-3,7177 km,SUV,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.3L/100km,6.9L/100km,25399
+2016,Mazda,CX-9,64891 km,SUV,2.5L 4cyl,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,6,4,Gas,10.5L/100km,8.3L/100km,25399
+2017,Mazda,CX-5,111955 km,SUV,I-4 cyl,Automatic,AWD,Jet Black Mica,Black,null,null,Regular Unleaded,10.2L/100km,8.3L/100km,25499
+2012,Mazda,CX-9,181452 km,SUV,V6 Cylinder Engine 3.7L,Automatic,AWD,Crystal White Pearl,Black,null,4,Gas,12.8L/100km,9.0L/100km,11800
+2019,Mazda,CX-3,35923 km,Wagon,4 Cylinder Engine 2.0L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,8.6L/100km,7.4L/100km,24999
+2021,Mazda,CX-5,68106 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,32588
+2019,Mazda,CX-9,74692 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,34300
+2022,Mazda,CX-5,4300 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.9L/100km,7.9L/100km,40873
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2021,Mazda,CX-5,37849 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.8L/100km,7.9L/100km,40998
+2013,Mazda,Mazda3,163000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,9995
+2019,Mazda,Mazda3,59671 km,Sedan,SVSN89,Automatic,FWD,Snowflake White Pearl,Black,null,null,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,25500
+2020,Mazda,Mazda3,54000 km,Sedan,4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.8L/100km,7.4L/100km,25950
+2019,Mazda,Mazda3,48774 km,Sedan,SXSN89,Automatic,AWD,Sonic Silver Metallic,Black,null,null,Gas,9.8L/100km,7.4L/100km,25990
+2020,Mazda,Mazda3,126006 km,Sedan,SXTN80,Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.4L/100km,26500
+2017,Mazda,CX-5,124998 km,SUV,I-4 cyl,Automatic,FWD,Gray,Black,null,null,Gas,9.8L/100km,7.7L/100km,23888
+2019,Mazda,Mazda3,53778 km,Sedan,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.2L/100km,7.0L/100km,26599
+2019,Mazda,Mazda3,59000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,8.8L/100km,6.6L/100km,26850
+2020,Mazda,Mazda3,45512 km,Sedan,DXSN80,Automatic,AWD,Jet Black Mica,Black,null,null,Gas,9.2L/100km,7.0L/100km,26900
+2019,Mazda,Mazda3,33513 km,Sedan,I-4 cyl,Automatic,AWD,Jet Black Mica,Black,null,null,Regular Unleaded,9.2L/100km,7.0L/100km,26998
+2018,Mazda,CX-5,97200 km,SUV,2.5,Automatic,AWD,Grey,Cream,5,4,Gas,9.8L/100km,7.9L/100km,26999
+2018,Mazda,CX-5,106134 km,SUV,I-4 cyl,Automatic,AWD,Soul Red Crystal Metallic,null,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,26999
+2018,Mazda,CX-3,65473 km,SUV,2.0L L4 DOHC 16V,Automatic,AWD,Gray,Black,null,4,Gas,8.8L/100km,7.5L/100km,27385
+2020,Mazda,Mazda3,19169 km,Sedan,4 Cylinder Engine 2.5L,Automatic,FWD,Sonic Silver Metallic,Black,null,4,Gas,8.8L/100km,6.4L/100km,27499
+2017,Mazda,Mazda6,43800 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,null,null,27500
+2020,Mazda,CX-30,53149 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,null,null,Gas,9.3L/100km,7.1L/100km,27998
+2020,Mazda,CX-30,53149 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,Black,null,null,Gas,9.3L/100km,7.1L/100km,27998
+2019,Mazda,Mazda3,35968 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Sonic Silver Metallic,Black,5,4,Gas,8.8L/100km,6.6L/100km,28099
+2020,Mazda,Mazda3,104415 km,Hatchback,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,null,null,5,Gas,9.8L/100km,7.4L/100km,28590
+2016,Mazda,CX-9,68173 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Black,Black,null,4,Gas,11.2L/100km,8.8L/100km,28904
+2019,Mazda,CX-5,73400 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Eternal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,28988
+2021,Mazda,CX-3,22679 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,8.6L/100km,7.4L/100km,28995
+2018,Mazda,CX-5,112805 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,9.8L/100km,7.9L/100km,28995
+2019,Mazda,CX-3,79707 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Blue,null,null,4,Gas,8.6L/100km,7.4L/100km,28995
+2020,Mazda,CX-5,87265 km,SUV,Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Snowflake White Pearl,Black,5,4,Gas,9.8L/100km,7.9L/100km,28998
+2021,Mazda,MX-5,2783 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Black,5,4,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,46399
+2019,Mazda,CX-5,48214 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,28999
+2020,Mazda,Mazda3,80458 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.4L/100km,29099
+2019,Mazda,CX-5,68135 km,SUV,4 Cylinder Engine,Automatic,FWD,Snowflake White Pearl,null,null,null,Gas,9.3L/100km,7.6L/100km,29590
+2019,Mazda,CX-5,48932 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Sonic Silver Metallic,Black,null,null,Gas,10.2L/100km,8.2L/100km,29888
+2018,Mazda,CX-9,149056 km,SUV,2.5L L4 DOHC 16V,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.5L/100km,8.9L/100km,29985
+2020,Mazda,CX-30,60124 km,SUV,ZVSL80,Automatic,FWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.3L/100km,7.1L/100km,29990
+2020,Mazda,Mazda3,43199 km,Hatchback,I-4 cyl,6 Speed Automatic,FWD,Grey,Red,null,null,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,29999
+2018,Mazda,CX-5,62314 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,30099
+2019,Mazda,CX-5,97250 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Brown,5,4,Gas,10.8L/100km,8.7L/100km,30399
+2021,Mazda,CX-5,53552 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,10.2L/100km,8.2L/100km,30998
+2020,Mazda,CX-5,68149 km,SUV,NXSN80,Automatic,AWD,Soul Red Crystal Metallic,null,null,null,Gas,9.8L/100km,7.9L/100km,31800
+2020,Mazda,CX-5,88000 km,SUV,2.5L 4-Cyl Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,31950
+2021,Mazda,CX-5,26536 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.3L/100km,7.6L/100km,31988
+2020,Mazda,CX-30,41398 km,SUV,186HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.5L/100km,7.4L/100km,31988
+2019,Mazda,Mazda3,14411 km,Sedan,I-4 cyl,6 Speed Automatic,AWD,Grey,Red,null,null,Gas,9.8L/100km,7.4L/100km,31999
+2021,Mazda,CX-30,22364 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.9L/100km,7.7L/100km,33399
+2021,Mazda,CX-30,9701 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.9L/100km,7.7L/100km,33399
+2020,Mazda,Mazda3,23359 km,Hatchback,SXTN80,Automatic,AWD,Polymetal Grey Metallic,Black,null,null,Gas,9.8L/100km,7.4L/100km,33500
+2019,Mazda,CX-5,31953 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Blue,Black,null,4,Gas,10.8L/100km,8.7L/100km,33888
+2019,Mazda,Mazda3,63807 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Gray,Black,null,null,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24388
+2021,Mazda,CX-30,37792 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.9L/100km,7.7L/100km,33998
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2019,Mazda,MX-5,69309 km,Convertible,I-4 cyl,Automatic,RWD,Machine Grey Metallic,null,null,null,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,34999
+2019,Mazda,MX-5,18198 km,Coupe,4 Cylinder Engine,Automatic,null,Soul Red Crystal Metallic,null,null,null,Gas,9.0L/100km,6.6L - 7.0L/100km,35799
+2022,Mazda,CX-30,1480 km,SUV,ZXSL82,Automatic,null,Snowflake White Pearl,Black,null,null,Gas,9.9L/100km,7.7L/100km,35900
+2021,Mazda,CX-30,41090 km,SUV,186HP 2.5L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.9L/100km,7.7L/100km,35988
+2021,Mazda,CX-30,41062 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.9L/100km,7.7L/100km,36399
+2020,Mazda,CX-5,65596 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,null,null,36888
+2021,Mazda,CX-5,27337 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Sonic Silver Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,37588
+2019,Mazda,CX-9,52995 km,SUV,I4 Turbo,Automatic,AWD,Sonic Silver Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,31989
+2020,Mazda,CX-5,77435 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,null,null,null,Gas,10.8L/100km,8.7L/100km,37899
+2021,Mazda,CX-5,25000 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,37988
+2021,Mazda,CX-5,48091 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Brown,5,4,Gas,10.8L/100km,8.7L/100km,39099
+2021,Mazda,CX-5,21500 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,10.8L/100km,8.7L/100km,39588
+2021,Mazda,CX-9,63813 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,46399
+2021,Mazda,MX-5,2783 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Black,5,4,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,46399
+2023,Mazda,CX-5,4000 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,48980
+2023,Mazda,CX-5,1397 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Polymetal Grey Metallic,null,null,5,Gas,10.8L/100km,8.7L/100km,49675
+2010,Mazda,Mazda3,220913 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Crystal White Pearl,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4999
+2021,Mazda,CX-3,59325 km,SUV,2L,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,8.6L/100km,7.4L/100km,29899
+2010,Mazda,Mazda3,228000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,5490
+2012,Mazda,Mazda3,230000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,5490
+2010,Mazda,Mazda3,235000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,5990
+2010,Mazda,Mazda3,156000 km,Hatchback,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6490
+2010,Mazda,Mazda3,178000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,6490
+2010,Mazda,Mazda3,167000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6490
+2011,Mazda,Mazda3,157000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6990
+2014,Mazda,Mazda3,266000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,6990
+2010,Mazda,Mazda3,159000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7490
+2016,Mazda,Mazda3,105540 km,Hatchback,2.0L 4cyl,6 Speed Manual,FWD,null,null,null,2,Gas,8.0L - 8.2L/100km,5.9L/100km,14995
+2010,Mazda,Mazda3,205000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,7490
+2010,Mazda,Mazda3,98000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7490
+2010,Mazda,Mazda3,189000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,7990
+2015,Mazda,Mazda3,239000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,8490
+2012,Mazda,Mazda3,120000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8990
+2014,Mazda,Mazda3,229000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,null,null,8990
+2010,Mazda,Mazda3,156131 km,Sedan,D4TY80,Automatic,FWD,Aluminum Metallic Mica,null,null,null,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,9300
+2011,Mazda,Mazda3,142000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,9.2L - 10.2L/100km,6.7L - 6.9L/100km,9490
+2014,Mazda,Mazda3,232000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,null,null,9990
+2019,Mazda,CX-5,48214 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,28999
+2011,Mazda,Mazda3,97000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,10490
+2015,Mazda,Mazda3,192746 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Snowflake White Pearl,Black,null,5,Gas,8.0L - 8.2L/100km,5.9L/100km,10899
+2015,Mazda,Mazda3,213093 km,Hatchback,2.0L L4 DOHC 16V,Manual,FWD,Deep Crystal Blue Mica,Black,null,5,Gas,7.8L - 8.1L/100km,5.9L/100km,10985
+2014,Mazda,CX-5,241000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,8.5L/100km,6.6L/100km,10990
+2013,Mazda,Mazda3,134837 km,Sedan,4 Cylinder Engine,Automatic,FWD,Aluminum Metallic Mica,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,11488
+2012,Mazda,Mazda5,109139 km,Minivan,4 Cylinder Engine,Automatic,FWD,Grey,Black,6,4,Gas,null,null,11488
+2016,Mazda,CX-5,220000 km,SUV,4 Cylinder Engine,Automatic,FWD,Crystal White Pearl,Black,null,null,Regular Unleaded,9.0L/100km,6.8L/100km,11995
+2012,Mazda,Mazda5,95908 km,Minivan,2.5L L4 DOHC 16V,Automatic,FWD,Gray,Black,null,4,Gas,9.5L - 9.7L/100km,6.7L - 6.8L/100km,12985
+2014,Mazda,Mazda5,115363 km,Minivan,4 Cylinder Engine 2.5L,Automatic,FWD,Meteor Grey Mica,Black,null,4,Gas,9.5L - 9.7L/100km,6.7L - 6.8L/100km,13498
+2021,Mazda,CX-5,37849 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.8L/100km,7.9L/100km,40998
+2014,Mazda,Mazda3,165650 km,Sedan,2.5,Automatic,FWD,Soul Red Mica,Black,null,4,Gas,null,null,14380
+2014,Mazda,Mazda5,83631 km,Minivan,2.5L 4cyl,5 Speed Automatic,FWD,Aluminum Metallic Mica,Black,6,4,Gas,9.5L - 9.7L/100km,6.7L - 6.8L/100km,15099
+2015,Mazda,Mazda3,102863 km,Sedan,2.0L L4 DOHC 16V,Automatic,FWD,Soul Red Mica,Black,null,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,16485
+2015,Mazda,CX-5,164280 km,SUV,2.5L L4 DOHC 16V,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,9.4L/100km,7.4L/100km,16985
+2016,Mazda,Mazda3,70283 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,17399
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2014,Mazda,CX-5,152335 km,SUV,I-4 cyl,Automatic,AWD,Crystal White Pearl,Black,null,null,Gas,8.5L/100km,6.6L/100km,17888
+2016,Mazda,CX-5,117059 km,SUV,2.0,Automatic,FWD,Crystal White Pearl,Black,null,4,Gas,9.0L/100km,6.8L - 7.3L/100km,18480
+2015,Mazda,Mazda6,88052 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Meteor Grey Mica,Black,null,4,Gas,8.8L - 9.4L/100km,6.1L - 6.4L/100km,18995
+2020,Mazda,CX-5,65596 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,null,null,36888
+2016,Mazda,CX-3,110023 km,SUV,2.0L L4 DOHC 16V,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,8.2L - 8.8L/100km,6.7L - 7.3L/100km,19485
+2017,Mazda,Mazda3,55000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Soul Red Metallic,Black,5,4,Gas,8.4L/100km,6.4L/100km,19950
+2017,Mazda,Mazda3,37269 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.4L/100km,6.4L/100km,19990
+2017,Mazda,Mazda3,109517 km,Sedan,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,19998
+2015,Mazda,Mazda3,89094 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.0L - 8.2L/100km,5.9L/100km,19999
+2015,Mazda,Mazda3,28722 km,Sedan,I-4 cyl,Automatic,FWD,Deep Crystal Blue Mica,Black,null,null,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,20388
+2012,Mazda,CX-9,181452 km,SUV,V6 Cylinder Engine 3.7L,Automatic,AWD,Crystal White Pearl,Black,null,4,Gas,12.8L/100km,9.0L/100km,11800
+2016,Mazda,CX-3,72500 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Dynamic Blue Mica,Black,5,4,Gas,8.8L/100km,7.3L/100km,20399
+2020,Mazda,Mazda6,77500 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,6.7L/100km,29588
+2021,Mazda,CX-30,25458 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.3L/100km,7.1L/100km,29998
+2020,Mazda,CX-5,64866 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,31099
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2022,Mazda,MX-30,8025 km,SUV,Electric,Automatic,FWD,Arctic White,Grey,5,4,Electric,null,null,32788
+2020,Mazda,CX-5,64109 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28990
+2019,Mazda,CX-3,107060 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Grey,5,4,Gas,8.6L/100km,7.4L/100km,22990
+2018,Mazda,Mazda3,77000 km,Sedan,2.0,Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.4L/100km,6.4L/100km,20880
+2017,Mazda,CX-3,83469 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,5,4,Gas,8.8L/100km,7.5L/100km,20995
+2018,Mazda,Mazda3,78265 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Blue,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,21888
+2018,Mazda,Mazda3,78523 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Black,null,2,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,21900
+2019,Mazda,Mazda3,67174 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Gray,Black,null,4,Gas,8.8L/100km,6.6L/100km,24949
+2018,Mazda,Mazda3,84371 km,Hatchback,2.0L L4 DOHC 16V,Manual,FWD,Red - Metallic,Black,null,4,Gas,8.4L/100km,6.4L/100km,22485
+2017,Mazda,Mazda3,40146 km,Sedan,I-4 cyl,Automatic,FWD,Blue,Black,null,null,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,22888
+2019,Mazda,Mazda3,66248 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,23490
+2018,Mazda,CX-5,99233 km,SUV,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.7L/100km,7.8L/100km,23990
+2016,Mazda,CX-5,118884 km,SUV,NXTL86,Automatic,AWD,Soul Red Mica,null,null,null,Gas,9.9L/100km,7.9L/100km,23990
+2018,Mazda,CX-3,67016 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Grey,Black,null,null,Gas,8.8L/100km,7.5L/100km,23995
+2019,Mazda,Mazda3,63807 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Gray,Black,null,null,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24388
+2019,Mazda,Mazda3,94139 km,Hatchback,2.5L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,24399
+2019,Mazda,Mazda3,62501 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24399
+2017,Mazda,CX-9,109809 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Beige,7,4,Regular Unleaded,11.5L/100km,8.9L/100km,26395
+2015,Mazda,CX-5,39327 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Mica,Black,5,4,Gas,9.8L/100km,7.8L/100km,24599
+2018,Mazda,Mazda3,24315 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Red,Black,5,4,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,24888
+2018,Mazda,Mazda3,32743 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,25597
+2018,Mazda,CX-3,77504 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,8.8L/100km,7.5L/100km,25888
+2018,Mazda,Mazda3,40761 km,Sedan,D4TL88,Automatic,FWD,Snowflake White Pearl,null,null,null,Gas,null,null,25900
+2018,Mazda,CX-3,85494 km,SUV,4 Cylinder Engine 2.0L,Automatic,FWD,Eternal Blue Mica,Black,null,4,Gas,8.2L/100km,6.9L/100km,25995
+2018,Mazda,Mazda3,27498 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.4L - 8.6L/100km,6.4L/100km,26999
+2020,Mazda,Mazda3,81761 km,Sedan,4 Cylinder Engine 2.0L,Manual,FWD,Grey,Black,null,4,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,27888
+2018,Mazda,CX-5,88850 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Grey,Black,null,4,Gas,10.2L/100km,8.2L/100km,27995
+2020,Mazda,CX-9,43227 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,11.6L/100km,9.1L/100km,40998
+2019,Mazda,Mazda3,41563 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.8L/100km,6.6L/100km,28599
+2019,Mazda,CX-3,33516 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,8.6L/100km,7.4L/100km,28995
+2019,Mazda,Mazda3,25272 km,Hatchback,SVTN89,Automatic,FWD,Deep Crystal Blue Mica,Black,null,null,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,29990
+2019,Mazda,Mazda3,88000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,null,null,5,4,Gas,8.8L/100km,6.6L/100km,30850
+2019,Mazda,Mazda3,18973 km,Sedan,DXTN89,Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,9.2L/100km,7.0L/100km,30990
+2020,Mazda,Mazda3,38263 km,Sedan,SVTN60,Manual,FWD,Polymetal Grey Metallic,null,null,null,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,30990
+2021,Mazda,CX-5,53552 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,10.2L/100km,8.2L/100km,30998
+2023,Mazda,CX-5,2869 km,SUV,2.5L 4cyl.,Automatic,AWD,Rhodium White Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,33728
+2023,Mazda,CX-5,3251 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,33828
+2021,Mazda,CX-30,25458 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.3L/100km,7.1L/100km,29998
+2020,Mazda,Mazda3,25000 km,Sedan,SXTN80,Automatic,AWD,Polymetal Grey Metallic,null,null,null,Gas,9.8L/100km,7.4L/100km,33990
+2019,Mazda,CX-9,99202 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,4,Gas,11.6L/100km,9.1L/100km,33998
+2023,Mazda,CX-30,831 km,SUV,2.5L 4cyl.,Automatic,AWD,Grey,Black,null,5,Gas,9.0L/100km,7.1L/100km,34928
+2020,Mazda,CX-5,59182 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,35998
+2019,Mazda,CX-5,31953 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Blue,Black,null,4,Gas,10.8L/100km,8.7L/100km,36000
+2023,Mazda,CX-5,7300 km,SUV,2.5L 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,36928
+2021,Mazda,CX-5,26708 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,null,5,4,Gas,10.8L/100km,8.7L/100km,36995
+2020,Mazda,CX-5,44980 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,9.8L/100km,7.9L/100km,38998
+2021,Mazda,CX-5,37849 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.8L/100km,7.9L/100km,40998
+2020,Mazda,CX-5,77435 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,null,null,null,Gas,10.8L/100km,8.7L/100km,37899
+2023,Mazda,CX-30,5 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Machine Grey Metallic,Black,null,5,Gas,10.5L/100km,7.9L/100km,41123
+2023,Mazda,MX-5,5 km,Convertible,2L 4cyl.,Manual,RWD,Machine Grey Metallic,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,44768
+2023,Mazda,CX-5,5802 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Jet Black Mica,Black,null,5,Gas,10.8L/100km,8.7L/100km,45473
+2023,Mazda,MX-30,25 km,SUV,0L,Automatic,FWD,Multi-Tone Zircon Sand Metallic,Black,null,5,Electric,null,null,52826
+2023,Mazda,CX-50,15369 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Zircon Sand Metallic,Black,5,4,Gas,9.7L/100km,7.9L/100km,53399
+2023,Mazda,CX-9,6583 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Grey,null,null,5,Gas,11.6L/100km,9.1L/100km,55028
+2023,Mazda,CX-9,2419 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Jet Black Mica,null,null,5,Gas,11.6L/100km,9.1L/100km,59219
+2013,Mazda,Mazda3,163000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,9995
+2013,Mazda,CX-9,253830 km,SUV,V6 Cylinder Engine,Automatic,AWD,Crystal White Pearl,Black,null,4,Gas,12.8L/100km,9.0L/100km,6000
+2019,Mazda,CX-3,46660 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.6L/100km,7.4L/100km,28099
+2010,Mazda,Mazda3,244000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,9.2L - 10.1L/100km,6.8L - 6.9L/100km,6490
+2010,Mazda,Mazda3,130000 km,Sedan,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7990
+2012,Mazda,Mazda3,156628 km,Sedan,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8750
+2013,Mazda,Mazda3,208000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,5,4,Gas,7.1L - 7.7L/100km,5.0L/100km,8990
+2009,Mazda,Mazda3,56466 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,5,null,Regular Unleaded,8.4L - 9.1L/100km,6.1L - 6.4L/100km,9959
+2013,Mazda,Mazda3,101781 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black Mica,Black,5,null,Regular Unleaded,7.1L - 7.7L/100km,4.9L - 5.0L/100km,12950
+2014,Mazda,Mazda3,127797 km,Sedan,155HP 2.0L 4 Cylinder Engine,Manual,FWD,Meteor Grey Mica,null,null,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,12988
+2013,Mazda,CX-5,173219 km,SUV,4 Cylinder Engine 2.0L,Automatic,AWD,Aluminum Metallic Mica,null,null,4,Gas,8.0L/100km,6.4L/100km,13995
+2014,Mazda,Mazda6,146953 km,Sedan,2.5,6 Speed Automatic,FWD,Blue Reflex Mica,Black,null,4,Gas,7.6L - 8.1L/100km,5.1L - 5.3L/100km,14780
+2021,Mazda,CX-9,67743 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2017,Mazda,Mazda3,114457 km,Hatchback,155HP 2.0L 4 Cylinder Engine,Automatic,FWD,Sonic Silver Metallic,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,19988
+2017,Mazda,Mazda3,44000 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,22688
+2018,Mazda,Mazda3,62857 km,Sedan,4 Cylinder Engine 2.0L,null,FWD,Blue,Black,null,4,Gas,null,null,22995
+2018,Mazda,CX-9,154437 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,7,4,Gas,11.5L/100km,8.9L/100km,28888
+2019,Mazda,CX-5,31067 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,null,null,5,4,Gas,9.3L/100km,7.6L/100km,29495
+2019,Mazda,Mazda3,34124 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,GREY,Red,5,4,Gas,9.8L/100km,7.4L/100km,29995
+2020,Mazda,Mazda3,46989 km,Sedan,DVTN80,Automatic,FWD,Deep Crystal Blue Mica,Black,null,null,Gas,8.8L/100km,6.6L/100km,30990
+2020,Mazda,CX-5,64541 km,SUV,2.5L SKYACTIV-G DOHC 16-Valve I4,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,4,Gas,10.8L/100km,8.7L/100km,31998
+2022,Mazda,MX-30,8025 km,SUV,Electric,Automatic,FWD,Arctic White,Grey,5,4,Electric,null,null,32788
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2018,Mazda,CX-5,30445 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,White,5,4,Gas,9.8L/100km,7.9L/100km,33399
+2019,Mazda,MX-5,20000 km,Convertible,4 Cylinder Engine,6 Speed Manual,RWD,Jet Black Mica,Black,2,2,Gas,9.0L/100km,6.6L - 7.0L/100km,35500
+2022,Mazda,CX-5,27827 km,SUV,: 2.5L SKYACTIV-G DOHC 16-Valve I4 -inc: cylinder,6 Speed Automatic,AWD,Blue,null,null,null,Gas,9.9L/100km,7.9L/100km,36389
+2022,Mazda,CX-5,8200 km,SUV,I-4 cyl,6 Speed Automatic,null,Snowflake White Pearl,Black,null,null,Regular Unleaded,null,null,43998
+2023,Mazda,MX-5,150 km,Convertible,2.0L I4,6 Speed Manual,null,Blue,White,null,null,null,null,null,45537
+2023,Mazda,CX-5,7431 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,45828
+2023,Mazda,CX-9,25 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,11.6L/100km,9.1L/100km,53773
+2023,Mazda,CX-9,150 km,SUV,null,6 Speed Automatic,null,Jet Black Mica,Black,null,null,null,null,null,55761
+2010,Mazda,Mazda3,200000 km,Hatchback,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,3499
+2021,Mazda,CX-5,42017 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,33399
+2012,Mazda,Mazda6,251000 km,Sedan,2.5L,Automatic,null,null,null,null,null,null,null,null,5500
+2014,Mazda,Mazda3,273000 km,Sedan,gas,Automatic,null,null,null,null,null,null,null,null,6900
+2008,Mazda,Mazda3,211004 km,Sedan,2.3,Automatic,FWD,Dark Grey,Black,null,4,Gas,9.2L - 9.4L/100km,6.7L - 6.9L/100km,6980
+2010,Mazda,Mazda3,132326 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,7995
+2009,Mazda,Mazda5,145194 km,Minivan,4 Cylinder Engine,Automatic,FWD,Grey,Black,6,4,Gas,9.6L - 9.9L/100km,7.0L - 7.2L/100km,8488
+2014,Mazda,Mazda3,137900 km,Sedan,2.0,Automatic,FWD,Grey,Black,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,12475
+2014,Mazda,Mazda3,204686 km,Sedan,4 Cylinder Engine,Automatic,FWD,Silver,Black,5,4,Regular Unleaded,6.8L - 7.0L/100km,4.9L/100km,12488
+2009,Mazda,CX-9,137111 km,SUV,V6 Cylinder Engine 3.7L,Automatic,AWD,Brilliant Black,null,null,4,Gas,15.7L/100km,11.2L/100km,12995
+2016,Mazda,CX-3,162000 km,null,null,Automatic,AWD,White,null,null,null,null,null,null,15500
+2020,Mazda,CX-5,44980 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,9.8L/100km,7.9L/100km,38998
+2016,Mazda,CX-3,74055 km,SUV,HVSK86,Automatic,null,Crystal White Pearl,Black,null,null,Gas,8.2L - 8.8L/100km,6.7L - 7.3L/100km,21990
+2019,Mazda,Mazda3,78787 km,Hatchback,155HP 2.0L 4 Cylinder Engine,Automatic,FWD,Titanium Flash Mica,null,null,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,22588
+2021,Mazda,CX-3,31635 km,SUV,148HP 2.0L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,5,4,Gas,8.6L/100km,7.4L/100km,29988
+2023,Mazda,CX-30,150 km,SUV,null,6 Speed Automatic,null,Soul Red Crystal,Black,null,null,null,null,null,34012
+2023,Mazda,CX-30,150 km,SUV,null,6 Speed Automatic,null,Sonic Silver,Black,null,null,null,null,null,42162
+2022,Mazda,MX-30,0 km,SUV,ELECTRIC,1 Speed Automatic,null,Gray,null,null,2,Electric,null,null,42999
+2011,Mazda,Mazda2,243704 km,Wagon,4 Cylinder Engine,Manual,FWD,Green,Black,5,null,Regular Unleaded,6.8L - 7.5L/100km,5.6L - 6.0L/100km,2999
+2011,Mazda,Mazda3,213000 km,Sedan,4 Cylinder Engine,Manual,FWD,null,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,3990
+2012,Mazda,Mazda5,139000 km,Minivan,2.5L 4cyl,5 Speed Automatic,FWD,Brilliant Black Mica,Black,null,2,Gas,9.5L - 9.7L/100km,6.7L - 6.8L/100km,9900
+2021,Mazda,MX-5,5096 km,Coupe,2.0L 4cyl,6 Speed Automatic,RWD,Jet Black Mica,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,47099
+2019,Mazda,CX-5,28035 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,null,null,Gas,9.8L/100km,7.9L/100km,28998
+2021,Mazda,CX-9,40251 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Jet Black Mica,null,7,4,Gas,11.6L/100km,9.1L/100km,38447
+2023,Mazda,Mazda3,150 km,Hatchback,null,6 Speed Automatic,null,Snowflake White Pearl,Black,null,null,null,null,null,39261
+2022,Mazda,CX-5,4857 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,10.8L/100km,8.7L/100km,43997
+2022,Mazda,CX-5,7931 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Gray,null,5,4,Gas,10.8L/100km,8.7L/100km,44998
+2013,Mazda,Mazda3,167352 km,Sedan,2.0,5 Speed Automatic,FWD,Gray,Beige,null,4,Gas,8.2L - 8.7L/100km,6.0L/100km,7499
+2021,Mazda,CX-3,51400 km,Wagon,SKYACTIV®-G 2.0L 4-Cylinder DOHC 16V,Automatic,AWD,Deep Crystal Blue Mica,Black,null,4,Gas,8.6L/100km,7.4L/100km,28980
+2020,Mazda,Mazda6,77500 km,Sedan,187HP 2.5L 4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,6.7L/100km,29588
+2020,Mazda,CX-5,64866 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,31099
+2019,Mazda,CX-5,65500 km,SUV,227HP 2.5L 4 Cylinder Engine,Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,32488
+2022,Mazda,MX-5,10357 km,Convertible,I-4 cyl,Manual,RWD,Polymetal Grey Metallic,Grey,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,43998
+2023,Mazda,CX-5,1397 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Polymetal Grey Metallic,null,null,5,Gas,10.8L/100km,8.7L/100km,49675
+2023,Mazda,MX-30,25 km,SUV,0L,Automatic,FWD,Multi-Tone Zircon Sand Metallic,Black,null,5,Electric,null,null,52826
+2013,Mazda,Mazda3,163000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,9995
+2017,Mazda,CX-9,83154 km,SUV,2.5,Automatic,AWD,Jet Black Mica,Black,7,4,Gas,11.5L/100km,8.9L/100km,29998
+2022,Mazda,CX-5,7931 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,Gray,null,5,4,Gas,10.8L/100km,8.7L/100km,44998
+2013,Mazda,Mazda3,167352 km,Sedan,2.0,5 Speed Automatic,FWD,Gray,Beige,null,4,Gas,8.2L - 8.7L/100km,6.0L/100km,7499
+2013,Mazda,Mazda3,181402 km,Sedan,4 Cylinder Engine 2.0L,null,FWD,Grey,null,null,4,Gas,8.2L - 8.7L/100km,6.0L/100km,9995
+2018,Mazda,Mazda3,142597 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Blue,Black,5,4,Gas,8.4L - 8.6L/100km,6.4L/100km,15888
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2015,Mazda,CX-9,114515 km,SUV,3.7,6 Speed Automatic,AWD,Meteor Grey Mica,Black,null,4,Gas,14.3L/100km,10.6L/100km,15995
+2015,Mazda,CX-9,131909 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Black,Black,7,4,Gas,14.3L/100km,10.6L/100km,17995
+2016,Mazda,CX-5,144200 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,19888
+2019,Mazda,CX-3,115000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,8.6L/100km,7.4L/100km,19900
+2020,Mazda,CX-3,47982 km,SUV,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,null,5,4,Gas,8.3L/100km,6.9L/100km,22999
+2019,Mazda,Mazda3,79000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,gray,Black,5,4,Gas,8.8L/100km,6.6L/100km,23995
+2020,Mazda,CX-3,39000 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.3L/100km,6.9L/100km,23995
+2022,Mazda,CX-3,37425 km,Wagon,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Grey,5,5,Gas,8.3L/100km,6.9L/100km,24995
+2019,Mazda,CX-5,115025 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Blue,5,4,Gas,9.3L/100km,7.6L/100km,24995
+2019,Mazda,Mazda3,53294 km,Hatchback,2.5L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,26987
+2020,Mazda,CX-5,83700 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,26690
+2020,Mazda,Mazda3,83403 km,Hatchback,2.5L 4cyl,6 Speed Automatic,FWD,Bronze,Black,5,5,Gas,9.0L - 9.2L/100km,6.6L - 6.8L/100km,26948
+2018,Mazda,CX-9,85010 km,SUV,2.5,Automatic,AWD,Sonic Silver Metallic,Black,null,4,Gas,11.5L/100km,8.9L/100km,27500
+2022,Mazda,CX-3,25917 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,White,Black,5,5,Gas,8.6L/100km,7.4L/100km,27836
+2022,Mazda,Mazda3,10400 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Grey,null,5,4,Gas,8.9L - 9.6L/100km,6.5L - 7.1L/100km,28885
+2020,Mazda,CX-5,64109 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28990
+2021,Mazda,Mazda3,61301 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,5,null,Gas,8.9L/100km,6.5L/100km,28999
+2021,Mazda,Mazda3,60828 km,Hatchback,2.5L 4cyl,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,5,Gas,9.2L - 9.5L/100km,6.9L - 7.0L/100km,29888
+2018,Mazda,CX-9,72787 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,7,4,Gas,11.5L/100km,8.9L/100km,29987
+2020,Mazda,Mazda3,38399 km,Sedan,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,9.2L/100km,7.0L/100km,28888
+2019,Mazda,CX-5,52800 km,SUV,2.5,6 Speed Automatic,AWD,Blue,null,5,4,Gas,9.8L/100km,7.9L/100km,29995
+2019,Mazda,CX-5,72957 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.8L/100km,7.9L/100km,30990
+2021,Mazda,CX-5,22596 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Blue,Black,5,5,Gas,9.3L/100km,7.6L/100km,31896
+2021,Mazda,CX-5,66488 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,5,5,Gas,9.8L/100km,7.9L/100km,31989
+2019,Mazda,CX-5,43775 km,SUV,I4 Turbo,Automatic,AWD,Gray,Black,5,4,Gas,10.8L/100km,8.7L/100km,32386
+2020,Mazda,CX-9,89057 km,SUV,2.5,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,32598
+2021,Mazda,CX-5,64950 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,5,5,Gas,9.8L/100km,7.9L/100km,32863
+2021,Mazda,CX-5,66310 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Grey,5,5,Gas,9.8L/100km,7.9L/100km,32888
+2019,Mazda,CX-5,34000 km,SUV,2.5,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,10.8L/100km,8.7L/100km,33450
+2021,Mazda,CX-9,77653 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2019,Mazda,CX-5,73144 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Sonic Silver Metallic,null,null,4,Gas,10.8L/100km,8.7L/100km,33491
+2021,Mazda,CX-5,68720 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,5,Gas,9.8L/100km,7.9L/100km,33986
+2022,Mazda,CX-30,5539 km,SUV,2.5L SKYACTIV-G DOHC 16-VALVE I4,6 Speed Automatic,AWD,Jet Black Mica,Black,5,5,Gas,9.9L/100km,7.7L/100km,34386
+2021,Mazda,CX-5,23000 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,null,Gas,9.8L/100km,7.9L/100km,34900
+2020,Mazda,CX-5,37422 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Dark Grey,Black,5,2,Gas,null,null,36697
+2020,Mazda,CX-5,37429 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Sonic Silver Metallic,Black,5,5,Gas,10.8L/100km,8.7L/100km,36986
+2019,Mazda,CX-9,71756 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,11.8L/100km,9.0L/100km,37590
+2021,Mazda,CX-5,26400 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Sonic Silver Metallic,Black,5,5,Gas,9.8L/100km,7.9L/100km,38638
+2021,Mazda,CX-9,72755 km,SUV,2.5L 4cyl,Automatic,AWD,Snowflake White Pearl,Black,6,4,Gas,11.6L/100km,9.1L/100km,39990
+2020,Mazda,CX-3,52650 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,8.6L/100km,7.4L/100km,28888
+2007,Mazda,Mazda3,164491 km,Hatchback,2.3L INLINE 4 DOUBLE OVERHEAD,Manual,FWD,Grey,Grey,null,5,Gas,9.2L - 9.4L/100km,6.7L - 6.9L/100km,4990
+2006,Mazda,Mazda3,156820 km,Hatchback,4 CYL,Automatic,FWD,Burgundy,Black,null,4,Gas,9.2L - 9.4L/100km,6.7L - 6.9L/100km,4990
+2009,Mazda,Mazda6,197066 km,Sedan,V6 Cylinder Engine,6 Speed Automatic,FWD,Silver,null,5,4,Gas,12.1L/100km,8.0L/100km,5490
+2013,Mazda,Mazda6,196069 km,Sedan,2.5L 4cyl,5 Speed Automatic,FWD,White Platinum Pearl,Black,null,4,Gas,9.4L - 9.8L/100km,6.5L - 6.6L/100km,7990
+2013,Mazda,Mazda3,155378 km,Sedan,2.0,null,FWD,Gray,Beige,null,4,Gas,7.1L - 7.7L/100km,5.0L/100km,8995
+2016,Mazda,Mazda3,201000 km,Sedan,4 Cylinder,Automatic,FWD,Gray,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,9878
+2015,Mazda,Mazda3,152000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Meteor Grey Mica,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,11995
+2015,Mazda,Mazda6,182000 km,Sedan,4 Cylinder Engine,null,null,null,null,null,null,Gas,null,null,12995
+2016,Mazda,Mazda3,70555 km,Sedan,2.0L,Automatic,FWD,Silver,Grey,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,14500
+2021,Mazda,MX-5,3068 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44099
+2016,Mazda,CX-5,174000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,9.9L/100km,7.9L/100km,16500
+2016,Mazda,CX-5,172000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,9.9L/100km,7.9L/100km,16995
+2018,Mazda,Mazda3,160000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,null,null,17480
+2015,Mazda,CX-9,133088 km,SUV,3.7L,Automatic,AWD,Dark Grey,Black,null,4,Gas,14.3L/100km,10.6L/100km,17498
+2018,Mazda,CX-3,102499 km,Wagon,4 Cylinder Engine,Automatic,AWD,Brown,Black,null,4,Gas,8.8L/100km,7.5L/100km,18980
+2015,Mazda,CX-9,119214 km,SUV,3.7L 6cyl,6 Speed Automatic,AWD,Crystal White Pearl,Black,null,2,Gas,14.3L/100km,10.6L/100km,18990
+2018,Mazda,Mazda3,87714 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue,Black,5,4,Gas,null,null,19989
+2018,Mazda,Mazda3,64533 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Eternal Blue Mica,null,5,4,Gas,8.4L - 8.5L/100km,6.2L - 6.4L/100km,19995
+2015,Mazda,CX-9,138135 km,SUV,6 Cylinder,Automatic,AWD,Brown,Black,7,4,Gas,14.3L/100km,10.6L/100km,20500
+2020,Mazda,CX-9,62631 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Titanium Flash Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,39998
+2018,Mazda,Mazda3,73588 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Black,null,2,Gas,8.4L - 8.6L/100km,6.4L/100km,20900
+2019,Mazda,CX-5,159000 km,SUV,2.5,Automatic,AWD,Black,Grey,5,4,Gas,9.8L/100km,7.9L/100km,22995
+2017,Mazda,CX-5,128065 km,SUV,SKYACTIV® 2.5L 4-Cylinder DOHC 16V,Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,10.2L/100km,8.3L/100km,22999
+2020,Mazda,Mazda3,39000 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,24995
+2016,Mazda,MX-5,117880 km,Convertible,2.0,Automatic,RWD,Red,Black,2,2,Gas,8.8L - 8.9L/100km,6.5L - 6.9L/100km,24995
+2020,Mazda,Mazda3,49073 km,Sedan,I4,Automatic,FWD,Jet Black Mica,null,null,null,Gas,8.8L/100km,6.4L/100km,26781
+2019,Mazda,CX-5,45528 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,2,Gas,9.8L/100km,7.9L/100km,26988
+2017,Mazda,CX-5,55324 km,SUV,4 Cylinder Engine,Automatic,AWD,Red,White,5,4,Gas,10.2L/100km,8.3L/100km,26995
+2018,Mazda,CX-9,146064 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Cream,7,4,Gas,11.5L/100km,8.9L/100km,26999
+2017,Mazda,Mazda3,109517 km,Sedan,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,19998
+2019,Mazda,CX-5,112197 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Blue,Black,5,5,Gas,9.8L/100km,7.9L/100km,27383
+2019,Mazda,Mazda3,31892 km,Sedan,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,2,Gas,9.2L/100km,7.0L/100km,27800
+2018,Mazda,Mazda6,101000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Soul Red Crystal Metallic,null,5,null,Gas,10.0L/100km,7.5L/100km,27888
+2019,Mazda,Mazda3,49913 km,Compact,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,9.2L/100km,7.0L/100km,28698
+2018,Mazda,Mazda6,29360 km,Sedan,4 Cylinder Engine,Automatic,FWD,Snowflake White Pearl,Black,5,null,Gas,10.0L/100km,7.5L/100km,29880
+2020,Mazda,CX-5,86337 km,SUV,2.5,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,29888
+2021,Mazda,CX-3,66953 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,5,5,Gas,8.6L/100km,7.4L/100km,29896
+2017,Mazda,CX-9,83154 km,SUV,2.5,Automatic,AWD,Jet Black Mica,Black,7,4,Gas,11.5L/100km,8.9L/100km,29998
+2019,Mazda,CX-5,71000 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,9.8L/100km,7.9L/100km,31900
+2019,Mazda,Mazda3,65647 km,Hatchback,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,24388
+2020,Mazda,CX-9,87566 km,SUV,2.5,6 Speed Automatic,AWD,Sonic Silver Metallic,Black,7,4,Gas,11.6L/100km,9.1L/100km,32888
+2018,Mazda,CX-9,96025 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,null,7,4,Gas,11.5L/100km,8.9L/100km,32999
+2022,Mazda,CX-30,9968 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,null,Gas,9.9L/100km,7.7L/100km,33888
+2020,Mazda,CX-5,87564 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,35155
+2020,Mazda,CX-5,12453 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Sonic Silver Metallic,Black,5,5,Gas,9.8L/100km,7.9L/100km,35698
+2020,Mazda,CX-9,51146 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,7,5,Gas,11.6L/100km,9.1L/100km,37836
+2010,Mazda,Mazda3,230964 km,Hatchback,2.0 L 4CYL,Manual,FWD,Red,Black,null,5,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2010,Mazda,Mazda3,206162 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Aluminum Metallic Mica,null,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2012,Mazda,Mazda3,214801 km,Sedan,4 CYL,Automatic,FWD,Grey,Black,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,5990
+2021,Mazda,CX-5,59398 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,34399
+2012,Mazda,Mazda3,219630 km,Sedan,2.0,5 Speed Automatic,FWD,Gray,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,5995
+2012,Mazda,Mazda3,148970 km,Sedan,4 CYL,Manual,FWD,Gray,Grey,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6990
+2012,Mazda,Mazda6,192012 km,Sedan,2.5L I4 170HP 167FT. LBS.,Automatic,FWD,Grey,Black,5,4,Gas,9.4L - 9.8L/100km,6.5L - 6.6L/100km,7990
+2013,Mazda,Mazda3,205538 km,Sedan,2.0,Automatic,FWD,Gray,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,7995
+2011,Mazda,Mazda3,129240 km,Sedan,2.5,Automatic,FWD,Crystal White Pearl,Black,null,4,Gas,9.2L - 10.2L/100km,6.7L - 6.9L/100km,8500
+2010,Mazda,Mazda3,115292 km,Sedan,2.0L I4 148HP 135FT. LBS.,null,FWD,Red,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8990
+2013,Mazda,Mazda3,181000 km,Hatchback,4 Cylinder Engine,null,FWD,Velocity Red Mica,Grey,null,null,Gas,7.1L - 7.7L/100km,5.0L/100km,9300
+2014,Mazda,Mazda6,280000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Meteor Grey Mica,Black,5,4,Gas,7.6L - 8.1L/100km,5.1L - 5.3L/100km,9800
+2014,Mazda,Mazda6,214146 km,Sedan,SKYACTIV-G 2.5L I4 184HP 185FT,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,7.6L - 8.1L/100km,5.1L - 5.3L/100km,10990
+2017,Mazda,Mazda6,43800 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,null,null,27500
+2016,Mazda,Mazda3,223000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Soul Red Mica,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,11000
+2013,Mazda,Mazda3,121000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Crystal White Pearl,Black,5,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,11900
+2006,Mazda,MX-5,140000 km,Convertible,4 Cylinder Engine,6 Speed Automatic,RWD,Dark Grey,Orange,2,2,Gas,null,null,14900
+2013,Mazda,CX-5,151087 km,SUV,4 Cylinder,Automatic,AWD,Gray,Grey,4,4,Gas,8.0L/100km,6.4L/100km,15500
+2014,Mazda,Mazda3,95192 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,null,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,15990
+2016,Mazda,Mazda3,128000 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Black,Black,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,16900
+2018,Mazda,Mazda3,32743 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,25597
+2022,Mazda,CX-5,9029 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,9.9L/100km,7.9L/100km,41888
+2018,Mazda,Mazda3,73781 km,Hatchback,4 Cylinder Engine,Manual,FWD,Jet Black Mica,Black,5,4,Gas,null,null,21790
+2023,Mazda,CX-5,4000 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,48980
+2018,Mazda,Mazda3,32743 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,25597
+2023,Mazda,CX-9,2419 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Jet Black Mica,null,null,5,Gas,11.6L/100km,9.1L/100km,59219
+2023,Mazda,CX-5,7431 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,45828
+2023,Mazda,CX-9,25 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,11.6L/100km,9.1L/100km,53773
+2018,Mazda,CX-3,102499 km,Wagon,4 Cylinder Engine,Automatic,AWD,Brown,Black,null,4,Gas,8.8L/100km,7.5L/100km,18980
+2013,Mazda,CX-5,108248 km,SUV,2.0L 4cyl,6 Speed Automatic,FWD,Zeal Red Mica,Black,null,2,Gas,7.7L/100km,6.1L/100km,16990
+2015,Mazda,Mazda3,91531 km,Sedan,4 Cylinder,Automatic,FWD,Meteor Grey Mica,Black,4,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,17400
+2015,Mazda,Mazda3,102000 km,Hatchback,2.5,Automatic,FWD,White,Black,5,4,Gas,null,null,17888
+2017,Mazda,Mazda5,132137 km,Minivan,2.5L 4cyl,5 Speed Automatic,FWD,Aluminum Metallic Mica,Black,6,4,Gas,10.8L - 11.1L/100km,8.2L - 8.3L/100km,18888
+2018,Mazda,CX-9,132951 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,null,null,7,4,Gas,11.5L/100km,8.9L/100km,27421
+2017,Mazda,Mazda3,121000 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,gray,Beige,5,4,Gas,null,null,18995
+2016,Mazda,CX-3,160488 km,SUV,4 Cylinder,Automatic,AWD,Dynamic Blue Mica,Black,4,4,Gas,8.8L/100km,7.3L/100km,19400
+2016,Mazda,CX-3,28000 km,SUV,4 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,8.2L/100km,6.7L/100km,20888
+2016,Mazda,Mazda6,130212 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,null,4,Gas,null,null,20990
+2016,Mazda,CX-3,125044 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Dynamic Blue Mica,Black,5,5,Gas,8.8L/100km,7.3L/100km,22638
+2019,Mazda,CX-3,107060 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Grey,5,4,Gas,8.6L/100km,7.4L/100km,22990
+2018,Mazda,Mazda3,26543 km,Hatchback,4 Cylinder Engine,Automatic,FWD,SOUL RED,Black,null,4,Gas,null,null,24990
+2019,Mazda,CX-3,34406 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,null,null,5,4,Gas,8.6L/100km,7.4L/100km,24998
+2019,Mazda,CX-3,42215 km,Wagon,4 Cylinder Engine,Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,8.3L - 8.8L/100km,6.9L - 7.0L/100km,24999
+2020,Mazda,CX-5,59182 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,35998
+2023,Mazda,Mazda3,150 km,Sedan,I-4 cyl,Automatic,FWD,Jet Black Mica,Black,null,null,Regular Unleaded,8.4L/100km,6.6L/100km,25957
+2018,Mazda,CX-5,135333 km,SUV,4 Cylinder Engine,Automatic,FWD,Blue,Black,5,4,Gas,9.3L/100km,7.6L/100km,27999
+2023,Mazda,Mazda3,100 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,8.4L/100km,6.6L/100km,28474
+2023,Mazda,Mazda3,150 km,Hatchback,I-4 cyl,Automatic,FWD,Jet Black Mica,Black,null,null,Regular Unleaded,8.6L - 8.7L/100km,6.6L - 6.7L/100km,28907
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29224
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29224
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29224
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29226
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Machine Grey Metallic,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29574
+2020,Mazda,CX-3,52650 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,8.6L/100km,7.4L/100km,28888
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,29676
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.4L/100km,7.7L/100km,29774
+2023,Mazda,CX-30,150 km,SUV,I-4 cyl,Automatic,null,Jet Black Mica,Black,null,null,Regular Unleaded,9.4L/100km,7.7L/100km,29957
+2023,Mazda,CX-30,150 km,SUV,I-4 cyl,Automatic,null,Deep Crystal Blue Mica,Black,null,null,Regular Unleaded,9.4L/100km,7.7L/100km,29957
+2021,Mazda,Mazda3,66493 km,Sedan,2.5,Automatic,AWD,Snowflake White Pearl,Black,4,4,Gas,null,null,30385
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,33074
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,33074
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,33074
+2023,Mazda,CX-30,150 km,SUV,I-4 cyl,Automatic,null,Jet Black Mica,null,null,null,Regular Unleaded,9.0L/100km,7.1L/100km,33257
+2021,Mazda,MX-5,3068 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44099
+2023,Mazda,CX-30,150 km,SUV,I-4 cyl,Automatic,null,Deep Crystal Blue Mica,null,null,null,Regular Unleaded,9.0L/100km,7.1L/100km,33257
+2023,Mazda,CX-30,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.0L/100km,7.1L/100km,33315
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,9.0L/100km,7.1L/100km,33324
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,33524
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,33524
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,33524
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,33524
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.0L/100km,7.0L/100km,33726
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,34774
+2021,Mazda,CX-9,77653 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,34774
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Platinum Quartz Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,34776
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,34776
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Platinum Quartz Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,34776
+2020,Mazda,CX-5,83521 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,9.8L/100km,7.9L/100km,34987
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2022,Mazda,CX-5,10587 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,10.8L/100km,8.7L/100km,43988
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35024
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35026
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35124
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35124
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35224
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,35224
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.0L/100km,7.1L/100km,35274
+2023,Mazda,CX-30,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,Black,null,4,Gas,9.0L/100km,7.1L/100km,35765
+2020,Mazda,CX-9,43227 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,11.6L/100km,9.1L/100km,40998
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Polymetal Grey Metallic,null,5,4,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35774
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Machine Grey Metallic,null,5,4,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35876
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Machine Grey Metallic,null,5,4,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35876
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Machine Grey Metallic,null,5,4,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35876
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,FWD,Polymetal Grey Metallic,null,5,4,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35976
+2023,Mazda,Mazda3,100 km,Sedan,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,5,4,Gas,8.8L/100km,6.6L/100km,36774
+2023,Mazda,Mazda3,100 km,Sedan,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,8.8L/100km,6.6L/100km,36876
+2023,Mazda,Mazda3,100 km,Sedan,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,8.8L/100km,6.6L/100km,37074
+2023,Mazda,Mazda3,99 km,Hatchback,2.5L 4cyl.,Automatic,AWD,Jet Black Mica,Black,null,5,Gas,9.0L/100km,7.0L/100km,37502
+2021,Mazda,CX-30,37792 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.9L/100km,7.7L/100km,33998
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,37526
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.0L/100km,7.0L/100km,37874
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,37874
+2023,Mazda,Mazda3,99 km,Hatchback,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.0L/100km,7.0L/100km,37952
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.0L/100km,7.0L/100km,38074
+2023,Mazda,Mazda3,99 km,Hatchback,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,9.0L/100km,7.0L/100km,38233
+2023,Mazda,CX-30,0 km,SUV,191HP 2.5L 4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.0L/100km,7.1L/100km,38645
+2022,Mazda,CX-5,6420 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.9L/100km,7.9L/100km,38905
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,39624
+2018,Mazda,Mazda3,78265 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Blue,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,21888
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,39724
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,9.0L/100km,7.1L/100km,39724
+2023,Mazda,CX-5,150 km,SUV,I-4 cyl,Automatic,AWD,Jet Black Mica,Black,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,39807
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,39874
+2023,Mazda,Mazda3,99 km,Hatchback,2.5L TURBO 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,10.1L/100km,7.5L/100km,39902
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Sonic Silver Metallic,null,5,4,Gas,10.1L/100km,7.5L/100km,40126
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,10.1L/100km,7.5L/100km,40374
+2023,Mazda,Mazda3,10 km,Hatchback,I-4 cyl,Automatic,AWD,Snowflake White Pearl,null,null,null,Regular Unleaded,10.1L/100km,7.5L/100km,40457
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.1L/100km,7.5L/100km,40476
+2019,Mazda,CX-3,46660 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,5,4,Gas,8.6L/100km,7.4L/100km,28099
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.1L/100km,7.5L/100km,40476
+2022,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,5,4,Gas,9.9L/100km,7.9L/100km,40824
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,41324
+2021,Mazda,CX-5,19000 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,null,2,Gas,10.8L/100km,8.7L/100km,41850
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,42574
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,42574
+2023,Mazda,CX-5,150 km,SUV,I-4 cyl,Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,42757
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,42924
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,42926
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2023,Mazda,CX-5,150 km,SUV,I-4 cyl,Automatic,AWD,Rhodium White Metallic,null,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,43107
+2023,Mazda,MX-5,100 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Zircon Sand Metallic,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,43350
+2021,Mazda,CX-5,16175 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,43374
+2023,Mazda,MX-5,150 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Jet Black Mica,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,43395
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,43600
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,43600
+2021,Mazda,CX-3,51400 km,Wagon,SKYACTIV®-G 2.0L 4-Cylinder DOHC 16V,Automatic,AWD,Deep Crystal Blue Mica,Black,null,4,Gas,8.6L/100km,7.4L/100km,28980
+2021,Mazda,CX-5,69639 km,SUV,187HP 2.5L 4 Cylinder Engine,Automatic,AWD,Deep Crystal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,36488
+2023,Mazda,CX-5,4000 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,48980
+2020,Mazda,CX-5,59182 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,35998
+2023,Mazda,CX-5,7300 km,SUV,2.5L 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,36928
+2023,Mazda,MX-5,5 km,Convertible,2L 4cyl.,Manual,RWD,Machine Grey Metallic,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,44768
+2023,Mazda,CX-9,2419 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Jet Black Mica,null,null,5,Gas,11.6L/100km,9.1L/100km,59219
+2022,Mazda,CX-3,37425 km,Wagon,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,Grey,5,5,Gas,8.3L/100km,6.9L/100km,24995
+2010,Mazda,Mazda3,79479 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black Mica,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,9990
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,43600
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,43700
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,43774
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,44124
+2021,Mazda,CX-9,77653 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,44126
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Sonic Silver Metallic,null,null,4,Gas,11.6L/100km,9.1L/100km,44250
+2023,Mazda,CX-5,150 km,SUV,I-4 cyl,Automatic,AWD,Rhodium White Metallic,Black,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,44307
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,7,4,Gas,11.6L/100km,9.1L/100km,44776
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,7,4,Gas,11.6L/100km,9.1L/100km,44776
+2023,Mazda,CX-5,123 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.8L/100km,8.7L/100km,45800
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,10.8L/100km,8.7L/100km,45900
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,10.8L/100km,8.7L/100km,46974
+2023,Mazda,CX-5,15 km,SUV,I-4 cyl,Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,10.8L/100km,8.7L/100km,47157
+2021,Mazda,CX-5,59398 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,34399
+2023,Mazda,CX-5,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,10.8L/100km,8.7L/100km,47270
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47324
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47324
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47324
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47324
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47324
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,10.8L/100km,8.7L/100km,47326
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,47600
+2023,Mazda,MX-5,150 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Soul Red Crystal Metallic,Black,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,47745
+2017,Mazda,Mazda6,43800 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,null,null,27500
+2023,Mazda,MX-5,150 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Soul Red Crystal Metallic,Black,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,47745
+2022,Mazda,CX-9,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,11.6L/100km,9.0L/100km,47745
+2023,Mazda,MX-5,100 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Soul Red Crystal Metallic,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,47850
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,11.6L/100km,9.1L/100km,48000
+2023,Mazda,CX-9,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,2,Gas,11.6L/100km,9.1L/100km,48145
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,11.6L/100km,9.1L/100km,48250
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,11.6L/100km,9.1L/100km,48250
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,11.6L/100km,9.1L/100km,48250
+2023,Mazda,CX-50,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.4L/100km,8.1L/100km,48450
+2017,Mazda,Mazda3,109517 km,Sedan,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Regular Unleaded,8.4L - 8.5L/100km,6.2L - 6.4L/100km,19998
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,6,4,Gas,11.6L/100km,9.1L/100km,48524
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,6,4,Gas,11.6L/100km,9.1L/100km,48876
+2023,Mazda,CX-50,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Wind Chill Pearl,null,5,4,Gas,10.4L/100km,8.1L/100km,48876
+2023,Mazda,MX-30,150 km,SUV,Electric,1 Speed Automatic,FWD,Jet Black Mica,Grey,null,2,Electric,null,null,49745
+2023,Mazda,MX-30,90 km,SUV,Electric Motor,1 Speed Automatic,FWD,Jet Black Mica,null,null,4,Electric,null,null,50650
+2023,Mazda,MX-30,5 km,SUV,Electric Motor,Automatic,FWD,Metallic,null,null,null,Electric,null,null,51257
+2023,Mazda,CX-9,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,null,2,Gas,11.6L/100km,9.1L/100km,53145
+2023,Mazda,CX-9,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,11.6L/100km,9.1L/100km,53395
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,11.6L/100km,9.1L/100km,53500
+2021,Mazda,CX-30,25458 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Jet Black Mica,Black,null,null,Gas,9.3L/100km,7.1L/100km,29998
+2023,Mazda,CX-9,123 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,11.6L/100km,9.1L/100km,53500
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,11.6L/100km,9.1L/100km,53700
+2023,Mazda,CX-9,150 km,SUV,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,53957
+2023,Mazda,CX-9,150 km,SUV,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,53957
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,6,4,Gas,11.6L/100km,9.1L/100km,54026
+2022,Mazda,CX-9,201 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Polymetal Grey Metallic,Red,null,2,Gas,11.6L/100km,9.0L/100km,54050
+2023,Mazda,CX-9,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,54150
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,11.6L/100km,9.1L/100km,54200
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,null,6,4,Gas,11.6L/100km,9.1L/100km,54224
+2020,Mazda,CX-3,52650 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,8.6L/100km,7.4L/100km,28888
+2023,Mazda,CX-9,150 km,SUV,I-4 cyl,Automatic,AWD,Machine Grey Metallic,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,54307
+2023,Mazda,CX-9,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,54400
+2023,Mazda,CX-9,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Red,null,2,Gas,11.6L/100km,9.1L/100km,54745
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,11.6L/100km,9.1L/100km,54850
+2023,Mazda,CX-9,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,55100
+2023,Mazda,CX-9,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,55100
+2021,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,6,4,Gas,11.6L/100km,9.1L/100km,55274
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,6,4,Gas,11.6L/100km,9.1L/100km,55376
+2022,Mazda,CX-9,10 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Snowflake White Pearl,null,null,5,Gas,11.6L/100km,9.0L/100km,55528
+2020,Mazda,Mazda3,38399 km,Sedan,I-4 cyl,Automatic,AWD,Deep Crystal Blue Mica,Black,null,null,Gas,9.2L/100km,7.0L/100km,28888
+2023,Mazda,CX-9,4 km,SUV,I-4 cyl,Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,55557
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Polymetal Grey Metallic,null,6,4,Gas,11.6L/100km,9.1L/100km,55624
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,11.6L/100km,9.1L/100km,56500
+2023,Mazda,CX-9,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,11.6L/100km,9.1L/100km,56600
+2023,Mazda,CX-9,90 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,11.6L/100km,9.1L/100km,60054
+2018,Mazda,Mazda3,147218 km,Sedan,4 Cylinder Engine,6 Speed Manual,FWD,Blue,Black,5,4,Gas,null,null,16800
+2017,Mazda,Mazda5,157078 km,Minivan,2.5L 4cyl,5 Speed Automatic,FWD,Snowflake White Pearl,Black,6,4,Gas,10.8L - 11.1L/100km,8.2L - 8.3L/100km,18888
+2014,Mazda,Mazda6,76176 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Soul Red Mica,Black,null,4,Gas,7.6L - 8.1L/100km,5.1L - 5.3L/100km,18990
+2010,Mazda,Mazda3,298236 km,Sedan,2.0L I4 148HP 135FT. LBS.,Automatic,FWD,Grey,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,3990
+2020,Mazda,Mazda3,49543 km,Hatchback,4 Cylinder Engine 2.5L,Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.4L/100km,29588
+2010,Mazda,Mazda3,228197 km,Hatchback,4 CYL,Manual,FWD,Gray,Black,5,5,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2010,Mazda,Mazda3,257597 km,Sedan,4 CYL,Automatic,FWD,Burgundy,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2010,Mazda,Mazda5,243417 km,Minivan,4 Cylinder Engine,5 Speed Automatic,FWD,Grey,Black,6,4,Gas,9.6L - 9.9L/100km,7.0L - 7.2L/100km,4999
+2010,Mazda,Mazda3,182287 km,Sedan,4 CYL,Automatic,FWD,Burgundy,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,5990
+2008,Mazda,Mazda3,111326 km,Sedan,4 CYL,Manual,FWD,Blue,Blue,5,4,Gas,8.4L - 9.1L/100km,6.1L - 6.4L/100km,5990
+2010,Mazda,CX-7,283450 km,SUV,4 Cylinder Engine,Automatic,AWD,Stormy Blue Mica,Black,5,4,Gas,12.2L/100km,8.7L/100km,5995
+2010,Mazda,Mazda3,172263 km,Sedan,2.0L,Manual,FWD,Blue,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6000
+2007,Mazda,Mazda5,202000 km,Minivan,4 Cylinder Engine,4 Speed Automatic,FWD,Blue,Black,6,4,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,6495
+2011,Mazda,CX-7,244004 km,SUV,2.5L I4 161HP 161FT. LBS.,Automatic,FWD,Crystal White Pearl,Beige,null,4,Gas,10.4L/100km,7.2L/100km,6990
+2018,Mazda,CX-9,132951 km,SUV,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,Automatic,AWD,null,null,7,4,Gas,11.5L/100km,8.9L/100km,27421
+2009,Mazda,Mazda5,246003 km,Minivan,4 Cylinder Engine,5 Speed Automatic,FWD,Stormy Blue Mica,Black,6,4,Gas,9.6L - 9.9L/100km,7.0L - 7.2L/100km,6999
+2013,Mazda,Mazda2,189510 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Gray,Black,5,4,Gas,6.8L - 7.1L/100km,5.6L - 5.8L/100km,7995
+2010,Mazda,Mazda3,116635 km,Sedan,2.0,Automatic,FWD,Blue,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7995
+2012,Mazda,Mazda3,138000 km,Sedan,2,null,FWD,null,null,null,null,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,8499
+2013,Mazda,Mazda6,275874 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Black Onyx,Grey,5,4,Gas,9.4L - 9.8L/100km,6.5L - 6.6L/100km,8499
+2012,Mazda,Mazda3,177000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Blue,Black,null,4,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,8985
+2011,Mazda,Mazda3,130581 km,Sedan,2,Automatic,FWD,Black,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,9580
+2011,Mazda,Mazda3,149000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Grey,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,9900
+2007,Mazda,MX-5,216168 km,Convertible,2.0,Manual,RWD,Red,Black,null,2,Gas,null,null,9995
+2021,Mazda,MX-5,3068 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Grey,Red,2,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44099
+2013,Mazda,Mazda3,112600 km,Hatchback,2.0L,Automatic,FWD,Black,Black,null,4,Gas,8.2L - 8.7L/100km,6.0L/100km,10990
+2015,Mazda,Mazda5,187113 km,Minivan,4 Cylinder Engine,null,FWD,Black,Black,null,4,Gas,10.7L - 11.1L/100km,8.2L - 8.3L/100km,10995
+2010,Mazda,CX-9,208438 km,SUV,V6 Cylinder Engine,6 Speed Automatic,AWD,Blue,Beige,7,4,Gas,14.0L/100km,9.6L/100km,10999
+2014,Mazda,Mazda3,184000 km,Sedan,2.0L,Automatic,FWD,Grey,Black,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,11495
+2013,Mazda,Mazda3,152420 km,Sedan,2.0L,Automatic,FWD,null,null,null,null,Gas,7.1L - 7.7L/100km,4.9L - 5.0L/100km,11499
+2013,Mazda,Mazda3,127330 km,Hatchback,2.0L,Automatic,FWD,null,null,null,null,Gas,7.1L - 7.7L/100km,5.0L/100km,11500
+2014,Mazda,CX-5,195077 km,SUV,2.0L,Automatic,FWD,Black,Black,5,4,Gas,7.7L - 7.8L/100km,5.7L - 6.1L/100km,11950
+2014,Mazda,Mazda3,125532 km,Sedan,2.0L,Manual,FWD,Grey,Black,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,11995
+2002,Mazda,MX-5,96000 km,Convertible,4 Cylinder Engine,4 Speed Automatic,RWD,Sunlight Silver Metallic,Tan,2,2,Gas,10.2L - 10.6L/100km,7.7L - 7.8L/100km,12450
+2018,Mazda,Mazda3,170997 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,null,4,Gas,null,null,17600
+2011,Mazda,CX-7,118573 km,SUV,2.3,Automatic,AWD,Black,Black,5,4,Gas,12.2L/100km,8.7L/100km,12580
+2014,Mazda,Mazda3,118000 km,Sedan,2.0L,Automatic,FWD,null,null,null,null,Gas,7.8L - 8.1L/100km,5.7L/100km,13750
+2014,Mazda,Mazda3,175000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,null,null,13995
+2014,Mazda,CX-5,172000 km,SUV,4 Cylinder Engine,Automatic,FWD,null,null,null,null,Gas,8.3L/100km,6.2L/100km,13995
+2016,Mazda,CX-5,196774 km,SUV,4 Cylinder Engine,6 Speed Automatic,FWD,Sonic Silver Mica,Black,5,4,Gas,8.9L - 9.0L/100km,6.8L - 7.3L/100km,13999
+2016,Mazda,CX-5,209135 km,SUV,4 Cylinder Engine,Automatic,FWD,Brown,Black,5,4,Gas,8.9L/100km,7.1L/100km,14500
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,9.4L/100km,7.7L/100km,29774
+2021,Mazda,CX-5,65519 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,9.8L/100km,7.9L/100km,30845
+2020,Mazda,CX-5,64866 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,31099
+2021,Mazda,CX-5,52891 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Polymetal Grey Metallic,Black,null,null,Regular Unleaded,9.8L/100km,7.9L/100km,34998
+2022,Mazda,CX-5,9029 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Regular Unleaded,9.9L/100km,7.9L/100km,41888
+2016,Mazda,CX-9,64891 km,SUV,2.5L 4cyl,6 Speed Automatic,FWD,Deep Crystal Blue Mica,Black,6,4,Gas,10.5L/100km,8.3L/100km,25399
+2023,Mazda,CX-5,3251 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,33828
+2013,Mazda,Mazda3,163000 km,Sedan,4 Cylinder Engine,5 Speed Automatic,FWD,Dark Grey,Black,5,4,Gas,8.2L - 8.7L/100km,6.0L/100km,9995
+2021,Mazda,Mazda3,61301 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,5,null,Gas,8.9L/100km,6.5L/100km,28999
+2014,Mazda,Mazda3,137285 km,Sedan,2,Automatic,FWD,Grey,Black,5,4,Gas,6.7L - 6.8L/100km,4.7L - 4.8L/100km,14990
+2014,Mazda,CX-5,168000 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,8.5L/100km,6.6L/100km,14995
+2015,Mazda,CX-5,196000 km,SUV,2.5L,Automatic,AWD,Black,Black,5,4,Gas,9.9L/100km,7.9L/100km,14995
+2014,Mazda,Mazda3,154155 km,Sedan,4 Cylinder Engine,Automatic,FWD,Deep Crystal Blue Mica,Black,5,4,Gas,null,null,15495
+2021,Mazda,CX-9,67743 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Snowflake White Pearl,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2015,Mazda,Mazda3,75420 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Meteor Grey Mica,Grey,5,4,Gas,7.9L - 8.0L/100km,5.7L - 5.8L/100km,16580
+2016,Mazda,CX-3,124836 km,SUV,2.0L,Automatic,FWD,Crystal White Pearl,Black,5,4,Gas,8.2L - 8.8L/100km,6.7L - 7.3L/100km,18339
+2016,Mazda,CX-5,91176 km,SUV,4 Cylinder Engine,Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,20995
+2016,Mazda,CX-3,60274 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Dynamic Blue Mica,Black,5,4,Gas,8.8L/100km,7.3L/100km,22990
+2023,Mazda,Mazda3,100 km,Hatchback,2.0L 4cyl,6 Speed Manual,FWD,Jet Black Mica,null,null,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,24900
+2017,Mazda,Mazda6,95601 km,Sedan,4 Cylinder Engine,6 Speed Automatic,FWD,Snowflake White Pearl,Black,5,4,Gas,null,null,24999
+2023,Mazda,Mazda3,100 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Machine Grey Metallic,null,null,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,26550
+2023,Mazda,Mazda3,100 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Grey,null,null,4,Gas,8.4L/100km,6.6L/100km,28050
+2023,Mazda,Mazda3,100 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Deep Crystal Blue Mica,null,null,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,28700
+2021,Mazda,CX-9,71623 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,38978
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,123 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.4L/100km,7.7L/100km,29250
+2023,Mazda,CX-30,25 km,SUV,2L 4cyl.,Automatic,AWD,Deep Crystal Blue Mica,Black,null,5,Gas,9.4L/100km,7.7L/100km,29273
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Snowflake White Pearl,null,null,4,Gas,9.4L/100km,7.7L/100km,29500
+2020,Mazda,CX-5,77435 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,null,null,null,Gas,10.8L/100km,8.7L/100km,37899
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,9.4L/100km,7.7L/100km,29600
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.4L/100km,7.7L/100km,29700
+2023,Mazda,Mazda3,100 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,Jet Black Mica,null,null,4,Gas,8.4L/100km,6.6L/100km,29700
+2023,Mazda,CX-30,100 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.4L/100km,7.7L/100km,29700
+2017,Mazda,CX-5,100200 km,SUV,4 Cylinder Engine,Automatic,AWD,null,null,null,null,Gas,10.2L/100km,8.3L/100km,29800
+2023,Mazda,Mazda3,100 km,Sedan,2.0L 4cyl,6 Speed Automatic,FWD,White,null,null,4,Gas,8.4L/100km,6.6L/100km,29950
+2023,Mazda,Mazda3,100 km,Sedan,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,8.8L/100km,6.6L/100km,30100
+2023,Mazda,Mazda3,123 km,Sedan,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,8.8L/100km,6.6L/100km,30200
+2023,Mazda,Mazda3,100 km,Sedan,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,8.8L/100km,6.6L/100km,30200
+2020,Mazda,Mazda3,49543 km,Hatchback,4 Cylinder Engine 2.5L,Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.4L/100km,29588
+2023,Mazda,Mazda3,100 km,Hatchback,2.0L 4cyl,6 Speed Automatic,FWD,Soul Red Crystal Metallic,null,null,4,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,31150
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,White,null,null,4,Gas,9.0L/100km,7.0L/100km,31350
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.0L/100km,7.0L/100km,31550
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.0L/100km,7.0L/100km,31550
+2020,Mazda,CX-5,88407 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,null,null,null,2,Gas,9.8L/100km,7.9L/100km,31999
+2023,Mazda,CX-30,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,null,2,Gas,9.0L/100km,7.1L/100km,32445
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.0L/100km,7.1L/100km,32550
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.0L/100km,7.1L/100km,32550
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.0L/100km,7.1L/100km,32900
+2021,Mazda,CX-5,42017 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,33399
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.0L/100km,7.1L/100km,32900
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.0L/100km,7.1L/100km,32900
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.0L/100km,7.0L/100km,33200
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.0L/100km,7.0L/100km,33450
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,33450
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,33450
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,33800
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,33800
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Machine Grey Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,33800
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,33900
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.0L/100km,7.1L/100km,34250
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,White,null,null,4,Gas,9.0L/100km,7.1L/100km,34750
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.0L/100km,7.1L/100km,34750
+2023,Mazda,CX-30,123 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,White,null,null,4,Gas,9.0L/100km,7.1L/100km,34750
+2023,Mazda,Mazda3,15 km,Hatchback,2.5L 4cyl.,Automatic,FWD,Soul Red Crystal Metallic,Black,null,5,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35378
+2023,Mazda,Mazda3,25 km,Hatchback,2.5L 4cyl.,Automatic,FWD,Soul Red Crystal Metallic,Black,null,5,Gas,8.7L - 9.0L/100km,6.4L - 6.7L/100km,35473
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.0L/100km,7.0L/100km,36900
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.0L/100km,7.0L/100km,36900
+2021,Mazda,CX-9,34250 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Gas,11.6L/100km,9.1L/100km,45998
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,37000
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,37350
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,37450
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,37450
+2021,Mazda,CX-9,24365 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,45498
+2023,Mazda,CX-30,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,null,null,4,Gas,9.0L/100km,7.1L/100km,38750
+2023,Mazda,CX-30,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,9.0L/100km,7.1L/100km,38995
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Blue,null,null,4,Gas,9.8L/100km,7.9L/100km,39100
+2023,Mazda,Mazda3,150 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Sonic Silver Metallic,Red,null,2,Gas,10.1L/100km,7.5L/100km,39495
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,39550
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,39550
+2023,Mazda,Mazda3,29 km,Hatchback,2.5L TURBO 4cyl.,Automatic,AWD,Polymetal Grey Metallic,Black,null,5,Gas,10.1L/100km,7.5L/100km,39578
+2023,Mazda,Mazda3,123 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.1L/100km,7.5L/100km,39650
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.1L/100km,7.5L/100km,39650
+2020,Mazda,CX-5,44980 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,Black,null,null,Gas,9.8L/100km,7.9L/100km,38998
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.1L/100km,7.5L/100km,39750
+2023,Mazda,Mazda3,100 km,Hatchback,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.1L/100km,7.5L/100km,39850
+2021,Mazda,CX-5,7000 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Polymetal Grey Metallic,Black,null,2,Gas,9.8L/100km,7.9L/100km,40450
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,41000
+2023,Mazda,CX-30,151 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,null,2,Gas,10.5L/100km,7.9L/100km,41295
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,42050
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,42050
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,42050
+2021,Mazda,CX-5,12186 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Deep Crystal Blue Mica,Black,null,2,Gas,10.8L/100km,8.7L/100km,42250
+2007,Mazda,Mazda5,202000 km,Minivan,4 Cylinder Engine,4 Speed Automatic,FWD,Blue,Black,6,4,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,6495
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,42300
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,42300
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Rhodium White Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,42400
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,9.8L/100km,7.9L/100km,42400
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,9.8L/100km,7.9L/100km,42500
+2023,Mazda,CX-30,123 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,4,Gas,10.5L/100km,7.9L/100km,42500
+2022,Mazda,MX-5,11 km,Convertible,2L 4cyl.,Automatic,RWD,Jet Black Mica,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,42623
+2023,Mazda,MX-5,6 km,Convertible,SKYACTIV-G 2.0L DOHC 16-Valve I4 -inc: Induction S,Manual,RWD,Machine Grey Metallic,null,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,42650
+2022,Mazda,CX-5,12 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.9L/100km,7.9L/100km,42805
+2017,Mazda,Mazda6,43800 km,Sedan,2.5L 4cyl,6 Speed Automatic,FWD,Grey,Black,5,4,Gas,null,null,27500
+2023,Mazda,MX-5,100 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Soul Red Crystal Metallic,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44750
+2023,Mazda,CX-5,11 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,null,null,4,Gas,9.8L/100km,7.9L/100km,44828
+2023,Mazda,MX-5,123 km,Convertible,2.0L 4cyl,6 Speed Manual,RWD,Soul Red Crystal Metallic,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,44850
+2023,Mazda,CX-5,123 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Deep Crystal Blue Mica,Black,null,5,Gas,10.8L/100km,8.7L/100km,45378
+2023,Mazda,CX-5,100 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,null,null,4,Gas,10.8L/100km,8.7L/100km,46800
+2023,Mazda,CX-50,150 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Soul Red Crystal Metallic,null,null,2,Gas,10.4L/100km,8.1L/100km,48050
+2018,Mazda,Mazda3,35455 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Blue,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,21999
+2021,Mazda,Mazda3,27343 km,Sedan,DVSL81,Automatic,FWD,Machine Grey Metallic,Black,null,null,Gas,8.9L/100km,6.5L/100km,28300
+2020,Mazda,CX-5,64866 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,9.8L/100km,7.9L/100km,31099
+2021,Mazda,CX-5,30463 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Eternal Blue Mica,null,5,4,Gas,9.8L/100km,7.9L/100km,36346
+2021,Mazda,MX-5,22705 km,Convertible,2,Manual,RWD,Snowflake White Pearl,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,45888
+2010,Mazda,Mazda3,220913 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Crystal White Pearl,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4999
+2023,Mazda,CX-30,831 km,SUV,2.5L 4cyl.,Automatic,AWD,Grey,Black,null,5,Gas,9.0L/100km,7.1L/100km,34928
+2020,Mazda,CX-5,64109 km,SUV,4 Cylinder Engine,Automatic,AWD,Blue,Black,5,4,Gas,9.8L/100km,7.9L/100km,28990
+2021,Mazda,Mazda3,66493 km,Sedan,2.5,Automatic,AWD,Snowflake White Pearl,Black,4,4,Gas,null,null,30385
+2022,Mazda,MX-5,100 km,Coupe,2.0L 4cyl,6 Speed Manual,RWD,Jet Black Mica,null,null,2,Premium Unleaded,9.0L/100km,6.6L - 7.0L/100km,49400
+2023,Mazda,CX-50,15 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Ingot Blue Mica,Black,null,4,Gas,10.4L/100km,8.1L/100km,49477
+2023,Mazda,MX-30,99 km,SUV,Electric Motor,Automatic,FWD,Multi-Tone Ceramic Metallic,null,null,4,Electric,null,null,49738
+2023,Mazda,CX-50,99 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Polymetal Grey Metallic,null,null,4,Gas,10.4L/100km,8.1L/100km,51833
+2018,Mazda,Mazda3,35455 km,Hatchback,4 Cylinder Engine 2.0L,Automatic,FWD,Blue,null,null,4,Gas,8.4L - 8.6L/100km,6.4L/100km,21999
+2023,Mazda,CX-9,29 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Sonic Silver Metallic,Black,null,5,Gas,11.6L/100km,9.1L/100km,53178
+1993,Mazda,RX-7,114100 km,Coupe,Rotary engine,Manual,RWD,Black,Black,2,2,Gas,null,null,68888
+2009,Mazda,MX-5,280000 km,Hatchback,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,2500
+2006,Mazda,Mazda5,269000 km,Hatchback,4 Cylinder Engine,Automatic,FWD,Gray,Black,null,null,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,2995
+2008,Mazda,Tribute,300108 km,SUV,V6 Cylinder Engine,4 Speed Automatic,AWD,Mystic Black,Black,5,4,Gas,12.5L/100km,9.1L/100km,2999
+2005,Mazda,Mazda3,290000 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,null,null,null,3000
+2006,Mazda,Mazda6,20000 km,Sedan,null,Manual,FWD,Silver,null,null,4 doors,Gasoline,null,null,3000
+2006,Mazda,Tribute,132000 km,SUV,V6 Cylinder Engine,Automatic,4WD,Gray,Black,null,null,Gas,12.5L/100km,9.4L/100km,3495
+2008,Mazda,Mazda3,305000 km,Sedan,null,Manual,FWD,Black,null,null,4 doors,Gasoline,null,null,3750
+2018,Mazda,CX-3,40887 km,SUV,2.0L 4cyl,6 Speed Automatic,AWD,Grey,Black,5,4,Gas,8.8L/100km,7.5L/100km,25099
+2009,Mazda,Mazda5,220000 km,Minivan,2.3,Automatic,FWD,White,Black,6,5,Gas,null,null,3795
+2008,Mazda,Mazda3,94015 km,Sedan,null,Manual,FWD,Grey,null,null,4 doors,Gasoline,null,null,3999
+2004,Mazda,Tribute,215779 km,null,null,Automatic,FWD,Green,null,null,5 doors,Gasoline,null,null,4350
+2010,Mazda,Mazda3,239000 km,Hatchback,null,Automatic,FWD,Red,null,null,5 doors,Gasoline,null,null,4500
+2010,Mazda,Mazda3,327000 km,Hatchback,null,Manual,null,White,null,null,null,Gasoline,null,null,4800
+2012,Mazda,Mazda3,303348 km,Sedan,2.0L I4 148HP 135FT. LBS.,Automatic,FWD,Blue,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4990
+2011,Mazda,Mazda3,248500 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,4990
+2009,Mazda,Mazda3,249434 km,Hatchback,2.0 L 4CYL,Automatic,FWD,Grey,Black,null,5,Gas,8.4L - 9.1L/100km,6.1L - 6.4L/100km,4990
+2011,Mazda,Mazda3,251752 km,Hatchback,null,Manual,AWD,Blue,null,null,4 doors,Gasoline - Hybrid,null,null,5000
+2007,Mazda,Mazda5,202000 km,Minivan,4 Cylinder Engine,4 Speed Automatic,FWD,Blue,Black,6,4,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,6495
+2010,Mazda,Mazda6,226906 km,Sedan,null,Automatic,FWD,Red,null,null,4 doors,Gasoline,null,null,5000
+2012,Mazda,Mazda5,1900000 km,Wagon,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,5000
+2012,Mazda,Mazda3,288000 km,Sedan,null,Automatic,null,Grey,null,null,4 doors,Gasoline,null,null,5350
+2012,Mazda,Mazda5,210000 km,Wagon,null,Automatic,RWD,Blue,null,null,4 doors,Gasoline,null,null,5499
+2006,Mazda,Mazda3,136000 km,Hatchback,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,5500
+2010,Mazda,Mazda3,183500 km,Sedan,null,Automatic,FWD,Grey,null,null,4 doors,Gasoline,null,null,5600
+2010,Mazda,Mazda3,189211 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,5888
+2008,Mazda,Mazda3,144600 km,Sedan,null,Automatic,null,Black,null,null,4 doors,Gasoline,null,null,6000
+2008,Mazda,B2300,262462 km,Truck,null,Automatic,RWD,Black,null,null,2 doors,Gasoline,null,null,6000
+2018,Mazda,CX-5,62314 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,30099
+2012,Mazda,Mazda3,207000 km,Hatchback,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,6500
+2010,Mazda,Mazda5,205405 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,6500
+2010,Mazda,Tribute,183000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,6500
+2012,Mazda,Mazda3,217642 km,Sedan,2.0L,Automatic,FWD,Silver,Black,5,null,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6888
+2009,Mazda,Mazda5,149432 km,Minivan,2.3 L.,Automatic,null,Dark Grey,Black,6,4,Regular Unleaded,null,null,7399
+2014,Mazda,Mazda3,285000 km,Hatchback,4 Cylinder Engine,6 Speed Manual,FWD,Soul Red Mica,Black,5,4,Gas,6.8L - 7.0L/100km,4.9L/100km,7450
+2012,Mazda,Mazda3,128000 km,Sedan,null,Automatic,FWD,Silver,null,null,4 doors,Gasoline,null,null,7500
+2008,Mazda,Mazda3,150173 km,Hatchback,2.3,Automatic,FWD,White,Black,5,4,Gas,9.2L - 9.4L/100km,6.7L - 6.9L/100km,7595
+2010,Mazda,Mazda3,86254 km,Sedan,4 Cylinder Engine,Manual,FWD,Blue,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7987
+2019,Mazda,CX-9,52995 km,SUV,I4 Turbo,Automatic,AWD,Sonic Silver Metallic,Black,null,4,Gas,11.6L/100km,9.1L/100km,31989
+2008,Mazda,Mazda3,96000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black,Black,5,4,Gas,8.4L - 9.1L/100km,6.1L - 6.4L/100km,7995
+2011,Mazda,Mazda3,198000 km,Sedan,2.0L,Automatic,FWD,Silver,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7995
+2010,Mazda,Mazda3,214000 km,Hatchback,null,Automatic,FWD,Blue,null,null,5 doors,Gasoline,null,null,7999
+2009,Mazda,CX-7,132679 km,SUV,2.3,Automatic,AWD,Grey,Dark Grey,5,4,Gas,null,null,7999
+2010,Mazda,Mazda3,175578 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,8000
+2014,Mazda,Mazda3,182000 km,Sedan,null,Manual,FWD,Brown,null,null,4 doors,Gasoline,null,null,8000
+2013,Mazda,CX-5,247000 km,null,null,Automatic,AWD,Red,null,null,5 doors,Gasoline,null,null,8119
+2012,Mazda,Mazda3,164808 km,Sedan,2.0,Automatic,FWD,White,Charcoal,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8295
+2012,Mazda,Mazda5,182000 km,Minivan,null,Manual,FWD,Blue,null,null,5 doors,Gasoline,null,null,8500
+2019,Mazda,Mazda3,65647 km,Hatchback,I-4 cyl,Automatic,FWD,Grey,Black,null,null,Gas,8.6L - 8.7L/100km,6.6L - 6.7L/100km,24388
+2014,Mazda,Mazda6,280000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Jet Black Mica,Black,5,4,Gas,7.6L - 8.1L/100km,5.1L - 5.3L/100km,8900
+2011,Mazda,Mazda3,158000 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8985
+2011,Mazda,Mazda3,133000 km,Hatchback,4 Cylinder Engine,Manual,FWD,Blue,Dark Grey,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,8985
+2011,Mazda,Mazda3,169000 km,Sedan,2.0L,Automatic,FWD,Grey,Black,5,4,Gas,null,null,8995
+2013,Mazda,Mazda3,100000 km,Sedan,null,Manual,FWD,Black,null,null,4 doors,Gasoline,null,null,9000
+2010,Mazda,Mazda3,79479 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black Mica,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,9990
+2010,Mazda,Mazda6,null,Sedan,2.5,null,null,null,null,null,null,Gas,9.7L - 10.4L/100km,6.7L - 6.9L/100km,9999
+1997,Mazda,Miata,230000 km,Convertible,null,Manual,RWD,Blue,null,null,2 doors,Gasoline,null,null,10000
+2010,Mazda,Mazda3,155000 km,Hatchback,2.5,5 Speed Automatic with auto-shift,FWD,Light Blue,Black,5,4,Gas,null,null,10888
+2021,Mazda,CX-9,24365 km,SUV,I-4 cyl,6 Speed Automatic,AWD,Jet Black Mica,null,null,null,Regular Unleaded,11.6L/100km,9.1L/100km,45498
+2012,Mazda,Mazda2,104000 km,Hatchback,1.5,Automatic,FWD,Green,Black,5,5,null,null,null,10995
+2007,Mazda,MX-5,160000 km,Convertible,4 Cylinder Engine,6 Speed Automatic,RWD,Burgundy,Black,2,2,Gas,null,null,12990
+2006,Mazda,MX-5,218000 km,Convertible,4 Cylinder Engine,null,RWD,Black,Brown,2,2,Gas,null,null,12995
+2015,Mazda,Mazda3,188270 km,Sedan,4 Cylinder Engine,Automatic,FWD,Grey,Black,null,4,Gas,7.8L - 8.1L/100km,5.7L/100km,12998
+2014,Mazda,Mazda3,144728 km,Hatchback,null,Manual,FWD,Black,Black,5,4,Gas,null,null,12999
+2014,Mazda,Mazda3,187359 km,Sedan,null,Automatic,null,Blue,Black,5,4,Gas,null,null,12999
+2014,Mazda,Mazda3,148000 km,Hatchback,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,13000
+2015,Mazda,Mazda3,118000 km,Hatchback,null,Manual,FWD,Black,null,null,5 doors,Gasoline,null,null,13500
+2014,Mazda,Mazda5,150000 km,Minivan,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,13600
+2021,Mazda,CX-5,42017 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,33399
+2012,Mazda,CX-9,153000 km,null,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,14500
+2008,Mazda,MX-5,160000 km,Convertible,4 Cylinder Engine,6 Speed Manual,RWD,Dark Blue,Black,2,2,Gas,null,null,14990
+2012,Mazda,CX-9,46357 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,16000
+2015,Mazda,Mazda6,173000 km,Sedan,2.5 skyactive Tecknology,Automatic,FWD,White,Black,5,4,null,null,null,16495
+2015,Mazda,Mazda5,129798 km,Minivan,2.5L 4cyl,5 Speed Automatic,null,Crystal White Pearl,null,null,null,Gas,10.7L - 11.1L/100km,8.2L - 8.3L/100km,16888
+2014,Mazda,Mazda3,126000 km,Hatchback,2.5 skyactive,Automatic,FWD,Black,Black,5,5,null,null,null,16995
+2016,Mazda,Mazda6,151500 km,Sedan,null,Automatic,FWD,null,null,null,4 doors,Gasoline,null,null,17900
+2014,Mazda,CX-5,64000 km,null,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,18000
+2008,Mazda,MX-5,84800 km,Convertible,null,Manual,RWD,Green,null,null,2 doors,Gasoline,null,null,18500
+2020,Mazda,CX-5,77435 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Grey,null,null,null,Gas,10.8L/100km,8.7L/100km,37899
+2018,Mazda,Mazda3,96728 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,null,null,null,18800
+2019,Mazda,CX-5,74000 km,SUV,4 Cylinder Engine,Automatic,AWD,Grey,Charcoal,5,4,Gas,10.2L/100km,8.2L/100km,18995
+2006,Mazda,MX-5,29000 km,Convertible,null,Manual,RWD,Red,null,null,2 doors,Gasoline,null,null,22000
+2017,Mazda,Mazda3,73000 km,Sedan,null,Automatic,RWD,Grey,null,null,4 doors,Gasoline,null,null,23000
+2019,Mazda,CX-3,70000 km,null,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,27000
+2018,Mazda,Mazda6,91000 km,Sedan,null,Automatic,FWD,White,null,null,5 doors,Gasoline,null,null,27000
+2020,Mazda,CX-5,67000 km,null,null,Automatic,FWD,Black,null,null,5 doors,Gasoline,null,null,29999
+2020,Mazda,Mazda6,61000 km,Sedan,null,Automatic,FWD,White,null,null,4 doors,Gasoline,null,null,31000
+2021,Mazda,CX-5,22000 km,null,null,Automatic,FWD,Red,null,null,5 doors,Gasoline,null,null,34000
+2017,Mazda,CX-9,109809 km,SUV,I-4 cyl,Automatic,AWD,Snowflake White Pearl,Beige,7,4,Regular Unleaded,11.5L/100km,8.9L/100km,26395
+2019,Mazda,CX-5,39000 km,null,null,null,null,null,null,null,null,null,null,null,35000
+2020,Mazda,Mazda3,40000 km,Sedan,null,Automatic,AWD,Black,null,null,4 doors,Gasoline,null,null,35000
+2022,Mazda,CX-5,13000 km,null,null,Automatic,AWD,Grey,null,null,5 doors,Gasoline,null,null,37000
+1996,Mazda,RX-7,143786 km,Coupe,null,Automatic,null,Black,Black,2,2,null,null,null,38888
+2021,Mazda,Miata,27000 km,Convertible,null,Manual,RWD,Red,null,null,2 doors,Gasoline,null,null,39888
+2022,Mazda,Mazda3,13700 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,39999
+2022,Mazda,MX-5,1885 km,Convertible,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,45000
+2022,Mazda,Miata,2999 km,Convertible,null,Manual,RWD,Grey,null,null,2 doors,Gasoline,null,null,46000
+2023,Mazda,CX-9,99 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Jet Black Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,47228
+2020,Mazda,CX-5,39356 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Snowflake White Pearl,Black,null,null,Gas,9.8L/100km,7.9L/100km,34998
+2023,Mazda,CX-9,99 km,SUV,4 Cylinder Engine 2.5L,Automatic,AWD,Deep Crystal Blue Mica,Black,null,4,Gas,11.6L/100km,9.1L/100km,56228
+2012,Mazda,Mazda3,134980 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,135000
+2006,Mazda,Mazda5,311220 km,Hatchback,4 Cylinder,Automatic,FWD,Brillant Black,Grey,5,4,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,2300
+2011,Mazda,Mazda3,200021 km,Sedan,2.0L I4 148HP 135FT. LBS.,Automatic,FWD,Grey,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,6990
+2011,Mazda,Mazda3,167146 km,Sedan,2.0L I4 148HP 135FT. LBS.,Automatic,FWD,Grey,Grey,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7990
+2004,Mazda,RX-8,null,Coupe,Rotor 2,Manual,RWD,Blue,Black,4,4,Gas,null,null,11900
+2021,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,6,4,Gas,11.6L/100km,9.1L/100km,55274
+2021,Mazda,MX-5,22705 km,Convertible,2,Manual,RWD,Snowflake White Pearl,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,45888
+2023,Mazda,CX-5,4000 km,SUV,2.5L TURBO 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,10.8L/100km,8.7L/100km,48980
+2010,Mazda,Mazda3,220913 km,Sedan,4 Cylinder Engine 2.0L,Automatic,FWD,Crystal White Pearl,Black,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,4999
+2023,Mazda,CX-5,3251 km,SUV,2.5L 4cyl.,Automatic,AWD,Soul Red Crystal Metallic,Black,null,5,Gas,9.8L/100km,7.9L/100km,33828
+2023,Mazda,CX-30,831 km,SUV,2.5L 4cyl.,Automatic,AWD,Grey,Black,null,5,Gas,9.0L/100km,7.1L/100km,34928
+2023,Mazda,MX-5,5 km,Convertible,2L 4cyl.,Manual,RWD,Machine Grey Metallic,Black,null,2,Gas,9.0L/100km,6.6L - 7.0L/100km,44768
+2021,Mazda,Mazda3,66493 km,Sedan,2.5,Automatic,AWD,Snowflake White Pearl,Black,4,4,Gas,null,null,30385
+2010,Mazda,Mazda3,79479 km,Sedan,4 Cylinder Engine,Automatic,FWD,Black Mica,Black,5,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,9990
+2023,Mazda,CX-5,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Rhodium White Metallic,null,5,4,Gas,9.8L/100km,7.9L/100km,37876
+2023,Mazda,Mazda3,100 km,Hatchback,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,9.0L/100km,7.0L/100km,37876
+1996,Mazda,RX-7,143786 km,Coupe,null,Automatic,null,Black,Black,2,2,null,null,null,38888
+2021,Mazda,Miata,27000 km,Convertible,null,Manual,RWD,Red,null,null,2 doors,Gasoline,null,null,39888
+2018,Mazda,CX-5,62314 km,SUV,2.5L 4cyl,6 Speed Automatic,AWD,Jet Black Mica,Black,5,4,Gas,9.8L/100km,7.9L/100km,30099
+2022,Mazda,Mazda3,13700 km,Sedan,null,Automatic,AWD,Grey,null,null,4 doors,Gasoline,null,null,39999
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Jet Black Mica,null,5,4,Gas,null,null,41876
+2023,Mazda,CX-30,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Machine Grey Metallic,null,5,4,Gas,10.5L/100km,7.9L/100km,42026
+2022,Mazda,MX-5,1885 km,Convertible,null,Manual,RWD,Black,null,null,2 doors,Gasoline,null,null,45000
+2022,Mazda,Miata,2999 km,Convertible,null,Manual,RWD,Grey,null,null,2 doors,Gasoline,null,null,46000
+2023,Mazda,CX-9,100 km,SUV,4 Cylinder Engine,6 Speed Automatic,AWD,Soul Red Crystal Metallic,Black,6,4,Gas,11.6L/100km,9.1L/100km,54226
+2012,Mazda,Mazda3,134980 km,Sedan,null,Automatic,FWD,Blue,null,null,4 doors,Gasoline,null,null,135000
+2006,Mazda,Mazda5,311220 km,Hatchback,4 Cylinder,Automatic,FWD,Brillant Black,Grey,5,4,Gas,10.6L - 11.2L/100km,8.0L - 8.3L/100km,2300
+2011,Mazda,Mazda3,167146 km,Sedan,2.0L I4 148HP 135FT. LBS.,Automatic,FWD,Grey,Grey,null,4,Gas,8.1L - 8.7L/100km,5.9L - 6.0L/100km,7990
+2019,Mazda,Mazda3,63807 km,Sedan,I-4 cyl,6 Speed Automatic,FWD,Gray,Black,null,null,Gas,8.4L - 8.7L/100km,6.4L - 6.6L/100km,24388
+2004,Mazda,RX-8,null,Coupe,Rotor 2,Manual,RWD,Blue,Black,4,4,Gas,null,null,11900
+2007,Mazda,B-Series,147000 km,Regular Cab,V6 Cylinder Engine,Automatic,4x4,Classic White,Grey,null,2,Gas,14.2L - 15.7L/100km,10.6L - 11.7L/100km,13900
